@@ -1,0 +1,116 @@
+.section-feature{
+
+}
+
+.feature-box{
+	padding: 40px;
+	background: #f8f9fa;
+	-webkit-transition: all .35s ease;
+	   -moz-transition: all .35s ease;
+	    -ms-transition: all .35s ease;
+	     -o-transition: all .35s ease;
+	        transition: all .35s ease;
+
+	i{
+		font-size: 60px;
+	}
+
+	.divider{
+		width: 45px;
+		margin-bottom: 20px;
+		background: $secondary-color;
+	}
+
+	&:hover{
+		background: $secondary-color;
+		i{
+			color: $white;
+		}
+		h4{
+			color: $white;
+		}
+		p{
+			color: rgba(255,255,255,.8);
+		}
+
+		.divider{
+			background: $border-color;
+		}
+	}
+
+	&.active{
+		background: $secondary-color;
+		i{
+			color: $white;
+		}
+		h4{
+			color: $white;
+		}
+		p{
+			color: rgba(255,255,255,.8);
+		}
+
+		.divider{
+			background: $border-color;
+		}
+	}
+
+
+}
+
+.pl-90{
+	padding-left: 150px;
+}
+
+.section .heading h2 {
+	padding-left: 80px;
+}
+
+.bg-red{
+	background: #f87c57;
+}
+
+.feature-item{
+	padding: 40px;
+	background: #f8f9fa;
+	-webkit-transition: all .35s ease;
+	   -moz-transition: all .35s ease;
+	    -ms-transition: all .35s ease;
+	     -o-transition: all .35s ease;
+	        transition: all .35s ease;
+
+	i{
+		font-size: 60px;
+		color: $white;
+	}
+	h4{
+		color: $white;
+	}
+	p{
+		color: rgba(255,255,255,.7);
+	}
+
+}
+
+
+
+@include mobile{
+	.pl-90 {
+	    padding-left:0px;
+	}
+}
+
+
+@include mobile-xs{
+	.pl-90 {
+	    padding-left:0px;
+	}
+}
+
+
+@include tablet{
+
+	.pl-90 {
+	    padding-left:0px;
+	}
+}

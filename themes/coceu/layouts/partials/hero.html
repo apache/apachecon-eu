@@ -1,0 +1,26 @@
+<section class="hero">
+    <div class="hero-middle"> 
+        <img src="/images/logo-h.svg" class="img-fluid mb-4">
+        <h3 class="hero-tagline text-center">Merge with the ASF <strong>EU</strong>niverse</h3>
+        <h4 class="hero-meta text-center">June 3-5, 2024</h4>
+        <h4 class="hero-meta text-center">Bratislava, Slovakia</h4>
+
+        <div class="cta-container my-4 text-center">
+
+            {{ with .Site.Params.hero.cta1 }}
+            <a id="hero-button1" href="{{ .link }}" target="_blank" class="mx-4">
+                <button id="button-hero1" class="btn text-white my-3 btn-rounded">{{ .text }}</button>
+            </a>
+            {{ end }}
+
+            {{ with .Site.Params.hero.cta2 }}
+              {{ if eq .enable true }}
+              <a id="hero-button2" href="{{ .link }}" target="_blank" class="mx-4">
+                <button id="button-hero2" class="btn btn-secondary my-2">{{ .text }}</button>
+              </a>
+              {{ end }}
+            {{ end }}
+            
+        </div>
+    </div>
+</section>

@@ -1,0 +1,127 @@
+{{ define "main" }}
+
+<div class="container">
+    <div class="content mt-4">
+        {{ .Content }}
+    </div>
+
+    <h3 class="mt-4">Filter by track</h3> 
+    <div class="color-code-list">
+        <div id="track-all" class="btn color-code-item track-all" onclick="showTrack(this,'all')">All</div>
+        {{ range .Params.tracks }}
+        <button id="track-{{ anchorize . }}" type="button" class="btn color-code-item track-{{ anchorize . }}" onclick="showTrack(this,'{{ anchorize . }}')">{{ . }}</button>
+        {{ end }}
+    </div>
+
+    <h3 class="mt-3">Filter by day</h3> 
+    <div id="day-buttons" class="mb-4 text-center">
+    {{ range .Params.days }}
+        <button id="button-day-{{ .id }}" type="button" class="btn btn-outline-danger mx-2" onclick="showDay(this,'{{.id}}')">{{ .title_short }}</button>
+    {{ end }}
+    </div>    
+
+    {{ range .Params.days }}
+      {{ $curr_day :=  .id }}
+      {{ $rooms :=  .rooms }}
+
+    <div id="dayblock-{{.id}}" class="dayblock my-5">
+        <h2 class="mb-3">{{.title_full}}</h2>
+        {{ range .timeslots }}
+            {{ $time_id := .id }}
+            {{ $time_label := .time_start | time }}
+            <div class="time-row {{ .type }}">
+                <div class="time-label d-sm-none">{{ $time_label.Format "15:04" }}</div>
+                {{ if eq .type "break" }}
+                    <div class="time-room">
+                        <div class="session-item track-break">
+                            <div class="session-time text-center d-none d-sm-block">{{ with .time_start | time }}{{ .Format "15:04" }}{{ end }}{{ with .time_end | time }} - {{ .Format "15:04" }}{{ end }}</div>
+                            <div class="session-title text-center font-weight-normal">{{ .name }}</div>
+                        </div>
+                    </div>
+                {{ else if eq .type "room-labels"}}                
+                  {{ range $rooms }}
+                    <div class="mt-1 mb-2 text-center"><h4>{{ . }}</h4></div>
+                  {{ end }}
+                {{ else }}    
+                {{ range $rooms }}
+                    <div class="time-room room-{{anchorize .}}">
+                        {{ range sort (where (where (where (where $.Site.Pages "Section" "sessions") ".Params.day" $curr_day ) ".Params.timeslot" $time_id) ".Params.room" . ) ".Params.timeorder" }}
+                        <div class="session-item order-{{ .Params.timeorder }} track-{{anchorize .Params.track}}" data-slot='{{.Params.slot}}' data-timestart='{{ with .Params.time_start | time }}{{ .Format "02 Jan 2006 15:04:05 MST" }}{{ end }}' data-timeend='{{ with .Params.time_end | time }}{{ .Format "02 Jan 2006 15:04:05 MST" }}{{ end }}' data-track="{{ anchorize .Params.track }}">
+                            <div class="session-time">{{ with .Params.time_start | time }}{{ .Format "15:04" }}{{ end }}{{ with .Params.time_end | time }} - {{ .Format "15:04" }}{{ end }}.</div>
+                            <div class="session-title"><a href="#abs-{{.Params.slug}}" target="_blank" data-toggle="collapse">{{ .Title }}</a></div>
+                            <div class="session-speakers">{{ with .Params.speakers }}by {{ delimit . ", " " & " }}{{ end }}</div>
+                            <div class="session-track">{{ with .Params.track }}Track: {{.}}{{ end }}</div>
+                            <div class="session-track d-sm-none">Room: {{ .Params.room }}</div>
+                            <div class="collapse card-abstract" id="abs-{{.Params.slug}}">
+                                <div class="my-2 session-abstract">{{ .Summary }}</div>                                
+                              </div>
+                            <div class="pb-3"><a href="{{.Permalink}}" class="read-more">See details</a></div>  
+                            <div id="live-{{ .Params.slot }}" class="live-button text-center d-none"><a class="btn btn-danger btn-sm" href="{{ .Params.live_url }}" target="_blank">Watch</a></div>
+                        </div>
+                        {{ end }}
+                    </div>
+                {{ end }}
+                {{ end }}
+
+            </div>
+            
+        {{ end }}
+    </div>
+    {{ end }}
+
+</div>
+<script>
+
+function showTrack(obj,track) {
+
+    if (track == "all") {
+        document.getElementsByClassName("session-item").forEach(block => { block.style.display = 'block' });        
+    }
+    else {
+        document.getElementsByClassName("session-item").forEach(block => { block.style.display = 'none' });        
+        document.getElementsByClassName("session-item track-"+track).forEach(block => { block.style.display = 'block' });        
+    }
+}
+
+function showDay(obj, id) {
+
+    document.getElementsByClassName("dayblock").forEach(block => { block.style.display = 'none' });
+    document.getElementById("dayblock-"+id).style.display = 'block';
+
+}
+</script>
+
+<script>
+    function checkWatch(item) {
+      let curDate = new Date();
+      let oneMoreHour = new Date(curDate.getTime() + 60*60000);
+      let dateStart = new Date(Date.parse(item.dataset.timestart));
+      let dateEnd = new Date(Date.parse(item.dataset.timeend));
+
+      if (!item.dataset.slot) {
+        return;
+      }
+
+      if (item.dataset.track == "workshop") {
+        return;
+      }
+      console.log("Session: "+item.dataset.slot+". Start: "+dateStart);
+  
+      // Check if it finish time is not past and if start time is within one hour of now.
+      if (curDate < dateEnd && oneMoreHour > dateStart) {
+        // Remove d-none class so that the button shows up.
+        console.log("Show this one");
+        document.getElementById('live-'+item.dataset.slot).classList.remove("d-none");
+      }
+  
+    }
+
+document.querySelectorAll('.session-item').forEach(function(item) {
+    checkWatch(item)
+    });
+  
+</script>
+
+  
+
+{{ end }}

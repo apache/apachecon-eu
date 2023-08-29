@@ -1,0 +1,50 @@
+
+{{ define "main" }}
+
+{{ $data := index .Site.Data .Site.Language.Lang }}
+
+  <div class="container">
+    <h4>{{.Content}}</h4>
+    <section class="speaker-2 section">
+    
+    <h2 class="my-5 text-center">Our team</h2>
+    <div class="speaker-strip">
+      {{ range .Data.Pages.ByTitle }}
+      <div class="speaker-item">
+        <div class="speaker-block">
+          <div class="headshot-box">
+            <a>
+              <img src="{{ .Params.Image }}" alt="{{ .Title }}" class="img-fluid rounded-circle">
+            </a>
+          </div>
+          <div class="speaker text-center">
+           
+            <h4 class="mb-0 mt-3 text-primary">{{ .Title }}</h4>
+                    
+            <p class="mb-0 mt-3">{{ .Params.Designation }}</p>
+
+            <div class="info">
+              <ul class="list-inline">
+                {{ with .Params.twitter }}
+                <li class="list-inline-item"><a href="{{ . }}"><i class="tf-ion-social-twitter"></i></a></li>
+                {{ end }}
+                {{ with .Params.linkedin }}
+                <li class="list-inline-item"><a href="{{ . }}"><i class="tf-ion-social-linkedin"></i></a></li>
+                {{ end }}
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+      {{ end }}
+    </div>
+
+
+
+</section>
+</div>
+
+{{ end }}
+
+
+       

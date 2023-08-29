@@ -1,0 +1,47 @@
+
+section.hero {
+  height: 100vh;
+  display: grid;
+  grid-template-columns: 1fr 70% 1fr;
+  grid-template-rows: 150px 1fr 150px;  
+
+
+}
+
+
+.hero-middle { 
+  grid-area: 2 / 2 / 3 / 3; 
+  align-self: center;
+  font-size: 24px;
+
+  @media (max-width:1300px) {
+      font-size: 20px;
+    }
+
+  @media (max-width:992px) {
+    font-size: 16px;
+  }
+
+  @media (max-width:400px) {
+    font-size: 14px;
+  }
+
+}
+
+.hero-tagline {
+    font-size: 2.2em;
+}
+
+.hero-meta {
+  font-size: 1.5em;
+}
+
+
+#button-hero1, #button-hero2 {
+  font-size: 1.2em;
+  font-weight: 500;
+}
+
+#button-hero1 { 
+    background-color: $secondary-color;
+}

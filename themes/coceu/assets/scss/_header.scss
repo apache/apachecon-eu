@@ -1,0 +1,160 @@
+
+.navbar {
+  align-items: flex-end;
+}
+
+@media (min-width: 768px) { 
+  .navbar-expand-lg {
+    -ms-flex-flow: row nowrap;
+    flex-flow: row nowrap;
+    -ms-flex-pack: start;
+    justify-content: space-between;
+  }
+}
+
+body.home .main-nav {
+  background-image: url("/images/bg/background-stars.jpg");
+  background-position: top;
+}
+
+body.interior .main-nav {
+  background-color: $indigo;
+}
+
+.main-nav {
+  padding: 1em;
+  transition: all .7s linear;
+
+  .nav-link {
+    font-size: 26px;
+    padding: 0 !important;
+    margin: 0 20px;
+    color: $white !important;
+    font-weight: 400;
+
+    @media (max-width: 640px) {
+      margin: 5px;
+      font-size: 20px;
+      font-weight: 600;
+    }
+  
+    &:hover {
+      color: $black-lighter;
+    }
+  
+  }
+}
+
+.btn-sm {
+  padding: 5px 18px;
+  border-radius: 50px;
+}
+
+@media (min-width: 768px) {
+  .top-nav-collapse {
+    text-shadow: none;
+    border-color: transparent;
+    background-color: $white;
+    -webkit-transition: all .2s ease;
+    -moz-transition: all .2s ease;
+    -o-transition: all .2s ease;
+    -ms-transition: all .2s ease;
+    transition: all .2s ease;
+  }
+}
+
+.dropdown {
+  padding: 0px;
+}
+
+.dropdown-toggle::after {
+  display: none;
+}
+
+.dropdown-item {
+  padding: 10px 12px 10px 25px;
+  border-bottom: 1px dashed $border-color;
+  border-left: 3px solid transparent;
+
+  &:hover {
+    color: $primary-color;
+    background: transparent;
+    border-left: 3px solid $primary-color;
+  }
+}
+
+.dropdown-menu {
+  min-width: 250px;
+  border: 0px;
+  border-radius: 0px;
+  box-shadow: 3px 1px 20px 0 rgba(0, 0, 0, 0.07);
+  visibility: hidden;
+  opacity: 0;
+  overflow: hidden;
+  transition: all .15s ease-out;
+  display: block;
+  padding: 0px !important;
+}
+
+.dropdown:hover .dropdown-menu {
+  opacity: 1;
+  visibility: visible;
+}
+
+.page-header {
+
+  margin-top: 120px;
+
+  ul li {
+    font-size: 18px;
+  }
+
+  .divider {
+    width: 250px;
+    height: 4px;
+  }
+}
+
+.error {
+  h2 {
+    font-size: 89px;
+    color: #888;
+  }
+}
+
+@include mobile {
+  .navbar-nav .dropdown-menu {
+    position: absolute;
+  }
+
+}
+
+@include mobile-xs {
+  .navbar-nav .dropdown-menu {
+    position: absolute;
+  }
+
+}
+
+@include tablet {
+  .navbar-nav .dropdown-menu {
+    position: absolute;
+  }
+
+}
+
+@include desktop {
+  .navbar-nav .dropdown-menu {
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+  }
+}
+
+#select-language{
+  @include desktop {
+    display: block;
+    margin: auto !important;
+  }
+}
+

@@ -1,0 +1,10 @@
+{{ define "main" }}
+
+{{ $data := index .Site.Data }}
+
+{{ partial "hero.html" . }}
+
+{{ partial "blog.html" . }}
+
+
+{{ end }}

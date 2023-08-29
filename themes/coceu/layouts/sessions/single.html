@@ -1,0 +1,89 @@
+{{ define "main" }}
+
+<!-- Speaker Detail -->
+<section class="speaker-detail">
+  <div class="container">
+    <div class="row mt-4">
+      <div class="image-column col-lg-3 d-none d-lg-block">
+        <div class="schedule-block col-lg-10 col-md-12 col-sm-12">
+          <div class="sec-title text-center">
+            <span class="title">Speaker(s):</span>
+            <div class="speaker-info" style="margin-bottom: 20px;">
+              {{ range (.GetTerms "speakers") }}
+              <figure class="thumb my-3">
+                <a href="{{ .Permalink }}">
+                  <div class="img-container">
+                    <img src="{{ with .Params.images }}{{ index . 0 | relURL }}{{else}}{{ .Params.Image | relURL }}{{ end }}" alt="{{ .Title }}" class="rounded-circle">
+                  </div>
+                  <h5 class="name">{{ .Title }}</h5>
+                </a> 
+              </figure>
+               {{ end }}
+            </div>
+
+          </div>
+        </div>
+      </div>
+      <div class="info-column col-lg-9 col-md-12 col-sm-12" style="margin-top: -10px;">
+        <div class="inner-column">
+          <div class="text-box">
+            <div class="session-meta" id="date">
+              <span style="display: none;" id="adjTime"></span>
+              {{ $time_start := .Params.time_start | time }}
+              {{ $time_end := .Params.time_end | time }}            
+              {{ if lt now $time_start }}
+              <div>
+              <em>{{ with .Params.time_start | time }}{{ .Format "Jan-02 15:04" }}{{ end }}-{{ with .Params.time_end | time }}{{ .Format "15:04" }}{{ end }}{{with .Params.room}} in {{.}}{{ end }}</em>
+              </div>
+              {{ else }}
+                {{ if ne $time_start.Year 2023 }}
+              <em>Presented at {{ $time_start.Format "2006" }}</em>
+              {{ end }}
+              {{ end }}
+            </div>
+            {{ with .Params.language }}<p class="session-meta" id="lang">Language: {{ humanize . }}</p>{{ end }}
+            <div class="d-lg-none d-xl-none">
+              By
+              {{ range (.GetTerms "speakers") }}
+              <a class="speaker-inline-item" href="{{ .Permalink }}">{{ .Title }}</a>
+              {{ end }}
+            </div>
+
+            {{ with .Params.slides }}
+            <br>
+            <div class="mb-3"><a href='{{ if hasPrefix . "http" }}{{ . }}{{ else }}/slides/{{ . }}{{ end }}' target="_blanck" download><i class="fa fa-download" aria-hidden="true"></i>&nbsp; Download slides</a></div>
+            {{ end }}
+
+            <div class="content mt-4">{{ .Content }}</div>
+          </div>
+        </div>
+      </div>
+    </div>
+    {{ with .Params.video }}
+    <div class="mb-3">
+      <iframe id="video-iframe" width="100%" height="600" frameborder="0" marginheight="0" marginwidth="0"
+        allowtransparency="true" src='{{ replace . "https://youtu.be" "https://www.youtube.com/embed"}}'
+        allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="true"
+        webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
+    </div>
+    {{ end }}
+  </div>
+  </div>
+</section>
+<!--End Speker Detail -->
+
+<script>
+  function adjTime(timeStart, timeEnd) {
+    let dateStart = new Date(Date.parse(timeStart));
+    let dateEnd = new Date(Date.parse(timeEnd));
+    var days = ['Sunday', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday'];
+    let adjString = days[dateStart.getDay()]+", May "+dateStart.getDate()+". "+dateStart.getHours() + ":" + (('0' + dateStart.getMinutes()).slice(-2)) + "-" + dateEnd.getHours() + ":" + (('0' + dateEnd.getMinutes()).slice(-2));
+    document.getElementById("adjTime").innerHTML = adjString;
+  }
+  {{ if lt now $time_start }}
+    adjTime("{{ $time_start.Format "02 Jan 2006 15: 04: 05 MST" }}", "{{ $time_end.Format "02 Jan 2006 15: 04: 05 MST" }}");
+  {{ end }}  
+</script>
+
+
+{{ end }}

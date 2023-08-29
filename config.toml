@@ -1,0 +1,112 @@
+
+baseURL = "https://eu.communityovercode.org"
+title = "Community Over Code Europe"
+description = "Community Over Code Europe is the annual gathering in Europe of the Apache Software Foundation community."
+enableRobotsTXT = true
+RemovePathAccents = true
+DefaultContentLanguage = "en"
+
+theme = "coceu"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[taxonomies]
+tag = "tags"
+category = "categories"
+speaker = "speakers"
+
+
+############################## navigation ###############################
+[menu]
+
+[[menu.main]]
+  name = "About"
+  url = "/about"
+  weight = 1
+
+[[menu.main]]
+  name = "FAQ"
+  URL = "faq"
+  weight = 7
+
+
+# Everything below this are Site Params
+
+[params]
+description = "Community Over Code Europe is the annual gathering in Europe of the Apache Software Foundation community."
+logo = "/images/logo-h.svg"
+home = "Home"
+privacy_policy = "/privacy"
+footer_text = "Community Over Code operates under the terms of [The ASF Code of Conduct](http://apache.org/foundation/policies/conduct)."
+
+# First one is picked as the Twitter card image if not set on page.
+images = ["/images/card.jpg"]
+start_date = "2024-06-03T09:00-05:00"
+end_date = "2024-06-05T17:00-05:00" 
+
+[params.hero]
+text = "June 3-5, 2024. Bratislava, Slovakia."
+
+[params.hero.cta1]
+text = "Call to action"
+link = "/tickets"
+
+# Navigation button
+[params.navigation_button]
+enable = true
+label = "Tickets"
+link = "/tickets"
+
+
+[params.links]
+[[params.links.media]]
+    name = "Email us"
+    url = "mailto:planners-eu@apachecon.com"
+    icon = "fa fa-envelope"
+[[params.links.media]]
+    name = "Slack"
+    url = "http://s.apache.org/apachecon-slack"
+    icon = "fab fa-slack"
+[[params.links.media]]
+    name = "Watch us on YouTube"
+    url = "https://www.youtube.com/@communityovercode"
+    icon = "fab fa-youtube"
+
+[[params.links.footer]]
+    name = "Code of Conduct"
+    url = "/coc"
+[[params.links.footer]]
+    name = "Accessibility"
+    url = "/accessibility"
+[[params.links.footer]] 
+    name = "Privacy Policy"
+    url = "/privacy"
+[[params.links.footer]]
+    name = "Organizers"
+    url = "/team"
+
+
+[permalinks]
+tags = "/blog/tags/:slug/"
+posts = "/:year/:month/:title/"
+
+############################# Plugins ##############################
+# CSS Plugins
+[[params.plugins.css]]
+link = "https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/css/bootstrap.min.css"
+
+[[params.plugins.css]]
+link = "https://unpkg.com/bootstrap-table@1.22.1/dist/bootstrap-table.min.css"
+
+# JS Plugins
+[[params.plugins.js]]
+link="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/js/bootstrap.bundle.min.js"
+
+[[params.plugins.js]]
+link="https://kit.fontawesome.com/4a6d2efc2e.js"
+
+[[params.plugins.js]]
+link="https://unpkg.com/bootstrap-table@1.22.1/dist/bootstrap-table.min.js"

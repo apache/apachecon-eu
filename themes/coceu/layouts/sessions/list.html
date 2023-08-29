@@ -1,0 +1,55 @@
+{{ define "main" }}
+
+<div class="container mb-4">
+    <p class="text-center">
+        {{ .Content }}
+    </p>
+
+{{ $is_active := eq .RelPermalink "/sessions/2023/" }}
+
+    <table id="sessions-table" data-toggle="table" data-search="true" data-search-align="left" data-sortable="true">
+      <thead>
+        <tr>
+          <th data-field="title" data-sortable="true">Title</th>
+          {{ if not $is_active }}
+          <th data-field="speaker" data-sortable="true">Speaker(s)</th>         
+          <th data-field="recording">Recording</th>
+          <th data-field="slides">Slides</th>
+          {{ end }}
+        
+
+        </tr>
+      </thead>
+        <tbody>
+              {{ range .Data.Pages.ByTitle }}
+            <tr>
+                <td><h4 class="mb-0">
+                    <a class="session-title" href="{{.Permalink}}">{{ .Params.title }}</a>
+                    </h4>
+                    {{ if $is_active }}
+                    <em>by {{ with .Params.speakers }}{{ delimit . ", " " & " }}{{ end }}</em>
+                    {{ end }}
+
+                    <div class="card-abstract mt-2" id="abs-{{.File.TranslationBaseName}}">
+                        {{ .Summary }}
+                    </div>
+                </td>
+                {{ if not $is_active }}
+                <td>{{ with .Params.speakers }}{{ delimit . ", " " & " }}{{ end }}</td>
+                <td class="text-center">{{ with .Params.video }}<a
+                        href='{{ replace . "https://www.youtube.com/embed" "https://youtu.be" }}' target="_blank"><i
+                            class="fab fa-youtube" aria-hidden="true" title="Watch"></i></a>{{ end }}</td>
+                <td class="text-center">{{ with .Params.slides }}<a
+                        href='{{ if hasPrefix . "http" }}{{ . }}{{ else }}/slides/{{ . }}{{ end }}'
+                        target="_blank" download><i class="fa fa-download" aria-hidden="true"
+                            title="Slides"></i></a>{{ end }}</td>
+              {{ end }}  
+            </tr>
+            {{ end }}
+        </tbody>
+    </table>
+
+</div>
+
+
+{{ end }}

@@ -1,0 +1,440 @@
+.navbar-collapse {
+	flex-grow: 0 !important;
+}
+
+#slides-iframe {
+	margin-top: 2em;
+}
+
+
+
+section.faq img,
+section.coc img {
+	max-width: 100%;
+}
+
+section.register p,
+section.swag p {
+	font-size: 1.2em;
+}
+
+.btn-slack {
+	background: $primary-color;
+	color: $white;
+	border-color: $primary-color;
+	padding: 16px 20px;
+
+	&:hover {
+		background: $black;
+		border-color: $black;
+		color: $white;
+	}
+}
+
+.speakers-list span:after {
+	content: " & ";
+}
+
+.speakers-list span:last-child:after {
+	content: "";
+}
+
+#slackModal .modal-body a {
+	color: $secondary-color;
+	text-decoration: underline;
+}
+
+.session-single {
+	font-size: 16px;
+	line-height: 1.8;
+}
+
+.headshot-box {
+	position: relative;
+}
+
+.flag-ribbon {
+	width: 50px;
+	position: absolute;
+	right: 0px;
+	bottom: 0px;
+}
+
+.logo-b {
+	height: 50px;
+	@media (max-width: 640px) {
+		height: 30px;
+	}
+}
+
+.info-buttons {
+	margin: 10px;
+	display: grid;
+	grid-template-columns: minmax(150px, 250px) minmax(150px, 250px);
+	grid-gap: 40px;
+	justify-content: center;
+}
+
+.team-strip {
+	display: grid;
+	grid-template-columns: repeat(3, 1fr);
+	grid-gap: 20px;
+
+	@include mobile {
+		grid-template-columns: repeat(2, 1fr);
+	}
+}
+
+.profile-item .headshot {
+	width: 120px;
+}
+.profile-item .info {
+	margin-left: 2em;
+	align-self: center;
+}
+
+.heading p {
+	font-size: 1.2em;
+}
+
+.section-schedule {
+	background-color: #dee7e7;
+}
+
+.section-speaker {
+	background-color: #f6f5eb;
+}
+
+.time-table .content {
+	flex-basis: 75%;
+}
+
+.stroke-text {
+	color: transparent;
+	-webkit-text-stroke-width: 2px;
+	-webkit-text-stroke-color: #3d3d3f;
+	font-size: 100px;
+	font-weight: 800;
+	text-transform: uppercase;
+	line-height: 1;
+
+	@include tablet {
+		font-size: 60px;
+	}
+
+	@include mobile {
+		font-size: 40px;
+	}
+}
+
+section.event-info {
+	border-top: solid 2px $cyan;
+	border-bottom: solid 2px $cyan;
+
+}
+
+.event-info .content {
+	display: grid;
+	grid-gap: 32px;
+	grid-template-columns: 1fr;
+
+	@media (min-width: 640px) {
+		grid-gap: 64px;
+		grid-template-columns: repeat(auto-fit, minmax(500px, 1fr));
+	}
+}
+
+.event-info h2 {
+    font-weight: 400;
+	font-size: 40px;
+	color: white;
+}
+
+
+.statistics-block {
+	display: grid;
+	width: 100%;
+	grid-gap: 24px 12px;
+	grid-template-columns: repeat(2, 1fr);
+	@media (min-width: 640px) {
+		grid-gap: 36px;
+	}
+}
+
+.statistics-block .numbers {
+	font-size: 40px;
+	@media (min-width: 640px) {
+		grid-gap: 56px;
+		font-size: 52px;
+	}
+}
+
+.statistics-block .numbers:after {
+	content: "";
+	display: block;
+	height: 2px;
+	width: 64px;
+	background-color: $secondary-color;
+	margin-top: 20px;
+}
+
+.statistics-block .label {
+	margin-top: 4px;
+}
+
+.event-info a {
+	color: $secondary-color;
+	text-transform: uppercase;
+	&:hover {
+		color: $black-lighter;
+	}
+}
+
+.list-content {
+	margin-bottom: 1.6em;
+}
+
+#event-info {
+	display: block;
+	position: relative;
+	top: -100px;
+	visibility: hidden;
+}
+
+.card h3,
+.card h6 {
+	font-weight: 400;
+}
+
+.card h3 {
+	font-size: 20px;
+}
+
+.office-hours td {
+	padding: 6px 15px;
+}
+
+article.swag {
+	padding: 1em;
+	background-color: #ffffff;
+	border: solid 1px gray;
+}
+
+.swag a {
+	color: #017cee;
+}
+
+.swag-info {
+	display: grid;
+	grid-gap: 20px;
+	grid-template-columns: 1fr 2fr;
+	align-items: center;
+
+	@media (max-width: 640px) {
+		grid-template-columns: 1fr 1fr;
+	}
+}
+
+.swag-detail-logo {
+	width: 300px;
+}
+
+.btn-primary {
+	background-color: $primary-color;
+	border-color: #a0a0a0;
+}
+.btn-primary:hover {
+	background-color: $secondary-color;
+}
+
+#at-a-glance {
+	margin: 40px 0;
+	background-color: #e6e6e6;
+	padding: 20px 0 40px;
+}
+
+#partners img {
+	width: 100%;
+}
+/* Add to calendar button */
+/* The button */
+.addeventatc {
+	display: inline-block;
+	position: relative;
+	color: #007bff;
+	font-size: 16px;
+	cursor: pointer;
+}
+.addeventatc:hover {
+	color: #555;
+	font-size: 16px;
+	text-decoration: underline;
+}
+.addeventatc .start,
+.addeventatc .end,
+.addeventatc .timezone,
+.addeventatc .title,
+.addeventatc .description,
+.addeventatc .location,
+.addeventatc .organizer,
+.addeventatc .organizer_email,
+.addeventatc .facebook_event,
+.addeventatc .all_day_event,
+.addeventatc .date_format,
+.addeventatc .alarm_reminder,
+.addeventatc .recurring,
+.addeventatc .attendees,
+.addeventatc .calname,
+.addeventatc .uid,
+.addeventatc .status,
+.addeventatc .method,
+.addeventatc .client,
+.addeventatc .transp {
+	display: none !important;
+}
+
+/* Drop down */
+.addeventatc_dropdown {
+	width: 230px;
+	position: absolute;
+	padding: 6px 0px 0px 0px;
+	font-family: "Open Sans", Roboto, "Helvetica Neue", Helvetica, Optima, Segoe, "Segoe UI", Candara, Calibri, Arial,
+		sans-serif;
+	color: #000 !important;
+	font-weight: 600;
+	line-height: 100%;
+	background: #fff;
+	font-size: 15px;
+	text-decoration: none;
+	text-align: left;
+	margin-left: -1px;
+	display: none;
+	-moz-border-radius: 3px;
+	-webkit-border-radius: 3px;
+	-webkit-box-shadow: rgba(0, 0, 0, 0.4) 0px 10px 26px;
+	-moz-box-shadow: rgba(0, 0, 0, 0.4) 0px 10px 26px;
+	box-shadow: rgba(0, 0, 0, 0.4) 0px 10px 26px;
+	transform: scale(0.98, 0.98) translateY(5px);
+	z-index: -1;
+	transition: transform 0.15s ease;
+	-webkit-user-select: none;
+	-webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+}
+.addeventatc_dropdown.topdown {
+	transform: scale(0.98, 0.98) translateY(-5px) !important;
+}
+.addeventatc_dropdown span {
+	display: block;
+	line-height: 100%;
+	background: #fff;
+	text-decoration: none;
+	cursor: pointer;
+	font-size: 15px;
+	color: #333;
+	font-weight: 600;
+	padding: 14px 10px 14px 55px;
+	margin: -2px 0px;
+}
+.addeventatc_dropdown span:hover {
+	background-color: #f4f4f4;
+	color: #000;
+	text-decoration: none;
+	font-size: 15px;
+}
+.addeventatc_dropdown em {
+	color: #999 !important;
+	font-size: 12px !important;
+	font-weight: 400;
+}
+.addeventatc_dropdown .frs a {
+	background: #fff;
+	color: #cacaca !important;
+	cursor: pointer;
+	font-size: 9px !important;
+	font-style: normal !important;
+	font-weight: 400 !important;
+	line-height: 110% !important;
+	padding-left: 10px;
+	position: absolute;
+	right: 10px;
+	text-align: right;
+	text-decoration: none;
+	top: 5px;
+	z-index: 101;
+}
+.addeventatc_dropdown .frs a:hover {
+	color: #999 !important;
+}
+.addeventatc_dropdown .ateappleical {
+	background: url(/images/icons/apple.svg) 18px 40% no-repeat;
+	background-size: 22px 100%;
+}
+.addeventatc_dropdown .ategoogle {
+	background: url(/images/icons/google.svg) 18px 50% no-repeat;
+	background-size: 22px 100%;
+}
+.addeventatc_dropdown .ateoffice365 {
+	background: url(/images/icons/office365.svg) 19px 50% no-repeat;
+	background-size: 18px 100%;
+}
+.addeventatc_dropdown .ateoutlook {
+	background: url(/images/icons/outlook.svg) 18px 50% no-repeat;
+	background-size: 22px 100%;
+}
+.addeventatc_dropdown .ateoutlookcom {
+	background: url(/images/icons/outlookcom.svg) 18px 50% no-repeat;
+	background-size: 22px 100%;
+}
+.addeventatc_dropdown .ateyahoo {
+	background: url(/images/icons/yahoo.svg) 18px 50% no-repeat;
+	background-size: 22px 100%;
+}
+.addeventatc_dropdown .atefacebook {
+	background: url(/images/icons/facebook.svg) 18px 50% no-repeat;
+	background-size: 22px 100%;
+}
+.addeventatc_dropdown .copyx {
+	height: 21px;
+	display: block;
+	position: relative;
+	cursor: default;
+}
+.addeventatc_dropdown .brx {
+	height: 1px;
+	overflow: hidden;
+	background: #e8e8e8;
+	position: absolute;
+	z-index: 100;
+	left: 10px;
+	right: 10px;
+	top: 9px;
+}
+.addeventatc_dropdown.addeventatc-selected {
+	transform: scale(1, 1) translateY(0px);
+	z-index: 99999999999;
+}
+.addeventatc_dropdown.topdown.addeventatc-selected {
+	transform: scale(1, 1) translateY(0px) !important;
+}
+.addeventatc_dropdown .drop_markup {
+	background-color: #f4f4f4;
+}
+
+.card {
+	border: 1px solid #e0e0e0;
+}
+
+.card-subtitle {
+	color: #c0c0c0;
+	font-style: italic;
+}
+
+.fixed-top {
+	z-index: 10;
+}
+
+.credit {
+	font-style: italic;
+	font-size: 0.9em;
+	color: #808080;
+}

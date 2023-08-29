@@ -1,0 +1,19 @@
+############################## Event ##############################
+event_info:
+  enable : true
+  title : "Get ready for Airflow Summit 2023!"
+  description : "After the success of our online editions, we are getting ready to meet in person for 2023. We will meet from September 19th to 21st, 2023 in beautiful Toronto, Canada."
+  cta_text: "Tickets available now!"
+  cta_link: "/tickets"
+  features: 
+    - number : "3"
+      label : "Days"
+      
+    - number : "30+"
+      label : "Sessions"
+
+    - number : "In person"
+      label : "It's time to finally meet!"
+
+    - number : "500"
+      label : "participants"

@@ -1,0 +1,19 @@
+{{ define "main" }}
+
+<section class="section {{ .Type }}">
+  <div class="container">
+    <div class="list-content">{{.Content}}</div>
+    <div class="row">
+
+          {{ range .Data.Pages.ByDate.Reverse }}
+          <div class="col-sm-6">
+            {{ .Render "post" }}
+          </div>
+          {{ end }}
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+{{ end }}

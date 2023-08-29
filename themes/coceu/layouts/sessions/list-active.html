@@ -1,0 +1,37 @@
+{{ define "main" }}
+
+<div class="container mb-4">
+    <p class="text-center">
+        {{ .Content }}
+    </p>
+
+{{ $is_active := eq .RelPermalink "/sessions/2023/" }}
+
+    <table id="sessions-table" data-toggle="table" data-search="true" data-search-align="left" data-sortable="true">
+      <thead>
+        <tr>
+          <th data-field="title" data-sortable="true">Title</th>        
+
+        </tr>
+      </thead>
+        <tbody>
+              {{ range .Data.Pages.ByTitle }}
+            <tr>
+                <td><h4 class="mb-0">
+                    <a class="session-title" href="{{.Permalink}}">{{ .Params.title }}</a>
+                    </h4>
+                    <em>by {{ with .Params.speakers }}{{ delimit . ", " " & " }}{{ end }}</em>
+
+                    <div class="card-abstract mt-2" id="abs-{{.File.TranslationBaseName}}">
+                        {{ .Summary }}
+                    </div>
+                </td>
+            </tr>
+            {{ end }}
+        </tbody>
+    </table>
+
+</div>
+
+
+{{ end }}

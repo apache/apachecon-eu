@@ -1,0 +1,161 @@
+.speakers-wrapper {
+	margin: 20px 0;
+	display: grid;
+	justify-content: center;
+	grid-template-columns: repeat(auto-fit, minmax(120px, 240px));
+	grid-gap: 50px;
+}
+
+.speaker {
+	text-align: center;
+}
+
+.speaker-strip {
+	display: grid;
+	grid-template-columns: repeat(4, 1fr);
+	grid-gap: 60px;
+
+	@include tablet {
+		grid-template-columns: repeat(3, 1fr);
+	}
+
+	@include mobile {
+		grid-template-columns: repeat(2, 1fr);
+	}
+
+}
+
+
+.speaker-info .thumb {
+    text-align: center;
+}
+
+.speaker-info .img-container {
+	width: 80%;
+	margin: 0.5em auto;
+}
+
+.speaker-info a {
+	color: $primary-color;
+}
+
+.speaker-detail a {
+	color: $secondary-color;
+}
+
+
+.speaker-detail .image-column img {
+	width: 100%;
+	margin-bottom: 1em;
+	border: 3px solid $primary-color;
+}
+.speaker-detail .image-column ul {
+    padding: 0;
+}
+
+.speaker-detail .info-column{
+	position: relative;
+}
+
+.speaker-detail .info-column .inner-column{
+	position: relative;
+}
+
+.speaker-detail .info-column h1{
+	position: relative;
+	font-size: 50px;
+	line-height: 1em;
+	font-weight: 700;
+	margin-bottom: 20px;
+}
+
+.speaker-detail .info-column h3{
+	position: relative;
+	display: block;
+	font-size: 28px;
+	line-height: 1em;
+	font-weight: 700;
+	margin-bottom: 20px;
+}
+
+.speaker-detail .info-column h4{
+	position: relative;
+	display: block;
+	font-size: 24px;
+	line-height: 1em;
+	font-weight: 500;
+	margin-bottom: 20px;
+}
+
+.speaker-detail .info-column h5{
+	position: relative;
+	display: block;
+	font-size: 18px;
+	line-height: 1em;
+	font-weight: 500;
+	margin-bottom: 10px;
+	color: #a0a0a0;
+}
+
+.speaker-detail .info-column .text-box{
+	position: relative;
+}
+
+.speaker-detail .speaker-session-info{
+	position: relative;
+	margin-bottom: 30px;
+}
+
+.speaker-detail .speaker-session-info p{
+	margin-bottom: 0;
+	color: rgb(63,89,139);
+}
+
+
+.social-icon-two{
+	position: relative;
+	display: block;
+}
+
+.social-icon-two li{
+	position:relative;
+	display:inline-block;
+}
+
+.social-icon-two li a .fab{
+	width: 48px;
+	text-align: center;
+	font-size:24px;
+	background-color: #ffffff;
+	color: $primary-color;
+}
+
+.social-icon-two li a:hover .fab{
+	color: $secondary-color;
+}
+
+p.designation {
+    font-style: italic;
+	font-weight: 500;
+}
+
+.headshot {
+	position: relative;
+}
+
+
+.headshot .overlay {
+	position: absolute;
+	border-radius: 50%;
+	top: 0;
+	left: 0;
+	bottom: 0px;
+	right: 0px;
+	background-color: $orange;
+	opacity: 0;
+	transition: all 0.3s ease; 
+}
+
+.headshot:hover .overlay {
+    opacity: 0.5;
+}

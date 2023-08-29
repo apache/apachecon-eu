@@ -1,0 +1,158 @@
+
+/*------------------------------------
+- COLOR orange
+------------------------------------*/
+
+$orange_t1: $secondary-color;
+$orange_t2: #fc542f;
+$orange_t3: #fefefe;
+$orange_t4: #ff112117;
+$orange_t5: #e12b02;
+$orange_t6: #fc4820;
+$orange_t7: #fc613e;
+$orange_t8: #af2102;
+$orange_t9: #ff12312b;
+
+$orange_shadow: rgba(253, 126, 98, 0.5);
+$orange_text_color_dark_bright: #212529;
+
+
+.alert-orange {
+  color: $orange_t5;
+  background-color: $orange_t9;
+  border-color: $orange_t4;
+}
+
+.alert-orange hr {
+  border-top-color: $orange_t3;
+}
+
+.alert-orange .alert-link {
+  color: $orange_t8;
+}
+
+.badge-orange {
+  color: $orange_text_color_dark_bright;
+  background-color: $orange_t1;
+}
+
+.badge-orange[href]:hover, .badge-orange[href]:focus {
+  color: $orange_text_color_dark_bright;
+  background-color: $orange_t2;
+}
+
+.bg-orange {
+  background-color: $orange_t1 !important;
+}
+
+a.bg-orange:hover, a.bg-orange:focus,
+button.bg-orange:hover,
+button.bg-orange:focus {
+  background-color: $orange_t2 !important;
+}
+
+.border-orange {
+  border-color: $orange_t1 !important;
+}
+
+.btn-orange {
+  color: $orange_text_color_dark_bright;
+  background-color: $orange_t1;
+  border-color: $orange_t1;
+}
+
+.btn-orange:hover {
+  color: $orange_text_color_dark_bright;
+  background-color: $orange_t7;
+  border-color: $orange_t2;
+}
+
+.btn-orange:focus, .btn-orange.focus {
+  box-shadow: 0 0 0 0.2rem $orange_shadow;
+}
+
+.btn-orange.disabled, .btn-orange:disabled {
+  color: $orange_text_color_dark_bright;
+  background-color: $orange_t1;
+  border-color: $orange_t1;
+}
+
+.btn-orange:not(:disabled):not(.disabled):active, .btn-orange:not(:disabled):not(.disabled).active, .show > .btn-orange.dropdown-toggle {
+  color: $orange_text_color_dark_bright;
+  background-color: $orange_t2;
+  border-color: $orange_t6;
+}
+
+.btn-orange:not(:disabled):not(.disabled):active:focus, .btn-orange:not(:disabled):not(.disabled).active:focus, .show > .btn-orange.dropdown-toggle:focus {
+  box-shadow: 0 0 0 0.2rem $orange_shadow;
+}
+
+.btn-outline-orange {
+  color: $orange_t1;
+  background-color: transparent;
+  border-color: $orange_t1;
+}
+
+.btn-outline-orange:hover {
+  color: $orange_text_color_dark_bright;
+  background-color: $orange_t1;
+  border-color: $orange_t1;
+}
+
+.btn-outline-orange:focus, .btn-outline-orange.focus {
+  box-shadow: 0 0 0 0.2rem $orange_shadow;
+}
+
+.btn-outline-orange.disabled, .btn-outline-orange:disabled {
+  color: $orange_t1;
+  background-color: transparent;
+}
+
+.btn-outline-orange:not(:disabled):not(.disabled):active, .btn-outline-orange:not(:disabled):not(.disabled).active, .show > .btn-outline-orange.dropdown-toggle {
+  color: $orange_text_color_dark_bright;
+  background-color: $orange_t1;
+  border-color: $orange_t1;
+}
+
+.btn-outline-orange:not(:disabled):not(.disabled):active:focus, .btn-outline-orange:not(:disabled):not(.disabled).active:focus, .show > .btn-outline-orange.dropdown-toggle:focus {
+  box-shadow: 0 0 0 0.2rem $orange_shadow;
+}
+
+.list-group-item-orange {
+  color: $orange_t5;
+  background-color: $orange_t4;
+}
+
+.list-group-item-orange.list-group-item-action:hover, .list-group-item-orange.list-group-item-action:focus {
+  color: $orange_t5;
+  background-color: $orange_t3;
+}
+
+.list-group-item-orange.list-group-item-action.active {
+  color: $orange_text_color_dark_bright;
+  background-color: $orange_t5;
+  border-color: $orange_t5;
+}
+
+.table-orange,
+.table-orange > th,
+.table-orange > td {
+  background-color: $orange_t4;
+}
+
+.table-hover .table-orange:hover {
+  background-color: $orange_t3;
+}
+
+.table-hover .table-orange:hover > td,
+.table-hover .table-orange:hover > th {
+  background-color: $orange_t3;
+}
+
+.text-orange {
+  color: $orange_t1 !important;
+}
+
+a.text-orange:hover, a.text-orange:focus {
+  color: $orange_t2 !important;
+}

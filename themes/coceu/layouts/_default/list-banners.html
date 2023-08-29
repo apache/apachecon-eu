@@ -1,0 +1,34 @@
+{{ define "main" }}
+
+<div class="container mb-4">
+    <p class="text-center">
+        {{ .Content }}
+    </p>
+
+    <table id="sessions-table" data-toggle="table" data-search="true" data-search-align="left" data-sortable="true">
+      <thead>
+        <tr>
+          <th data-field="title" data-sortable="true">Title</th>
+          <th data-field="speaker" data-sortable="true">Speaker(s)</th>         
+          <th data-field="banner">Banner</th>
+        </tr>
+      </thead>
+      <tbody>
+        {{ range where $.Site.RegularPages "Section" "sessions" }}
+          {{ if hasPrefix .RelPermalink "/sessions/2023/"}}
+          <tr>
+            <td>
+              <a class="text-dark" href="{{.Permalink}}">{{ .Params.title }}</a>
+            </td>
+            <td>{{ with .Params.speakers }}{{ delimit . ", " " & " }}{{ end }}</td>
+            <td>{{ with .Params.images }}<a href="{{ index . 0 | relURL }}"><img src="{{ index . 0 | relURL }}" alt="session banner" class="img-fluid"></a>{{ else }}Pending{{ end }}</td>
+          </tr>
+          {{ end }}
+        {{ end }}
+      </tbody>
+    </table>
+
+</div>
+
+
+{{ end }}

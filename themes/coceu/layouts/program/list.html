@@ -1,0 +1,75 @@
+{{ define "main" }}
+
+{{ $data := index .Site.Data }}
+{{ $schedule := $data.schedule.schedule }}
+
+<div class="container mt-4">
+  <div class="row">
+    <div class="col-lg-12">
+      <nav class="nav nav-pills nav-fill" role="tablist">
+      {{ $.Scratch.Set "counter" 0 }}
+      {{ range $index, $element := $schedule.schedule_tab }}
+        {{ $.Scratch.Set "counter" (add ($.Scratch.Get "counter") 1) }}
+        <a class="nav-item nav-link {{ if eq $index 0 }} active {{ end }}" data-toggle="tab" href="#scheduleTab{{$.Scratch.Get `counter`}}"
+            role="tab">
+        <h2>{{ .title | markdownify }}</h2>
+        <p>{{ .date_time | markdownify }}</p>
+        </a>
+      {{ end }}
+      </nav>
+
+      <div class="tab-content">
+      {{ $.Scratch.Set "counter" 0 }}
+      {{ range $index, $element := $schedule.schedule_tab }}
+        {{ $.Scratch.Set "counter" (add ($.Scratch.Get "counter") 1) }}
+        <div class="tab-pane fade {{ if eq $index 0 }} show active {{ end }} " id="scheduleTab{{$.Scratch.Get `counter`}}" role="tabpanel">
+          <ul class="mt-4 time-table pl-0 list-unstyled">
+            {{ range sort (where (where $.Site.Pages "Section" "sessions") ".Params.day_num" ($.Scratch.Get `counter`)) ".Params.time_start" }}
+            <li class="d-md-flex align-items-center justify-content-between bg-light p-4 mb-3">
+                <div class="time">
+                  <h4 id="time-{{.Params.id}}" class="text-color" >
+                 </h4>
+                 <div  class="utc-time font-italic">
+                 {{ with .Params.time_start | time  }}
+                   {{ .Format "(15:04" }}
+                 {{ end }}
+                 -
+                 {{ with .Params.time_end | time  }}
+                  {{ .Format "15:04" }} UTC)
+                 {{ end }}
+                 </div>
+               </div>
+                <div class="content">                
+                <h3>
+                <a href="{{ .Permalink }}">{{ .Params.title }}</a>
+                </h3>
+                {{ if .Params.speakers }}<h6 class="speakers-list">{{ i18n "by" }} {{ delimit .Params.speakers ", " " & " }} </h6>{{ end }}
+              </div>
+            </li>
+            {{ end }}
+          </ul>
+        </div>
+        {{ end }}
+      </div>
+      </div>
+    </div>
+    {{ .Content }}
+
+  </div>
+</section>
+
+<script>
+  function adjTime(elemId, timeStart, timeEnd) {
+      let dateStart = new Date(Date.parse(timeStart));
+      let dateEnd = new Date(Date.parse(timeEnd));
+      let adjString = dateStart.getHours()+":"+(('0'+dateStart.getMinutes()).slice(-2))+"-"+dateEnd.getHours()+":"+(('0'+dateEnd.getMinutes()).slice(-2));
+      document.getElementById(elemId).innerHTML=adjString;
+  }
+  {{ range sort (where $.Site.RegularPages "Section" "sessions") ".Params.id" }}
+    {{ $time_start := .Params.time_start | time  }}
+    {{ $time_end := .Params.time_end | time  }}
+    adjTime("time-{{ .Params.id }}", "{{ $time_start.Format "02 Jan 2006 15:04:05 MST" }}", "{{ $time_end.Format "02 Jan 2006 15:04:05 MST" }}");
+  {{ end }}
+</script>
+
+{{ end }}

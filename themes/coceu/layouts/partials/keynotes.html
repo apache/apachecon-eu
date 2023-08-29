@@ -1,0 +1,72 @@
+<div class="keynotes">
+  <h2>KEYNOTE SPEAKERS AND PANELISTS</h2>
+</div>
+
+<div class="swiper mySwiper">
+  <div class="swiper-wrapper">
+    <div class="card h-100 swiper-slide border-0">
+      <div class="image-content">
+        <span class="overlay"></span>
+        <a href="/speakers/viraj-parekh/">
+          <div class="card-image">
+            <img
+              src="/images/speakers/viraj-parekh.jpg"
+              alt=""
+              class="card-img"
+            />
+          </div>
+        </a>
+      </div>
+      <div class="card-content">
+        <h2 class="name">Name</h2>
+        <p class="description">Designation</p>
+
+        <a href="/speakers/viraj-parekh/">
+          <button class="button">View More</button>
+        </a>
+      </div>
+    </div>
+  </div>
+
+  <div class="swiper-button-next"></div>
+  <div class="swiper-button-prev"></div>
+</div>
+
+
+<!-- Swiper JS -->
+<script src="https://cdn.jsdelivr.net/npm/swiper@10/swiper-bundle.min.js"></script>
+
+<!-- Initialize Swiper -->
+<script>
+  var swiper = new Swiper(".mySwiper", {
+    slidesPerView: 1,
+    spaceBetween: 10,
+    pagination: {
+      el: ".swiper-pagination",
+      clickable: true,
+    },
+    navigation: {
+      nextEl: ".swiper-button-next",
+      prevEl: ".swiper-button-prev",
+    },
+
+    breakpoints: {
+      640: {
+        slidesPerView: 2,
+        spaceBetween: 20,
+      },
+      1024: {
+        slidesPerView: 2,
+        spaceBetween: 40,
+      },
+      1055: {
+        slidesPerView: 3,
+        spaceBetween: 45,
+      },
+      1480: {
+        slidesPerView: 4,
+        spaceBetween: 45,
+      },
+    },
+  });
+</script>

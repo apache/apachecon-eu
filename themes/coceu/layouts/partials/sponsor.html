@@ -1,0 +1,35 @@
+{{ $data := index .Site.Data }}
+
+{{ with $data.sponsors }}
+<section class="section sponsors">
+  <div class="container">
+    {{ partial "section_title.html" . }}
+    {{ range .sponsor_group }}
+    <div class="mb-5">
+      <h4 class="mb-4 letter-spacing text-sm">{{ .title | markdownify }}</h4>
+      <div class="sponsor-strip {{ .slug }}">
+        {{ range .sponsor }}
+        <div class="sponsor-item">
+          {{ if and (ne .link "") (ne .link "#") }}
+          <a href="{{ .link }}"><img src="{{ .logo | relURL }}" alt="" class="img-fluid"></a>
+          {{ else }}
+          <img src="{{ .logo | relURL }}" alt="" class="img-fluid">
+          {{ end }}
+        </div>
+        {{ end }}
+      </div>
+    </div>
+    {{ end }}
+    {{ if .sponsorship.enable }}
+    {{ with .sponsorship }}
+    <div class="row">
+      <div class="col-lg-12">
+        <h5 class="mt-5 mb-4">{{ .title | markdownify }}</h5>
+        <a href="{{ .link | safeURL }}" class="btn btn-banner2" target="blank">{{ .label }}</a>
+      </div>
+    </div>
+    {{ end }}
+    {{ end }}
+  </div>
+</section>
+{{ end }}

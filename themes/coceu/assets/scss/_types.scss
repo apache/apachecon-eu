@@ -1,0 +1,81 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,300;0,400;0,500;0,600;1,400&display=swap');
+
+body{
+  font-family: $base-font;
+  font-size: $base-font-size;
+  font-weight: 300;
+  line-height: 120%;
+  color: $gray-light;
+}
+
+a {
+	color: $primary-color;
+	text-decoration: none;
+  transition: .3s all;
+  &:hover{
+    color: $secondary-color;
+  }
+}
+
+// h1 a,h2 a,h3 a,h4 a,h5 a,h6 a{
+//  color: inherit;
+// }
+
+h1, .h1 {
+  font-size: 42px;
+  font-weight: 300;
+}
+
+h2, .h2 {
+  font-family: $heading-font;
+  font-weight: 300;
+  font-size: 36px;
+}
+
+
+h3, .h3 {
+  font-family: $heading-font;
+  font-size: 26px;
+  font-weight: 300;
+}
+
+h4, .h4 {
+  font-size: 24px;
+  font-weight: 300;
+}
+
+
+h5, .h5 {
+  font-size: 18px;
+}
+
+h6, .h6 {
+  font-size: 16px;
+  
+}
+
+.lead{
+  line-height: 35px;
+}
+
+
+.text-secondary{
+  color: $secondary-color!important;
+}
+.text-primary{
+  color: $primary-color!important;
+}
+
+.subtitle{
+  font-family: $base-font;
+  text-transform: capitalize;
+}
+
+.lg-title{
+  font-size:62px;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+
+
+

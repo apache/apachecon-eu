@@ -1,0 +1,28 @@
+
+<section class="section">
+  <div class="content py-2 px-2 " style="background-color: white; margin-top: -50px;">
+  
+        <div class="card h-100">
+          
+            <a href="{{ .Params.Link }}" target="blank"><img src="{{ .Params.Image | relURL }}" class="card-img-top" alt="..."></a>
+            <div class="card-body">
+              <h5 class="card-title"><a href="{{ .Params.Link }}" target="blank">{{ .Title }}</a></h5>
+              <p class="card-text">{{ .Content }}</p>
+              
+            </div>
+            <center>
+                <a href="{{ .Params.Link }}" target="_blank">
+                  <button type="button" style="align-items: center;" class="btn btn-info col-md-10 px-3">{{ .Params.Button}}</button>
+               </a> 
+            </center>
+          <br>
+          </div>
+        </div>
+    
+</section>
+
+
+
+
+
+

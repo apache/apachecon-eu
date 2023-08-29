@@ -1,0 +1,19 @@
+{{ $data := index .Site.Data }}
+{{ with $data.testimonials }}
+<section id="testimonials" class="section testimonials">
+
+  <div class="testimonials-grid">
+  {{ range $index, $element := .testimonials }}
+  <div class="testimonial-item">
+    {{ with .img }}<img src="{{ . }}" />{{ end }}
+    <div class="testimonial-text">
+      <div class="inner">{{ .text }}</div>
+    </div>
+    <div class="testimonial-name">
+      <h4>{{ .name }} <br /><span class="jobtitle">{{ .jobtitle }}</span></h4>
+    </div>
+  </div>
+  {{ end }}
+</div>
+</section>
+{{ end }}

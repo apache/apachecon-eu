@@ -1,0 +1,37 @@
+{{ define "main" }}
+
+<section class="section swag">
+  <div class="container">
+    <div class="row">
+      <div class="col-12 pr-lg-5">
+        <div class="row">
+          <div class="col-md-12">
+            <article class="post">
+              <center>
+             
+              <div class="swag-detail-logo" style="background-color: white; border-radius: 10px;">
+                
+                <img class="img-fluid" src="{{ .Params.Image }}" alt="{{ .Title | markdownify }}" />
+             
+              </div>
+            </center>
+
+              <div class="post-blog ">
+                <div class="content" style="margin-top: 50px;">
+                  {{ .Content }}
+                </div>
+
+                <div class="text-right" style="margin-top: 50px;">
+                  <a id="nav-button" style="text-decoration: none;" target="_blank" href="{{ .Params.form_link }}" class="btn">{{.Params.Button}}<i class="fas fa-arrow-right mr-4"></i></a>
+              </div>
+               
+              </div>
+            </article>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+{{ end }}

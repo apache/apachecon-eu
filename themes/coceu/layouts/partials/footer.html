@@ -1,0 +1,54 @@
+{{ $links := .Site.Params.links }}
+
+<footer>
+    <div class="container-fluid">
+        <div class="container py-5">
+            <div class="d-flex justify-content-between">
+                <div class="col-6 col-md-4 col-lg-3">
+                    <div class="mb-3"> <img src="/images/logo-h.svg" class="img-fluid" alt="{{ .Site.Title }}"></div>
+                    {{ with $links }}
+                        {{ with index . "media"}}
+                            <ul class="list-inline mb-0">
+                            {{ range . }}
+                            <li class="list-inline-item mx-2 h3" data-toggle="tooltip" data-placement="top" title aria-label="{{ .name }}" data-original-title="{{ .name }}">
+                                <a title="{{ .name}}" target="_blank" href="{{ .url }}">
+                                  <i class="{{ .icon }}" aria-hidden="true"></i>
+                                </a>
+                            </li>    
+                            {{ end }}
+                            </ul>
+                        {{ end }}
+                    {{ end }}
+                </div>    
+                <div class="col-md-6 text-right">
+                    <div class="footer-links">
+                    {{ with $links }}
+                        {{ with index . "footer"}}
+                        <ul>
+                            {{ range . }}
+                            <li><a href="{{ .url }}" {{ with .target }}target="{{ . }}"{{ end }}>
+                                {{ .name }}
+                            </a></li>
+                            {{ end }}
+                        </ul>    
+                        {{ end }}
+                    {{ end }}
+                    </div>
+                </div>
+            </div>
+        </div>    
+    </div>
+    <div class="footer-section footer-section__policies-section bg-dark">
+    <div class="container my-0 footer-section__policies-section--disclaimer">
+        {{ .Site.Params.footer_text | markdownify }}
+        <!--<p>Photographs used in this website are derived versions from <a href="https://photos.apachecon.com/?/category/1" target="_blank">ApacheCon Photo Gallery</a> licensed under <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank">CC BY 4.0</a>.</p>-->
+    </div>    
+    </div>
+</footer>
+
+
+{{ "<!-- JS Plugins -->" | safeHTML }}
+{{ range .Site.Params.plugins.js}}
+<script src="{{ .link | relURL }}"></script>
+{{ end }}
+

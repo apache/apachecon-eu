@@ -1,0 +1,46 @@
+section.session {
+	padding-top: 2em;
+}
+
+.speakers-vertical {
+	display: grid;
+	grid-template-columns: minmax(150px, 1fr) 4fr;
+	grid-gap: 30px;
+}
+
+.speakers-vertical .speakers {
+grid-column: 1;
+grid-row: 1;
+}
+
+.speakers-vertical .abstract {
+grid-column: 2;
+grid-row: 1;
+}
+
+.speakers-horizontal .speakers {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-around;
+	align-items: flex-start;
+}
+
+.speakers .card {
+  width: 200px;
+}
+
+.module {
+ 
+	margin: 0 0 1.5em 0;
+	overflow: hidden;
+  }
+  
+  .module p {
+	margin: 0;
+  }
+  
+  .line-clamp {
+	display: -webkit-box;
+	-webkit-line-clamp: 3;
+	-webkit-box-orient: vertical;
+  }

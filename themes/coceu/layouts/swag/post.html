@@ -1,0 +1,25 @@
+<article class="swag box-shadow mb-4">
+    <div class="content py-3 px-3" style="background-color: black;">
+        
+        <h4 class="my-3" style="text-align: center;">{{ .Title | markdownify }}</h4>
+
+        
+        <p class="module line-clamp" style="color: white;">{{ .Summary }}</p>
+        <br>
+      
+        <div style="background-color: white; border-radius: 10px;" >
+            <center>
+            <a href="{{ .Permalink }}">
+             <img class="img-fluid" src="{{ .Params.Image }}" width="50%">
+            </a>
+           </center>
+        </div>
+     
+        <br>
+       
+        <div class="text-right">
+            <a style="text-decoration: none; color: #11e1ee; box-shadow: none;" href="{{ .Permalink }}" class="btn">Check it out! <i class="fas fa-arrow-right"></i></a>
+        </div>
+
+    </div>
+</article>

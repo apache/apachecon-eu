@@ -1,0 +1,46 @@
+{{ define "main" }}
+
+{{ $data := index .Site.Data .Site.Language.Lang }}
+
+<section class="speaker-single section">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-4 col-md-5 mb-5 mb-md-0">
+        <img src="{{ .Params.Image }}" alt="{{ .Title }}" class="img-fluid w-100">
+      </div>
+      <div class="col-lg-8 col-md-7">
+        <div class="speaker-single-wrap">
+          <div class="speaker-header mb-2">
+            <h2>{{ .Title }}</h2>
+            <span class="text-secondary">{{ .Params.Designation }}</span>
+            <ul class="list-inline social-single mt-1">
+              {{ with .Params.twitter }}
+                {{ if ne . "" }}
+                <li class="list-inline-item"><a href="{{ . }}" target="_blank"><i class="tf-ion-social-twitter"></i></a></li>
+                {{ end }}
+              {{ end }}  
+              {{ with .Params.linkedin }}
+                {{ if ne . "" }}
+                <li class="list-inline-item"><a href="{{ . }}" target="_blank"><i class="tf-ion-social-linkedin"></i></a></li>
+                {{ end }}
+              {{ end }}  
+              {{ with .Params.github }}
+                {{ if ne . "" }}
+                <li class="list-inline-item"><a href="{{ . }}" target="_blank"><i class="tf-ion-social-github"></i></a></li>
+                {{ end }}
+              {{ end }}  
+            </ul>
+  
+          </div>
+
+          <div class="content">{{ .Content }}</div>
+
+
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+{{ end }}
