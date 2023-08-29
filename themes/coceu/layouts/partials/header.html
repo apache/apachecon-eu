@@ -35,7 +35,7 @@
 
         {{ if .Site.Params.navigation_button.enable }}
         <li class="nav-item">
-          <a id="nav-button" href="{{ .Site.Params.navigation_button.link | absURL }}" class="btn btn-orange text-white btn-rounded">{{
+          <a id="nav-button" href="{{ .Site.Params.navigation_button.link | relURL }}" class="btn btn-orange text-white btn-rounded">{{
             .Site.Params.navigation_button.label }}</a>
         </li>
         {{ end }}
