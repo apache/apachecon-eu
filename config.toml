@@ -39,13 +39,13 @@ speaker = "speakers"
 
 [params]
 description = "Community Over Code Europe is the annual gathering in Europe of the Apache Software Foundation community."
-logo = "/images/logo-h.svg"
+logo = "images/logo-h.svg"
 home = "Home"
 privacy_policy = "/privacy"
 footer_text = "Community Over Code operates under the terms of [The ASF Code of Conduct](http://apache.org/foundation/policies/conduct)."
 
 # First one is picked as the Twitter card image if not set on page.
-images = ["/images/card.jpg"]
+images = ["images/card.jpg"]
 start_date = "2024-06-03T09:00-05:00"
 end_date = "2024-06-05T17:00-05:00" 
 
@@ -70,7 +70,7 @@ link = "/tickets"
     icon = "fa fa-envelope"
 [[params.links.media]]
     name = "Slack"
-    url = "http://s.apache.org/apachecon-slack"
+    url = "https://s.apache.org/apachecon-slack"
     icon = "fab fa-slack"
 [[params.links.media]]
     name = "Watch us on YouTube"
