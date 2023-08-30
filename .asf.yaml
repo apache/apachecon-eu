@@ -19,7 +19,8 @@
 ---
 github:
   description: "Community Over Code EU - EU edition of the flagship ASF conference"
-  homepage: https://eu.communityovercode.org
+  #homepage: https://eu.communityovercode.org
+  homepage: https://eu.hhn.dev
   labels:
     - apache
     - community-over-code
