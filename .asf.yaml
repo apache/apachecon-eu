@@ -41,7 +41,9 @@ github:
 
   collaborators:
 
-  ghp_branch: gh-pages
+  github:
+    ghp_branch:  gh-pages
+    ghp_path:    /
 
 publish:
   whoami:   gh-pages
