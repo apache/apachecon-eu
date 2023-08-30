@@ -1,5 +1,6 @@
 
-baseURL = "https://eu.communityovercode.org"
+# baseURL = "https://eu.communityovercode.org"
+baseURL= "https://apache.github.io/apachecon-eu"
 title = "Community Over Code Europe"
 description = "Community Over Code Europe is the annual gathering in Europe of the Apache Software Foundation community."
 enableRobotsTXT = true
