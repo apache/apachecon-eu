@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Partners on Community Over Code Europe</title>
+    <link>https://coceu.apache.org/partners/</link>
+    <description>Recent content in Partners on Community Over Code Europe</description>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://coceu.apache.org/partners/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Google Cloud</title>
+      <link>https://coceu.apache.org/partners/google/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://coceu.apache.org/partners/google/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Packt Publishing</title>
+      <link>https://coceu.apache.org/partners/packt/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://coceu.apache.org/partners/packt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>IBM</title>
+      <link>https://coceu.apache.org/partners/ibm/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://coceu.apache.org/partners/ibm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kiwi.com</title>
+      <link>https://coceu.apache.org/partners/kiwi/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://coceu.apache.org/partners/kiwi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>lakeFS</title>
+      <link>https://coceu.apache.org/partners/lakefs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://coceu.apache.org/partners/lakefs/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

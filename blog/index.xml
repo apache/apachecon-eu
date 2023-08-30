@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog on Community Over Code Europe</title>
+    <link>https://coceu.apache.org/blog/</link>
+    <description>Recent content in Blog on Community Over Code Europe</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 10 Sep 2019 13:51:25 +0600</lastBuildDate><atom:link href="https://coceu.apache.org/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Save the date for Community Over Code EU 2024</title>
+      <link>https://coceu.apache.org/blog/save-the-date/</link>
+      <pubDate>Sun, 20 Aug 2023 10:00:00 +0000</pubDate>
+      
+      <guid>https://coceu.apache.org/blog/save-the-date/</guid>
+      <description>Community Over Code EU 2024 is happenning! It will be on June 3-5, 2024 in Bratislava, Slovakia.
+Things to know for the moment:
+ Content  We have an open call for tracks. If you are interested in hosting a track, please &amp;hellip; We plan to open the call for papers on October 2023.   Sponsorships  We are looking for companies interested in participating as sponsors and partners. We will soon have the Prospectus available in this website.</description>
+    </item>
+    
+  </channel>
+</rss>

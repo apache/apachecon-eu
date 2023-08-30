@@ -1,0 +1,14 @@
+node_modules/
+dist/
+site/data/webpack.json
+resources/
+site/static/_gen/
+.firebase/
+public/
+*Zone.Identifier
+firebase-debug.log
+scripts/
+.idea
+*.iml
+.hugo_build.lock
+.DS_Store

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Community Over Code EU 2024 sessions on Community Over Code Europe</title>
+    <link>https://coceu.apache.org/sessions/2024/</link>
+    <description>Recent content in Community Over Code EU 2024 sessions on Community Over Code Europe</description>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://coceu.apache.org/sessions/2024/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello World ComCodeEU</title>
+      <link>https://coceu.apache.org/sessions/2024/hello-world/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://coceu.apache.org/sessions/2024/hello-world/</guid>
+      <description>This is a nice little abstract.
+And this is a new paragraph within the abstract.</description>
+    </item>
+    
+  </channel>
+</rss>
