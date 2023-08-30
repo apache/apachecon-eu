@@ -40,7 +40,7 @@ speaker = "speakers"
 [params]
 description = "Community Over Code Europe is the annual gathering in Europe of the Apache Software Foundation community."
 # TODO: Change this to images/logo-h.svg once we have the real URL in place
-logo = "ttps://apache.github.io/apachecon-eu/images/logo-h.svg"
+logo = "https://apache.github.io/apachecon-eu/images/logo-h.svg"
 home = "Home"
 privacy_policy = "/privacy"
 footer_text = "Community Over Code operates under the terms of [The ASF Code of Conduct](https://apache.org/foundation/policies/conduct)."
