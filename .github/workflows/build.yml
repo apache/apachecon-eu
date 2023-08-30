@@ -1,0 +1,77 @@
+# Licensed to the Apache Software Foundation (ASF) under one
+# or more contributor license agreements.  See the NOTICE file
+# distributed with this work for additional information
+# regarding copyright ownership.  The ASF licenses this file
+# to you under the Apache License, Version 2.0 (the
+# "License"); you may not use this file except in compliance
+# with the License.  You may obtain a copy of the License at
+#
+#   http://www.apache.org/licenses/LICENSE-2.0
+#
+# Unless required by applicable law or agreed to in writing,
+# software distributed under the License is distributed on an
+# "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+# KIND, either express or implied.  See the License for the
+# specific language governing permissions and limitations
+# under the License.
+
+name: Build docs
+
+on:
+  push:
+    branches: ['main']
+  pull_request:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: 🗂 Checkout
+        uses: actions/checkout@c85c95e3d7251135ab7dc9ce3241c5835cc595a9  # v3.5.3
+        with:
+          submodules: recursive
+          lfs: true
+          fetch-depth: 1
+      - name: 📚 Install Hugo
+        uses: peaceiris/actions-hugo@v2.4.13  # v2.4.13
+        with:
+          hugo-version: '0.91.2'
+          extended: true
+      - name: 🗂 Checkout gh-pages branch with minimum depth
+        uses: actions/checkout@c85c95e3d7251135ab7dc9ce3241c5835cc595a9  # 3.5.3
+        if: ${{ github.event_name == 'push' }}
+        with:
+          ref: gh-pages
+          fetch-depth: 1
+          path: dist
+      - name: 🔧 Build site
+        run: |
+          env HUGO_ENV="production" hugo
+      - name: 👷 Copy ./public/* and ./resources/* and .asf.yaml to /dist/
+        if: ${{ github.event_name == 'push' }}
+        run: |
+          rm -r ./dist/*
+          cp -r ./public/* ./dist/
+          cp -r ./resources/* ./dist/
+          # The asf.yaml file must be in the branch from which the files are published.
+          # Otherwise, ASF publising tools cannot detect it.
+          cp .asf.yaml ./dist/
+      - name: 🚀 Amend gh-pages branch and deploy it with force (replacing previous pages)
+        if: ${{ github.event_name == 'push' }}
+        working-directory: dist
+        run: |
+          echo "Running git config"
+          git config user.name "GitHub Actions"
+          git config user.email "actions@users.noreply.github.com"
+          echo "Running git add"
+          git add .
+          echo "Running git commit"
+          git commit --amend --no-edit > ../git_commit.log
+          git push --force origin gh-pages
+      - name: 🚀 Upload git commit log as artifacts
+        uses: actions/upload-artifact@0b7f8abb1508181956e8e162db84b466c27e18ce  # v3.1.2
+        with:
+          name: comovercode-eu-git-commit-log
+          path: './git_commit.log'
+          retention-days: 5
