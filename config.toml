@@ -1,5 +1,7 @@
 
-baseURL = "https://eu.communityovercode.org"
+# baseURL = "https://eu.communityovercode.org"
+baseURL= "https://coceu.apache.org"
+canonifyURLs = false
 title = "Community Over Code Europe"
 description = "Community Over Code Europe is the annual gathering in Europe of the Apache Software Foundation community."
 enableRobotsTXT = true
@@ -40,7 +42,7 @@ description = "Community Over Code Europe is the annual gathering in Europe of t
 logo = "/images/coc-logo-color.svg"
 home = "Home"
 privacy_policy = "/privacy"
-footer_text = "Community Over Code operates under the terms of [The ASF Code of Conduct](http://apache.org/foundation/policies/conduct)."
+footer_text = "Community Over Code operates under the terms of [The ASF Code of Conduct](https://apache.org/foundation/policies/conduct)."
 
 # First one is picked as the Twitter card image if not set on page.
 images = ["/images/card.jpg"]
@@ -68,7 +70,7 @@ link = "/tickets"
     icon = "fa fa-envelope"
 [[params.links.media]]
     name = "Slack"
-    url = "http://s.apache.org/apachecon-slack"
+    url = "https://s.apache.org/apachecon-slack"
     icon = "fab fa-slack"
 [[params.links.media]]
     name = "Watch us on YouTube"

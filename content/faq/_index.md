@@ -24,7 +24,7 @@ You will receive your letter by email to the email address associated with your 
 
 ### Can I get a refund for my ticket if I don't get my visa approved?
 
-Yes, If that happens just send us the info about your visa being rejected and we will issue you a complete refund for your ticket.
+Yes, If that happens just send us the info about your visa being rejected, and we will issue you a complete refund for your ticket.
 
 
 ### Is there a code of conduct?
