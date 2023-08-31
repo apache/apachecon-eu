@@ -13,12 +13,13 @@
 }
 
 body.home .main-nav {
-  background-image: url("/images/bg/background-stars.jpg");
-  background-position: top;
+  background-color: $white;
+  //  background-image: url("/images/bg/background-stars.jpg");
+  //  background-position: top;
 }
 
 body.interior .main-nav {
-  background-color: $indigo;
+  background-color: $white;
 }
 
 .main-nav {
@@ -29,7 +30,7 @@ body.interior .main-nav {
     font-size: 26px;
     padding: 0 !important;
     margin: 0 20px;
-    color: $white !important;
+    color: $indigo !important;
     font-weight: 400;
 
     @media (max-width: 640px) {
@@ -103,7 +104,7 @@ body.interior .main-nav {
 
 .page-header {
 
-  margin-top: 120px;
+  margin-top: 150px;
 
   ul li {
     font-size: 18px;
