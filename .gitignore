@@ -12,4 +12,3 @@ scripts/
 *.iml
 .hugo_build.lock
 .DS_Store
-.tmp
