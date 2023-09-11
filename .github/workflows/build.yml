@@ -34,7 +34,7 @@ jobs:
           lfs: true
           fetch-depth: 1
       - name: 📚 Install Hugo
-        uses: peaceiris/actions-hugo@v2.4.13  # v2.4.13
+        uses: peaceiris/actions-hugo@16361eb4acea8698b220b76c0d4e84e1fd22c61d  # v2.6.0
         with:
           hugo-version: '0.91.2'
           extended: true
@@ -48,16 +48,18 @@ jobs:
       - name: 🔧 Build site
         run: |
           env HUGO_ENV="production" hugo
+      - name: 👷 Cleanup dist directory except .git and CNAME (each fork can have its own CNAME)
+        if: ${{ github.event_name == 'push' }}
+        run: find ./dist -mindepth 1 ! -path ./dist/CNAME ! -path './dist/.git*' -delete -print
       - name: 👷 Copy ./public/* and ./resources/* and .asf.yaml to /dist/
         if: ${{ github.event_name == 'push' }}
         run: |
-          rm -r ./dist/*
           cp -r ./public/* ./dist/
           cp -r ./resources/* ./dist/
           # The asf.yaml file must be in the branch from which the files are published.
-          # Otherwise, ASF publising tools cannot detect it.
+          # Otherwise, ASF publishing tools cannot detect it.
           cp .asf.yaml ./dist/
-      - name: 🚀 Amend gh-pages branch and deploy it with force (replacing previous pages)
+      - name: 🚀 Add commit to the gh-pages branch and deploy it
         if: ${{ github.event_name == 'push' }}
         working-directory: dist
         run: |
@@ -67,11 +69,11 @@ jobs:
           echo "Running git add"
           git add .
           echo "Running git commit"
-          git commit --amend --no-edit > ../git_commit.log
-          git push --force origin gh-pages
+          git commit -m "Regenerated website based on ${GITHUB_SHA} commit" > ../git_commit.log
+          git push origin gh-pages
       - name: 🚀 Upload git commit log as artifacts
         uses: actions/upload-artifact@0b7f8abb1508181956e8e162db84b466c27e18ce  # v3.1.2
         with:
-          name: comovercode-eu-git-commit-log
+          name: coceu-git-commit-log
           path: './git_commit.log'
           retention-days: 5
