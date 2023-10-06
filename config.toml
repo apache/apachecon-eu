@@ -53,12 +53,12 @@ end_date = "2024-06-05T17:00-05:00"
 text = "June 3-5, 2024. Bratislava, Slovakia."
 
 [params.hero.cta1]
-text = "Call to action"
-link = "/tickets"
+text = "Submit your proposal"
+link = "https://sessionize.com/coceu-2024/"
 
 # Navigation button
 [params.navigation_button]
-enable = true
+enable = false
 label = "Tickets"
 link = "/tickets"
 
