@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sessions archive on Community Over Code Europe</title>
-    <link>https://coceu.apache.org/sessions/</link>
+    <link>https://eu.communityovercode.org/sessions/</link>
     <description>Recent content in Sessions archive on Community Over Code Europe</description>
-    <generator>Hugo -- gohugo.io</generator><atom:link href="https://coceu.apache.org/sessions/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://eu.communityovercode.org/sessions/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

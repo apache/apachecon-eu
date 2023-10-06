@@ -2,61 +2,61 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Community Over Code EU on Community Over Code Europe</title>
-    <link>https://coceu.apache.org/</link>
+    <link>https://eu.communityovercode.org/</link>
     <description>Recent content in Community Over Code EU on Community Over Code Europe</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 20 Aug 2023 10:00:00 +0000</lastBuildDate><atom:link href="https://coceu.apache.org/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 20 Aug 2023 10:00:00 +0000</lastBuildDate><atom:link href="https://eu.communityovercode.org/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Google Cloud</title>
-      <link>https://coceu.apache.org/partners/google/</link>
+      <link>https://eu.communityovercode.org/partners/google/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://coceu.apache.org/partners/google/</guid>
+      <guid>https://eu.communityovercode.org/partners/google/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Packt Publishing</title>
-      <link>https://coceu.apache.org/partners/packt/</link>
+      <link>https://eu.communityovercode.org/partners/packt/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://coceu.apache.org/partners/packt/</guid>
+      <guid>https://eu.communityovercode.org/partners/packt/</guid>
       <description></description>
     </item>
     
     <item>
       <title>IBM</title>
-      <link>https://coceu.apache.org/partners/ibm/</link>
+      <link>https://eu.communityovercode.org/partners/ibm/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://coceu.apache.org/partners/ibm/</guid>
+      <guid>https://eu.communityovercode.org/partners/ibm/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Kiwi.com</title>
-      <link>https://coceu.apache.org/partners/kiwi/</link>
+      <link>https://eu.communityovercode.org/partners/kiwi/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://coceu.apache.org/partners/kiwi/</guid>
+      <guid>https://eu.communityovercode.org/partners/kiwi/</guid>
       <description></description>
     </item>
     
     <item>
       <title>lakeFS</title>
-      <link>https://coceu.apache.org/partners/lakefs/</link>
+      <link>https://eu.communityovercode.org/partners/lakefs/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://coceu.apache.org/partners/lakefs/</guid>
+      <guid>https://eu.communityovercode.org/partners/lakefs/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Submit your proposal for Community Over Code 2024</title>
-      <link>https://coceu.apache.org/blog/cfp-open/</link>
+      <link>https://eu.communityovercode.org/blog/cfp-open/</link>
       <pubDate>Sun, 20 Aug 2023 10:00:00 +0000</pubDate>
       
-      <guid>https://coceu.apache.org/blog/cfp-open/</guid>
+      <guid>https://eu.communityovercode.org/blog/cfp-open/</guid>
       <description>It&amp;rsquo;s back and it&amp;rsquo;s new!
 We&amp;rsquo;re excited to announce that the first edition of Community over Code Europe (formerly known as ApacheCon EU) will be held at the Radisson Blu Carlton Hotel in Bratislava, Slovenia from June 03-05, 2024! This eagerly anticipated event will be our first live EU conference since 2019.
 The Call for Presentations (CFP) for Community Over Code EU 2024 is now open at https://sessionize.com/coceu-2024.
@@ -65,151 +65,151 @@ We welcome submissions on any topic related to the Apache Software Foundation, A
     
     <item>
       <title>Partner With Us</title>
-      <link>https://coceu.apache.org/partner-with-us/</link>
+      <link>https://eu.communityovercode.org/partner-with-us/</link>
       <pubDate>Wed, 19 Jul 2023 16:15:26 -0600</pubDate>
       
-      <guid>https://coceu.apache.org/partner-with-us/</guid>
+      <guid>https://eu.communityovercode.org/partner-with-us/</guid>
       <description>Why Partner with Community Over Code EU? This in-person event is an opportunity to get in contact with users, committers, and contributors.
  Increase your brand’s awareness Connect with a specialized audience Share your success story Reactivate in-person presence Reach out to a global audience  Take a look at our Prospectus and get to know more about the available opportunities and benefits. We are open to participation suggestions, feel free to Contact Us!</description>
     </item>
     
     <item>
       <title>Jarek Potiuk</title>
-      <link>https://coceu.apache.org/team/jarek-potiuk/</link>
+      <link>https://eu.communityovercode.org/team/jarek-potiuk/</link>
       <pubDate>Wed, 26 May 2021 12:10:21 -0500</pubDate>
       
-      <guid>https://coceu.apache.org/team/jarek-potiuk/</guid>
+      <guid>https://eu.communityovercode.org/team/jarek-potiuk/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Mara Ruvalcaba</title>
-      <link>https://coceu.apache.org/team/mara-ruvalcaba/</link>
+      <link>https://eu.communityovercode.org/team/mara-ruvalcaba/</link>
       <pubDate>Fri, 23 Apr 2021 10:26:07 -0500</pubDate>
       
-      <guid>https://coceu.apache.org/team/mara-ruvalcaba/</guid>
+      <guid>https://eu.communityovercode.org/team/mara-ruvalcaba/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Pedro Galvan</title>
-      <link>https://coceu.apache.org/team/pedro-galvan/</link>
+      <link>https://eu.communityovercode.org/team/pedro-galvan/</link>
       <pubDate>Fri, 23 Apr 2021 10:26:07 -0500</pubDate>
       
-      <guid>https://coceu.apache.org/team/pedro-galvan/</guid>
+      <guid>https://eu.communityovercode.org/team/pedro-galvan/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Alberto Rodríguez</title>
-      <link>https://coceu.apache.org/team/alberto-rodriguez/</link>
+      <link>https://eu.communityovercode.org/team/alberto-rodriguez/</link>
       <pubDate>Fri, 23 Apr 2021 10:24:17 -0500</pubDate>
       
-      <guid>https://coceu.apache.org/team/alberto-rodriguez/</guid>
+      <guid>https://eu.communityovercode.org/team/alberto-rodriguez/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Carolina Escobar</title>
-      <link>https://coceu.apache.org/team/carolina-escobar/</link>
+      <link>https://eu.communityovercode.org/team/carolina-escobar/</link>
       <pubDate>Fri, 23 Apr 2021 10:24:17 -0500</pubDate>
       
-      <guid>https://coceu.apache.org/team/carolina-escobar/</guid>
+      <guid>https://eu.communityovercode.org/team/carolina-escobar/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Pamela Orozco</title>
-      <link>https://coceu.apache.org/team/pamela-orozco/</link>
+      <link>https://eu.communityovercode.org/team/pamela-orozco/</link>
       <pubDate>Fri, 23 Apr 2021 10:24:17 -0500</pubDate>
       
-      <guid>https://coceu.apache.org/team/pamela-orozco/</guid>
+      <guid>https://eu.communityovercode.org/team/pamela-orozco/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Teyza Ponce</title>
-      <link>https://coceu.apache.org/team/teyza-ponce/</link>
+      <link>https://eu.communityovercode.org/team/teyza-ponce/</link>
       <pubDate>Fri, 23 Apr 2021 10:24:17 -0500</pubDate>
       
-      <guid>https://coceu.apache.org/team/teyza-ponce/</guid>
+      <guid>https://eu.communityovercode.org/team/teyza-ponce/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Fernando Hernández</title>
-      <link>https://coceu.apache.org/team/fernando-hernandez/</link>
+      <link>https://eu.communityovercode.org/team/fernando-hernandez/</link>
       <pubDate>Fri, 23 Apr 2021 10:24:07 -0500</pubDate>
       
-      <guid>https://coceu.apache.org/team/fernando-hernandez/</guid>
+      <guid>https://eu.communityovercode.org/team/fernando-hernandez/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Accessibility</title>
-      <link>https://coceu.apache.org/accessibility/</link>
+      <link>https://eu.communityovercode.org/accessibility/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://coceu.apache.org/accessibility/</guid>
+      <guid>https://eu.communityovercode.org/accessibility/</guid>
       <description>Community Over Code EU strives to be a welcoming, inclusive, and accessible environment for all, regardless of ability.
 Participants requiring special accommodations should provide details in their registration and/or by emailing us at hello-eu@communityovercode.org. This information will be kept private and only be shared with individuals who need to know to secure these accommodations.</description>
     </item>
     
     <item>
       <title>Code of Conduct</title>
-      <link>https://coceu.apache.org/coc/</link>
+      <link>https://eu.communityovercode.org/coc/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://coceu.apache.org/coc/</guid>
+      <guid>https://eu.communityovercode.org/coc/</guid>
       <description>Introduction This code of conduct applies to all spaces the Apache Software Foundation manages, including IRC, public and private mailing lists, issue trackers, wikis, blogs, Twitter, and any other communication channels our communities use. A code of conduct which is specific to in-person events (ie., conferences) is in the ASF anti-harassment policy.
 We expect everyone who participates in the Apache community formally or informally, or claims any affiliation with the Foundation, in any Foundation-related activities and especially when representing the ASF in any role to honor this code of conduct.</description>
     </item>
     
     <item>
       <title>Hello World ComCodeEU</title>
-      <link>https://coceu.apache.org/sessions/2024/hello-world/</link>
+      <link>https://eu.communityovercode.org/sessions/2024/hello-world/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://coceu.apache.org/sessions/2024/hello-world/</guid>
+      <guid>https://eu.communityovercode.org/sessions/2024/hello-world/</guid>
       <description>This is a nice little abstract.
 And this is a new paragraph within the abstract.</description>
     </item>
     
     <item>
       <title>Previous speakers</title>
-      <link>https://coceu.apache.org/speakers/archive/</link>
+      <link>https://eu.communityovercode.org/speakers/archive/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://coceu.apache.org/speakers/archive/</guid>
+      <guid>https://eu.communityovercode.org/speakers/archive/</guid>
       <description>Meet our archive of speakers from all previous editions. </description>
     </item>
     
     <item>
       <title>Privacy Policy</title>
-      <link>https://coceu.apache.org/privacy/</link>
+      <link>https://eu.communityovercode.org/privacy/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://coceu.apache.org/privacy/</guid>
+      <guid>https://eu.communityovercode.org/privacy/</guid>
       <description>Privacy Policy Community Over Code EU collects some personal data from its users. We take great care in collecting only the essential minimum data that we need to provide the service and to manage this data adequately. This document provides more details about the data we gather and how it is used.
 Data controller Although Community Over Code EU is a community initiative, the legal entity responsible for the event is:</description>
     </item>
     
     <item>
       <title>Tickets</title>
-      <link>https://coceu.apache.org/tickets/</link>
+      <link>https://eu.communityovercode.org/tickets/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://coceu.apache.org/tickets/</guid>
+      <guid>https://eu.communityovercode.org/tickets/</guid>
       <description>Tickets coming soon. In the meantime, sign up for updates.
 Sign up to stay in the loop!  </description>
     </item>
     
     <item>
       <title>Venue &#43; Travel</title>
-      <link>https://coceu.apache.org/venue/</link>
+      <link>https://eu.communityovercode.org/venue/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://coceu.apache.org/venue/</guid>
+      <guid>https://eu.communityovercode.org/venue/</guid>
       <description>Photo by amanda on Unsplash
 Discover Toronto Toronto is now the third-largest tech hub in North America. It is home to more tech workers than Chicago, Los Angeles, Seattle, and Washington, D.C., according to CBRE, a real estate company that tracks tech hiring.
 The Venue Marriott Downtown at Eaton Centre is located in the midst of some of the city’s most popular attractions and prominent destinations. Located next to world-class shopping, dining, and entertainment at CF Toronto Eaton Centre and within walking distance of various attractions while the hotel’s Bay Street address in downtown Toronto beckons guests to relax, rejuvenate and explore the city.</description>

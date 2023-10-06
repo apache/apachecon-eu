@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Program on Community Over Code Europe</title>
-    <link>https://coceu.apache.org/program/</link>
+    <link>https://eu.communityovercode.org/program/</link>
     <description>Recent content in Program on Community Over Code Europe</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 21 Apr 2023 15:49:31 -0500</lastBuildDate><atom:link href="https://coceu.apache.org/program/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 21 Apr 2023 15:49:31 -0500</lastBuildDate><atom:link href="https://eu.communityovercode.org/program/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

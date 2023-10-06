@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blog on Community Over Code Europe</title>
-    <link>https://coceu.apache.org/blog/</link>
+    <link>https://eu.communityovercode.org/blog/</link>
     <description>Recent content in Blog on Community Over Code Europe</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 10 Sep 2019 13:51:25 +0600</lastBuildDate><atom:link href="https://coceu.apache.org/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 10 Sep 2019 13:51:25 +0600</lastBuildDate><atom:link href="https://eu.communityovercode.org/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Submit your proposal for Community Over Code 2024</title>
-      <link>https://coceu.apache.org/blog/cfp-open/</link>
+      <link>https://eu.communityovercode.org/blog/cfp-open/</link>
       <pubDate>Sun, 20 Aug 2023 10:00:00 +0000</pubDate>
       
-      <guid>https://coceu.apache.org/blog/cfp-open/</guid>
+      <guid>https://eu.communityovercode.org/blog/cfp-open/</guid>
       <description>It&amp;rsquo;s back and it&amp;rsquo;s new!
 We&amp;rsquo;re excited to announce that the first edition of Community over Code Europe (formerly known as ApacheCon EU) will be held at the Radisson Blu Carlton Hotel in Bratislava, Slovenia from June 03-05, 2024! This eagerly anticipated event will be our first live EU conference since 2019.
 The Call for Presentations (CFP) for Community Over Code EU 2024 is now open at https://sessionize.com/coceu-2024.
