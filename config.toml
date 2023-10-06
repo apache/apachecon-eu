@@ -1,6 +1,5 @@
 
-# baseURL = "https://eu.communityovercode.org"
-baseURL= "https://coceu.apache.org"
+baseURL = "https://eu.communityovercode.org"
 canonifyURLs = false
 title = "Community Over Code Europe"
 description = "Community Over Code Europe is the annual gathering in Europe of the Apache Software Foundation community."
