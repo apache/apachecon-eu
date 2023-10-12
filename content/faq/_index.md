@@ -8,7 +8,7 @@ linkTitle: "FAQ"
 Community Over Code EU 2024 will be at the Radisson Blu hotel in Bratislava, Slovakia. We will soon provide more information in this website about the hotel and how to make reservations.
 
 ### Is there a code of conduct?
-Yes. We aim to provide a harassment-free experience to all participants and follow the [ASF Code of Conduct](https://apache.org/foundation/policies/conduct).
+Yes. We aim to provide a harassment-free experience to all participants following the [ASF Anti-Harassment Policy](https://apache.org/foundation/policies/anti-harassment.html) and the [ASF Code of Conduct](https://apache.org/foundation/policies/conduct).
 
 ### How/when can I get a ticket?
 We are finalizing details for tickets and will have them available in this website very soon.
