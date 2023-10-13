@@ -7,7 +7,7 @@ The website is built with [Hugo](https://gohugo.io)
 
 ### Installation
 
-You can install Hugo by following the installation guide(https://gohugo.io/installation/).
+You can install Hugo by following the [installation guide](https://gohugo.io/installation/).
 
 ### Run site in dev mode
 
@@ -20,3 +20,7 @@ hugo server -D
 Then open the website in a browser at http://localhost:1313/
 
 For adding or editing pages, modify the corresponding file under /content.
+
+### Publishing eu.communityovercode.org
+
+Follow the [documentation guide](https://docs.google.com/document/d/1tnvrY-RVwNXyIkv8eDvpCJ9NKDtyoHsACATT5CGOqRc)
