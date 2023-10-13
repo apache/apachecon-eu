@@ -5,14 +5,14 @@
     <a class="navbar-brand ml-4 pb-2" href='{{ "/" | relURL }}'>
       <img src="{{ .Site.Params.logo | relURL }}" alt="{{ .Site.Title }}" class="img-fluid logo-b">
     </a>
-    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navigation"
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navigation"
       aria-controls="navigation" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
     </button>
 
     <!--  MAIN MENU  -->
-    <div class="collapse navbar-collapse text-center" id="navigation">
-      <ul class="navbar-nav mx-auto align-items-center">
+    <div class="collapse navbar-collapse text-center my-auto" id="navigation">
+      <ul class="navbar-nav me-auto align-items-center">
         {{ range .Site.Menus.main }}
         {{ if .HasChildren }}
         <li class="nav-item dropdown">
