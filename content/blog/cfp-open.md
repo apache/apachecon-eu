@@ -12,7 +12,7 @@ author: "Community Over Code EU Team"
 
 It's back *and* it's new!
 
-We're excited to announce that the first edition of Community over Code Europe (formerly known as ApacheCon EU) will be held at the Radisson Blu Carlton Hotel in Bratislava, Slovenia from June 03-05, 2024! This eagerly anticipated event will be our first live EU conference since 2019.
+We're excited to announce that the first edition of Community over Code Europe (formerly known as ApacheCon EU) will be held at the Radisson Blu Carlton Hotel in Bratislava, Slovakia from June 03-05, 2024! This eagerly anticipated event will be our first live EU conference since 2019.
 
 The Call for Presentations (CFP) for Community Over Code EU 2024 is now open at <a href="https://sessionize.com/coceu-2024/" target="_blank">https://sessionize.com/coceu-2024</a>.
 
