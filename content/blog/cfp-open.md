@@ -75,7 +75,7 @@ All things Apache Cassandra, focusing on 5.0 features, what's next in 5.1, how w
 Presenting the new Apache CloudStack release, new integrations and capabilities and user stories.
 
 **Community**:
-Community, Governance, and Culture, covering the social and organizational aspects of ASF projects, and the Foundation at large.
+This track covers the Community, Governance, and Culture, including the social and organizational aspects, of ASF projects and the Foundation at large.
 Topics might include community building, diversity, governance, collaboration, culture, and open source history.
 
 **Data Engineering**:
@@ -120,7 +120,7 @@ Posters about ASF projects and topics of interest to ASF projects.
 Posters with original research are more likely to be accepted.
 We are looking for ideas and concepts that are applicable across projects.
 Posters do not have to be associated with an ASF project.
-Access/use of all information presented or referenced may not be inhibited by patent or other licensing restrictions. 
+Access/use of all information presented or referenced must be unencumbered by by patent or other licensing restrictions. 
 
 **Search**:
 This is a track for "All things Search".
