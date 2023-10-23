@@ -16,28 +16,6 @@
   {{- template "_internal/opengraph.html" . -}}
   {{- template "_internal/twitter_cards.html" . -}}
 
-  {{ with .Site.Params.google_ads }}
-  <!-- Global site tag (gtag.js) - Google Analytics -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id={{ . }}"></script>
-  <script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
-    gtag('js', new Date());
-    gtag('config', '{{ . }}', { 'debug_mode':true });
-  </script>
-  {{ end }}
-
-  {{ with .Site.Params.google_analytics_4 }}
-  <!-- Global site tag (gtag.js) - Google Analytics -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id={{ . }}"></script>
-  <script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
-    gtag('js', new Date());
-    gtag('config', '{{ . }}', { 'debug_mode':true });
-  </script>
-  {{ end }}
-
 
   {{ "<!-- plugins -->" | safeHTML }}
   {{ range .Site.Params.plugins.css }}
@@ -51,7 +29,6 @@
   {{ "<!--Favicon-->" | safeHTML }}
   <link rel="shortcut icon" href="{{ `favicon.ico` | relURL }}" type="image/x-icon">
   <link rel="icon" href="{{ `favicon.ico` | relURL }}" type="image/x-icon">
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@10/swiper-bundle.min.css" />
 
   {{ if .IsHome }}    
   <script type="application/ld+json">
@@ -98,8 +75,7 @@
   </script>
 {{ end }}
 
-<!-- AddEvent script -->
-<script type="text/javascript" src="https://addevent.com/libs/atc/1.6.1/atc.min.js" async defer></script>
+<!-- AddEvent setup (remember to load plugin in config.toml) -->
 
 <script type="text/javascript">
   window.addeventasync = function(){
