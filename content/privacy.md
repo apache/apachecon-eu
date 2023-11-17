@@ -37,8 +37,6 @@ Participants at this event may require to interact with the following third part
 
 *   [Tito](https://ti.to) is used for user registration and ticket purchase. Its privacy policy is available at [https://ti.to/privacy](https://ti.to/privacy)
 *   [Stripe](https://stripe.com/) is used for processing payments. Its privacy policy is available at [https://stripe.com/privacy](https://stripe.com/privacy)
-*   [Google Analytics](https://google.com/analytics) is used to track and examine the use of this website. Google may use the data collected to contextualize and personalize the ads of its own advertising network. Personal Data collected: Cookies; Usage Data. Place of processing: United States. Its privacy policy is available at [https://policies.google.com/privacy](https://policies.google.com/privacy) and you can opt out at [https://tools.google.com/dlpage/gaoptout](https://tools.google.com/dlpage/gaoptout) 
-
 
 ### Mode and place of processing the data
 
