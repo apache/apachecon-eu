@@ -23,15 +23,32 @@ speaker = "speakers"
 ############################## navigation ###############################
 [menu]
 
+
 [[menu.main]]
-  name = "About"
-  url = "/about"
-  weight = 1
+    identifier = "category"
+    name = "About"
+    url = "/about"
+    weight = 2
+  [[menu.main]]
+    identifier = "category1"
+    name = "About Community OC"
+    url = "/about"
+    parent = "category"
+    weight = 1
+  [[menu.main]]
+    identifier = "category2"
+    name = "About the AS"
+    url = "/about-the-as"
+    parent = "category"
+    weight = 2
+
 
 [[menu.main]]
   name = "FAQ"
   URL = "faq"
   weight = 7
+
+
 
 
 # Everything below this are Site Params
