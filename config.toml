@@ -31,14 +31,14 @@ speaker = "speakers"
     weight = 2
   [[menu.main]]
     identifier = "category1"
-    name = "About Community OC"
+    name = "About Community Over Code"
     url = "/about"
     parent = "category"
     weight = 1
   [[menu.main]]
     identifier = "category2"
-    name = "About the AS"
-    url = "/about-the-as"
+    name = "About the ASF"
+    url = "/about-the-asf"
     parent = "category"
     weight = 2
 
