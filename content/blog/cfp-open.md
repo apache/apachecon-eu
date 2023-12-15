@@ -1,5 +1,5 @@
 ---
-title: "Submit your proposal for Community Over Code 2024"
+title: "Submit your proposal"
 date: 2023-08-20T10:00:00
 description: ""
 summary: ""

@@ -105,6 +105,9 @@ link = "/tickets"
 [[params.links.footer]]
     name = "Organizers"
     url = "/team"
+[[params.links.footer]]
+    name = "Prospectus"
+    url = "/files/community-over-code-prospectus-2024.pdf"
 
 
 [permalinks]
