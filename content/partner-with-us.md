@@ -23,6 +23,6 @@ This in-person event is an opportunity to get in contact with users, committers,
 <div class="text-center">
 <h2>Take a look at our <a href="/files/Prospectus-v1.pdf" target="_blank">Prospectus </a>and get to know more about the available opportunities and benefits.</h2>
 
-We are open to participation suggestions, feel free to [Contact Us!](mailto:planners-eu@apachecon.com)
+We are open to participation suggestions, feel free to [Contact Us!](mailto:planners@apachecon.com?subject=[EU])
 
 </div>

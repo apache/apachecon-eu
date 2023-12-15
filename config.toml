@@ -82,7 +82,7 @@ link = "/tickets"
 [params.links]
 [[params.links.media]]
     name = "Email us"
-    url = "mailto:planners-eu@apachecon.com"
+    url = "mailto:planners@apachecon.com?subject=[EU]"
     icon = "fa fa-envelope"
 [[params.links.media]]
     name = "Slack"
