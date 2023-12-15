@@ -5,7 +5,7 @@
     <link>https://eu.communityovercode.org/</link>
     <description>Recent content in Community Over Code EU on Community Over Code Europe</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 20 Aug 2023 10:00:00 +0000</lastBuildDate><atom:link href="https://eu.communityovercode.org/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 13 Dec 2023 10:00:00 +0000</lastBuildDate><atom:link href="https://eu.communityovercode.org/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Google Cloud</title>
       <link>https://eu.communityovercode.org/partners/google/</link>
@@ -49,6 +49,25 @@
       
       <guid>https://eu.communityovercode.org/partners/lakefs/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>About the Apache Software Foundation</title>
+      <link>https://eu.communityovercode.org/about-the-asf/</link>
+      <pubDate>Wed, 13 Dec 2023 14:45:09 -0600</pubDate>
+      
+      <guid>https://eu.communityovercode.org/about-the-asf/</guid>
+      <description>Founded in 1999, the Apache Software Foundation exists to provide software for the public good with support from more than 75 sponsors. ASF’s open source software is used ubiquitously around the world with more than 8,400 committers contributing to 320+ active projects including Apache Superset, Apache Camel, Apache Flink, Apache HTTP Server, Apache Kafka, and Apache Airflow. The ASF stewards 299M+ lines of code in 2,500+ Apache repositories across 320+ active projects.</description>
+    </item>
+    
+    <item>
+      <title>Join us to Celebrate the 25th Anniversary of the ASF!</title>
+      <link>https://eu.communityovercode.org/blog/anniversary/</link>
+      <pubDate>Wed, 13 Dec 2023 10:00:00 +0000</pubDate>
+      
+      <guid>https://eu.communityovercode.org/blog/anniversary/</guid>
+      <description>The Apache Software Foundation (ASF), composed by volunteer developers, stewards and incubators of more than 320 active Open Source projects and initiatives is celebrating its 25th anniversary in 2024!
+The ASF stewards 299M+ lines of code in 2,500+ Apache repositories across 320+ active projects. Each Apache Project is overseen by a Project Management Committee (PMC) that guides its day-to-day operations, including community development and product releases. Across the ASF, there are 209 committees managing 294 projects, including 5 special committees and 24 incubating podlings.</description>
     </item>
     
     <item>

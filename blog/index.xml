@@ -7,6 +7,16 @@
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Tue, 10 Sep 2019 13:51:25 +0600</lastBuildDate><atom:link href="https://eu.communityovercode.org/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Join us to Celebrate the 25th Anniversary of the ASF!</title>
+      <link>https://eu.communityovercode.org/blog/anniversary/</link>
+      <pubDate>Wed, 13 Dec 2023 10:00:00 +0000</pubDate>
+      
+      <guid>https://eu.communityovercode.org/blog/anniversary/</guid>
+      <description>The Apache Software Foundation (ASF), composed by volunteer developers, stewards and incubators of more than 320 active Open Source projects and initiatives is celebrating its 25th anniversary in 2024!
+The ASF stewards 299M+ lines of code in 2,500+ Apache repositories across 320+ active projects. Each Apache Project is overseen by a Project Management Committee (PMC) that guides its day-to-day operations, including community development and product releases. Across the ASF, there are 209 committees managing 294 projects, including 5 special committees and 24 incubating podlings.</description>
+    </item>
+    
+    <item>
       <title>About the venue</title>
       <link>https://eu.communityovercode.org/blog/venue/</link>
       <pubDate>Sun, 20 Aug 2023 10:00:00 +0000</pubDate>
