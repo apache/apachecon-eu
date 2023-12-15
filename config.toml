@@ -107,7 +107,7 @@ link = "/tickets"
     url = "/team"
 [[params.links.footer]]
     name = "Prospectus"
-    url = "/files/community-over-code-prospectus-2024.pdf"
+    url = "https://drive.google.com/file/d/1WYVv7Q7nQcljtYXRsWdj7KCaZvg2Gg4l/view"
 
 
 [permalinks]
