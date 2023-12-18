@@ -74,7 +74,7 @@ link = "https://sessionize.com/coceu-2024/"
 
 # Navigation button
 [params.navigation_button]
-enable = false
+enable = true
 label = "Tickets"
 link = "/tickets"
 
@@ -140,3 +140,6 @@ link="/plugins/swiper-bundle.min.js"
 
 [[params.plugins.js]]
 link="/plugins/bootstrap-table.min.js"
+
+[[params.plugins.js]]
+link="/plugins/tito.js"

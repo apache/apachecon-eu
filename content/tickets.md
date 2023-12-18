@@ -2,11 +2,9 @@
 title: "Tickets"
 ---
 
-#### Tickets coming soon.
+#### Get your ticket for Community Over Code 2023
 
-In the meantime, sign up for updates.
+* Take advantage of the early bird rate until February 16, 2024.
+* Ticket cancellations with full refund are possible up to 15 days before the event. Ticket transfers are possible at any time.
 
-<div class="text-center">
-<button data-tf-popup="kZOMqV4W" data-tf-opacity="100" data-tf-size="100" data-tf-iframe-props="title=COCEU - Interested" data-tf-transitive-search-params data-tf-medium="snippet" data-tf-hidden="utm_source=,utm_medium=,utm_campaign=" style="all:unset;font-family:Helvetica,Arial,sans-serif;display:inline-block;max-width:100%;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;background-color:#ea7826;color:#fff;font-size:20px;border-radius:25px;padding:0 33px;font-weight:400;height:50px;cursor:pointer;line-height:50px;text-align:center;margin:0;text-decoration:none;">Sign up to stay in the loop!</button><script src="//embed.typeform.com/next/embed.js"></script>
-</div>
-
+<tito-widget event="softwareguru/coceu2023"></tito-widget>
