@@ -42,6 +42,10 @@ speaker = "speakers"
     parent = "category"
     weight = 2
 
+[[menu.main]]
+  name = "Venue"
+  URL = "/blog/venue"
+  weight = 3
 
 [[menu.main]]
   name = "FAQ"
