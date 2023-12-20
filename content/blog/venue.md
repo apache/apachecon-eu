@@ -20,3 +20,29 @@ The cobblestoned streets of Bratislava city center invite guests at our central 
 
 Just a block from the Danube River, the Radisson Blu Carlton Hotel provides a charming overview of Old Town in Bratislava. The venue is located in the city center, providing a short commute to the city airport. The hotel is just 13 kilometers from Bratislava Airport and 3 kilometers from the Central Train Station. Whether by taxi, bus, tram, or trolley, it's easy to make your way around the city. For a memorable ride down the Danube, take a ferry ride from Vienna to Bratislava.
 
+
+<a id="lodging"></a>
+<h2 id="discounts" class="text-center">Where to Stay</h2>
+
+<br>
+
+
+<table class="table" style="background-color: transparent !important;">
+    <tr>
+      <th scope="col">Hotels</th>
+      <th scope="col">Walking time</th>
+      <th scope="col">Room rate</th>
+      <th scope="col">Booking link</th>
+    </tr>
+  <tbody>
+    <tr>
+      <th scope="row">Radisson Blue Carlton</th>
+      <td>-</td>
+      <td>€134.55</td>
+      <td><a href="http://tinyurl.com/mupc3fhk">COC2024 reservation link</td>
+    </tr>
+  </tbody>
+</table>
+
+   
+***Room rates don't include service fee and taxes***
