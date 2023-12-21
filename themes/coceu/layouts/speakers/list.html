@@ -10,7 +10,7 @@
       <div class="speaker-item">
         <div class="speaker-block">
           <div class="headshot-box">
-            <a href="{{.Permalink}}">
+            <a href="{{.RelPermalink}}">
               {{ $img := resources.Get (index .Params.images 0) }}
               {{ with $img }}
                 {{ $imgp := $img.Resize "400x webp" }}
