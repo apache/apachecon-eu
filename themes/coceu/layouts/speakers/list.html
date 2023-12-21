@@ -14,7 +14,7 @@
               {{ $img := resources.Get (index .Params.images 0) }}
               {{ with $img }}
                 {{ $imgp := $img.Resize "400x webp" }}
-                <img src="{{$imgp.Permalink }}" alt="Photo of {{.Title}}" class="img-fluid rounded-circle">
+                <img src="{{$imgp.RelPermalink }}" alt="Photo of {{.Title}}" class="img-fluid rounded-circle">
               {{ end }}  
           </a>
         </div>

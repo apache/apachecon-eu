@@ -12,7 +12,7 @@
               <a href="{{.Permalink}}">
                 {{ $img := resources.Get (index .Params.images 0) }}
                 {{ $imgp := $img.Resize "400x webp" }}
-                <img src="{{$imgp.Permalink }}" alt="Photo of {{.Title}}" class="img-fluid rounded-circle">
+                <img src="{{$imgp.RelPermalink }}" alt="Photo of {{.Title}}" class="img-fluid rounded-circle">
               </a>
             </div>
             <div class="speaker-info text-center">
