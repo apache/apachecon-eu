@@ -12,16 +12,9 @@
 
 .speaker-strip {
 	display: grid;
-	grid-template-columns: repeat(4, 1fr);
-	grid-gap: 60px;
-
-	@include tablet {
-		grid-template-columns: repeat(3, 1fr);
-	}
-
-	@include mobile {
-		grid-template-columns: repeat(2, 1fr);
-	}
+	grid-template-columns: repeat(auto-fit, minmax(120px, 280px));
+    grid-column-gap: 20px;
+    justify-content: space-around;
 
 }
 
@@ -33,14 +26,6 @@
 .speaker-info .img-container {
 	width: 80%;
 	margin: 0.5em auto;
-}
-
-.speaker-info a {
-	color: $primary-color;
-}
-
-.speaker-detail a {
-	color: $secondary-color;
 }
 
 
@@ -126,7 +111,6 @@
 	width: 48px;
 	text-align: center;
 	font-size:24px;
-	background-color: #ffffff;
 	color: $primary-color;
 }
 
