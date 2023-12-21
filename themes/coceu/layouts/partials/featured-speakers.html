@@ -4,7 +4,7 @@
         <h2>Featured Speakers</h2>
         <p>Check out the featured speakers that we have confirmed so far. Remember that our Call for Papers is still open and we will be announcing many more speakers soon.</p>
       </div>
-      <div class="speaker-strip">
+      <div id="speakers" class="speaker-strip">
         {{ range where (where (where .Site.Pages.ByTitle "Type" "speakers") "Kind" "term") "Params.featured" true }}
         <div class="speaker-item">
           <div class="speaker-block">
