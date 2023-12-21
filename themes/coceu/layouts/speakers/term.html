@@ -5,7 +5,12 @@
   <div class="container">
       <div class="row">
           <div class="image-column col-md-4 col-lg-3 col-sm-12">
-                  <img src="{{ with .Params.images }}{{ index . 0 | relURL }}{{else}}{{ .Params.Image | relURL }}{{ end }}" alt="{{ .Title }}" class="rounded-circle">
+                {{ $img := resources.Get (index .Params.images 0) }}
+                {{ with $img }}
+                  {{ $imgp := $img.Resize "400x webp" }}
+                  <img src="{{$imgp.RelPermalink }}" alt="Photo of {{.Title}}" class="img-fluid rounded-circle">
+                {{ end }}  
+
                   <ul class="social-icon-two social-icon-colored text-center">
                       {{ with .Params.twitter }}
                       {{ if ne . "" }}
@@ -43,7 +48,7 @@
                       <!-- Sessions speaker -->
                       <ul>
                       {{ range (.Data.Pages.ByParam "time_start").Reverse }}
-                        <li><a href="{{ .Permalink }}">{{ .Title }}</a>{{ with .Params.time_start | time }} ({{ .Format "2006" }}){{ end }}</li>
+                        <li><a href="{{ .RelPermalink }}">{{ .Title }}</a>{{ with .Params.time_start | time }} ({{ .Format "2006" }}){{ end }}</li>
                       {{ end }}
                       </ul>
                       <!-- Sessions speaker end -->

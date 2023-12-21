@@ -11,9 +11,13 @@
             <div class="speaker-info" style="margin-bottom: 20px;">
               {{ range (.GetTerms "speakers") }}
               <figure class="thumb my-3">
-                <a href="{{ .Permalink }}">
+                <a href="{{ .RelPermalink }}">
                   <div class="img-container">
-                    <img src="{{ with .Params.images }}{{ index . 0 | relURL }}{{else}}{{ .Params.Image | relURL }}{{ end }}" alt="{{ .Title }}" class="rounded-circle">
+                    {{ $img := resources.Get (index .Params.images 0) }}
+                    {{ with $img }}
+                      {{ $imgp := $img.Resize "400x webp" }}
+                      <img src="{{$imgp.RelPermalink }}" alt="Photo of {{.Title}}" class="img-fluid rounded-circle">
+                    {{ end }}        
                   </div>
                   <h5 class="name">{{ .Title }}</h5>
                 </a> 
