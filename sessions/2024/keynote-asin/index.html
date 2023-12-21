@@ -1,23 +1,24 @@
 <!DOCTYPE html>
-<html lang="en-US"><head>
+<html lang="en"><head>
   <meta charset="utf-8">
-  <title>Jarek Potiuk | Community Over Code Europe</title>
+  <title>Keynote | Community Over Code Europe</title>
 
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="description"
     content="Community Over Code Europe is the annual gathering in Europe of the Apache Software Foundation community.">
   
   
-  <meta name="generator" content="Hugo 0.91.2" /><meta property="og:title" content="Jarek Potiuk" />
-<meta property="og:description" content="Community Over Code Europe is the annual gathering in Europe of the Apache Software Foundation community." />
-<meta property="og:type" content="website" />
-<meta property="og:url" content="https://eu.communityovercode.org/speakers/jarek-potiuk/" /><meta property="og:image" content="https://eu.communityovercode.org/images/card.jpg"/>
+  <meta name="generator" content="Hugo 0.119.0"><meta property="og:title" content="Keynote" />
+<meta property="og:description" content="Abstract coming soon." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://eu.communityovercode.org/sessions/2024/keynote-asin/" /><meta property="og:image" content="https://eu.communityovercode.org/images/card.jpg"/><meta property="article:section" content="sessions" />
+
 
 <meta name="twitter:card" content="summary_large_image"/>
 <meta name="twitter:image" content="https://eu.communityovercode.org/images/card.jpg"/>
 
-<meta name="twitter:title" content="Jarek Potiuk"/>
-<meta name="twitter:description" content="Community Over Code Europe is the annual gathering in Europe of the Apache Software Foundation community."/>
+<meta name="twitter:title" content="Keynote"/>
+<meta name="twitter:description" content="Abstract coming soon."/>
 <!-- plugins -->
   
   <link rel="stylesheet" href="/plugins/bootstrap.min.css">
@@ -31,7 +32,7 @@
 
   <!-- Main Stylesheet -->
   
-  <link rel="stylesheet" href='/scss/style.min.css?v=202312181733' media="screen">
+  <link rel="stylesheet" href='/scss/style.min.css?v=202312210845' media="screen">
 
   <!--Favicon-->
   <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
@@ -95,6 +96,12 @@
         
         
         <li class="nav-item">
+          <a class="nav-link" href="/blog/venue">Venue</a>
+        </li>
+        
+        
+        
+        <li class="nav-item">
           <a class="nav-link" href="/faq">FAQ</a>
         </li>
         
@@ -116,7 +123,7 @@
       <div class="row justify-content-center">
         <div class="col-lg-8">
           <div class="content text-center">
-            <h1 class="mb-3">Jarek Potiuk</h1>
+            <h1 class="mb-3">Keynote</h1>
             <div class="divider mx-auto mb-4 bg-secondary"></div>
           </div>
         </div>
@@ -128,40 +135,74 @@
 
 <section class="speaker-detail">
   <div class="container">
-      <div class="row">
-          <div class="image-column col-md-4 col-lg-3 col-sm-12">
-                  <img src="/" alt="Jarek Potiuk" class="rounded-circle">
-                  <ul class="social-icon-two social-icon-colored text-center">
-                       
-
-                       
-
-                      
-
-                      
-                  </ul>
-          </div>
-
-          <div class="info-column col-md-8 col-sm-12">
-              <div class="inner-column">
-                  <div class="text-box">
-                      
-                      <p></p>
-                      <h4>Sessions by Jarek Potiuk</h4>
-
-                      
-                      <ul>
-                      
-                        <li><a href="https://eu.communityovercode.org/sessions/2024/hello-world/">Hello World ComCodeEU</a> (2023)</li>
-                      
-                      </ul>
-                      
+    <div class="row mt-4">
+      <div class="image-column col-lg-3 d-none d-lg-block">
+        <div class="schedule-block col-lg-10 col-md-12 col-sm-12">
+          <div class="sec-title text-center">
+            <span class="title">Speaker(s):</span>
+            <div class="speaker-info" style="margin-bottom: 20px;">
+              
+              <figure class="thumb my-3">
+                <a href="https://eu.communityovercode.org/speakers/asim-hussain/">
+                  <div class="img-container">
+                    <img src="/images/speakers/asim-hussain.jpg" alt="Asim Hussain" class="rounded-circle">
                   </div>
-              </div>
+                  <h5 class="name">Asim Hussain</h5>
+                </a> 
+              </figure>
+               
+            </div>
+
           </div>
+        </div>
       </div>
+      <div class="info-column col-lg-9 col-md-12 col-sm-12" style="margin-top: -10px;">
+        <div class="inner-column">
+          <div class="text-box">
+            <div class="session-meta" id="date">
+              <span style="display: none;" id="adjTime"></span>
+              
+                          
+              
+              <div>
+              <em>Jun-03 15:00-15:25 in TBD</em>
+              </div>
+              
+            </div>
+            
+            <div class="d-lg-none d-xl-none">
+              By
+              
+              <a class="speaker-inline-item" href="https://eu.communityovercode.org/speakers/asim-hussain/">Asim Hussain</a>
+              
+            </div>
+
+            
+
+            <div class="content mt-4"><p>Abstract coming soon.</p>
+</div>
+          </div>
+        </div>
+      </div>
+    </div>
+    
+  </div>
   </div>
 </section>
+
+
+<script>
+  function adjTime(timeStart, timeEnd) {
+    let dateStart = new Date(Date.parse(timeStart));
+    let dateEnd = new Date(Date.parse(timeEnd));
+    var days = ['Sunday', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday'];
+    let adjString = days[dateStart.getDay()]+", May "+dateStart.getDate()+". "+dateStart.getHours() + ":" + (('0' + dateStart.getMinutes()).slice(-2)) + "-" + dateEnd.getHours() + ":" + (('0' + dateEnd.getMinutes()).slice(-2));
+    document.getElementById("adjTime").innerHTML = adjString;
+  }
+  
+    adjTime("03 Jun 2024 15: 00: 00 -0400", "03 Jun 2024 15: 25: 00 -0400");
+    
+</script>
 
 
 

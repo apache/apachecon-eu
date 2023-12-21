@@ -4,15 +4,33 @@
     <title>Community Over Code EU 2024 sessions on Community Over Code Europe</title>
     <link>https://eu.communityovercode.org/sessions/2024/</link>
     <description>Recent content in Community Over Code EU 2024 sessions on Community Over Code Europe</description>
-    <generator>Hugo -- gohugo.io</generator><atom:link href="https://eu.communityovercode.org/sessions/2024/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language><atom:link href="https://eu.communityovercode.org/sessions/2024/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Hello World ComCodeEU</title>
-      <link>https://eu.communityovercode.org/sessions/2024/hello-world/</link>
+      <title>Keynote</title>
+      <link>https://eu.communityovercode.org/sessions/2024/keynote-asin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://eu.communityovercode.org/sessions/2024/hello-world/</guid>
-      <description>This is a nice little abstract.
-And this is a new paragraph within the abstract.</description>
+      <guid>https://eu.communityovercode.org/sessions/2024/keynote-asin/</guid>
+      <description>Abstract coming soon.</description>
+    </item>
+    
+    <item>
+      <title>Keynote</title>
+      <link>https://eu.communityovercode.org/sessions/2024/keynote-dirk/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eu.communityovercode.org/sessions/2024/keynote-dirk/</guid>
+      <description>Abstract coming soon.</description>
+    </item>
+    
+    <item>
+      <title>Keynote</title>
+      <link>https://eu.communityovercode.org/sessions/2024/keynote-ruth/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eu.communityovercode.org/sessions/2024/keynote-ruth/</guid>
+      <description>Abstract coming soon.</description>
     </item>
     
   </channel>

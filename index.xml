@@ -5,7 +5,8 @@
     <link>https://eu.communityovercode.org/</link>
     <description>Recent content in Community Over Code EU on Community Over Code Europe</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 13 Dec 2023 10:00:00 +0000</lastBuildDate><atom:link href="https://eu.communityovercode.org/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Thu, 21 Dec 2023 01:40:53 -0600</lastBuildDate><atom:link href="https://eu.communityovercode.org/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Google Cloud</title>
       <link>https://eu.communityovercode.org/partners/google/</link>
@@ -99,7 +100,7 @@ We welcome submissions on any topic related to the Apache Software Foundation, A
       
       <guid>https://eu.communityovercode.org/partner-with-us/</guid>
       <description>Why Partner with Community Over Code EU? This in-person event is an opportunity to get in contact with users, committers, and contributors.
- Increase your brand’s awareness Connect with a specialized audience Share your success story Reactivate in-person presence Reach out to a global audience  Take a look at our Prospectus and get to know more about the available opportunities and benefits. We are open to participation suggestions, feel free to Contact Us!</description>
+Increase your brand’s awareness Connect with a specialized audience Share your success story Reactivate in-person presence Reach out to a global audience Take a look at our Prospectus and get to know more about the available opportunities and benefits. We are open to participation suggestions, feel free to Contact Us!</description>
     </item>
     
     <item>
@@ -195,13 +196,30 @@ We expect everyone who participates in the Apache community formally or informal
     </item>
     
     <item>
-      <title>Hello World ComCodeEU</title>
-      <link>https://eu.communityovercode.org/sessions/2024/hello-world/</link>
+      <title>Keynote</title>
+      <link>https://eu.communityovercode.org/sessions/2024/keynote-asin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://eu.communityovercode.org/sessions/2024/hello-world/</guid>
-      <description>This is a nice little abstract.
-And this is a new paragraph within the abstract.</description>
+      <guid>https://eu.communityovercode.org/sessions/2024/keynote-asin/</guid>
+      <description>Abstract coming soon.</description>
+    </item>
+    
+    <item>
+      <title>Keynote</title>
+      <link>https://eu.communityovercode.org/sessions/2024/keynote-dirk/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eu.communityovercode.org/sessions/2024/keynote-dirk/</guid>
+      <description>Abstract coming soon.</description>
+    </item>
+    
+    <item>
+      <title>Keynote</title>
+      <link>https://eu.communityovercode.org/sessions/2024/keynote-ruth/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eu.communityovercode.org/sessions/2024/keynote-ruth/</guid>
+      <description>Abstract coming soon.</description>
     </item>
     
     <item>
@@ -229,7 +247,7 @@ Data controller Although Community Over Code EU is a community initiative, the l
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://eu.communityovercode.org/tickets/</guid>
-      <description>Get your ticket for Community Over Code EU  Take advantage of the early bird rate until February 16, 2024. Ticket cancellations with full refund of ticket price (excluding fee from payment processor) are possible up to 15 days before the event. Ticket transfers are possible at any time.</description>
+      <description>Get your ticket for Community Over Code EU Take advantage of the early bird rate until February 16, 2024. Ticket cancellations with full refund of ticket price (excluding fee from payment processor) are possible up to 15 days before the event. Ticket transfers are possible at any time. </description>
     </item>
     
     <item>
