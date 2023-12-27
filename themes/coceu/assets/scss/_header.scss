@@ -28,15 +28,12 @@ body.interior .main-nav {
 
   .nav-link {
     font-size: 26px;
-    padding: 0 !important;
-    margin: 0 20px;
+    margin: 0 10px;
     color: $indigo !important;
     font-weight: 400;
 
     @media (max-width: 640px) {
-      margin: 5px;
       font-size: 20px;
-      font-weight: 600;
     }
   
     &:hover {
