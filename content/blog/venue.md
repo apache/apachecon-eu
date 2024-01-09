@@ -9,16 +9,52 @@ images: ["images/blog/venue.png"]
 author: "Community Over Code EU Team"
 ---
 
-[Radisson Blu Carlton Hotel in Bratislava](https://www.radissonhotels.com/en-us/hotels/radisson-blu-bratislava-carlton) reflects the city's atmosphere with a blend of historical architecture and modern convenience. Easily walk to many city-center attractions and enjoy scenic strolls alongside the Danube River.
-
-### Nearby Attractions
-
-The cobblestoned streets of Bratislava city center invite guests at our central hotel to explore, leading past an impressive blend of the historic and modern. Spend an afternoon in one of the city's charming plazas or take a historical tour with ornate churches like St. Martin's Cathedral, which dates back to the 15th century. Enjoy a peaceful stroll over the Danube River by crossing the New Bridge near Old Town.
+This year the beautiful city of Bratislava will welcome the ASF Conference. We chose this city for its charm, history, attractions and the many possibilities to get there so that your Community Over Code experience will be memorable both inside and outside the venue. 
 
 
-### How to get to the Radisson Blu Carlton Hotel, Bratislava
+Bratislava lies along the beautiful blue Danube, arguably the most important river in central Europe and a national boundary between Slovakia, Hungary and Austria. You can actually reach the two neighboring capitals by boat. Vienna (70 minutes boat ride away) and Budapest (2 hours), but you can also get there by train or a short flight from anywhere in Europe. 
 
-Just a block from the Danube River, the Radisson Blu Carlton Hotel provides a charming overview of Old Town in Bratislava. The venue is located in the city center, providing a short commute to the city airport. The hotel is just 13 kilometers from Bratislava Airport and 3 kilometers from the Central Train Station. Whether by taxi, bus, tram, or trolley, it's easy to make your way around the city. For a memorable ride down the Danube, take a ferry ride from Vienna to Bratislava.
+<br>
+
+<img class="img-fluid mx-auto d-block mb-1" src="/images/blog/images-bratislava1.jpg">
+
+<br>
+
+“Bratislava is a young European capital with an ancient heart”. Slovakia's capital since the country's independence in 1993, this city is a mosaic of illustrious proud history with a Celtic settlement, a Gothic old town and baroque palaces. No wonder therefore that the picturesque streets of the old town overflow with medieval monuments, traditional houses and huge palaces of past glorious times but also communist-era blocks and a futurist bridge.
+
+A great way to experience the city is walking or biking around, although tram and bus services are excellent as well and most routes operate from 5am to midnight. Look out for the Town Hall, Slovak National Theatre, St Martin’s Cathedral which dates back to the 15th century and Bratislava Castle from where you can get one of the best views. Bratislava has valuable collections carefully stored in more than 50 museums, major artwork gathered in almost 20 galleries and nearly 30 theaters. 
+
+And, after all that exploration, a refreshment in one of the local pubs, restaurants or coffee shops at the main square where you will find a great variety of cuisine. 
+
+<br>
+
+<img class="img-fluid mx-auto d-block mb-1" src="/images/blog/images-bratislava2.jpg">
+
+<br>
+
+Bratislava has a huge range of accommodation. As well as being of great value, a selection of hotels, hostels and apartments are also centrally located, meaning you don’t need to look far but you can always stay at the venue that we have selected for Community Over Code.
+
+We have selected Radisson Blu Carlton Hotel in Bratislava which reflects the city’s atmosphere with a blend of historical architecture and modern convenience. It is just a block away from the Danube River and it provides a charming overview of the Old Town in Bratislava. It is 13 kilometers from Bratislava Airport and 3 kilometers from the Central Train Station. Check out the special rates that we have for you.
+
+Summer weather is mostly sensational and the city has pretty natural landscapes, over 10 lakes and lots of beautiful mountains well-known for its wine-growing tradition, wine cellars and gastronomy. Wine producing villages and small towns were established in the Middle Ages at  the Small Carpathians mountain region hills, the most famous wine region of Slovakia. These villages extended like a necklace from Bratislava up to Smolenice, creating the 60 km long Small Carpathians Wine Route.
+
+If you prefer beer instead of wine, there’s a beer tasting tour takes you around a local brewery as you learn about the history and production of local beers. 
+
+<br>
+
+<img class="img-fluid mx-auto d-block mb-1" src="/images/blog/images-bratislava3.jpg">
+
+<br>
+
+Start planning your trip, here are some useful phrases you might need during your visit: 
+
+* Hello = ahoj
+* How Are You? = ako sa máš?
+* Do You Speak English? = hovoríš po Anglicky?
+* Nice To Meet You = teši ma
+* Cheers! = na zdravie!
+
+We are looking forward to seeing you in Bratislava next June! Should you have any questions, please contact us at: teyza@sg.com.mx
 
 
 <a id="lodging"></a>
