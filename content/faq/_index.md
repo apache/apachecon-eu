@@ -17,7 +17,7 @@ We are finalizing details for tickets and will have them available in this websi
 As of this moment, we are not planning to have live streaming. We will, however, record sessions and make them available later at the ASF YouTube channel.
 
 ### Can I join as sponsor?
-Yes! We will soon have our Prsopectus available here. In the meantime, if you are interested in sponsoring please contact us at [planners@apachecon.com](mailto:planners@apachecon.com?subject=[EU]Sponsorship).
+Yes! We will soon have our Prsopectus available here. In the meantime, if you are interested in sponsoring please contact us at [sponsor@apachecon.com](mailto:sponsor@apachecon.com?subject=[EU]Sponsorship).
 
 ### Accessibility
-We strive to provide a welcoming, inclusive, and accessible environment for all, regardless of ability. Participants requiring special accommodations should provide details in their registration and/or by email at [planners@apachecon.com](mailto:planners@apachecon.com?subject=[EU]Accesibility). This information will be kept private and only be shared with individuals who need to know to secure these accommodations.
+We strive to provide a welcoming, inclusive, and accessible environment for all, regardless of ability. Participants requiring special accommodations should provide details in their registration and/or by email at [planners@apachecon.com](mailto:planners@apachecon.com?subject=[EU]Accessibility). This information will be kept private and only be shared with individuals who need to know to secure these accommodations.
