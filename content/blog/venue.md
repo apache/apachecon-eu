@@ -9,40 +9,56 @@ images: ["images/blog/venue.png"]
 author: "Community Over Code EU Team"
 ---
 
-This year the beautiful city of Bratislava will welcome the ASF Conference. We chose this city for its charm, history, attractions and the many possibilities to get there so that your Community Over Code experience will be memorable both inside and outside the venue. 
 
+  <div class="row">
+    <div class="col-sm ">
+      <p>This year the beautiful city of Bratislava will welcome the ASF Conference. We chose this city for its charm, history, attractions and the many possibilities to get there so that your Community Over Code experience will be memorable both inside and outside the venue.</p>
+      <p class="text-justify">Bratislava lies along the beautiful blue Danube, arguably the most important river in central Europe and a national boundary between Slovakia, Hungary and Austria. You can actually reach the two neighboring capitals by boat. Vienna (70 minutes boat ride away) and Budapest (2 hours), but you can also get there by train or a short flight from anywhere in Europe.</p>
+      <p class="text-justify">“Bratislava is a young European capital with an ancient heart”. Slovakia's capital since the country's independence in 1993, this city is a mosaic of illustrious proud history with a Celtic settlement, a Gothic old town and baroque palaces. No wonder therefore that the picturesque streets of the old town overflow with medieval monuments, traditional houses and huge palaces of past glorious times but also communist-era blocks and a futurist bridge.</p>
+    </div>
+    <div class="col-sm">
+      <img class="img-fluid mx-auto d-block mb-1" src="/images/blog/images-bratislava1.jpg">
+    </div>
 
-Bratislava lies along the beautiful blue Danube, arguably the most important river in central Europe and a national boundary between Slovakia, Hungary and Austria. You can actually reach the two neighboring capitals by boat. Vienna (70 minutes boat ride away) and Budapest (2 hours), but you can also get there by train or a short flight from anywhere in Europe. 
-
-<br>
-
-<img class="img-fluid mx-auto d-block mb-1" src="/images/blog/images-bratislava1.jpg">
-
-<br>
-
-“Bratislava is a young European capital with an ancient heart”. Slovakia's capital since the country's independence in 1993, this city is a mosaic of illustrious proud history with a Celtic settlement, a Gothic old town and baroque palaces. No wonder therefore that the picturesque streets of the old town overflow with medieval monuments, traditional houses and huge palaces of past glorious times but also communist-era blocks and a futurist bridge.
-
-A great way to experience the city is walking or biking around, although tram and bus services are excellent as well and most routes operate from 5am to midnight. Look out for the Town Hall, Slovak National Theatre, St Martin’s Cathedral which dates back to the 15th century and Bratislava Castle from where you can get one of the best views. Bratislava has valuable collections carefully stored in more than 50 museums, major artwork gathered in almost 20 galleries and nearly 30 theaters. 
-
-And, after all that exploration, a refreshment in one of the local pubs, restaurants or coffee shops at the main square where you will find a great variety of cuisine. 
+  </div>
 
 <br>
 
-<img class="img-fluid mx-auto d-block mb-1" src="/images/blog/images-bratislava2.jpg">
+  <div class="row">
+    <div class="col-sm">
+      <p class="text-justify">“Bratislava is a young European capital with an ancient heart”. Slovakia's capital since the country's independence in 1993, this city is a mosaic of illustrious proud history with a Celtic settlement, a Gothic old town and baroque palaces. No wonder therefore that the picturesque streets of the old town overflow with medieval monuments, traditional houses and huge palaces of past glorious times but also communist-era blocks and a futurist bridge.</p>
+      <p class="text-justify">A great way to experience the city is walking or biking around, although tram and bus services are excellent as well and most routes operate from 5am to midnight. Look out for the Town Hall, Slovak National Theatre, St Martin’s Cathedral which dates back to the 15th century and Bratislava Castle from where you can get one of the best views. Bratislava has valuable collections carefully stored in more than 50 museums, major artwork gathered in almost 20 galleries and nearly 30 theaters.</p>
+    </div>
+    <div class="col-sm">
+      <img class="img-fluid mx-auto d-block mb-1" src="/images/blog/images-bratislava2.jpg">
+    </div>
+  </div>
 
 <br>
 
-Bratislava has a huge range of accommodation. As well as being of great value, a selection of hotels, hostels and apartments are also centrally located, meaning you don’t need to look far but you can always stay at the venue that we have selected for Community Over Code.
-
-We have selected Radisson Blu Carlton Hotel in Bratislava which reflects the city’s atmosphere with a blend of historical architecture and modern convenience. It is just a block away from the Danube River and it provides a charming overview of the Old Town in Bratislava. It is 13 kilometers from Bratislava Airport and 3 kilometers from the Central Train Station. Check out the special rates that we have for you.
-
-Summer weather is mostly sensational and the city has pretty natural landscapes, over 10 lakes and lots of beautiful mountains well-known for its wine-growing tradition, wine cellars and gastronomy. Wine producing villages and small towns were established in the Middle Ages at  the Small Carpathians mountain region hills, the most famous wine region of Slovakia. These villages extended like a necklace from Bratislava up to Smolenice, creating the 60 km long Small Carpathians Wine Route.
-
-If you prefer beer instead of wine, there’s a beer tasting tour takes you around a local brewery as you learn about the history and production of local beers. 
+  <div class="row">
+    <div class="col-sm">
+      <p class="text-justify">And, after all that exploration, a refreshment in one of the local pubs, restaurants or coffee shops at the main square where you will find a great variety of cuisine.</p>
+      <p class="text-justify">Bratislava has a huge range of accommodation. As well as being of great value, a selection of hotels, hostels and apartments are also centrally located, meaning you don’t need to look far but you can always stay at the venue that we have selected for Community Over Code.</p>
+      <p class="text-justify">We have selected Radisson Blu Carlton Hotel in Bratislava which reflects the city’s atmosphere with a blend of historical architecture and modern convenience. It is just a block away from the Danube River and it provides a charming overview of the Old Town in Bratislava. It is 13 kilometers from Bratislava Airport and 3 kilometers from the Central Train Station. Check out the special rates that we have for you.</p>
+    </div>
+    <div class="col-sm">
+      <img class="img-fluid mx-auto d-block mb-1" src="/images/blog/images-bratislava3.jpg">
+    </div>
+  </div>
 
 <br>
 
-<img class="img-fluid mx-auto d-block mb-1" src="/images/blog/images-bratislava3.jpg">
+  <div class="row">
+    <div class="col-sm">
+      <p class="text-justify">Summer weather is mostly sensational and the city has pretty natural landscapes, over 10 lakes and lots of beautiful mountains well-known for its wine-growing tradition, wine cellars and gastronomy. Wine producing villages and small towns were established in the Middle Ages at  the Small Carpathians mountain region hills, the most famous wine region of Slovakia. These villages extended like a necklace from Bratislava up to Smolenice, creating the 60 km long Small Carpathians Wine Route.</p>
+      <p class="text-justify">If you prefer beer instead of wine, there’s a beer tasting tour takes you around a local brewery as you learn about the history and production of local beers.</p>
+    </div>
+    <div class="col-sm">
+      <img class="img-fluid mx-auto d-block mb-1" src="/images/blog/image3.webp">
+    </div>
+  </div>
+
 
 <br>
 

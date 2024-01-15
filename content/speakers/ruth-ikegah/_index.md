@@ -1,5 +1,5 @@
 ---
-title: "Ruth Ikega"
+title: "Ruth Ikegah"
 date: 2023-12-21T01:34:12-06:00
 images: 
  - /images/speakers/ruth-ikega.jpg

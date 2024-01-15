@@ -2,7 +2,7 @@
     <div class="container text-center">
       <div class="heading mb-4">
         <h2>Featured Speakers</h2>
-        <p>Check out the featured speakers that we have confirmed so far. Remember that our Call for Papers is still open and we will be announcing many more speakers soon.</p>
+        <p>Check out the featured speakers that we have confirmed so far.</p>
       </div>
       <div id="speakers" class="speaker-strip">
         {{ range where (where (where .Site.Pages.ByTitle "Type" "speakers") "Kind" "term") "Params.featured" true }}

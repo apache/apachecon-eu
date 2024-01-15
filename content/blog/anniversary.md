@@ -1,5 +1,5 @@
 ---
-title: "Celebrate the 25th Anniversary of the ASF!"
+title: "Celebrate the 25th ASF Anniversary!"
 date: 2023-12-13T10:00:00
 description: ""
 summary: ""
