@@ -1,7 +1,7 @@
 ---
 title: "Atita Arora"
 date: 2021-05-26T12:10:21-05:00
-image : "/images/team/atita-arora.jpg"
+image : "/images/team/atita-arora.jpeg"
 designation : "ASF enthusiast"
 company: ""
 country: ""
@@ -11,6 +11,6 @@ twitter: ""
 linkedin: ""
 github: ""
 group: ""
-draft: true
+draft: false
 ---
 
