@@ -41,6 +41,12 @@ speaker = "speakers"
     url = "/about-the-asf"
     parent = "category"
     weight = 2
+  [[menu.main]]
+    identifier = "category3"
+    name = "Diversity & Inclusion"
+    url = "/diversity-&-inclusion"
+    parent = "category"
+    weight = 3
 
 [[menu.main]]
   name = "Venue"
