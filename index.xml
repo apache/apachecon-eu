@@ -6,7 +6,7 @@
     <description>Recent content in Community Over Code EU on Community Over Code Europe</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 21 Dec 2023 01:40:53 -0600</lastBuildDate><atom:link href="https://eu.communityovercode.org/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 16 Jan 2024 10:00:00 +0000</lastBuildDate><atom:link href="https://eu.communityovercode.org/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Google Cloud</title>
       <link>https://eu.communityovercode.org/partners/google/</link>
@@ -53,6 +53,15 @@
     </item>
     
     <item>
+      <title>Diversity &amp; Inclusion</title>
+      <link>https://eu.communityovercode.org/diversity-&amp;-inclusion/</link>
+      <pubDate>Tue, 16 Jan 2024 10:00:00 +0000</pubDate>
+      
+      <guid>https://eu.communityovercode.org/diversity-&amp;-inclusion/</guid>
+      <description>Merge with a diverse and inclusive ASF EUniverse As simple as it sounds, we want us all to merge with the ASF Universe. Regardless of geography, gender, sexual orientation, dis/ability, race, ethnicity, age, religion, economic status or any other characteristic. We believe that every difference, even the smallest ones, not only make everyone unique, but also enrich the community. Diversity gives us the opportunity to keep learning and growing as human beings.</description>
+    </item>
+    
+    <item>
       <title>About the Apache Software Foundation</title>
       <link>https://eu.communityovercode.org/about-the-asf/</link>
       <pubDate>Wed, 13 Dec 2023 14:45:09 -0600</pubDate>
@@ -62,7 +71,7 @@
     </item>
     
     <item>
-      <title>Celebrate the 25th Anniversary of the ASF!</title>
+      <title>Celebrate the 25th ASF Anniversary!</title>
       <link>https://eu.communityovercode.org/blog/anniversary/</link>
       <pubDate>Wed, 13 Dec 2023 10:00:00 +0000</pubDate>
       
@@ -104,11 +113,110 @@ Increase your brand’s awareness Connect with a specialized audience Share your
     </item>
     
     <item>
+      <title>Atita Arora</title>
+      <link>https://eu.communityovercode.org/team/atita-arora/</link>
+      <pubDate>Wed, 26 May 2021 12:10:21 -0500</pubDate>
+      
+      <guid>https://eu.communityovercode.org/team/atita-arora/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Brian Proffitt</title>
+      <link>https://eu.communityovercode.org/team/brian-proffitt/</link>
+      <pubDate>Wed, 26 May 2021 12:10:21 -0500</pubDate>
+      
+      <guid>https://eu.communityovercode.org/team/brian-proffitt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Christofer Dutz</title>
+      <link>https://eu.communityovercode.org/team/christofer-dutz/</link>
+      <pubDate>Wed, 26 May 2021 12:10:21 -0500</pubDate>
+      
+      <guid>https://eu.communityovercode.org/team/christofer-dutz/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Claude Warren</title>
+      <link>https://eu.communityovercode.org/team/claude-warren/</link>
+      <pubDate>Wed, 26 May 2021 12:10:21 -0500</pubDate>
+      
+      <guid>https://eu.communityovercode.org/team/claude-warren/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Francois Papon</title>
+      <link>https://eu.communityovercode.org/team/francois-papon/</link>
+      <pubDate>Wed, 26 May 2021 12:10:21 -0500</pubDate>
+      
+      <guid>https://eu.communityovercode.org/team/francois-papon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gavin Mc Donald</title>
+      <link>https://eu.communityovercode.org/team/gavin-donald/</link>
+      <pubDate>Wed, 26 May 2021 12:10:21 -0500</pubDate>
+      
+      <guid>https://eu.communityovercode.org/team/gavin-donald/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Jarek Potiuk</title>
       <link>https://eu.communityovercode.org/team/jarek-potiuk/</link>
       <pubDate>Wed, 26 May 2021 12:10:21 -0500</pubDate>
       
       <guid>https://eu.communityovercode.org/team/jarek-potiuk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>JB Onofre</title>
+      <link>https://eu.communityovercode.org/team/jb-onofre/</link>
+      <pubDate>Wed, 26 May 2021 12:10:21 -0500</pubDate>
+      
+      <guid>https://eu.communityovercode.org/team/jb-onofre/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rich Bowen</title>
+      <link>https://eu.communityovercode.org/team/rich-bowen/</link>
+      <pubDate>Wed, 26 May 2021 12:10:21 -0500</pubDate>
+      
+      <guid>https://eu.communityovercode.org/team/rich-bowen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Richard Zowalla</title>
+      <link>https://eu.communityovercode.org/team/richard-zowalla/</link>
+      <pubDate>Wed, 26 May 2021 12:10:21 -0500</pubDate>
+      
+      <guid>https://eu.communityovercode.org/team/richard-zowalla/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ruth Suehle</title>
+      <link>https://eu.communityovercode.org/team/ruth-suehle/</link>
+      <pubDate>Wed, 26 May 2021 12:10:21 -0500</pubDate>
+      
+      <guid>https://eu.communityovercode.org/team/ruth-suehle/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ryan Skraba</title>
+      <link>https://eu.communityovercode.org/team/ryan-skraba/</link>
+      <pubDate>Wed, 26 May 2021 12:10:21 -0500</pubDate>
+      
+      <guid>https://eu.communityovercode.org/team/ryan-skraba/</guid>
       <description></description>
     </item>
     
