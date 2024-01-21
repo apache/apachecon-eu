@@ -50,7 +50,7 @@ speaker = "speakers"
 
 [[menu.main]]
   name = "Venue"
-  URL = "/blog/venue"
+  URL = "/venue"
   weight = 3
 
 [[menu.main]]
