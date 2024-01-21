@@ -1,27 +1,25 @@
-
 <section id="latest-news" class="section blog">
-  <div style="padding: 25px;">
-    <div class="row section-heading">
-      <div class="col-md-8 ">
-        <div class="heading text-center">
-          <h2>Latest News</h2>
-        </div>
-      </div>
+  <div class="row section-heading">
+    <div class="heading text-center">
+      <h2>Latest News</h2>
     </div>
-    <div class="row">
-        {{ range first 4 (where .Site.RegularPages "Type" "blog" )}}
-        <div class="col-lg-3 col-md-6">
-          <a href="{{ .Permalink | relURL}}">
-          <div class="blog-item card border-0 mb-5 mb-lg-0">
-            <img src="{{ with .Params.images }}{{ index . 0 | relURL }}{{ end }}" alt="{{ .Title }}" class="img-fluid">
-            <div class="blog-caption">
-              <h4 class="mt-2 mb-3">{{ .Title | markdownify }}</h4>
-            </div>
+  </div>
+  <div class="row" style="padding: 0px 25px;">
+    {{ range first 4 (where .Site.RegularPages "Type" "blog" )}}
+    <div class="col-lg-3 col-md-6">
+      <a href="{{ .Permalink | relURL}}">
+        <div class="blog-item card border-0 mb-5 mb-lg-0">
+          <img
+            src="{{ with .Params.images }}{{ index . 0 | relURL }}{{ end }}"
+            alt="{{ .Title }}"
+            class="img-fluid"
+          />
+          <div class="blog-caption">
+            <h4 class="mt-2 mb-3">{{ .Title | markdownify }}</h4>
           </div>
-          </a>
         </div>
-        {{ end }}
-      </div>
+      </a>
     </div>
+    {{ end }}
+  </div>
 </section>
-  
