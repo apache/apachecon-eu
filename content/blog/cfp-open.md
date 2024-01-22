@@ -7,7 +7,7 @@ summary: ""
 images: ["images/blog/save-date.jpg"]
 # author
 author: "Community Over Code EU Team"
-
+draft: true
 ---
 
 It's back *and* it's new!
