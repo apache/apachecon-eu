@@ -2,7 +2,19 @@
 section.hero {
   height: 100vh;
   display: grid;
-  grid-template-columns: 1fr 70% 1fr;
+  grid-template-columns: 1fr 100% 1fr;
+}
+
+
+.hero-logo{
+  margin: 0px 120px 0px 120px;
+
+  @include tablet {
+		margin: 0px 40px 0px 40px;
+	}
+	@include mobile {
+		margin: 0px 20px 0px 20px;
+	}
 }
 
 
@@ -41,4 +53,15 @@ section.hero {
 
 #button-hero1 { 
     background-color: $secondary-color;
+}
+
+
+#button-hero2{
+    background-color: $primary-color;
+}
+
+
+.bg-box{
+  background-color: $box-caption; 
+  padding: 20px; 
 }

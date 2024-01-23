@@ -44,7 +44,7 @@ speaker = "speakers"
   [[menu.main]]
     identifier = "category3"
     name = "Diversity & Inclusion"
-    url = "/diversity-&-inclusion"
+    url = "/diversity-and-inclusion"
     parent = "category"
     weight = 3
 
@@ -91,6 +91,10 @@ text = "June 3-5, 2024. Bratislava, Slovakia."
 [params.hero.cta1]
 text = "Get your ticket"
 link = "/tickets"
+
+[params.hero.cta2]
+text = "Become a sponsor!"
+link = "/files/community-over-code-prospectus-2024.pdf"
 
 # Navigation button
 [params.navigation_button]

@@ -1,6 +1,6 @@
 <section class="hero">
     <div class="hero-middle"> 
-        <img src="/images/logo-h.svg" class="img-fluid mb-4">
+        <img src="/images/logo-h.svg" class="img-fluid mb-4 hero-logo">
         <h3 class="hero-tagline text-center">Merge with the ASF <strong>EU</strong>niverse</h3>
         <h4 class="hero-meta text-center">June 3-5, 2024</h4>
         <h4 class="hero-meta text-center">Bratislava, Slovakia</h4>
@@ -14,18 +14,22 @@
             {{ end }}
 
             {{ with .Site.Params.hero.cta2 }}
-              {{ if eq .enable true }}
+              
               <a id="hero-button2" href="{{ .link }}" target="_blank" class="mx-4">
-                <button id="button-hero2" class="btn btn-secondary my-2">{{ .text }}</button>
+                <button id="button-hero2" class="btn text-white my-3 btn-rounded">{{ .text }}</button>
               </a>
-              {{ end }}
+            
             {{ end }}
             <br><br>
-              <div class="text-center container" style="background-color: rgba(0, 0, 0, 0.323); padding: 20px;">
-                <h3>The ASF community welcomes you to Bratislava, Slovakia for 3 days of learning, sharing and networking.</h3>
-              </div>
-              <div id="speakers"></div>
+            <div class="text-center bg-box">
+              <h3>The ASF community welcomes you to Bratislava, Slovakia for 3 days of learning, sharing and networking.</h3>
+            </div>
+            <div id="speakers"></div>
+              
         </div>
+        
     </div>
 
 </section>
+
+
