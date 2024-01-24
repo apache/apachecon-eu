@@ -7,8 +7,8 @@ summary: ""
 images: ["images/blog/d&i.png"]
 # author
 author: "Community Over Code EU Team"
-url: diversity-&-inclusion
-aliases: diversity-and-inclusion
+url: /diversity-&-inclusion
+aliases: /diversity-and-inclusion
 ---
 
 <h2 class="text-center"><strong>Merge with a diverse and inclusive ASF EUniverse</strong></h2>

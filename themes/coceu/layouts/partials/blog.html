@@ -5,9 +5,12 @@
     </div>
   </div>
   <div class="row" style="padding: 0px 25px;">
-    {{ range first 3 (where .Site.RegularPages "Type" "blog" )}}
-    <div class="col-lg-4 col-md-6">
-      <a href="{{ .Permalink | relURL}}">
+    {{ range first 4 (where .Site.RegularPages "Type" "blog" )}}
+    
+
+    {{ if .Params.redirection }}
+    <div class="col-lg-3 col-md-6">
+      <a href="{{ .Params.redirection }}" target="_blank">
         <div class="blog-item card border-0 mb-5 mb-lg-0">
           <img
             src="{{ with .Params.images }}{{ index . 0 | relURL }}{{ end }}"
@@ -20,6 +23,23 @@
         </div>
       </a>
     </div>
+
+      {{ else }}
+      <div class="col-lg-3 col-md-6">
+        <a href="{{ .Permalink | relURL }}">
+          <div class="blog-item card border-0 mb-5 mb-lg-0">
+            <img
+              src="{{ with .Params.images }}{{ index . 0 | relURL }}{{ end }}"
+              alt="{{ .Title }}"
+              class="img-fluid"
+            />
+            <div class="blog-caption">
+              <h4 class="mt-2 mb-3">{{ .Title | markdownify }}</h4>
+            </div>
+          </div>
+        </a>
+      </div>
+      {{ end }}
     {{ end }}
   </div>
 </section>
