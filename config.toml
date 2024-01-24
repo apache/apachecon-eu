@@ -166,4 +166,4 @@ link="/plugins/swiper-bundle.min.js"
 link="/plugins/bootstrap-table.min.js"
 
 [[params.plugins.js]]
-link="/plugins/tito.js"
+link="https://js.tito.io/v2"

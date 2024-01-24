@@ -74,27 +74,4 @@
     }
   </script>
 {{ end }}
-
-<!-- AddEvent setup (remember to load plugin in config.toml) -->
-
-<script type="text/javascript">
-  window.addeventasync = function(){
-      addeventatc.settings({
-          appleical  : {show:true, text:"Apple Calendar"},
-          google     : {show:true, text:"Google Calendar"},
-          office365  : {show:true, text:"Office 365 <em>(online)</em>"},
-          outlook    : {show:true, text:"Outlook"},
-          outlookcom : {show:false, text:"Outlook.com"},
-          yahoo      : {show:false, text:"Yahoo"},
-          license : "aJWrAOFtlzUgRLSPwmgF111163"
-      });
-  };
-  </script>
-
-    
-<!-- Remove "AddEvent" from the dropdown with the following CSS -->
-<style type="text/css">
-.addeventatc_dropdown {padding:6px 0px;}
-.addeventatc_dropdown .copyx {display:none;}
-</style>
 </head>

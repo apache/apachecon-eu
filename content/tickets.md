@@ -8,3 +8,5 @@ title: "Tickets"
 * Ticket cancellations with full refund of ticket price (excluding fee from payment processor) are possible up to 15 days before the event. Ticket transfers are possible at any time.
 
 <tito-widget event="softwareguru/coceu2024"></tito-widget>
+
+If the tickets widget is not displayed above, you can go directly to our [tickets page on tito.io](https://ti.to/softwareguru/coceu2024).
