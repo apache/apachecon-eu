@@ -6,7 +6,7 @@
     <description>Recent content in Community Over Code EU on Community Over Code Europe</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 16 Jan 2024 10:00:00 +0000</lastBuildDate><atom:link href="https://eu.communityovercode.org/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 23 Jan 2024 10:00:00 +0000</lastBuildDate><atom:link href="https://eu.communityovercode.org/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Google Cloud</title>
       <link>https://eu.communityovercode.org/partners/google/</link>
@@ -50,6 +50,16 @@
       
       <guid>https://eu.communityovercode.org/partners/lakefs/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Scholarships</title>
+      <link>https://eu.communityovercode.org/scholarships/</link>
+      <pubDate>Tue, 23 Jan 2024 10:00:00 +0000</pubDate>
+      
+      <guid>https://eu.communityovercode.org/scholarships/</guid>
+      <description>Apply for the Travel Assistance Committee Scholarship! The Travel Assistance Committee provides financial assistance with travel (air fares or train tickets), accommodation during the conference and conference fees to those who would otherwise be unable to attend various ASF related events.
+The Committee has limited finances and as a consequence, only a few places are available for each Apache event. Applicants should have valid reasons for attending ASF related events that are of benefit to both the applicant and the ASF, and to open source as a whole.</description>
     </item>
     
     <item>
