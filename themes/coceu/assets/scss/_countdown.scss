@@ -1,83 +1,49 @@
-.counter-wrapper{
-	margin-top: -70px;
+
+
+@media screen and (max-width: 768px){
+ .count-down {
+    justify-content: space-between !important;
+}
 }
 
-.counter-inner {
-	padding: 50px;
-	position: relative;
 
-	&:before {
-		position: absolute;
-		content: "";
-		left: -5%;
-		top: 0;
-		width: 200%;
-		height: 100%;
-		background: $white;
-		border-radius: 100px 0px 0px 100px;
-		box-shadow: 0 15px 38px 0 rgba(0, 0, 0, 0.1);
+.count-down {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    @include mobile {
+		display: grid;
+        align-items: center;
+        justify-content: center;
+        margin-left: 40%;
 	}
 
-	.counter-stat {
-		h2 {
-			@include mobile {
-				font-size: 20px;
-			}
-		}
-	}
-
-	.syotimer {
-		position: relative;
-		z-index: 1;
-	}
-	@include desktop {
-		padding: 50px 20px;
-	}
 }
 
-.font-weight-light {
-	font-weight: 300;
+@media screen and (max-width: 768px){
+
+.count-down .circle-progress-wrap {
+    margin-right: 0;
+}
 }
 
-.syotimer.large .syotimer-cell {
-	height: 100px;
-	width: 100px;
-}
 
-.syotimer-cell {
-	display: inline-block;
-	height: 100px;
-	width: 115px;
-	border-radius: 3px;
-	background: rgba(255, 255, 255, .7);
-	text-align: center;
-	padding-top: 15px;
-	margin-right: 10px;
-	@include desktop {
-		width: 100px;
+.count-down .circle-progress-wrap {
+    text-align: center;
+    padding: 0px 50px 0px 50px;
+
+	@include tablet {
+		padding: 0px 20px 0px 20px;
 	}
 	@include mobile {
-		width: 65px;
-		height: 70px;
+		padding: 0px 3px 0px 3px;
 	}
 }
 
-.syotimer-cell__unit {
-	text-transform: capitalize;
-	color: $gray;
-}
 
-.syotimer-cell__value {
-	font-weight: 800;
-	font-size: 45px;
-	line-height: 45px;
-	color: $black;
-	@include mobile {
-		font-size: 30px;
-		line-height: 30px;
-	}
-}
+.count{
+    font-size: 1em;
+    font-weight: 500;
 
-.syotimer-cell_type_day .syotimer-cell__value {
-	color: $primary-color;
 }

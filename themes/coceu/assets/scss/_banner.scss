@@ -9,6 +9,7 @@ section.hero {
 .hero-logo{
   margin: 0px 120px 0px 120px;
 
+
   @include tablet {
 		margin: 0px 40px 0px 40px;
 	}
