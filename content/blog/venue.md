@@ -80,7 +80,7 @@ We are looking forward to seeing you in Bratislava next June! Should you have an
     </tr>
   <tbody>
     <tr>
-      <th scope="row">Radisson Blue Carlton</th>
+      <th scope="row">Radisson Blu Carlton</th>
       <td>-</td>
       <td>€134.55</td>
       <td><a href="http://tinyurl.com/mupc3fhk">COC2024 reservation link</td>
