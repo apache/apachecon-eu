@@ -2,16 +2,17 @@
 
 {{ with $data.sponsors }}
 <section class="section sponsors">
-  <div class="container">
-    {{ partial "section_title.html" . }}
+  <div class="sponsors">
+    <h2>Partners</h2> 
+
     {{ range .sponsor_group }}
     <div class="mb-5">
-      <h4 class="mb-4 letter-spacing text-sm">{{ .title | markdownify }}</h4>
-      <div class="sponsor-strip {{ .slug }}">
+      <h4 class="">{{ .title | markdownify }}</h4>
+      <div class="sponsor-strip {{ .slug }} mb-4 py-2">
         {{ range .sponsor }}
-        <div class="sponsor-item">
+        <div class="sponsor-item mx-3 my-2">
           {{ if and (ne .link "") (ne .link "#") }}
-          <a href="{{ .link }}"><img src="{{ .logo | relURL }}" alt="" class="img-fluid"></a>
+          <a href="{{ .link }}" target="_blank"><img src="{{ .logo | relURL }}" alt="" class="img-fluid"></a>
           {{ else }}
           <img src="{{ .logo | relURL }}" alt="" class="img-fluid">
           {{ end }}
@@ -25,11 +26,17 @@
     <div class="row">
       <div class="col-lg-12">
         <h5 class="mt-5 mb-4">{{ .title | markdownify }}</h5>
-        <a href="{{ .link | safeURL }}" class="btn btn-banner2" target="blank">{{ .label }}</a>
+        <a href="{{ .link | safeURL }}" class="btn btn-yellow btn-rounded" target="blank">{{ .label }}</a>
       </div>
     </div>
     {{ end }}
     {{ end }}
+
+
   </div>
 </section>
+
+
 {{ end }}
+
+

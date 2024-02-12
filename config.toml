@@ -31,7 +31,7 @@ speaker = "speakers"
     weight = 2
   [[menu.main]]
     identifier = "category1"
-    name = "About Community Over Code"
+    name = "Community Over Code"
     url = "/about"
     parent = "category"
     weight = 1
@@ -48,10 +48,25 @@ speaker = "speakers"
     parent = "category"
     weight = 3
 
+
 [[menu.main]]
-  name = "Venue"
-  URL = "/venue"
-  weight = 3
+    identifier = "venue"
+    name = "Venue"
+    url = "/venue"
+    weight = 3
+  [[menu.main]]
+    identifier = "category-about-venue"
+    name = "About the venue"
+    url = "/venue"
+    parent = "venue"
+    weight = 1
+
+  [[menu.main]]
+    identifier = "category-how-to-get-there"
+    name = "How to get there"
+    url = "/how-to-get-there"
+    parent = "venue"
+    weight = 2
 
 [[menu.main]]
   name = "Speakers"

@@ -1,0 +1,15 @@
+enable :  true
+title : "Sponsors"
+sponsor_group:
+  - title : ""
+    slug : "platinum"
+    sponsor:
+      - logo : "/images/partners/packt.png"
+        link : "https://www.packtpub.com/"
+      - logo : "/images/partners/Clowder-Space-Logo.png"
+        link : "https://clowder.space/"
+      #- logo : "/images/logos/.png"
+      #  link : ""
+        
+
+

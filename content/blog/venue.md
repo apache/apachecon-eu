@@ -16,6 +16,7 @@ author: "Community Over Code EU Team"
     <div class="col-lg-6">
       <p>This year the beautiful city of Bratislava will welcome the ASF Conference. We chose this city for its charm, history, attractions and the many possibilities to get there so that your Community Over Code experience will be memorable both inside and outside the venue.</p>
       <p>Bratislava lies along the beautiful blue Danube, arguably the most important river in central Europe and a national boundary between Slovakia, Hungary and Austria. You can actually reach the two neighboring capitals by boat. Vienna (70 minutes boat ride away) and Budapest (2 hours), but you can also get there by train or a short flight from anywhere in Europe.</p>
+      <a href="/how-to-get-there">Here you will find more details on how to get to Bratislava</a>.
     </div>
     <div class="col-lg-5">
       <img class="img-fluid mb-4" src="/images/blog/images-bratislava1.jpg">
