@@ -9,9 +9,12 @@ There are four ways of transport (plane, bus, train, car) from almost everywhere
 
 <li>This is the <a href="https://www.bts.aero/en/flights/arrivals-departures/current-arrivals/" target="_blank">official airport page</a> where you can check out flights from your location and here are the <a href="https://www.flightconnections.com/flights-to-bratislava-bts" target="_blank">flight connections from Bratislava.</a> 
 </li>
-* The fastest way from (depending on your location) is to fly to Vienna and then, from Vienna Airport to Bratislava you can <a href="https://www.slovaklines.sk/en/" target="_blank">take a bus</a>. It goes by every hour and the most convenient bus stop is called <a href="https://online.slovaklines.sk/search?d=2024-02-14&fcls=BONUS_SCHEME_GROUP.ADULT,1&lang=en&fS=241&tS=238" target="_blank">Most SNP</a> (Bridge of SNP), then it is one square (Hviezdoslavovo namestie) 8 minutes walking distance to the Radisson Blu Carlton Hotel.
+<br>
+<li> The fastest way from (depending on your location) is to fly to Vienna and then, from Vienna Airport to Bratislava you can <a href="https://www.slovaklines.sk/en/" target="_blank">take a bus</a>. It goes by every hour and the most convenient bus stop is called <a href="https://online.slovaklines.sk/search?d=2024-02-14&fcls=BONUS_SCHEME_GROUP.ADULT,1&lang=en&fS=241&tS=238" target="_blank">Most SNP</a> (Bridge of SNP), then it is one square (Hviezdoslavovo namestie) 8 minutes walking distance to the Radisson Blu Carlton Hotel.</li>
 
-There is also <a href="" target="_blank">Flixbus</a>(https://www.flixbus.com/) that goes from almost everywhere in Europe.
+<br>
+
+There is also <a href="https://www.flixbus.com/" target="_blank">Flixbus</a> that goes from almost everywhere in Europe.
 
 <iframe class="mx-auto d-block" src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d1331.210777088952!2d17.105704638901976!3d48.14067759281101!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e2!4m5!1s0x476c8968779e6a65%3A0xa9ba580aadc878ca!2sMost%20SNP!3m2!1d48.13977!2d17.1055244!4m5!1s0x476c89429c90b5c3%3A0x563aa2114eac4552!2sRadisson%20Blu%20Carlton%20Hotel%2C%20Bratislava%2C%20Hviezdoslavovo%20n%C3%A1mestie%203%2C%20811%2002%20Bratislava%2C%20Slovakia!3m2!1d48.141343199999994!2d17.108838!5e0!3m2!1sen!2smx!4v1707772731305!5m2!1sen!2smx" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
@@ -30,7 +33,7 @@ If you are coming from and to Berlin for <a href="https://2024.berlinbuzzwords.d
 
 1. Take Austrian Airlines that goes Berlin-Vienna and back and then the default route from Vienna by bus. 
 
-2. By train, it is possible to go from Berlin to Vienna by Deutsche Bahn and from Vienna to Bratislava from Wien Hbf to Bratislava Hlavna stanica (main station). 
+2. By train, it is possible to go from Berlin to Vienna by Deutsche Bahn and from Vienna to Bratislava from Wien Hbf to Bratislava Hlavna stanica (main station). There is also a night train offered by <a href="https://www.nightjet.com/de/#/home" target="_blank">OBB</a> that will take you to your destination overnight.
 
 3. Flixbus if you want to go by bus, either a direct route or one that goes through Prague with one stop in Florenc terminal. 
 

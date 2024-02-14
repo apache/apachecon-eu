@@ -9,4 +9,6 @@ title: "Tickets"
 
 <tito-widget event="softwareguru/coceu2024"></tito-widget>
 
+If you cannot afford your travel expenses, apply for TAC scholarship [here](/scholarships/).
+
 If the tickets widget is not displayed above, you can go directly to our [tickets page on tito.io](https://ti.to/softwareguru/coceu2024).
