@@ -59,7 +59,7 @@
       
       <guid>https://eu.communityovercode.org/how-to-get-there/</guid>
       <description>How to get to Bratislava? There are four ways of transport (plane, bus, train, car) from almost everywhere in Europe to Bratislava.
-This is the official airport page where you can check out flights from your location and here are the flight connections from Bratislava. * The fastest way from (depending on your location) is to fly to Vienna and then, from Vienna Airport to Bratislava you can take a bus.</description>
+This is the official airport page where you can check out flights from your location and here are the flight connections from Bratislava. The fastest way from (depending on your location) is to fly to Vienna and then, from Vienna Airport to Bratislava you can take a bus. It goes by every hour and the most convenient bus stop is called Most SNP (Bridge of SNP), then it is one square (Hviezdoslavovo namestie) 8 minutes walking distance to the Radisson Blu Carlton Hotel.</description>
     </item>
     
     <item>
@@ -247,6 +247,15 @@ Increase your brand’s awareness Connect with a specialized audience Share your
     </item>
     
     <item>
+      <title>Stefan Miklosovic</title>
+      <link>https://eu.communityovercode.org/team/stefan-miklosovic/</link>
+      <pubDate>Wed, 26 May 2021 12:10:21 -0500</pubDate>
+      
+      <guid>https://eu.communityovercode.org/team/stefan-miklosovic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Mara Ruvalcaba</title>
       <link>https://eu.communityovercode.org/team/mara-ruvalcaba/</link>
       <pubDate>Fri, 23 Apr 2021 10:26:07 -0500</pubDate>
@@ -372,7 +381,8 @@ Data controller Although Community Over Code EU is a community initiative, the l
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://eu.communityovercode.org/tickets/</guid>
-      <description>Get your ticket for Community Over Code EU Take advantage of the early bird rate until February 16, 2024. Ticket cancellations with full refund of ticket price (excluding fee from payment processor) are possible up to 15 days before the event. Ticket transfers are possible at any time. If the tickets widget is not displayed above, you can go directly to our tickets page on tito.io.</description>
+      <description>Get your ticket for Community Over Code EU Take advantage of the early bird rate until February 16, 2024. Ticket cancellations with full refund of ticket price (excluding fee from payment processor) are possible up to 15 days before the event. Ticket transfers are possible at any time. If you cannot afford your travel expenses, apply for TAC scholarship here.
+If the tickets widget is not displayed above, you can go directly to our tickets page on tito.</description>
     </item>
     
   </channel>
