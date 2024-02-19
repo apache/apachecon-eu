@@ -12,8 +12,8 @@
 
 .speaker-strip {
 	display: grid;
-	grid-template-columns: repeat(auto-fit, minmax(120px, 300px));
-    grid-column-gap: 20px;
+	grid-template-columns: repeat(auto-fit, minmax(120px, 280px));
+    grid-column-gap: 40px;
     justify-content: space-around;
 
 }
