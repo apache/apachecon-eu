@@ -25,12 +25,10 @@
   
   <link rel="stylesheet" href="/plugins/fontawesome.css">
   
-  <link rel="stylesheet" href="/plugins/swiper-bundle.min.css">
-  
 
   <!-- Main Stylesheet -->
   
-  <link rel="stylesheet" href='/scss/style.min.css?v=202402190727' media="screen">
+  <link rel="stylesheet" href='/scss/style.min.css?v=202402190843' media="screen">
 
   <!--Favicon-->
   <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
@@ -72,6 +70,18 @@
         
         
         
+        <li class="nav-item">
+          <a class="nav-link" href="/schedule">Program</a>
+        </li>
+        
+        
+        
+        <li class="nav-item">
+          <a class="nav-link" href="/speakers">Speakers</a>
+        </li>
+        
+        
+        
         <li class="nav-item dropdown">
           <a class="nav-link dropdown-toggle" href="#" role="button" data-toggle="dropdown" aria-haspopup="true"
             aria-expanded="false">
@@ -84,12 +94,6 @@
             <a class="dropdown-item" href="/how-to-get-there">How to get there</a>
             
           </div>
-        </li>
-        
-        
-        
-        <li class="nav-item">
-          <a class="nav-link" href="/#speakers">Speakers</a>
         </li>
         
         
@@ -133,76 +137,577 @@
 
 <div class="container mb-4">
     <p class="text-center">
-        <h3 id="this-is-a-preview-of-the-sessions-that-we-will-have-at-community-over-code-2024-note-that-submissions-are-still-under-review-and-we-will-add-more-sessions-before-the-program-is-finalized">This is a preview of the sessions that we will have at Community Over Code 2024. Note that submissions are still under review, and we will add more sessions before the program is finalized.</h3>
+        <h3 id="this-is-a-preliminary-list-of-the-sessions-that-we-will-have-at-community-over-code-2024">This is a preliminary list of the sessions that we will have at Community Over Code 2024.</h3>
 
     </p>
 
-
-
-    <table id="sessions-table" data-toggle="table" data-search="true" data-search-align="left" data-sortable="true">
+    <table class="table-dark" id="sessions-table" data-toggle="table" data-search="true" data-search-align="left" data-sortable="true">
       <thead>
         <tr>
+          <th data-field="track" data-sortable="true">Track</th>
           <th data-field="title" data-sortable="true">Title</th>
-          
-          <th data-field="speaker" data-sortable="true">Speaker(s)</th>         
-          <th data-field="recording">Recording</th>
-          <th data-field="slides">Slides</th>
-          
-        
+          <th data-field="speaker" data-sortable="true">Speaker(s)</th>                 
 
         </tr>
       </thead>
         <tbody>
               
             <tr>
-                <td><h4 class="mb-0">
-                    <a class="session-title" href="https://eu.communityovercode.org/sessions/2024/keynote-asin/">Keynote</a>
-                    </h4>
-                    
-
-                    <div class="card-abstract mt-2" id="abs-keynote-asin">
-                        Abstract coming soon.
-                    </div>
-                </td>
-                
-                <td>Asim Hussain</td>
-                <td class="text-center"></td>
-                <td class="text-center"></td>
-                
+              <td><a href="/tracks/data-engineering">Data Engineering</a></td>
+              <td><a href="https://eu.communityovercode.org/sessions/2024/4-tricks-that-help-you-leverage-your-airflow-pipelines/">4 tricks that help you leverage your Airflow pipelines</a></td>  
+              <td>Aliaksandr Sheliustin</td>
             </tr>
             
             <tr>
-                <td><h4 class="mb-0">
-                    <a class="session-title" href="https://eu.communityovercode.org/sessions/2024/keynote-dirk/">Keynote</a>
-                    </h4>
-                    
-
-                    <div class="card-abstract mt-2" id="abs-keynote-dirk">
-                        Abstract coming soon.
-                    </div>
-                </td>
-                
-                <td>Dirk-Willem van Gulik</td>
-                <td class="text-center"></td>
-                <td class="text-center"></td>
-                
+              <td><a href="/tracks/api--microservices">API &amp; Microservices</a></td>
+              <td><a href="https://eu.communityovercode.org/sessions/2024/a-hands-on-introduction-to-the-kubernetes-gateway-api-with-apache-apisix/">A Hands-On Introduction to the Kubernetes Gateway API with Apache APISIX</a></td>  
+              <td>Navendu Pottekkat</td>
             </tr>
             
             <tr>
-                <td><h4 class="mb-0">
-                    <a class="session-title" href="https://eu.communityovercode.org/sessions/2024/keynote-ruth/">Keynote</a>
-                    </h4>
-                    
-
-                    <div class="card-abstract mt-2" id="abs-keynote-ruth">
-                        Abstract coming soon.
-                    </div>
-                </td>
-                
-                <td>Ruth Ikegah</td>
-                <td class="text-center"></td>
-                <td class="text-center"></td>
-                
+              <td><a href="/tracks/data-engineering">Data Engineering</a></td>
+              <td><a href="https://eu.communityovercode.org/sessions/2024/apache-arrow-an-on-point-addition-to-any-lakehouse/">Apache Arrow: An On-Point Addition to Any Lakehouse</a></td>  
+              <td>Oz Katz</td>
+            </tr>
+            
+            <tr>
+              <td><a href="/tracks/api--microservices">API &amp; Microservices</a></td>
+              <td><a href="https://eu.communityovercode.org/sessions/2024/apache-camel-takes-charge-of-over-1000-interfaces-in-a-seamless-transition-from-oracle-soa-suite/">Apache Camel Takes Charge of Over 1000 Interfaces in a Seamless Transition from Oracle SOA Suite</a></td>  
+              <td>Michael Rambichler</td>
+            </tr>
+            
+            <tr>
+              <td><a href="/tracks/incubator">Incubator</a></td>
+              <td><a href="https://eu.communityovercode.org/sessions/2024/apache-docs-training-empowering-communities-through-accessible-docs-training-material/">Apache Docs &amp; Training: Empowering communities through accessible Docs &amp; training material</a></td>  
+              <td>Mirko Kämpf & Gláucia Esppenchutz</td>
+            </tr>
+            
+            <tr>
+              <td><a href="/tracks/big-data-storage">Big Data Storage</a></td>
+              <td><a href="https://eu.communityovercode.org/sessions/2024/apache-iceberg-planning-explained/">Apache Iceberg Planning Explained</a></td>  
+              <td>Anton Okolnychyi</td>
+            </tr>
+            
+            <tr>
+              <td><a href="/tracks/iot">IoT</a></td>
+              <td><a href="https://eu.communityovercode.org/sessions/2024/apache-mynewt-connected-rtos-project-overview/">Apache Mynewt - connected RTOS - project overview</a></td>  
+              <td>Szymon Janc</td>
+            </tr>
+            
+            <tr>
+              <td><a href="/tracks/big-data-storage">Big Data Storage</a></td>
+              <td><a href="https://eu.communityovercode.org/sessions/2024/apache-ratis-a-high-performance-raft-library/">Apache Ratis - A High Performance Raft Library</a></td>  
+              <td>Tsz-Wo Nicholas Sze</td>
+            </tr>
+            
+            <tr>
+              <td><a href="/tracks/data-engineering">Data Engineering</a></td>
+              <td><a href="https://eu.communityovercode.org/sessions/2024/apache-sis-library-for-geospatial-applications/">Apache SIS library for geospatial applications</a></td>  
+              <td>Martin Desruisseaux</td>
+            </tr>
+            
+            <tr>
+              <td><a href="/tracks/data-engineering">Data Engineering</a></td>
+              <td><a href="https://eu.communityovercode.org/sessions/2024/architecting-applications-with-multiple-open-source-big-data-technologies/">Architecting Applications With Multiple Open-Source Big Data Technologies</a></td>  
+              <td>Paul Brebner</td>
+            </tr>
+            
+            <tr>
+              <td><a href="/tracks/community">Community</a></td>
+              <td><a href="https://eu.communityovercode.org/sessions/2024/breaking-barriers-a-strategic-framework-for-collaborative-governance-in-software/">Breaking Barriers: A Strategic Framework for Collaborative Governance in Software</a></td>  
+              <td>Addie Girouard</td>
+            </tr>
+            
+            <tr>
+              <td><a href="/tracks/community">Community</a></td>
+              <td><a href="https://eu.communityovercode.org/sessions/2024/building-a-diverse-global-community-taking-your-local-community-to-the-global-stage/">Building a Diverse Global Community: Taking Your Local Community to the Global Stage</a></td>  
+              <td>Trista Pan</td>
+            </tr>
+            
+            <tr>
+              <td><a href="/tracks/data-engineering">Data Engineering</a></td>
+              <td><a href="https://eu.communityovercode.org/sessions/2024/building-a-kubernetes-operator-for-apache-flink-in-java/">Building a Kubernetes Operator for Apache Flink in Java</a></td>  
+              <td>Gyula Fora & Attila Mészáros</td>
+            </tr>
+            
+            <tr>
+              <td><a href="/tracks/community">Community</a></td>
+              <td><a href="https://eu.communityovercode.org/sessions/2024/building-healthy-developer-communities-a-versatile-framework-for-success/">Building Healthy Developer Communities: A Versatile Framework for Success</a></td>  
+              <td>Juan Pablo Flores</td>
+            </tr>
+            
+            <tr>
+              <td><a href="/tracks/data-engineering">Data Engineering</a></td>
+              <td><a href="https://eu.communityovercode.org/sessions/2024/building-services-and-pipelines-for-real-world-data/">Building services and pipelines for real-world data</a></td>  
+              <td>Boris Gordeev</td>
+            </tr>
+            
+            <tr>
+              <td><a href="/tracks/cassandra">Cassandra</a></td>
+              <td><a href="https://eu.communityovercode.org/sessions/2024/cassandra-cidr-filtering-authorizer-cep-33/">Cassandra CIDR filtering authorizer (CEP-33)</a></td>  
+              <td>Shailaja Koppu</td>
+            </tr>
+            
+            <tr>
+              <td><a href="/tracks/groovy">Groovy</a></td>
+              <td><a href="https://eu.communityovercode.org/sessions/2024/classifying-iris-flowers-with-groovy-deep-learning-and-graalvm/">Classifying Iris flowers with Groovy, Deep Learning, and GraalVM</a></td>  
+              <td>Paul King</td>
+            </tr>
+            
+            <tr>
+              <td><a href="/tracks/community">Community</a></td>
+              <td><a href="https://eu.communityovercode.org/sessions/2024/community-census-understanding-users-maintainer-personas-with-a-community-survey/">Community census: Understanding users &amp; maintainer personas with a community survey</a></td>  
+              <td>Niklas Merz</td>
+            </tr>
+            
+            <tr>
+              <td><a href="/tracks/data-engineering">Data Engineering</a></td>
+              <td><a href="https://eu.communityovercode.org/sessions/2024/data-enrichment-patterns-with-apache-flink/">Data enrichment patterns with Apache Flink</a></td>  
+              <td>Subham Rakshit</td>
+            </tr>
+            
+            <tr>
+              <td><a href="/tracks/fintech">Fintech</a></td>
+              <td><a href="https://eu.communityovercode.org/sessions/2024/data-symphony-orchestrating-insights-in-fintech/">Data Symphony: Orchestrating Insights in Fintech</a></td>  
+              <td>Karin Safra</td>
+            </tr>
+            
+            <tr>
+              <td><a href="/tracks/community">Community</a></td>
+              <td><a href="https://eu.communityovercode.org/sessions/2024/decoding-community-over-code/">Decoding &#39;Community Over Code&#39;</a></td>  
+              <td>Kanchana Welagedara</td>
+            </tr>
+            
+            <tr>
+              <td><a href="/tracks/community">Community</a></td>
+              <td><a href="https://eu.communityovercode.org/sessions/2024/documentation-to-use-open-source-design-templates/">Documentation to Use Open Source Design Templates</a></td>  
+              <td>Aparna Sundar</td>
+            </tr>
+            
+            <tr>
+              <td><a href="/tracks/performance-engineering">Performance Engineering</a></td>
+              <td><a href="https://eu.communityovercode.org/sessions/2024/efficient-low-latency-ingestion-to-large-tables-via-apache-flink-and-apache-iceberg/">Efficient, Low Latency Ingestion to Large Tables via Apache Flink and Apache Iceberg</a></td>  
+              <td>Marton Balassi & Peter Vary</td>
+            </tr>
+            
+            <tr>
+              <td><a href="/tracks/big-data-storage">Big Data Storage</a></td>
+              <td><a href="https://eu.communityovercode.org/sessions/2024/elevating-scalable-object-storage-a-comprehensive-exploration-of-ozones-trailblazing-capabilities/">Elevating Scalable Object Storage: A Comprehensive Exploration of Ozone’s Trailblazing Capabilities</a></td>  
+              <td>Uma Maheswara Rao Gangumalla</td>
+            </tr>
+            
+            <tr>
+              <td><a href="/tracks/community">Community</a></td>
+              <td><a href="https://eu.communityovercode.org/sessions/2024/empowering-inclusivity-apache-airflow-s-impact-on-outreachy/">Empowering Inclusivity: Apache Airflow&#39;s Impact on Outreachy</a></td>  
+              <td>Edith Puclla</td>
+            </tr>
+            
+            <tr>
+              <td><a href="/tracks/data-engineering">Data Engineering</a></td>
+              <td><a href="https://eu.communityovercode.org/sessions/2024/enhancing-flexibility-and-productivity-with-access-patterns-and-storage-agnostic-abstractions/">Enhancing Flexibility and Productivity with Access Patterns and Storage-Agnostic Abstractions</a></td>  
+              <td>Jan Lukavský</td>
+            </tr>
+            
+            <tr>
+              <td><a href="/tracks/incubator">Incubator</a></td>
+              <td><a href="https://eu.communityovercode.org/sessions/2024/enhancing-your-community-engagement-with-apache-answer/">Enhancing Your Community Engagement with Apache Answer</a></td>  
+              <td>Nadia Jiang</td>
+            </tr>
+            
+            <tr>
+              <td><a href="/tracks/community">Community</a></td>
+              <td><a href="https://eu.communityovercode.org/sessions/2024/eu-policies-and-regulations-affecting-open-source-specialists-working-in-ospos/">EU policies and regulations affecting open source specialists working in OSPOs</a></td>  
+              <td>Ana Jiménez Santamaría, Floor Drees, Natali Vlatko & Mirko Boehm</td>
+            </tr>
+            
+            <tr>
+              <td><a href="/tracks/fintech">Fintech</a></td>
+              <td><a href="https://eu.communityovercode.org/sessions/2024/evolving-fintech-landscapes-driving-business-innovation-with-fineract/">Evolving Fintech Landscapes: Driving Business Innovation with Fineract</a></td>  
+              <td>Tomas Ferreiro</td>
+            </tr>
+            
+            <tr>
+              <td><a href="/tracks/fintech">Fintech</a></td>
+              <td><a href="https://eu.communityovercode.org/sessions/2024/fineract-advanced-payment-allocation/">Fineract - Advanced payment allocation</a></td>  
+              <td>Adam Saghy</td>
+            </tr>
+            
+            <tr>
+              <td><a href="/tracks/fintech">Fintech</a></td>
+              <td><a href="https://eu.communityovercode.org/sessions/2024/fineract-scalability-improvements/">Fineract scalability improvements</a></td>  
+              <td>Zoltan Mezei</td>
+            </tr>
+            
+            <tr>
+              <td><a href="/tracks/data-engineering">Data Engineering</a></td>
+              <td><a href="https://eu.communityovercode.org/sessions/2024/gatekeep-iceberg-data-quality-with-apache-toree-and-airflow/">Gatekeep iceberg data quality with Apache Toree and airflow</a></td>  
+              <td>Hongyue Zhang & Luciano Resende</td>
+            </tr>
+            
+            <tr>
+              <td><a href="/tracks/groovy">Groovy</a></td>
+              <td><a href="https://eu.communityovercode.org/sessions/2024/getting-started-with-the-micronaut-r-framework/">Getting Started with the Micronaut® Framework</a></td>  
+              <td>Sergio del Amo</td>
+            </tr>
+            
+            <tr>
+              <td><a href="/tracks/data-engineering">Data Engineering</a></td>
+              <td><a href="https://eu.communityovercode.org/sessions/2024/harnessing-webassembly-for-real-time-stateless-streaming-pipelines/">Harnessing WebAssembly for Real-time Stateless Streaming Pipelines</a></td>  
+              <td>Christina Lin</td>
+            </tr>
+            
+            <tr>
+              <td><a href="/tracks/big-data-compute">Big Data Compute</a></td>
+              <td><a href="https://eu.communityovercode.org/sessions/2024/hive-iceberg-breaking-the-ice-a-closer-look-at-hive-iceberg/">Hive-Iceberg - Breaking the Ice: A Closer Look at Hive-Iceberg</a></td>  
+              <td>Simhadri Govindappa & Attila Turóczy</td>
+            </tr>
+            
+            <tr>
+              <td><a href="/tracks/fintech">Fintech</a></td>
+              <td><a href="https://eu.communityovercode.org/sessions/2024/how-to-extend-fineract-with-custom-modules/">How to extend Fineract with custom modules</a></td>  
+              <td>Aleksandar Vidakovic</td>
+            </tr>
+            
+            <tr>
+              <td><a href="/tracks/tomcat-httpd-and-other-servers">Tomcat, Httpd and other servers</a></td>
+              <td><a href="https://eu.communityovercode.org/sessions/2024/http-3-where-are-we-now-state-of-the-art-in-our-servers/">HTTP/3 where are we now? State of the art in our servers.</a></td>  
+              <td>Jean-frederic Clere</td>
+            </tr>
+            
+            <tr>
+              <td><a href="/tracks/search">Search</a></td>
+              <td><a href="https://eu.communityovercode.org/sessions/2024/hybrid-search-with-apache-solr/">Hybrid Search with Apache Solr</a></td>  
+              <td>Alessandro Benedetti</td>
+            </tr>
+            
+            <tr>
+              <td><a href="/tracks/cloudstack">CloudStack</a></td>
+              <td><a href="https://eu.communityovercode.org/sessions/2024/importing-kvm-instances-from-external-kvm-hosts-or-qcow2/">Importing KVM instances from external KVM hosts or QCOW2</a></td>  
+              <td>Andrija Panic</td>
+            </tr>
+            
+            <tr>
+              <td><a href="/tracks/fintech">Fintech</a></td>
+              <td><a href="https://eu.communityovercode.org/sessions/2024/increasing-adoption-and-achieving-financial-inclusion-through-dpi/">Increasing Adoption and Achieving Financial Inclusion through DPI</a></td>  
+              <td>David Higgins</td>
+            </tr>
+            
+            <tr>
+              <td><a href="/tracks/cloudstack">CloudStack</a></td>
+              <td><a href="https://eu.communityovercode.org/sessions/2024/incremental-snapshots-backups-in-kvm-plugin-of-apache-cloudstack/">Incremental snapshots/backups in KVM plugin of Apache CloudStack</a></td>  
+              <td>João Jandre Paraquetti, Daniel Augusto Veronezi Salvador, Bryan Lima & Rafael Weingärtner</td>
+            </tr>
+            
+            <tr>
+              <td><a href="/tracks/community">Community</a></td>
+              <td><a href="https://eu.communityovercode.org/sessions/2024/influencing-the-tech-ecosystem-through-community-participation/">Influencing the Tech Ecosystem through Community Participation.</a></td>  
+              <td>Omotola Omotayo</td>
+            </tr>
+            
+            <tr>
+              <td><a href="/tracks/community">Community</a></td>
+              <td><a href="https://eu.communityovercode.org/sessions/2024/inside-the-apache-software-foundation-board/">Inside the Apache Software Foundation Board</a></td>  
+              <td>Justin Mclean & Christofer Dutz</td>
+            </tr>
+            
+            <tr>
+              <td><a href="/tracks/api--microservices">API &amp; Microservices</a></td>
+              <td><a href="https://eu.communityovercode.org/sessions/2024/integration-in-the-cloud-era-with-camel-quarkus/">Integration in the cloud era with Camel Quarkus</a></td>  
+              <td>Alexandre Gallice</td>
+            </tr>
+            
+            <tr>
+              <td></td>
+              <td><a href="https://eu.communityovercode.org/sessions/2024/keynote-asin/">Keynote</a></td>  
+              <td>Asim Hussain</td>
+            </tr>
+            
+            <tr>
+              <td></td>
+              <td><a href="https://eu.communityovercode.org/sessions/2024/keynote-dirk/">Keynote</a></td>  
+              <td>Dirk-Willem van Gulik</td>
+            </tr>
+            
+            <tr>
+              <td></td>
+              <td><a href="https://eu.communityovercode.org/sessions/2024/keynote-ruth/">Keynote</a></td>  
+              <td>Ruth Ikegah</td>
+            </tr>
+            
+            <tr>
+              <td><a href="/tracks/performance-engineering">Performance Engineering</a></td>
+              <td><a href="https://eu.communityovercode.org/sessions/2024/lets-see-how-fast-impala-runs-on-iceberg/">Let’s see how fast Impala runs on Iceberg</a></td>  
+              <td>Gabor Kaszab & Zoltan Borok-Nagy</td>
+            </tr>
+            
+            <tr>
+              <td><a href="/tracks/groovy">Groovy</a></td>
+              <td><a href="https://eu.communityovercode.org/sessions/2024/leveraging-groovy-and-apache-ignite-for-fast-distributed-scaleable-computing-and-data/">Leveraging Groovy and Apache Ignite for fast, distributed, scaleable computing and data</a></td>  
+              <td>Jeremy Meyer</td>
+            </tr>
+            
+            <tr>
+              <td><a href="/tracks/iot">IoT</a></td>
+              <td><a href="https://eu.communityovercode.org/sessions/2024/magic-industrial-data-acquisition-with-apache-plc4x-tsfile-and-iotdb/">Magic industrial data acquisition with Apache PLC4X, TsFile and IoTDB</a></td>  
+              <td>Christofer Dutz</td>
+            </tr>
+            
+            <tr>
+              <td><a href="/tracks/community">Community</a></td>
+              <td><a href="https://eu.communityovercode.org/sessions/2024/maintaining-diverse-maintainers-how-to-keep-your-project-inclusive/">Maintaining Diverse Maintainers: How to Keep Your Project Inclusive</a></td>  
+              <td>Lisa N. Cao</td>
+            </tr>
+            
+            <tr>
+              <td><a href="/tracks/cloudstack">CloudStack</a></td>
+              <td><a href="https://eu.communityovercode.org/sessions/2024/making-apache-cloudstack-market-ready-with-a-native-rating-solution/">Making Apache CloudStack market ready with a native rating solution</a></td>  
+              <td>Daniel Augusto Veronezi Salvador, Bryan Lima, João Jandre Paraquetti & Rafael Weingärtner</td>
+            </tr>
+            
+            <tr>
+              <td><a href="/tracks/community">Community</a></td>
+              <td><a href="https://eu.communityovercode.org/sessions/2024/managing-in-the-open-managing-contributions-the-challenges-of-ospo-developers-management/">Managing In The Open, Managing Contributions: The challenges of OSPO developers management</a></td>  
+              <td>Ahmed Sobeh</td>
+            </tr>
+            
+            <tr>
+              <td><a href="/tracks/api--microservices">API &amp; Microservices</a></td>
+              <td><a href="https://eu.communityovercode.org/sessions/2024/managing-the-camel-development-lifecycle-within-vs-code/">Managing the Camel development lifecycle within VS Code</a></td>  
+              <td>Dominik Jelinek</td>
+            </tr>
+            
+            <tr>
+              <td><a href="/tracks/community">Community</a></td>
+              <td><a href="https://eu.communityovercode.org/sessions/2024/mentorship-programs-growing-new-team-and-community-leaders/">Mentorship programs. Growing new team and community leaders</a></td>  
+              <td>Oleg Nenashev</td>
+            </tr>
+            
+            <tr>
+              <td><a href="/tracks/data-engineering">Data Engineering</a></td>
+              <td><a href="https://eu.communityovercode.org/sessions/2024/modern-data-orchestrators/">Modern Data Orchestrators</a></td>  
+              <td>Riccardo Amadio</td>
+            </tr>
+            
+            <tr>
+              <td><a href="/tracks/api--microservices">API &amp; Microservices</a></td>
+              <td><a href="https://eu.communityovercode.org/sessions/2024/modernize-apis-to-run-serverless-using-apache-cxf/">Modernize APIs to run serverless using Apache CXF</a></td>  
+              <td>Dennis Kieselhorst</td>
+            </tr>
+            
+            <tr>
+              <td><a href="/tracks/cassandra">Cassandra</a></td>
+              <td><a href="https://eu.communityovercode.org/sessions/2024/moving-apache-cassandra-command-execution-and-monitoring-from-jmx-to-cql-a-developer-s-overview/">Moving Apache Cassandra command execution and monitoring from JMX to CQL: A Developer&#39;s Overview</a></td>  
+              <td>Maxim Muzafarov</td>
+            </tr>
+            
+            <tr>
+              <td><a href="/tracks/big-data-storage">Big Data Storage</a></td>
+              <td><a href="https://eu.communityovercode.org/sessions/2024/multi-tenancy-apache-hbase/">Multi Tenancy — Apache Hbase</a></td>  
+              <td>Mallikarjun Venkataswamyreddy</td>
+            </tr>
+            
+            <tr>
+              <td><a href="/tracks/search">Search</a></td>
+              <td><a href="https://eu.communityovercode.org/sessions/2024/navigating-challenges-and-enhancing-performance-of-llm-based-applications/">Navigating Challenges and Enhancing Performance of LLM based Applications</a></td>  
+              <td>Atita Arora</td>
+            </tr>
+            
+            <tr>
+              <td><a href="/tracks/incubator">Incubator</a></td>
+              <td><a href="https://eu.communityovercode.org/sessions/2024/navigating-podling-releases-achieving-success-in-the-apache-incubator/">Navigating Podling Releases: Achieving Success in the Apache Incubator</a></td>  
+              <td>Justin Mclean</td>
+            </tr>
+            
+            <tr>
+              <td><a href="/tracks/data-engineering">Data Engineering</a></td>
+              <td><a href="https://eu.communityovercode.org/sessions/2024/no-programming-language-needed-use-nifi-on-kafka-for-your-data-flows/">No Programming Language Needed: Use Nifi on Kafka for Your Data Flows</a></td>  
+              <td>Ela Demir & Medine Aktaş</td>
+            </tr>
+            
+            <tr>
+              <td><a href="/tracks/big-data-compute">Big Data Compute</a></td>
+              <td><a href="https://eu.communityovercode.org/sessions/2024/obtain-distribute-and-use-temporary-credentials-automatically-in-apache-spark-and-apache-flink/">Obtain, Distribute and Use Temporary Credentials Automatically in Apache Spark and Apache Flink</a></td>  
+              <td>Gabor Somogyi</td>
+            </tr>
+            
+            <tr>
+              <td><a href="/tracks/tomcat-httpd-and-other-servers">Tomcat, Httpd and other servers</a></td>
+              <td><a href="https://eu.communityovercode.org/sessions/2024/openssl-and-quic-using-ffm/">OpenSSL and QUIC using FFM</a></td>  
+              <td>Remy Maucherat & Jean-frederic Clere</td>
+            </tr>
+            
+            <tr>
+              <td><a href="/tracks/big-data-compute">Big Data Compute</a></td>
+              <td><a href="https://eu.communityovercode.org/sessions/2024/optimal-approaches-for-real-time-machine-learning-with-apache-spark-on-kubernetes/">Optimal Approaches for Real-Time Machine Learning with Apache Spark on Kubernetes.</a></td>  
+              <td>Hichem Kenniche</td>
+            </tr>
+            
+            <tr>
+              <td><a href="/tracks/big-data-compute">Big Data Compute</a></td>
+              <td><a href="https://eu.communityovercode.org/sessions/2024/orchestrating-scalable-data-pipelines-with-apache-toree-yunikorn-spark-and-airflow/">Orchestrating Scalable Data Pipelines with Apache Toree, YuniKorn, Spark, and Airflow</a></td>  
+              <td>Luciano Resende & Hongyue Zhang</td>
+            </tr>
+            
+            <tr>
+              <td><a href="/tracks/community">Community</a></td>
+              <td><a href="https://eu.communityovercode.org/sessions/2024/outreach-the-two-way-street-of-open-source-projects/">Outreach: The Two-Way Street of Open Source Projects</a></td>  
+              <td>Brian Proffitt</td>
+            </tr>
+            
+            <tr>
+              <td><a href="/tracks/performance-engineering">Performance Engineering</a></td>
+              <td><a href="https://eu.communityovercode.org/sessions/2024/oxia-a-horizontally-scalable-alternative-to-apache-zookeeper/">Oxia - A Horizontally Scalable Alternative to Apache Zookeeper</a></td>  
+              <td>David Kjerrumgaard</td>
+            </tr>
+            
+            <tr>
+              <td><a href="/tracks/community">Community</a></td>
+              <td><a href="https://eu.communityovercode.org/sessions/2024/pretend-its-a-movie-how-to-build-excitement-for-your-apache-project/">Pretend it’s a Movie: How to Build Excitement for Your Apache Project</a></td>  
+              <td>Greg Brown</td>
+            </tr>
+            
+            <tr>
+              <td><a href="/tracks/cloudstack">CloudStack</a></td>
+              <td><a href="https://eu.communityovercode.org/sessions/2024/sdn-options-in-apache-cloudstack/">SDN Options in Apache CloudStack</a></td>  
+              <td>Alexandre Mattioli</td>
+            </tr>
+            
+            <tr>
+              <td><a href="/tracks/big-data-compute">Big Data Compute</a></td>
+              <td><a href="https://eu.communityovercode.org/sessions/2024/simplifying-data-processing-with-apache-flink-sql/">Simplifying Data Processing with Apache Flink SQL</a></td>  
+              <td>Martijn Visser</td>
+            </tr>
+            
+            <tr>
+              <td><a href="/tracks/search">Search</a></td>
+              <td><a href="https://eu.communityovercode.org/sessions/2024/solr-eclipse-zomato-s-journey-to-64-million-search-queries-a-day/">Solr Eclipse - Zomato&#39;s Journey to 64 Million Search Queries a Day</a></td>  
+              <td>Angad Sharma</td>
+            </tr>
+            
+            <tr>
+              <td><a href="/tracks/iot">IoT</a></td>
+              <td><a href="https://eu.communityovercode.org/sessions/2024/state-of-apache-iotdb/">State of Apache IoTDB</a></td>  
+              <td>Julian Feinauer</td>
+            </tr>
+            
+            <tr>
+              <td><a href="/tracks/iot">IoT</a></td>
+              <td><a href="https://eu.communityovercode.org/sessions/2024/state-of-the-civet/">State of the Civet</a></td>  
+              <td>Lukas Ott</td>
+            </tr>
+            
+            <tr>
+              <td><a href="/tracks/cassandra">Cassandra</a></td>
+              <td><a href="https://eu.communityovercode.org/sessions/2024/storage-attached-index-vector-search-in-cassandra-5-0/">Storage Attached Index &amp; Vector Search in Cassandra 5.0</a></td>  
+              <td>Mike Adamson</td>
+            </tr>
+            
+            <tr>
+              <td><a href="/tracks/community">Community</a></td>
+              <td><a href="https://eu.communityovercode.org/sessions/2024/talking-with-management-about-open-source/">Talking with management about open source</a></td>  
+              <td>Rich Bowen</td>
+            </tr>
+            
+            <tr>
+              <td><a href="/tracks/cassandra">Cassandra</a></td>
+              <td><a href="https://eu.communityovercode.org/sessions/2024/the-accord-consensus-protocol-acid-transactions-globally-at-any-scale/">The Accord Consensus Protocol: ACID transactions globally at any scale</a></td>  
+              <td>Mick Semb Wever</td>
+            </tr>
+            
+            <tr>
+              <td><a href="/tracks/api--microservices">API &amp; Microservices</a></td>
+              <td><a href="https://eu.communityovercode.org/sessions/2024/the-right-feature-at-the-right-place-the-example-of-authorization/">The right feature at the right place: the example of authorization</a></td>  
+              <td>Nicolas Fränkel</td>
+            </tr>
+            
+            <tr>
+              <td><a href="/tracks/cassandra">Cassandra</a></td>
+              <td><a href="https://eu.communityovercode.org/sessions/2024/the-unified-compaction-strategy-in-cassandra-5/">The Unified Compaction Strategy in Cassandra 5</a></td>  
+              <td>Branimir Lambov</td>
+            </tr>
+            
+            <tr>
+              <td><a href="/tracks/big-data-storage">Big Data Storage</a></td>
+              <td><a href="https://eu.communityovercode.org/sessions/2024/this-impala-not-only-reads-but-modifies-and-optimizes-iceberg-tables/">This Impala not only reads, but modifies and optimizes Iceberg tables</a></td>  
+              <td>Zoltan Borok-Nagy, Péter Rózsa & Noémi Pap-Takács</td>
+            </tr>
+            
+            <tr>
+              <td><a href="/tracks/tomcat-httpd-and-other-servers">Tomcat, Httpd and other servers</a></td>
+              <td><a href="https://eu.communityovercode.org/sessions/2024/tomcat-11-and-jakarta-ee-11/">Tomcat 11 and Jakarta EE 11</a></td>  
+              <td>Mark Thomas</td>
+            </tr>
+            
+            <tr>
+              <td><a href="/tracks/cloudstack">CloudStack</a></td>
+              <td><a href="https://eu.communityovercode.org/sessions/2024/transitioning-from-vmware-to-apache-cloudstack-a-path-to-profitability-and-competitiveness/">Transitioning from VMware to Apache CloudStack: A Path to Profitability and Competitiveness</a></td>  
+              <td>Marco Sinhoreli</td>
+            </tr>
+            
+            <tr>
+              <td><a href="/tracks/big-data-compute">Big Data Compute</a></td>
+              <td><a href="https://eu.communityovercode.org/sessions/2024/understanding-stream-table-duality-using-kafka-flink-sql-and-debezium-format/">Understanding stream table duality using Kafka, Flink SQL and Debezium format</a></td>  
+              <td>Muhammet Orazov</td>
+            </tr>
+            
+            <tr>
+              <td><a href="/tracks/community">Community</a></td>
+              <td><a href="https://eu.communityovercode.org/sessions/2024/unleash-the-power-of-asynchronous-decision-making/">Unleash the power of Asynchronous Decision Making</a></td>  
+              <td>Bertrand Delacretaz</td>
+            </tr>
+            
+            <tr>
+              <td><a href="/tracks/iot">IoT</a></td>
+              <td><a href="https://eu.communityovercode.org/sessions/2024/unleashing-high-concurrency-real-time-iot-queries-with-apache-druid/">Unleashing High Concurrency Real-Time IoT Queries with Apache Druid</a></td>  
+              <td>Kyle Hoondert</td>
+            </tr>
+            
+            <tr>
+              <td><a href="/tracks/data-engineering">Data Engineering</a></td>
+              <td><a href="https://eu.communityovercode.org/sessions/2024/unlocking-insights-data-federation/">Unlocking Insights: Data Federation</a></td>  
+              <td>Akshat Mathur</td>
+            </tr>
+            
+            <tr>
+              <td><a href="/tracks/search">Search</a></td>
+              <td><a href="https://eu.communityovercode.org/sessions/2024/vector-search-at-uber/">Vector Search at Uber</a></td>  
+              <td>Yupeng Fu</td>
+            </tr>
+            
+            <tr>
+              <td><a href="/tracks/cloudstack">CloudStack</a></td>
+              <td><a href="https://eu.communityovercode.org/sessions/2024/vnf-integration-and-support-in-apache-cloudstack/">VNF Integration and Support in Apache CloudStack</a></td>  
+              <td>Wei Zhou</td>
+            </tr>
+            
+            <tr>
+              <td><a href="/tracks/tomcat-httpd-and-other-servers">Tomcat, Httpd and other servers</a></td>
+              <td><a href="https://eu.communityovercode.org/sessions/2024/webassembly-plugin-for-apache-traffic-server/">WebAssembly plugin for Apache Traffic Server</a></td>  
+              <td>Shu Kit Chan</td>
+            </tr>
+            
+            <tr>
+              <td><a href="/tracks/groovy">Groovy</a></td>
+              <td><a href="https://eu.communityovercode.org/sessions/2024/whisky-clustering-with-apache-projects-groovy-commons-math-ignite-spark-wayang-and-beam/">Whisky Clustering with Apache Projects: Groovy, Commons Math, Ignite, Spark, Wayang and Beam</a></td>  
+              <td>Paul King</td>
+            </tr>
+            
+            <tr>
+              <td><a href="/tracks/big-data-storage">Big Data Storage</a></td>
+              <td><a href="https://eu.communityovercode.org/sessions/2024/whitefox-simple-table-format-sharing/">Whitefox: simple table format sharing</a></td>  
+              <td>Antonio Murgia</td>
+            </tr>
+            
+            <tr>
+              <td><a href="/tracks/performance-engineering">Performance Engineering</a></td>
+              <td><a href="https://eu.communityovercode.org/sessions/2024/why-apache-kafka-clusters-are-like-galaxies-and-other-cosmic-kafka-quandaries-explored/">Why Apache Kafka Clusters Are Like Galaxies (And Other Cosmic Kafka Quandaries Explored)</a></td>  
+              <td>Paul Brebner</td>
+            </tr>
+            
+            <tr>
+              <td><a href="/tracks/incubator">Incubator</a></td>
+              <td><a href="https://eu.communityovercode.org/sessions/2024/why-is-it-so-hard/">Why is it So Hard...</a></td>  
+              <td>Craig Russell</td>
             </tr>
             
         </tbody>
@@ -290,11 +795,11 @@
 
 <!-- JS Plugins -->
 
+<script src="/plugins/jquery.min.js"></script>
+
 <script src="/plugins/bootstrap.bundle.min.js"></script>
 
 <script src="/plugins/bootstrap-table.min.js"></script>
-
-<script src="/plugins/swiper-bundle.min.js"></script>
 
 <script src="/plugins/bootstrap-table.min.js"></script>
 

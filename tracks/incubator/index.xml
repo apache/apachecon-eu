@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Incubator on Community Over Code Europe</title>
+    <link>https://eu.communityovercode.org/tracks/incubator/</link>
+    <description>Recent content in Incubator on Community Over Code Europe</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language><atom:link href="https://eu.communityovercode.org/tracks/incubator/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Apache Docs &amp; Training: Empowering communities through accessible Docs &amp; training material</title>
+      <link>https://eu.communityovercode.org/sessions/2024/apache-docs-training-empowering-communities-through-accessible-docs-training-material/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eu.communityovercode.org/sessions/2024/apache-docs-training-empowering-communities-through-accessible-docs-training-material/</guid>
+      <description>In the ever-evolving landscape of open source projects, the Apache Software Foundation (ASF) stands at the forefront of innovation and community-driven development. Two of its young projects, Apache Training and Apache Wayang, are working on an exciting journey of expansion and inclusivity.
+This session is dedicated to showcasing how these projects are opening their doors to a broader audience, including non-technical individuals, thereby fostering a more diverse and robust community, which helps the ASF to continue in solving some of the world’s tech problems by bringing people together.</description>
+    </item>
+    
+    <item>
+      <title>Enhancing Your Community Engagement with Apache Answer</title>
+      <link>https://eu.communityovercode.org/sessions/2024/enhancing-your-community-engagement-with-apache-answer/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eu.communityovercode.org/sessions/2024/enhancing-your-community-engagement-with-apache-answer/</guid>
+      <description>Q&amp;amp;A is one of the most effective ways to obtain knowledge, build connections, and create interaction. In open-source communities, Q&amp;amp;A is particularly crucial. It not only provides a platform for users and developers to collaboratively tackle technical issues and clarify uncertainties but also enhances the sharing and circulation of knowledge. By helping each other in resolving issues, community members forge stronger bonds and jointly advance their projects. Additionally, a robust Q&amp;amp;A system attracts new members, injecting fresh perspectives and energy into the community.</description>
+    </item>
+    
+    <item>
+      <title>Navigating Podling Releases: Achieving Success in the Apache Incubator</title>
+      <link>https://eu.communityovercode.org/sessions/2024/navigating-podling-releases-achieving-success-in-the-apache-incubator/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eu.communityovercode.org/sessions/2024/navigating-podling-releases-achieving-success-in-the-apache-incubator/</guid>
+      <description>Discover the keys to success when releasing a podling within the Apache Incubator. This talk explores the crucial aspects that the incubator PMC looks for in every release, providing practical tips to pass the IPMC vote and move your project closer to graduation.
+Learn about the latest incubator and ASF policies, recent updates you may have missed, and the legal requirements of open source licenses. Gain insights into assembling your NOTICE and LICENSE files effectively, while understanding the reasoning behind specific practices.</description>
+    </item>
+    
+    <item>
+      <title>Why is it So Hard...</title>
+      <link>https://eu.communityovercode.org/sessions/2024/why-is-it-so-hard/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eu.communityovercode.org/sessions/2024/why-is-it-so-hard/</guid>
+      <description>to submit patches to a podling?
+to release code to the public?
+to maintain trademarks for a podling?
+to become a committer on a podling?
+This talk explains what common barriers are to accomplishing objectives of people and projects. It explains why The ASF has:
+licensing requirements for code submissions and releases,
+signing and checksums, download protocols,
+voting requirements for releases and project membership,
+trademark requirements for web sites and documentation.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -25,12 +25,10 @@
   
   <link rel="stylesheet" href="/plugins/fontawesome.css">
   
-  <link rel="stylesheet" href="/plugins/swiper-bundle.min.css">
-  
 
   <!-- Main Stylesheet -->
   
-  <link rel="stylesheet" href='/scss/style.min.css?v=202402190727' media="screen">
+  <link rel="stylesheet" href='/scss/style.min.css?v=202402190843' media="screen">
 
   <!--Favicon-->
   <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
@@ -72,6 +70,18 @@
         
         
         
+        <li class="nav-item">
+          <a class="nav-link" href="/schedule">Program</a>
+        </li>
+        
+        
+        
+        <li class="nav-item">
+          <a class="nav-link" href="/speakers">Speakers</a>
+        </li>
+        
+        
+        
         <li class="nav-item dropdown">
           <a class="nav-link dropdown-toggle" href="#" role="button" data-toggle="dropdown" aria-haspopup="true"
             aria-expanded="false">
@@ -84,12 +94,6 @@
             <a class="dropdown-item" href="/how-to-get-there">How to get there</a>
             
           </div>
-        </li>
-        
-        
-        
-        <li class="nav-item">
-          <a class="nav-link" href="/#speakers">Speakers</a>
         </li>
         
         
@@ -136,38 +140,21 @@
         
     </p>
 
-
-
-    <table id="sessions-table" data-toggle="table" data-search="true" data-search-align="left" data-sortable="true">
+    <table class="table-dark" id="sessions-table" data-toggle="table" data-search="true" data-search-align="left" data-sortable="true">
       <thead>
         <tr>
+          <th data-field="track" data-sortable="true">Track</th>
           <th data-field="title" data-sortable="true">Title</th>
-          
-          <th data-field="speaker" data-sortable="true">Speaker(s)</th>         
-          <th data-field="recording">Recording</th>
-          <th data-field="slides">Slides</th>
-          
-        
+          <th data-field="speaker" data-sortable="true">Speaker(s)</th>                 
 
         </tr>
       </thead>
         <tbody>
               
             <tr>
-                <td><h4 class="mb-0">
-                    <a class="session-title" href="https://eu.communityovercode.org/sessions/2024/">Community Over Code EU 2024 sessions</a>
-                    </h4>
-                    
-
-                    <div class="card-abstract mt-2" id="abs-_index">
-                        This is a preview of the sessions that we will have at Community Over Code 2024. Note that submissions are still under review, and we will add more sessions before the program is finalized. 
-                    </div>
-                </td>
-                
-                <td></td>
-                <td class="text-center"></td>
-                <td class="text-center"></td>
-                
+              <td></td>
+              <td><a href="https://eu.communityovercode.org/sessions/2024/">Community Over Code EU 2024 sessions</a></td>  
+              <td></td>
             </tr>
             
         </tbody>
@@ -255,11 +242,11 @@
 
 <!-- JS Plugins -->
 
+<script src="/plugins/jquery.min.js"></script>
+
 <script src="/plugins/bootstrap.bundle.min.js"></script>
 
 <script src="/plugins/bootstrap-table.min.js"></script>
-
-<script src="/plugins/swiper-bundle.min.js"></script>
 
 <script src="/plugins/bootstrap-table.min.js"></script>
 

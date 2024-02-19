@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tracks on Community Over Code Europe</title>
+    <link>https://eu.communityovercode.org/tracks/</link>
+    <description>Recent content in Tracks on Community Over Code Europe</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language><atom:link href="https://eu.communityovercode.org/tracks/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>API &amp; Microservices</title>
+      <link>https://eu.communityovercode.org/tracks/api-microservices/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eu.communityovercode.org/tracks/api-microservices/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Big Data Compute</title>
+      <link>https://eu.communityovercode.org/tracks/big-data-compute/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eu.communityovercode.org/tracks/big-data-compute/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Big Data Storage</title>
+      <link>https://eu.communityovercode.org/tracks/big-data-storage/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eu.communityovercode.org/tracks/big-data-storage/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cassandra</title>
+      <link>https://eu.communityovercode.org/tracks/cassandra/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eu.communityovercode.org/tracks/cassandra/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CloudStack</title>
+      <link>https://eu.communityovercode.org/tracks/cloudstack/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eu.communityovercode.org/tracks/cloudstack/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Community</title>
+      <link>https://eu.communityovercode.org/tracks/community/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eu.communityovercode.org/tracks/community/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data Engineering</title>
+      <link>https://eu.communityovercode.org/tracks/data-engineering/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eu.communityovercode.org/tracks/data-engineering/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fintech</title>
+      <link>https://eu.communityovercode.org/tracks/fintech/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eu.communityovercode.org/tracks/fintech/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Groovy</title>
+      <link>https://eu.communityovercode.org/tracks/groovy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eu.communityovercode.org/tracks/groovy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Incubator</title>
+      <link>https://eu.communityovercode.org/tracks/incubator/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eu.communityovercode.org/tracks/incubator/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>IoT</title>
+      <link>https://eu.communityovercode.org/tracks/iot/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eu.communityovercode.org/tracks/iot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Performance Engineering</title>
+      <link>https://eu.communityovercode.org/tracks/performance-engineering/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eu.communityovercode.org/tracks/performance-engineering/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Search</title>
+      <link>https://eu.communityovercode.org/tracks/search/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eu.communityovercode.org/tracks/search/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tomcat, Httpd and other servers</title>
+      <link>https://eu.communityovercode.org/tracks/tomcat-httpd-and-other-servers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eu.communityovercode.org/tracks/tomcat-httpd-and-other-servers/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

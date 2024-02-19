@@ -6,5 +6,14 @@
     <description>Recent content in Remy Maucherat on Community Over Code Europe</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language><atom:link href="https://eu.communityovercode.org/speakers/remy-maucherat/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>OpenSSL and QUIC using FFM</title>
+      <link>https://eu.communityovercode.org/sessions/2024/openssl-and-quic-using-ffm/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eu.communityovercode.org/sessions/2024/openssl-and-quic-using-ffm/</guid>
+      <description>This session explores the use of the FFM API from Java 22 to leverage native library capabilities, in the context of Apache Tomcat. OpenSSL is here being used to provide support for TLS through the JSSE API, without the need to use the tomcat-native wrapper library. Exploratory design of QUIC and HTTP/3 support from OpenSSL 3.3+ is also discussed.</description>
+    </item>
+    
   </channel>
 </rss>

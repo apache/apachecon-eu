@@ -6,5 +6,23 @@
     <description>Recent content in Luciano Resende on Community Over Code Europe</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language><atom:link href="https://eu.communityovercode.org/speakers/luciano-resende/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Gatekeep iceberg data quality with Apache Toree and airflow</title>
+      <link>https://eu.communityovercode.org/sessions/2024/gatekeep-iceberg-data-quality-with-apache-toree-and-airflow/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eu.communityovercode.org/sessions/2024/gatekeep-iceberg-data-quality-with-apache-toree-and-airflow/</guid>
+      <description>Data quality plays a crucial role in data engineering to enable efficient and insightful data pipelines at scale. In this session, we will leverage Apache Iceberg as the scalable table format with ACID guarantee, Apache Toree’s interactive computation capabilities and orchestrate the automated data workflow on Apache Airflow. We will start by talking about how iceberg can use its column level statistics stored in metadata for efficient and reliable data quality validation.</description>
+    </item>
+    
+    <item>
+      <title>Orchestrating Scalable Data Pipelines with Apache Toree, YuniKorn, Spark, and Airflow</title>
+      <link>https://eu.communityovercode.org/sessions/2024/orchestrating-scalable-data-pipelines-with-apache-toree-yunikorn-spark-and-airflow/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eu.communityovercode.org/sessions/2024/orchestrating-scalable-data-pipelines-with-apache-toree-yunikorn-spark-and-airflow/</guid>
+      <description>This session explores the integrated use of Apache Toree, YuniKorn, Spark, and Airflow to create efficient, scalable data pipelines. We will start by discussing how Apache Toree provides an interactive analysis environment with Spark via Jupyter Notebook. Then, we’ll discuss using Apache YuniKorn to manage and schedule these computational resources, ensuring system efficiency. Central to our talk, we’ll delve into the role of Apache Spark in large-scale data processing, highlighting its integration with Toree and YuniKorn.</description>
+    </item>
+    
   </channel>
 </rss>

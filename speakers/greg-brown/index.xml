@@ -6,5 +6,16 @@
     <description>Recent content in Greg Brown on Community Over Code Europe</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language><atom:link href="https://eu.communityovercode.org/speakers/greg-brown/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Pretend it’s a Movie: How to Build Excitement for Your Apache Project</title>
+      <link>https://eu.communityovercode.org/sessions/2024/pretend-its-a-movie-how-to-build-excitement-for-your-apache-project/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eu.communityovercode.org/sessions/2024/pretend-its-a-movie-how-to-build-excitement-for-your-apache-project/</guid>
+      <description>How do you explain your Apache project to people who don’t even know how to download apps onto their phones – and still manage to get them excited about what you’re working on? It’s simple: pretend you’re talking about a movie.
+The problem isn’t the project, but how we’ve been talking about them. And now we’re going to fix that.
+In this talk, discover how to completely change the narrative about discussing Apache and open source by not actually talking about open source or Apache&amp;hellip;but instead using the same principles that marketers use to create excitement around a movie.</description>
+    </item>
+    
   </channel>
 </rss>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fintech on Community Over Code Europe</title>
+    <link>https://eu.communityovercode.org/tracks/fintech/</link>
+    <description>Recent content in Fintech on Community Over Code Europe</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language><atom:link href="https://eu.communityovercode.org/tracks/fintech/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Data Symphony: Orchestrating Insights in Fintech</title>
+      <link>https://eu.communityovercode.org/sessions/2024/data-symphony-orchestrating-insights-in-fintech/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eu.communityovercode.org/sessions/2024/data-symphony-orchestrating-insights-in-fintech/</guid>
+      <description>Uncover the pivotal role of a Data Science Product Manager as they conduct a data-driven symphony in a high-volume Fintech environment.
+In the world of product management, the role of a Data Science Product Manager stands out as a conductor orchestrating a symphony of insights. Join me in this session as I share firsthand experiences from my journey as a Data Science Product Manager at PayPal, delving into the challenges, successes, and failures that have shaped my approach to leading products in a data-rich environment.</description>
+    </item>
+    
+    <item>
+      <title>Evolving Fintech Landscapes: Driving Business Innovation with Fineract</title>
+      <link>https://eu.communityovercode.org/sessions/2024/evolving-fintech-landscapes-driving-business-innovation-with-fineract/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eu.communityovercode.org/sessions/2024/evolving-fintech-landscapes-driving-business-innovation-with-fineract/</guid>
+      <description>This session explores Fineract&amp;rsquo;s impact on banking transformation in fintech. It analyzes motivators driving core banking system changes, addressing challenges and innovative solutions.
+From a client-focused view, it details how Fineract addresses banking sector needs, emphasizing adaptability and strategic advantages globally.
+Real success cases and their metrics will demonstrate Fineract&amp;rsquo;s positive influence, driving innovation across financial landscapes. It also discusses regional fintech challenges and the potential solutions with Fineract as a fundamental piece.</description>
+    </item>
+    
+    <item>
+      <title>Fineract - Advanced payment allocation</title>
+      <link>https://eu.communityovercode.org/sessions/2024/fineract-advanced-payment-allocation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eu.communityovercode.org/sessions/2024/fineract-advanced-payment-allocation/</guid>
+      <description>Since the first repayment strategy got introduced, many followed, but there was one thing common in them:
+They were hard coding the allocation rules for each transaction type.
+By introducing - part of the 1.9.0 release - the &amp;ldquo;Advanced payment allocation&amp;rdquo; the idea was to have a repayment strategy which was:
+Supporting dynamic configuration of the allocation rules for transaction types
+Supporting configuration of more fine-grained allocation rules for future installments</description>
+    </item>
+    
+    <item>
+      <title>Fineract scalability improvements</title>
+      <link>https://eu.communityovercode.org/sessions/2024/fineract-scalability-improvements/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eu.communityovercode.org/sessions/2024/fineract-scalability-improvements/</guid>
+      <description>In this presentation we delve into infrastructure optimization options for supporting the scalability of Fineract.
+Key highlights of the session include:
+Performance testing: Exploring the newly-introduced capabilities of Fineract that enable drilling down to performance bottlenecks during development and in production.
+Performance improvements: Showing infrastructure and configuration changes that can improve Fineract&amp;rsquo;s response times and throughput under high-load scenarios.
+Scalability improvements: Presenting improvements on Fineract&amp;rsquo;s scalability capabilities, focusing on infrastructure-based scaling velocity improvements.</description>
+    </item>
+    
+    <item>
+      <title>How to extend Fineract with custom modules</title>
+      <link>https://eu.communityovercode.org/sessions/2024/how-to-extend-fineract-with-custom-modules/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eu.communityovercode.org/sessions/2024/how-to-extend-fineract-with-custom-modules/</guid>
+      <description>Apache Fineract has a wide range of built-in features, but most companies that integrate Fineract into their applications and services still require some customization of existing functionality or add new features. The usual approach is to fork the upstream project on Github and start right away editing the original code. This approach has a couple of drawbacks, especially that after a while of development the customization gets so complex that pulling changes from the upstream repository makes Git conflicts more likely and contributions back to the upstream project very difficult.</description>
+    </item>
+    
+    <item>
+      <title>Increasing Adoption and Achieving Financial Inclusion through DPI</title>
+      <link>https://eu.communityovercode.org/sessions/2024/increasing-adoption-and-achieving-financial-inclusion-through-dpi/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eu.communityovercode.org/sessions/2024/increasing-adoption-and-achieving-financial-inclusion-through-dpi/</guid>
+      <description>The Digital Public Infrastructure movement has been gaining momentum globally as governments move to DPI-based approaches to create exponential societal outcomes within and across sectors. DPI is composed of open, interoperable technology with transparent, accountable, and participatory governance frameworks to unlock innovation and value at scale. This session will introduce how Apache projects like Fineract recognized as Digital Public Goods are having transformative impact on achieving SDGs.
+Through presentation of the work Mifos has been undertaking over the past 12 months we will show how capabilities have been enhanced in Payment Hub EE combined with the power of Fineract to cover new use cases of P2G, Voucher Management and Account Mapping.</description>
+    </item>
+    
+  </channel>
+</rss>

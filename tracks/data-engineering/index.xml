@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data Engineering on Community Over Code Europe</title>
+    <link>https://eu.communityovercode.org/tracks/data-engineering/</link>
+    <description>Recent content in Data Engineering on Community Over Code Europe</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language><atom:link href="https://eu.communityovercode.org/tracks/data-engineering/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>4 tricks that help you leverage your Airflow pipelines</title>
+      <link>https://eu.communityovercode.org/sessions/2024/4-tricks-that-help-you-leverage-your-airflow-pipelines/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eu.communityovercode.org/sessions/2024/4-tricks-that-help-you-leverage-your-airflow-pipelines/</guid>
+      <description>In this insightful presentation, Aliaksandr will unveil four ingenious tricks to maximize your Apache Airflow experience in the realm of data engineering. Starting with the power of leveraging CSV files to effortlessly create versatile DAGs, Aliaksandr will demonstrate how this flexibility can streamline your pipeline development process. Moving forward, the audience will learn how Google Sheets can be harnessed as a dynamic tool for DAG creation, opening up opportunities for collaboration among team members of varying Airflow proficiency levels.</description>
+    </item>
+    
+    <item>
+      <title>Apache Arrow: An On-Point Addition to Any Lakehouse</title>
+      <link>https://eu.communityovercode.org/sessions/2024/apache-arrow-an-on-point-addition-to-any-lakehouse/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eu.communityovercode.org/sessions/2024/apache-arrow-an-on-point-addition-to-any-lakehouse/</guid>
+      <description>Apache Arrow has become a de-facto standard for representing large datasets and a very useful tool in any modern data engineering stack. While it allows different technologies to better communicate and share data, the ecosystem around it enables much more!
+In this talk we’ll cover how Arrow interacts with Apache Spark - from allowing PySpark to interoperate with other Python data libraries, to building data-driven applications with the recent addition of Spark Connect.</description>
+    </item>
+    
+    <item>
+      <title>Apache SIS library for geospatial applications</title>
+      <link>https://eu.communityovercode.org/sessions/2024/apache-sis-library-for-geospatial-applications/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eu.communityovercode.org/sessions/2024/apache-sis-library-for-geospatial-applications/</guid>
+      <description>Geospatial data are ubiquitous, but the difficulty of handling them accurately is often under-estimated. Various projects implement their own routines for performing geospatial operations, but not always with awareness about the pitfalls of simple approaches. This talk will present some of the difficulties in mapping &amp;ldquo;real world&amp;rdquo; to digital data. Then we will present some international standards published jointly by the Open Geospatial Consortium (OGC) and the International Organization for Standardization (ISO).</description>
+    </item>
+    
+    <item>
+      <title>Architecting Applications With Multiple Open-Source Big Data Technologies</title>
+      <link>https://eu.communityovercode.org/sessions/2024/architecting-applications-with-multiple-open-source-big-data-technologies/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eu.communityovercode.org/sessions/2024/architecting-applications-with-multiple-open-source-big-data-technologies/</guid>
+      <description>When I started as the Instaclustr Technology Evangelist 7 years ago, I already had a background in computer science R&amp;amp;D and thought I knew a few things about architecting complex distributed systems. But it was still challenging to learn multiple new Apache (and other) Big Data technologies and build and scale realistic demonstration applications for domains such as IoT/logistics, fintech, anomaly detection, geospatial data, data pipelines and a drone delivery application - with streaming machine learning.</description>
+    </item>
+    
+    <item>
+      <title>Building a Kubernetes Operator for Apache Flink in Java</title>
+      <link>https://eu.communityovercode.org/sessions/2024/building-a-kubernetes-operator-for-apache-flink-in-java/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eu.communityovercode.org/sessions/2024/building-a-kubernetes-operator-for-apache-flink-in-java/</guid>
+      <description>Managing complex applications such as data processing systems on Kubernetes is a formidable challenge even for the most seasoned engineers. Whether you want to build applications that operate themselves or provision infrastructure from Java code, Kubernetes Operators are the way to go.
+The Java Operator SDK is a production-ready framework that makes implementing Kubernetes Operators in Java easy. We will give you a run-down on the basics of operators and implementing one from scratch in Java and why this library may be the right choice for your project.</description>
+    </item>
+    
+    <item>
+      <title>Building services and pipelines for real-world data</title>
+      <link>https://eu.communityovercode.org/sessions/2024/building-services-and-pipelines-for-real-world-data/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eu.communityovercode.org/sessions/2024/building-services-and-pipelines-for-real-world-data/</guid>
+      <description>In the speech &amp;ldquo;Building Services and Pipelines for Real-World Data,&amp;rdquo; the speaker, an experienced professional in analytics services, delves into the complexities and challenges of extracting meaningful insights from chaotic, real-world data. The speech will address practical scenarios, from analyzing trading transactions to interpreting geolocation data, highlighting the difficulties in aligning data with real-world events and developing reliable analytical services. The speaker will share firsthand experiences and solutions for creating effective data pipelines and services, emphasizing the importance of adaptable architectures and strategies in data transformation and interpretation.</description>
+    </item>
+    
+    <item>
+      <title>Data enrichment patterns with Apache Flink</title>
+      <link>https://eu.communityovercode.org/sessions/2024/data-enrichment-patterns-with-apache-flink/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eu.communityovercode.org/sessions/2024/data-enrichment-patterns-with-apache-flink/</guid>
+      <description>Data enrichment is a critical step in stream processing. Real-time enrichment of streaming data with contextual information adds missing information, improves accuracy, increases trustworthiness, and facilitates better decision-making. Contextual data can be static or dynamic and obtained in various ways - APIs, databases, files and even as a stream. While there are multiple design patterns to perform data enrichment, it is not always obvious when one pattern is preferred over the other.</description>
+    </item>
+    
+    <item>
+      <title>Enhancing Flexibility and Productivity with Access Patterns and Storage-Agnostic Abstractions</title>
+      <link>https://eu.communityovercode.org/sessions/2024/enhancing-flexibility-and-productivity-with-access-patterns-and-storage-agnostic-abstractions/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eu.communityovercode.org/sessions/2024/enhancing-flexibility-and-productivity-with-access-patterns-and-storage-agnostic-abstractions/</guid>
+      <description>This session will introduce a platform created to bridge the existing gaps in data management while removing some of the complexities in existing Big Data ecosystem. The platform is built around a comprehensive data model describing structured entities and their relations. The model is consistently applied across three abstract types of storages - streaming (e.g. Apache Kafka, Google Cloud PubSub), batch (e.g. Hadoop HDFS, S3, Google Cloud Storage) and random-access (e.</description>
+    </item>
+    
+    <item>
+      <title>Gatekeep iceberg data quality with Apache Toree and airflow</title>
+      <link>https://eu.communityovercode.org/sessions/2024/gatekeep-iceberg-data-quality-with-apache-toree-and-airflow/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eu.communityovercode.org/sessions/2024/gatekeep-iceberg-data-quality-with-apache-toree-and-airflow/</guid>
+      <description>Data quality plays a crucial role in data engineering to enable efficient and insightful data pipelines at scale. In this session, we will leverage Apache Iceberg as the scalable table format with ACID guarantee, Apache Toree’s interactive computation capabilities and orchestrate the automated data workflow on Apache Airflow. We will start by talking about how iceberg can use its column level statistics stored in metadata for efficient and reliable data quality validation.</description>
+    </item>
+    
+    <item>
+      <title>Harnessing WebAssembly for Real-time Stateless Streaming Pipelines</title>
+      <link>https://eu.communityovercode.org/sessions/2024/harnessing-webassembly-for-real-time-stateless-streaming-pipelines/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eu.communityovercode.org/sessions/2024/harnessing-webassembly-for-real-time-stateless-streaming-pipelines/</guid>
+      <description>Traditionally, dealing with real-time data pipelines has involved significant overhead, even for straightforward tasks like data transformation or masking. However, in this talk, we&amp;rsquo;ll venture into the dynamic realm of WebAssembly (WASM) and discover how it can revolutionize the creation of stateless streaming pipelines within a Kafka (Redpanda) broker. These pipelines are adept at managing low-latency, high-data-volume scenarios.</description>
+    </item>
+    
+    <item>
+      <title>Modern Data Orchestrators</title>
+      <link>https://eu.communityovercode.org/sessions/2024/modern-data-orchestrators/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eu.communityovercode.org/sessions/2024/modern-data-orchestrators/</guid>
+      <description>In this talk, I&amp;rsquo;ll walk you through the tricks and best practices to take your data pipeline game to the next level. No boring theory here - we&amp;rsquo;ll be talking real-world use cases.
+Exploring which are the patterns for data pipeline with Airflow+Spark, Airflow+DBT, Airflow+Polars, how to avoid dependencies management on Airflow and resuse DAGs template on our organization.
+Define which are the fundamental concepts of a Data Pipeline, from Data Lineage, Data Observability, Metadata, Data quality, Data auditing and how to integrate it on a Data Pipeline.</description>
+    </item>
+    
+    <item>
+      <title>No Programming Language Needed: Use Nifi on Kafka for Your Data Flows</title>
+      <link>https://eu.communityovercode.org/sessions/2024/no-programming-language-needed-use-nifi-on-kafka-for-your-data-flows/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eu.communityovercode.org/sessions/2024/no-programming-language-needed-use-nifi-on-kafka-for-your-data-flows/</guid>
+      <description>Drag and Drop! In this session, you can find how to build data flow using Apache Nifi over Kafka even if you do not know programming! Apache Nifi is an easy-to-use, powerful and reliable system to process and distribute data. Also if anyone in the team prefers to use a browser-based user interface for data flow rather than coding, this is the best solution to combine your Kafka sources with Apache Nifi.</description>
+    </item>
+    
+    <item>
+      <title>Unlocking Insights: Data Federation</title>
+      <link>https://eu.communityovercode.org/sessions/2024/unlocking-insights-data-federation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eu.communityovercode.org/sessions/2024/unlocking-insights-data-federation/</guid>
+      <description>With great data comes great responsibilities! Companies of every scale face issues of managing huge amounts of data spread across various platforms, databases, and applications.
+Data federation offers a solution to this problem by integrating and accessing data from various data sources without the need for complex ETL processes or data duplication.
+This session will delve into the following key aspects of data federation:
+Introduction to Data Federation:
+The problem today?</description>
+    </item>
+    
+  </channel>
+</rss>

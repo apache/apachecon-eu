@@ -6,5 +6,23 @@
     <description>Recent content in Daniel Augusto Veronezi Salvador on Community Over Code Europe</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language><atom:link href="https://eu.communityovercode.org/speakers/daniel-augusto-veronezi-salvador/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Incremental snapshots/backups in KVM plugin of Apache CloudStack</title>
+      <link>https://eu.communityovercode.org/sessions/2024/incremental-snapshots-backups-in-kvm-plugin-of-apache-cloudstack/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eu.communityovercode.org/sessions/2024/incremental-snapshots-backups-in-kvm-plugin-of-apache-cloudstack/</guid>
+      <description>Apache CloudStack (ACS) and KVM are a combination that many organizations decided to adopt. KVM is a widely used hypervisor with a vibrant community and support in different operating system distributions. While developing the KVM plugin functionalities, one normally tries to make use of the full potential of the hypervisor; however, while Libvirt, the toolkit used by ACS to manage KVM VMs, already supports native incremental snapshots, every volume snapshot/backup taken with ACS is a full snapshot/backup.</description>
+    </item>
+    
+    <item>
+      <title>Making Apache CloudStack market ready with a native rating solution</title>
+      <link>https://eu.communityovercode.org/sessions/2024/making-apache-cloudstack-market-ready-with-a-native-rating-solution/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eu.communityovercode.org/sessions/2024/making-apache-cloudstack-market-ready-with-a-native-rating-solution/</guid>
+      <description>Apache CloudStack (ACS) is a solid option among known cloud orchestration systems, being on the same level as OpenStack, Azure Stack, and others. All of them address the basic needs to create and run a private cloud system; however, ACS&amp;rsquo;s users have to adopt external solutions for rating/billing the resources consumption, which is native in the other orchestration tools (e.g. OpenStack). This presentation will address the design and efforts of the ACS community to implement a native rating feature that will allow more flexibility and reduce the need for external systems.</description>
+    </item>
+    
   </channel>
 </rss>

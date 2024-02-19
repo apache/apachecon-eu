@@ -6,5 +6,15 @@
     <description>Recent content in Shailaja Koppu on Community Over Code Europe</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language><atom:link href="https://eu.communityovercode.org/speakers/shailaja-koppu/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cassandra CIDR filtering authorizer (CEP-33)</title>
+      <link>https://eu.communityovercode.org/sessions/2024/cassandra-cidr-filtering-authorizer-cep-33/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eu.communityovercode.org/sessions/2024/cassandra-cidr-filtering-authorizer-cep-33/</guid>
+      <description>As Cassandra clusters and users onboarding to multi cloud platforms, users may access Cassandra clusters from on-premise and from various cloud platforms. Admins may need to restrict certain users/teams to access from certain IP ranges, aka, CIDR groups. Also, may need to restrict superusers credentials usage from third party clouds.
+CIDR filtering authorizer provides capability for admins to configure allow or disallow users access from different CIDR groups, which can help in preventing misuse of copied or hacked credentials.</description>
+    </item>
+    
   </channel>
 </rss>

@@ -6,5 +6,15 @@
     <description>Recent content in Yupeng Fu on Community Over Code Europe</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language><atom:link href="https://eu.communityovercode.org/speakers/yupeng-fu/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Vector Search at Uber</title>
+      <link>https://eu.communityovercode.org/sessions/2024/vector-search-at-uber/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eu.communityovercode.org/sessions/2024/vector-search-at-uber/</guid>
+      <description>Vector Search has been regarded as a revolution for Search and Information Retrieval since the breakthrough with BERT and GPT in 2018. There has been an ever growing interest from both academia and industry in using machine learning models and vector search to leverage all sorts of content beyond the lexical features, including images, events, contextual semantics and so on.
+At Uber, we added the Vector Search support by leveraging Apache Lucene to our Search platform, and empower multiple business-critical use cases, such as Semantic Search and Gen AI support.</description>
+    </item>
+    
   </channel>
 </rss>

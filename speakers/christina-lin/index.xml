@@ -6,5 +6,14 @@
     <description>Recent content in Christina Lin on Community Over Code Europe</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language><atom:link href="https://eu.communityovercode.org/speakers/christina-lin/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Harnessing WebAssembly for Real-time Stateless Streaming Pipelines</title>
+      <link>https://eu.communityovercode.org/sessions/2024/harnessing-webassembly-for-real-time-stateless-streaming-pipelines/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eu.communityovercode.org/sessions/2024/harnessing-webassembly-for-real-time-stateless-streaming-pipelines/</guid>
+      <description>Traditionally, dealing with real-time data pipelines has involved significant overhead, even for straightforward tasks like data transformation or masking. However, in this talk, we&amp;rsquo;ll venture into the dynamic realm of WebAssembly (WASM) and discover how it can revolutionize the creation of stateless streaming pipelines within a Kafka (Redpanda) broker. These pipelines are adept at managing low-latency, high-data-volume scenarios.</description>
+    </item>
+    
   </channel>
 </rss>

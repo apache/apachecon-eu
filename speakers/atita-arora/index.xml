@@ -6,5 +6,16 @@
     <description>Recent content in Atita Arora on Community Over Code Europe</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language><atom:link href="https://eu.communityovercode.org/speakers/atita-arora/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Navigating Challenges and Enhancing Performance of LLM based Applications</title>
+      <link>https://eu.communityovercode.org/sessions/2024/navigating-challenges-and-enhancing-performance-of-llm-based-applications/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eu.communityovercode.org/sessions/2024/navigating-challenges-and-enhancing-performance-of-llm-based-applications/</guid>
+      <description>Retrieval-Augmented Generation (RAG) is probably one of the most popular implementations of LLMs that integrates retrieval and generation models, augmenting AI&amp;rsquo;s understanding of text and improving response accuracy through an information database.
+This approach tackles the limitations of traditional generation models by fusing retrieval mechanisms, and enriching outputs with contextual depth and external knowledge.
+Evaluating applications using LLMs, such as RAG, is pivotal for confidence and improvement, yet faces challenges like subjectiveness with respect to domain-specific suitability.</description>
+    </item>
+    
   </channel>
 </rss>

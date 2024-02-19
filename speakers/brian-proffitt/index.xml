@@ -6,5 +6,15 @@
     <description>Recent content in Brian Proffitt on Community Over Code Europe</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language><atom:link href="https://eu.communityovercode.org/speakers/brian-proffitt/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Outreach: The Two-Way Street of Open Source Projects</title>
+      <link>https://eu.communityovercode.org/sessions/2024/outreach-the-two-way-street-of-open-source-projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eu.communityovercode.org/sessions/2024/outreach-the-two-way-street-of-open-source-projects/</guid>
+      <description>There are millions of open source projects people can use and contribute to. Why yours?
+Developing an open source project that is valuable to many and widely accepted in an industry requires a lot of care and feeding – and more than just code. Whether your project is brand new or been around for decades, you need to explain why other people should take the time to learn, use, and potentially contribute to it.</description>
+    </item>
+    
   </channel>
 </rss>

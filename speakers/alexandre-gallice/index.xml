@@ -6,5 +6,15 @@
     <description>Recent content in Alexandre Gallice on Community Over Code Europe</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language><atom:link href="https://eu.communityovercode.org/speakers/alexandre-gallice/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Integration in the cloud era with Camel Quarkus</title>
+      <link>https://eu.communityovercode.org/sessions/2024/integration-in-the-cloud-era-with-camel-quarkus/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eu.communityovercode.org/sessions/2024/integration-in-the-cloud-era-with-camel-quarkus/</guid>
+      <description>Apache Camel is the proven integration swiss knife for years. In today&amp;rsquo;s world of workloads moving to the cloud, the need for disparate systems to communicate remains more than ever. This context makes a Kubernetes Java stack like Quarkus a good fit to implement Camel routes.
+In this session, the attendance can first expect a quick reminder about Camel Quarkus basics. Beyond, some day to day useful features will be presented via concrete examples.</description>
+    </item>
+    
   </channel>
 </rss>

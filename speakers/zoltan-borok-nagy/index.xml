@@ -6,5 +6,24 @@
     <description>Recent content in Zoltan Borok-Nagy on Community Over Code Europe</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language><atom:link href="https://eu.communityovercode.org/speakers/zoltan-borok-nagy/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Let’s see how fast Impala runs on Iceberg</title>
+      <link>https://eu.communityovercode.org/sessions/2024/lets-see-how-fast-impala-runs-on-iceberg/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eu.communityovercode.org/sessions/2024/lets-see-how-fast-impala-runs-on-iceberg/</guid>
+      <description>Apache Impala is a distributed massively parallel query engine designed for high-performance querying of large-scale data. There has been a long list of new features recently around supporting Apache Iceberg tables such as reading, writing, time traveling, and so on. However, in a big data environment it is also a must to be performant. Since Impala has been designed to be fast, it has its own way of reading Iceberg tables.</description>
+    </item>
+    
+    <item>
+      <title>This Impala not only reads, but modifies and optimizes Iceberg tables</title>
+      <link>https://eu.communityovercode.org/sessions/2024/this-impala-not-only-reads-but-modifies-and-optimizes-iceberg-tables/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eu.communityovercode.org/sessions/2024/this-impala-not-only-reads-but-modifies-and-optimizes-iceberg-tables/</guid>
+      <description>Apache Impala is a distributed, massively parallel query engine for big data. Initially, it focused on fast query execution on top of large datasets that were ingested via long-running batch jobs. The table schema and the ingested data typically remained unchanged, and row-level modifications were impractical to say the least.
+Today&amp;rsquo;s expectations for modern data warehouse engines have risen significantly. Users now want to have RDBMS-like capabilities in their data warehouses.</description>
+    </item>
+    
   </channel>
 </rss>

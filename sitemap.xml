@@ -123,6 +123,10 @@
     <loc>https://eu.communityovercode.org/blog/</loc>
     <lastmod>2019-09-10T13:51:25+06:00</lastmod>
   </url><url>
+    <loc>https://eu.communityovercode.org/sessions/2024/4-tricks-that-help-you-leverage-your-airflow-pipelines/</loc>
+  </url><url>
+    <loc>https://eu.communityovercode.org/sessions/2024/a-hands-on-introduction-to-the-kubernetes-gateway-api-with-apache-apisix/</loc>
+  </url><url>
     <loc>https://eu.communityovercode.org/about/</loc>
   </url><url>
     <loc>https://eu.communityovercode.org/accessibility/</loc>
@@ -155,7 +159,25 @@
   </url><url>
     <loc>https://eu.communityovercode.org/speakers/antonio-murgia/</loc>
   </url><url>
+    <loc>https://eu.communityovercode.org/sessions/2024/apache-arrow-an-on-point-addition-to-any-lakehouse/</loc>
+  </url><url>
+    <loc>https://eu.communityovercode.org/sessions/2024/apache-camel-takes-charge-of-over-1000-interfaces-in-a-seamless-transition-from-oracle-soa-suite/</loc>
+  </url><url>
+    <loc>https://eu.communityovercode.org/sessions/2024/apache-docs-training-empowering-communities-through-accessible-docs-training-material/</loc>
+  </url><url>
+    <loc>https://eu.communityovercode.org/sessions/2024/apache-iceberg-planning-explained/</loc>
+  </url><url>
+    <loc>https://eu.communityovercode.org/sessions/2024/apache-mynewt-connected-rtos-project-overview/</loc>
+  </url><url>
+    <loc>https://eu.communityovercode.org/sessions/2024/apache-ratis-a-high-performance-raft-library/</loc>
+  </url><url>
+    <loc>https://eu.communityovercode.org/sessions/2024/apache-sis-library-for-geospatial-applications/</loc>
+  </url><url>
     <loc>https://eu.communityovercode.org/speakers/aparna-sundar/</loc>
+  </url><url>
+    <loc>https://eu.communityovercode.org/tracks/api-microservices/</loc>
+  </url><url>
+    <loc>https://eu.communityovercode.org/sessions/2024/architecting-applications-with-multiple-open-source-big-data-technologies/</loc>
   </url><url>
     <loc>https://eu.communityovercode.org/speakers/atita-arora/</loc>
   </url><url>
@@ -165,13 +187,31 @@
   </url><url>
     <loc>https://eu.communityovercode.org/speakers/bertrand-delacretaz/</loc>
   </url><url>
+    <loc>https://eu.communityovercode.org/tracks/big-data-compute/</loc>
+  </url><url>
+    <loc>https://eu.communityovercode.org/tracks/big-data-storage/</loc>
+  </url><url>
     <loc>https://eu.communityovercode.org/speakers/boris-gordeev/</loc>
   </url><url>
     <loc>https://eu.communityovercode.org/speakers/branimir-lambov/</loc>
   </url><url>
+    <loc>https://eu.communityovercode.org/sessions/2024/breaking-barriers-a-strategic-framework-for-collaborative-governance-in-software/</loc>
+  </url><url>
     <loc>https://eu.communityovercode.org/speakers/brian-proffitt/</loc>
   </url><url>
     <loc>https://eu.communityovercode.org/speakers/bryan-lima/</loc>
+  </url><url>
+    <loc>https://eu.communityovercode.org/sessions/2024/building-a-diverse-global-community-taking-your-local-community-to-the-global-stage/</loc>
+  </url><url>
+    <loc>https://eu.communityovercode.org/sessions/2024/building-a-kubernetes-operator-for-apache-flink-in-java/</loc>
+  </url><url>
+    <loc>https://eu.communityovercode.org/sessions/2024/building-healthy-developer-communities-a-versatile-framework-for-success/</loc>
+  </url><url>
+    <loc>https://eu.communityovercode.org/sessions/2024/building-services-and-pipelines-for-real-world-data/</loc>
+  </url><url>
+    <loc>https://eu.communityovercode.org/tracks/cassandra/</loc>
+  </url><url>
+    <loc>https://eu.communityovercode.org/sessions/2024/cassandra-cidr-filtering-authorizer-cep-33/</loc>
   </url><url>
     <loc>https://eu.communityovercode.org/categories/</loc>
   </url><url>
@@ -179,7 +219,15 @@
   </url><url>
     <loc>https://eu.communityovercode.org/speakers/christofer-dutz/</loc>
   </url><url>
+    <loc>https://eu.communityovercode.org/sessions/2024/classifying-iris-flowers-with-groovy-deep-learning-and-graalvm/</loc>
+  </url><url>
+    <loc>https://eu.communityovercode.org/tracks/cloudstack/</loc>
+  </url><url>
     <loc>https://eu.communityovercode.org/coc/</loc>
+  </url><url>
+    <loc>https://eu.communityovercode.org/tracks/community/</loc>
+  </url><url>
+    <loc>https://eu.communityovercode.org/sessions/2024/community-census-understanding-users-maintainer-personas-with-a-community-survey/</loc>
   </url><url>
     <loc>https://eu.communityovercode.org/sessions/2024/</loc>
   </url><url>
@@ -187,21 +235,51 @@
   </url><url>
     <loc>https://eu.communityovercode.org/speakers/daniel-augusto-veronezi-salvador/</loc>
   </url><url>
+    <loc>https://eu.communityovercode.org/tracks/data-engineering/</loc>
+  </url><url>
+    <loc>https://eu.communityovercode.org/sessions/2024/data-enrichment-patterns-with-apache-flink/</loc>
+  </url><url>
+    <loc>https://eu.communityovercode.org/sessions/2024/data-symphony-orchestrating-insights-in-fintech/</loc>
+  </url><url>
     <loc>https://eu.communityovercode.org/speakers/david-higgins/</loc>
   </url><url>
     <loc>https://eu.communityovercode.org/speakers/david-kjerrumgaard/</loc>
   </url><url>
+    <loc>https://eu.communityovercode.org/sessions/2024/decoding-community-over-code/</loc>
+  </url><url>
     <loc>https://eu.communityovercode.org/speakers/dennis-kieselhorst/</loc>
+  </url><url>
+    <loc>https://eu.communityovercode.org/sessions/2024/documentation-to-use-open-source-design-templates/</loc>
   </url><url>
     <loc>https://eu.communityovercode.org/speakers/dominik-jelinek/</loc>
   </url><url>
     <loc>https://eu.communityovercode.org/speakers/edith-puclla/</loc>
   </url><url>
+    <loc>https://eu.communityovercode.org/sessions/2024/efficient-low-latency-ingestion-to-large-tables-via-apache-flink-and-apache-iceberg/</loc>
+  </url><url>
     <loc>https://eu.communityovercode.org/speakers/ela-demir/</loc>
+  </url><url>
+    <loc>https://eu.communityovercode.org/sessions/2024/elevating-scalable-object-storage-a-comprehensive-exploration-of-ozones-trailblazing-capabilities/</loc>
+  </url><url>
+    <loc>https://eu.communityovercode.org/sessions/2024/empowering-inclusivity-apache-airflow-s-impact-on-outreachy/</loc>
+  </url><url>
+    <loc>https://eu.communityovercode.org/sessions/2024/enhancing-flexibility-and-productivity-with-access-patterns-and-storage-agnostic-abstractions/</loc>
+  </url><url>
+    <loc>https://eu.communityovercode.org/sessions/2024/enhancing-your-community-engagement-with-apache-answer/</loc>
+  </url><url>
+    <loc>https://eu.communityovercode.org/sessions/2024/eu-policies-and-regulations-affecting-open-source-specialists-working-in-ospos/</loc>
   </url><url>
     <loc>https://eu.communityovercode.org/events/</loc>
   </url><url>
+    <loc>https://eu.communityovercode.org/sessions/2024/evolving-fintech-landscapes-driving-business-innovation-with-fineract/</loc>
+  </url><url>
     <loc>https://eu.communityovercode.org/faq/</loc>
+  </url><url>
+    <loc>https://eu.communityovercode.org/sessions/2024/fineract-advanced-payment-allocation/</loc>
+  </url><url>
+    <loc>https://eu.communityovercode.org/sessions/2024/fineract-scalability-improvements/</loc>
+  </url><url>
+    <loc>https://eu.communityovercode.org/tracks/fintech/</loc>
   </url><url>
     <loc>https://eu.communityovercode.org/speakers/floor-drees/</loc>
   </url><url>
@@ -209,15 +287,47 @@
   </url><url>
     <loc>https://eu.communityovercode.org/speakers/gabor-somogyi/</loc>
   </url><url>
+    <loc>https://eu.communityovercode.org/sessions/2024/gatekeep-iceberg-data-quality-with-apache-toree-and-airflow/</loc>
+  </url><url>
+    <loc>https://eu.communityovercode.org/sessions/2024/getting-started-with-the-micronaut-r-framework/</loc>
+  </url><url>
     <loc>https://eu.communityovercode.org/speakers/glaucia-esppenchutz/</loc>
   </url><url>
     <loc>https://eu.communityovercode.org/speakers/greg-brown/</loc>
   </url><url>
+    <loc>https://eu.communityovercode.org/tracks/groovy/</loc>
+  </url><url>
     <loc>https://eu.communityovercode.org/speakers/gyula-fora/</loc>
+  </url><url>
+    <loc>https://eu.communityovercode.org/sessions/2024/harnessing-webassembly-for-real-time-stateless-streaming-pipelines/</loc>
   </url><url>
     <loc>https://eu.communityovercode.org/speakers/hichem-kenniche/</loc>
   </url><url>
+    <loc>https://eu.communityovercode.org/sessions/2024/hive-iceberg-breaking-the-ice-a-closer-look-at-hive-iceberg/</loc>
+  </url><url>
     <loc>https://eu.communityovercode.org/speakers/hongyue-zhang/</loc>
+  </url><url>
+    <loc>https://eu.communityovercode.org/sessions/2024/how-to-extend-fineract-with-custom-modules/</loc>
+  </url><url>
+    <loc>https://eu.communityovercode.org/sessions/2024/http-3-where-are-we-now-state-of-the-art-in-our-servers/</loc>
+  </url><url>
+    <loc>https://eu.communityovercode.org/sessions/2024/hybrid-search-with-apache-solr/</loc>
+  </url><url>
+    <loc>https://eu.communityovercode.org/sessions/2024/importing-kvm-instances-from-external-kvm-hosts-or-qcow2/</loc>
+  </url><url>
+    <loc>https://eu.communityovercode.org/sessions/2024/increasing-adoption-and-achieving-financial-inclusion-through-dpi/</loc>
+  </url><url>
+    <loc>https://eu.communityovercode.org/sessions/2024/incremental-snapshots-backups-in-kvm-plugin-of-apache-cloudstack/</loc>
+  </url><url>
+    <loc>https://eu.communityovercode.org/tracks/incubator/</loc>
+  </url><url>
+    <loc>https://eu.communityovercode.org/sessions/2024/influencing-the-tech-ecosystem-through-community-participation/</loc>
+  </url><url>
+    <loc>https://eu.communityovercode.org/sessions/2024/inside-the-apache-software-foundation-board/</loc>
+  </url><url>
+    <loc>https://eu.communityovercode.org/sessions/2024/integration-in-the-cloud-era-with-camel-quarkus/</loc>
+  </url><url>
+    <loc>https://eu.communityovercode.org/tracks/iot/</loc>
   </url><url>
     <loc>https://eu.communityovercode.org/speakers/jan-lukavsky/</loc>
   </url><url>
@@ -245,13 +355,29 @@
   </url><url>
     <loc>https://eu.communityovercode.org/speakers/kyle-hoondert/</loc>
   </url><url>
+    <loc>https://eu.communityovercode.org/sessions/2024/lets-see-how-fast-impala-runs-on-iceberg/</loc>
+  </url><url>
+    <loc>https://eu.communityovercode.org/sessions/2024/leveraging-groovy-and-apache-ignite-for-fast-distributed-scaleable-computing-and-data/</loc>
+  </url><url>
+    <loc>https://eu.communityovercode.org/speakers/lisa-n.-cao/</loc>
+  </url><url>
     <loc>https://eu.communityovercode.org/speakers/lisa-n-cao/</loc>
   </url><url>
     <loc>https://eu.communityovercode.org/speakers/luciano-resende/</loc>
   </url><url>
     <loc>https://eu.communityovercode.org/speakers/lukas-ott/</loc>
   </url><url>
+    <loc>https://eu.communityovercode.org/sessions/2024/magic-industrial-data-acquisition-with-apache-plc4x-tsfile-and-iotdb/</loc>
+  </url><url>
+    <loc>https://eu.communityovercode.org/sessions/2024/maintaining-diverse-maintainers-how-to-keep-your-project-inclusive/</loc>
+  </url><url>
+    <loc>https://eu.communityovercode.org/sessions/2024/making-apache-cloudstack-market-ready-with-a-native-rating-solution/</loc>
+  </url><url>
     <loc>https://eu.communityovercode.org/speakers/mallikarjun-venkataswamyreddy/</loc>
+  </url><url>
+    <loc>https://eu.communityovercode.org/sessions/2024/managing-in-the-open-managing-contributions-the-challenges-of-ospo-developers-management/</loc>
+  </url><url>
+    <loc>https://eu.communityovercode.org/sessions/2024/managing-the-camel-development-lifecycle-within-vs-code/</loc>
   </url><url>
     <loc>https://eu.communityovercode.org/speakers/marco-sinhoreli/</loc>
   </url><url>
@@ -267,6 +393,8 @@
   </url><url>
     <loc>https://eu.communityovercode.org/speakers/medine-aktas/</loc>
   </url><url>
+    <loc>https://eu.communityovercode.org/sessions/2024/mentorship-programs-growing-new-team-and-community-leaders/</loc>
+  </url><url>
     <loc>https://eu.communityovercode.org/speakers/michael-rambichler/</loc>
   </url><url>
     <loc>https://eu.communityovercode.org/speakers/mick-semb-wever/</loc>
@@ -277,7 +405,15 @@
   </url><url>
     <loc>https://eu.communityovercode.org/speakers/mirko-kampf/</loc>
   </url><url>
+    <loc>https://eu.communityovercode.org/sessions/2024/modern-data-orchestrators/</loc>
+  </url><url>
+    <loc>https://eu.communityovercode.org/sessions/2024/modernize-apis-to-run-serverless-using-apache-cxf/</loc>
+  </url><url>
+    <loc>https://eu.communityovercode.org/sessions/2024/moving-apache-cassandra-command-execution-and-monitoring-from-jmx-to-cql-a-developer-s-overview/</loc>
+  </url><url>
     <loc>https://eu.communityovercode.org/speakers/muhammet-orazov/</loc>
+  </url><url>
+    <loc>https://eu.communityovercode.org/sessions/2024/multi-tenancy-apache-hbase/</loc>
   </url><url>
     <loc>https://eu.communityovercode.org/speakers/nadia-jiang/</loc>
   </url><url>
@@ -285,15 +421,33 @@
   </url><url>
     <loc>https://eu.communityovercode.org/speakers/navendu-pottekkat/</loc>
   </url><url>
+    <loc>https://eu.communityovercode.org/sessions/2024/navigating-challenges-and-enhancing-performance-of-llm-based-applications/</loc>
+  </url><url>
+    <loc>https://eu.communityovercode.org/sessions/2024/navigating-podling-releases-achieving-success-in-the-apache-incubator/</loc>
+  </url><url>
     <loc>https://eu.communityovercode.org/speakers/nicolas-frankel/</loc>
   </url><url>
     <loc>https://eu.communityovercode.org/speakers/niklas-merz/</loc>
   </url><url>
+    <loc>https://eu.communityovercode.org/sessions/2024/no-programming-language-needed-use-nifi-on-kafka-for-your-data-flows/</loc>
+  </url><url>
     <loc>https://eu.communityovercode.org/speakers/noemi-pap-takacs/</loc>
+  </url><url>
+    <loc>https://eu.communityovercode.org/sessions/2024/obtain-distribute-and-use-temporary-credentials-automatically-in-apache-spark-and-apache-flink/</loc>
   </url><url>
     <loc>https://eu.communityovercode.org/speakers/oleg-nenashev/</loc>
   </url><url>
     <loc>https://eu.communityovercode.org/speakers/omotola-omotayo/</loc>
+  </url><url>
+    <loc>https://eu.communityovercode.org/sessions/2024/openssl-and-quic-using-ffm/</loc>
+  </url><url>
+    <loc>https://eu.communityovercode.org/sessions/2024/optimal-approaches-for-real-time-machine-learning-with-apache-spark-on-kubernetes/</loc>
+  </url><url>
+    <loc>https://eu.communityovercode.org/sessions/2024/orchestrating-scalable-data-pipelines-with-apache-toree-yunikorn-spark-and-airflow/</loc>
+  </url><url>
+    <loc>https://eu.communityovercode.org/sessions/2024/outreach-the-two-way-street-of-open-source-projects/</loc>
+  </url><url>
+    <loc>https://eu.communityovercode.org/sessions/2024/oxia-a-horizontally-scalable-alternative-to-apache-zookeeper/</loc>
   </url><url>
     <loc>https://eu.communityovercode.org/speakers/oz-katz/</loc>
   </url><url>
@@ -303,11 +457,15 @@
   </url><url>
     <loc>https://eu.communityovercode.org/speakers/paul-king/</loc>
   </url><url>
+    <loc>https://eu.communityovercode.org/tracks/performance-engineering/</loc>
+  </url><url>
     <loc>https://eu.communityovercode.org/speakers/peter-rozsa/</loc>
   </url><url>
     <loc>https://eu.communityovercode.org/speakers/peter-vary/</loc>
   </url><url>
     <loc>https://eu.communityovercode.org/schedule/</loc>
+  </url><url>
+    <loc>https://eu.communityovercode.org/sessions/2024/pretend-its-a-movie-how-to-build-excitement-for-your-apache-project/</loc>
   </url><url>
     <loc>https://eu.communityovercode.org/speakers/archive/</loc>
   </url><url>
@@ -321,6 +479,10 @@
   </url><url>
     <loc>https://eu.communityovercode.org/speakers/rich-bowen/</loc>
   </url><url>
+    <loc>https://eu.communityovercode.org/sessions/2024/sdn-options-in-apache-cloudstack/</loc>
+  </url><url>
+    <loc>https://eu.communityovercode.org/tracks/search/</loc>
+  </url><url>
     <loc>https://eu.communityovercode.org/speakers/sergio-del-amo/</loc>
   </url><url>
     <loc>https://eu.communityovercode.org/sessions/</loc>
@@ -331,15 +493,43 @@
   </url><url>
     <loc>https://eu.communityovercode.org/speakers/simhadri-govindappa/</loc>
   </url><url>
+    <loc>https://eu.communityovercode.org/sessions/2024/simplifying-data-processing-with-apache-flink-sql/</loc>
+  </url><url>
+    <loc>https://eu.communityovercode.org/sessions/2024/solr-eclipse-zomato-s-journey-to-64-million-search-queries-a-day/</loc>
+  </url><url>
+    <loc>https://eu.communityovercode.org/sessions/2024/state-of-apache-iotdb/</loc>
+  </url><url>
+    <loc>https://eu.communityovercode.org/sessions/2024/state-of-the-civet/</loc>
+  </url><url>
+    <loc>https://eu.communityovercode.org/sessions/2024/storage-attached-index-vector-search-in-cassandra-5-0/</loc>
+  </url><url>
     <loc>https://eu.communityovercode.org/speakers/subham-rakshit/</loc>
   </url><url>
     <loc>https://eu.communityovercode.org/speakers/szymon-janc/</loc>
   </url><url>
     <loc>https://eu.communityovercode.org/tags/</loc>
   </url><url>
+    <loc>https://eu.communityovercode.org/sessions/2024/talking-with-management-about-open-source/</loc>
+  </url><url>
+    <loc>https://eu.communityovercode.org/sessions/2024/the-accord-consensus-protocol-acid-transactions-globally-at-any-scale/</loc>
+  </url><url>
+    <loc>https://eu.communityovercode.org/sessions/2024/the-right-feature-at-the-right-place-the-example-of-authorization/</loc>
+  </url><url>
+    <loc>https://eu.communityovercode.org/sessions/2024/the-unified-compaction-strategy-in-cassandra-5/</loc>
+  </url><url>
+    <loc>https://eu.communityovercode.org/sessions/2024/this-impala-not-only-reads-but-modifies-and-optimizes-iceberg-tables/</loc>
+  </url><url>
     <loc>https://eu.communityovercode.org/tickets/</loc>
   </url><url>
     <loc>https://eu.communityovercode.org/speakers/tomas-ferreiro/</loc>
+  </url><url>
+    <loc>https://eu.communityovercode.org/sessions/2024/tomcat-11-and-jakarta-ee-11/</loc>
+  </url><url>
+    <loc>https://eu.communityovercode.org/tracks/tomcat-httpd-and-other-servers/</loc>
+  </url><url>
+    <loc>https://eu.communityovercode.org/tracks/</loc>
+  </url><url>
+    <loc>https://eu.communityovercode.org/sessions/2024/transitioning-from-vmware-to-apache-cloudstack-a-path-to-profitability-and-competitiveness/</loc>
   </url><url>
     <loc>https://eu.communityovercode.org/speakers/trista-pan/</loc>
   </url><url>
@@ -347,7 +537,29 @@
   </url><url>
     <loc>https://eu.communityovercode.org/speakers/uma-maheswara-rao-gangumalla/</loc>
   </url><url>
+    <loc>https://eu.communityovercode.org/sessions/2024/understanding-stream-table-duality-using-kafka-flink-sql-and-debezium-format/</loc>
+  </url><url>
+    <loc>https://eu.communityovercode.org/sessions/2024/unleash-the-power-of-asynchronous-decision-making/</loc>
+  </url><url>
+    <loc>https://eu.communityovercode.org/sessions/2024/unleashing-high-concurrency-real-time-iot-queries-with-apache-druid/</loc>
+  </url><url>
+    <loc>https://eu.communityovercode.org/sessions/2024/unlocking-insights-data-federation/</loc>
+  </url><url>
+    <loc>https://eu.communityovercode.org/sessions/2024/vector-search-at-uber/</loc>
+  </url><url>
+    <loc>https://eu.communityovercode.org/sessions/2024/vnf-integration-and-support-in-apache-cloudstack/</loc>
+  </url><url>
+    <loc>https://eu.communityovercode.org/sessions/2024/webassembly-plugin-for-apache-traffic-server/</loc>
+  </url><url>
     <loc>https://eu.communityovercode.org/speakers/wei-zhou/</loc>
+  </url><url>
+    <loc>https://eu.communityovercode.org/sessions/2024/whisky-clustering-with-apache-projects-groovy-commons-math-ignite-spark-wayang-and-beam/</loc>
+  </url><url>
+    <loc>https://eu.communityovercode.org/sessions/2024/whitefox-simple-table-format-sharing/</loc>
+  </url><url>
+    <loc>https://eu.communityovercode.org/sessions/2024/why-apache-kafka-clusters-are-like-galaxies-and-other-cosmic-kafka-quandaries-explored/</loc>
+  </url><url>
+    <loc>https://eu.communityovercode.org/sessions/2024/why-is-it-so-hard/</loc>
   </url><url>
     <loc>https://eu.communityovercode.org/speakers/yupeng-fu/</loc>
   </url><url>

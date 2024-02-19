@@ -6,5 +6,14 @@
     <description>Recent content in Hichem Kenniche on Community Over Code Europe</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language><atom:link href="https://eu.communityovercode.org/speakers/hichem-kenniche/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Optimal Approaches for Real-Time Machine Learning with Apache Spark on Kubernetes.</title>
+      <link>https://eu.communityovercode.org/sessions/2024/optimal-approaches-for-real-time-machine-learning-with-apache-spark-on-kubernetes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eu.communityovercode.org/sessions/2024/optimal-approaches-for-real-time-machine-learning-with-apache-spark-on-kubernetes/</guid>
+      <description>As machine learning (ML) models increasingly become integral components of modern applications, there is a growing need to deploy them in real-time environments. Apache Spark is a popular open-source framework for large-scale data processing that supports ML tasks, while Kubernetes provides a powerful platform for container orchestration and deployment. However, combining Spark and Kubernetes poses significant challenges, especially when it comes to achieving low latency and high scalability. In this session, we explore optimal approaches for real-time ML with Apache Spark on Kubernetes, including best practices and strategies for efficient model training, deployment, and serving.</description>
+    </item>
+    
   </channel>
 </rss>

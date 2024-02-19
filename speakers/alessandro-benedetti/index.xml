@@ -6,5 +6,15 @@
     <description>Recent content in Alessandro Benedetti on Community Over Code Europe</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language><atom:link href="https://eu.communityovercode.org/speakers/alessandro-benedetti/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hybrid Search with Apache Solr</title>
+      <link>https://eu.communityovercode.org/sessions/2024/hybrid-search-with-apache-solr/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eu.communityovercode.org/sessions/2024/hybrid-search-with-apache-solr/</guid>
+      <description>Vector-based search gained incredible popularity in the last few years: Large Language Models fine-tuned for sentence similarity proved to be quite effective in encoding text to vectors and representing some of the semantics of sentences in a numerical form.
+These vectors can be used to run a K-nearest neighbour search and look for documents/paragraphs close to the query in a n-dimensional vector space, effectively mimicking a similarity search in the semantic space (Apache Solr KNN Query Parser).</description>
+    </item>
+    
   </channel>
 </rss>

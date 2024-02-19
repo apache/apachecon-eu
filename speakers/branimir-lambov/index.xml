@@ -6,5 +6,15 @@
     <description>Recent content in Branimir Lambov on Community Over Code Europe</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language><atom:link href="https://eu.communityovercode.org/speakers/branimir-lambov/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Unified Compaction Strategy in Cassandra 5</title>
+      <link>https://eu.communityovercode.org/sessions/2024/the-unified-compaction-strategy-in-cassandra-5/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eu.communityovercode.org/sessions/2024/the-unified-compaction-strategy-in-cassandra-5/</guid>
+      <description>Choosing a compaction strategy for a Cassandra database has historically been a very difficult problem, where making the wrong choice can have lasting effects on performance while making a change later is a time-consuming and costly process.
+The Unified Compaction Strategy, introduced with Cassandra 5, is designed to provide a solution to this problem by effectively handling a diverse range of use cases, including those best suited for leveled, tiered, and time-windowed compaction.</description>
+    </item>
+    
   </channel>
 </rss>

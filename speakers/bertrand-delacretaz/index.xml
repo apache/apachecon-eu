@@ -6,5 +6,16 @@
     <description>Recent content in Bertrand Delacretaz on Community Over Code Europe</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language><atom:link href="https://eu.communityovercode.org/speakers/bertrand-delacretaz/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Unleash the power of Asynchronous Decision Making</title>
+      <link>https://eu.communityovercode.org/sessions/2024/unleash-the-power-of-asynchronous-decision-making/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eu.communityovercode.org/sessions/2024/unleash-the-power-of-asynchronous-decision-making/</guid>
+      <description>The Asynchronous Decision Making techniques commonly used in open source projects enable efficient remote collaboration, in teams which have no boss, no schedule and often no cultural consistency yet produce world-changing software.
+These very efficient collaboration techniques can even work without computers and apply to most types of projects, not just software development.
+This talk describes the key elements and tools of the Asynchronous Decision Making process, based on more than twenty five years of experience in Open Source projects, as well as examples from federated governments, which, interestingly, work in a similar way.</description>
+    </item>
+    
   </channel>
 </rss>

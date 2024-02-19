@@ -6,5 +6,15 @@
     <description>Recent content in Navendu Pottekkat on Community Over Code Europe</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language><atom:link href="https://eu.communityovercode.org/speakers/navendu-pottekkat/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A Hands-On Introduction to the Kubernetes Gateway API with Apache APISIX</title>
+      <link>https://eu.communityovercode.org/sessions/2024/a-hands-on-introduction-to-the-kubernetes-gateway-api-with-apache-apisix/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eu.communityovercode.org/sessions/2024/a-hands-on-introduction-to-the-kubernetes-gateway-api-with-apache-apisix/</guid>
+      <description>Why do you need another API to handle external traffic when you have the stable Kubernetes Ingress API and dozens of implementations? What problems of the Ingress API does the new Gateway API solve? Does this mean the end of the Ingress API?
+In this short talk, Navendu will answer these questions by exploring how Gateway APIs evolved and solved the shortcomings of the Ingress API with hands-on examples using Apache APISIX.</description>
+    </item>
+    
   </channel>
 </rss>

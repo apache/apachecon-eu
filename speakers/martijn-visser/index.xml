@@ -6,5 +6,15 @@
     <description>Recent content in Martijn Visser on Community Over Code Europe</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language><atom:link href="https://eu.communityovercode.org/speakers/martijn-visser/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Simplifying Data Processing with Apache Flink SQL</title>
+      <link>https://eu.communityovercode.org/sessions/2024/simplifying-data-processing-with-apache-flink-sql/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eu.communityovercode.org/sessions/2024/simplifying-data-processing-with-apache-flink-sql/</guid>
+      <description>Apache Flink is a powerful open-source stream processing framework that supports unified batch and streaming processing. With its SQL support, Flink has become even more accessible to data analysts and developers who are familiar with SQL.
+In this talk, we will provide a short introduction to Apache Flink and explain how you can leverage SQL under the hood. We will cover some of the SQL-specific features of Flink, such as dynamic tables, streaming SQL and support for stateful operations like windowing and pattern recognition.</description>
+    </item>
+    
   </channel>
 </rss>

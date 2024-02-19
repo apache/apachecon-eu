@@ -6,5 +6,14 @@
     <description>Recent content in Mirko Boehm on Community Over Code Europe</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language><atom:link href="https://eu.communityovercode.org/speakers/mirko-boehm/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>EU policies and regulations affecting open source specialists working in OSPOs</title>
+      <link>https://eu.communityovercode.org/sessions/2024/eu-policies-and-regulations-affecting-open-source-specialists-working-in-ospos/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eu.communityovercode.org/sessions/2024/eu-policies-and-regulations-affecting-open-source-specialists-working-in-ospos/</guid>
+      <description>The panel will discuss how EU legislation affects the daily work of open source operations (upstream contribution to open source projects, open source compliance, etc) focusing on how these laws impact open source professionals working in OSPOs or similar entities. Panelists will cover some of the recent policy updates, the challenges of staying compliant when managing open source contribution and usage within organizations, and their personal experiences in adapting to the changing European regulatory environment.</description>
+    </item>
+    
   </channel>
 </rss>

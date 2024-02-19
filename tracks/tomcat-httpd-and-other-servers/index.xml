@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tomcat, Httpd and other servers on Community Over Code Europe</title>
+    <link>https://eu.communityovercode.org/tracks/tomcat-httpd-and-other-servers/</link>
+    <description>Recent content in Tomcat, Httpd and other servers on Community Over Code Europe</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language><atom:link href="https://eu.communityovercode.org/tracks/tomcat-httpd-and-other-servers/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>HTTP/3 where are we now? State of the art in our servers.</title>
+      <link>https://eu.communityovercode.org/sessions/2024/http-3-where-are-we-now-state-of-the-art-in-our-servers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eu.communityovercode.org/sessions/2024/http-3-where-are-we-now-state-of-the-art-in-our-servers/</guid>
+      <description>As HTTP/3 looks ready we will look to where we are with it in our servers.
+The &amp;ldquo;old&amp;rdquo; HTTP/2 protocol and the corresponding TLS/SSL are common to Traffic Server, HTTP Server and Tomcat.
+The presentation will shortly explain the new protocol and look to different implementation of the protocol.
+Then the state of HTTP/3 in our 3 servers and how to implement HTTP/3 in them will be presented.
+A small demo supporting HTTP/3 will be run.</description>
+    </item>
+    
+    <item>
+      <title>OpenSSL and QUIC using FFM</title>
+      <link>https://eu.communityovercode.org/sessions/2024/openssl-and-quic-using-ffm/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eu.communityovercode.org/sessions/2024/openssl-and-quic-using-ffm/</guid>
+      <description>This session explores the use of the FFM API from Java 22 to leverage native library capabilities, in the context of Apache Tomcat. OpenSSL is here being used to provide support for TLS through the JSSE API, without the need to use the tomcat-native wrapper library. Exploratory design of QUIC and HTTP/3 support from OpenSSL 3.3+ is also discussed.</description>
+    </item>
+    
+    <item>
+      <title>Tomcat 11 and Jakarta EE 11</title>
+      <link>https://eu.communityovercode.org/sessions/2024/tomcat-11-and-jakarta-ee-11/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eu.communityovercode.org/sessions/2024/tomcat-11-and-jakarta-ee-11/</guid>
+      <description>Apache Tomcat implements the Jakarta Servlet, Jakarta Pages, Jakarta Expression Language, Jakarta WebSocket and Jakarta Authentication specifications. Jakarta EE 11 is due for release in the first half of 2024 with the first stable Tomcat 11 release expected shortly afterwards.
+This session will look at the changes in Jakarta EE 11 for the specifications that Tomcat implements and what these changes mean for developers looking to deploying their application on Tomcat 11.</description>
+    </item>
+    
+    <item>
+      <title>WebAssembly plugin for Apache Traffic Server</title>
+      <link>https://eu.communityovercode.org/sessions/2024/webassembly-plugin-for-apache-traffic-server/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eu.communityovercode.org/sessions/2024/webassembly-plugin-for-apache-traffic-server/</guid>
+      <description>The WebAssembly (Wasm) plugin for Apache Traffic Server (ATS) allows WebAssembly modules following the &amp;ldquo;proxy-wasm&amp;rdquo; specification to be run on ATS.
+The talk will begin by first introducing the background and history of plugins and programmability of ATS. I will go over the short comings of the current offerings and then introduce the Wasm plugin as an alternative solution for them. I will then talk about the &amp;ldquo;proxy-wasm&amp;rdquo; specification, which describes the support of WebAssembly modules for proxy server software.</description>
+    </item>
+    
+  </channel>
+</rss>

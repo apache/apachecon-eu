@@ -6,5 +6,14 @@
     <description>Recent content in Wei Zhou on Community Over Code Europe</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language><atom:link href="https://eu.communityovercode.org/speakers/wei-zhou/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>VNF Integration and Support in Apache CloudStack</title>
+      <link>https://eu.communityovercode.org/sessions/2024/vnf-integration-and-support-in-apache-cloudstack/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eu.communityovercode.org/sessions/2024/vnf-integration-and-support-in-apache-cloudstack/</guid>
+      <description>In this session Wei will present how CloudStack 4.19 adds the capability to easily and quickly perform a light-touch integration of networking appliances with Apache CloudStack, allowing for operators and end users to offer a broader range of networking services while empowering end-users to effortlessly deploy their own virtualized network functions (VNFs).</description>
+    </item>
+    
   </channel>
 </rss>

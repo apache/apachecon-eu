@@ -6,5 +6,14 @@
     <description>Recent content in Andrija Panic on Community Over Code Europe</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language><atom:link href="https://eu.communityovercode.org/speakers/andrija-panic/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Importing KVM instances from external KVM hosts or QCOW2</title>
+      <link>https://eu.communityovercode.org/sessions/2024/importing-kvm-instances-from-external-kvm-hosts-or-qcow2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eu.communityovercode.org/sessions/2024/importing-kvm-instances-from-external-kvm-hosts-or-qcow2/</guid>
+      <description>CloudStack recently introduced a few hypervisor migration features, to help cloud operators migrate existing VM workloads into CloudStack. In this session, we are going to see how you can migrate instances from external KVM hosts to KVM hosts managed by CloudStack. Also, we are going to see how we can quickly deploy an instance from a previously prepared qcow2 image.</description>
+    </item>
+    
   </channel>
 </rss>

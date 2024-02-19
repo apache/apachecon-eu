@@ -6,5 +6,23 @@
     <description>Recent content in Paul Brebner on Community Over Code Europe</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language><atom:link href="https://eu.communityovercode.org/speakers/paul-brebner/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Architecting Applications With Multiple Open-Source Big Data Technologies</title>
+      <link>https://eu.communityovercode.org/sessions/2024/architecting-applications-with-multiple-open-source-big-data-technologies/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eu.communityovercode.org/sessions/2024/architecting-applications-with-multiple-open-source-big-data-technologies/</guid>
+      <description>When I started as the Instaclustr Technology Evangelist 7 years ago, I already had a background in computer science R&amp;amp;D and thought I knew a few things about architecting complex distributed systems. But it was still challenging to learn multiple new Apache (and other) Big Data technologies and build and scale realistic demonstration applications for domains such as IoT/logistics, fintech, anomaly detection, geospatial data, data pipelines and a drone delivery application - with streaming machine learning.</description>
+    </item>
+    
+    <item>
+      <title>Why Apache Kafka Clusters Are Like Galaxies (And Other Cosmic Kafka Quandaries Explored)</title>
+      <link>https://eu.communityovercode.org/sessions/2024/why-apache-kafka-clusters-are-like-galaxies-and-other-cosmic-kafka-quandaries-explored/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eu.communityovercode.org/sessions/2024/why-apache-kafka-clusters-are-like-galaxies-and-other-cosmic-kafka-quandaries-explored/</guid>
+      <description>Instaclustr (now part of NetApp) manages 100s of Apache Kafka clusters of many different sizes, for a variety of use cases and customers. For the last 7 years I’ve been focused outwardly on exploring Kafka application development challenges, but recently I decided to look inward and see what I could discover about the performance, scalability and resource characteristics of the Kafka clusters themselves. Using a suite of Performance Engineering techniques, I will reveal some surprising discoveries about cosmic Kafka mysteries in our data centres, related to: cluster sizes and distribution (using Zipf’s Law), horizontal vs.</description>
+    </item>
+    
   </channel>
 </rss>

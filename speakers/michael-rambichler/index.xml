@@ -6,5 +6,17 @@
     <description>Recent content in Michael Rambichler on Community Over Code Europe</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language><atom:link href="https://eu.communityovercode.org/speakers/michael-rambichler/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Apache Camel Takes Charge of Over 1000 Interfaces in a Seamless Transition from Oracle SOA Suite</title>
+      <link>https://eu.communityovercode.org/sessions/2024/apache-camel-takes-charge-of-over-1000-interfaces-in-a-seamless-transition-from-oracle-soa-suite/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eu.communityovercode.org/sessions/2024/apache-camel-takes-charge-of-over-1000-interfaces-in-a-seamless-transition-from-oracle-soa-suite/</guid>
+      <description>Apache Camel leads a seamless transition, taking control of 1000+ interfaces from Oracle SOA Suite.
+Over the last two years, we have driven forward the integration of all retail systems from a centralised and proprietary system into a microservice-oriented architecture based on Apache Camel and Openshift.
+The previously centralised gateways are now independent interfaces.
+The challenge here was to lift the countless proprietary implementations to a system that is open to all.</description>
+    </item>
+    
   </channel>
 </rss>

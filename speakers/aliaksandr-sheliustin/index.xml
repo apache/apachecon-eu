@@ -6,5 +6,14 @@
     <description>Recent content in Aliaksandr Sheliustin on Community Over Code Europe</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language><atom:link href="https://eu.communityovercode.org/speakers/aliaksandr-sheliustin/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>4 tricks that help you leverage your Airflow pipelines</title>
+      <link>https://eu.communityovercode.org/sessions/2024/4-tricks-that-help-you-leverage-your-airflow-pipelines/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eu.communityovercode.org/sessions/2024/4-tricks-that-help-you-leverage-your-airflow-pipelines/</guid>
+      <description>In this insightful presentation, Aliaksandr will unveil four ingenious tricks to maximize your Apache Airflow experience in the realm of data engineering. Starting with the power of leveraging CSV files to effortlessly create versatile DAGs, Aliaksandr will demonstrate how this flexibility can streamline your pipeline development process. Moving forward, the audience will learn how Google Sheets can be harnessed as a dynamic tool for DAG creation, opening up opportunities for collaboration among team members of varying Airflow proficiency levels.</description>
+    </item>
+    
   </channel>
 </rss>

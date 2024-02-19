@@ -6,5 +6,18 @@
     <description>Recent content in Adam Saghy on Community Over Code Europe</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language><atom:link href="https://eu.communityovercode.org/speakers/adam-saghy/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Fineract - Advanced payment allocation</title>
+      <link>https://eu.communityovercode.org/sessions/2024/fineract-advanced-payment-allocation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eu.communityovercode.org/sessions/2024/fineract-advanced-payment-allocation/</guid>
+      <description>Since the first repayment strategy got introduced, many followed, but there was one thing common in them:
+They were hard coding the allocation rules for each transaction type.
+By introducing - part of the 1.9.0 release - the &amp;ldquo;Advanced payment allocation&amp;rdquo; the idea was to have a repayment strategy which was:
+Supporting dynamic configuration of the allocation rules for transaction types
+Supporting configuration of more fine-grained allocation rules for future installments</description>
+    </item>
+    
   </channel>
 </rss>

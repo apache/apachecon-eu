@@ -6,5 +6,14 @@
     <description>Recent content in Edith Puclla on Community Over Code Europe</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language><atom:link href="https://eu.communityovercode.org/speakers/edith-puclla/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Empowering Inclusivity: Apache Airflow&#39;s Impact on Outreachy</title>
+      <link>https://eu.communityovercode.org/sessions/2024/empowering-inclusivity-apache-airflow-s-impact-on-outreachy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eu.communityovercode.org/sessions/2024/empowering-inclusivity-apache-airflow-s-impact-on-outreachy/</guid>
+      <description>In this presentation, we will delve into the important role that Apache Airflow plays in the Outreachy program and its broader influence in closing inclusion gaps within the open source community. We will explore the success stories and transformative experiences of Outreachy contributors, emphasizing how this open source project has created opportunities for people from diverse backgrounds. Our discussion will focus on the power of open source initiatives like Apache Airflow to foster a more inclusive and accessible technology ecosystem.</description>
+    </item>
+    
   </channel>
 </rss>

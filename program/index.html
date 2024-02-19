@@ -25,12 +25,10 @@
   
   <link rel="stylesheet" href="/plugins/fontawesome.css">
   
-  <link rel="stylesheet" href="/plugins/swiper-bundle.min.css">
-  
 
   <!-- Main Stylesheet -->
   
-  <link rel="stylesheet" href='/scss/style.min.css?v=202402190727' media="screen">
+  <link rel="stylesheet" href='/scss/style.min.css?v=202402190843' media="screen">
 
   <!--Favicon-->
   <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
@@ -72,6 +70,18 @@
         
         
         
+        <li class="nav-item">
+          <a class="nav-link" href="/schedule">Program</a>
+        </li>
+        
+        
+        
+        <li class="nav-item">
+          <a class="nav-link" href="/speakers">Speakers</a>
+        </li>
+        
+        
+        
         <li class="nav-item dropdown">
           <a class="nav-link dropdown-toggle" href="#" role="button" data-toggle="dropdown" aria-haspopup="true"
             aria-expanded="false">
@@ -84,12 +94,6 @@
             <a class="dropdown-item" href="/how-to-get-there">How to get there</a>
             
           </div>
-        </li>
-        
-        
-        
-        <li class="nav-item">
-          <a class="nav-link" href="/#speakers">Speakers</a>
         </li>
         
         
@@ -140,20 +144,6 @@
     <h3 class="mt-4">Filter by track</h3> 
     <div class="color-code-list">
         <div id="track-all" class="btn color-code-item track-all" onclick="showTrack(this,'all')">All</div>
-        
-        <button id="track-airflow-basics" type="button" class="btn color-code-item track-airflow-basics" onclick="showTrack(this,'airflow-basics')">Airflow basics</button>
-        
-        <button id="track-airflow--" type="button" class="btn color-code-item track-airflow--" onclick="showTrack(this,'airflow--')">Airflow &amp; ...</button>
-        
-        <button id="track-community" type="button" class="btn color-code-item track-community" onclick="showTrack(this,'community')">Community</button>
-        
-        <button id="track-lineage--quality" type="button" class="btn color-code-item track-lineage--quality" onclick="showTrack(this,'lineage--quality')">Lineage &amp; Quality</button>
-        
-        <button id="track-new-featuresroadmap" type="button" class="btn color-code-item track-new-featuresroadmap" onclick="showTrack(this,'new-featuresroadmap')">New features/roadmap</button>
-        
-        <button id="track-operationalizing-airflow" type="button" class="btn color-code-item track-operationalizing-airflow" onclick="showTrack(this,'operationalizing-airflow')">Operationalizing Airflow</button>
-        
-        <button id="track-use-cases" type="button" class="btn color-code-item track-use-cases" onclick="showTrack(this,'use-cases')">Use cases</button>
         
     </div>
 
@@ -1372,11 +1362,11 @@ document.querySelectorAll('.session-item').forEach(function(item) {
 
 <!-- JS Plugins -->
 
+<script src="/plugins/jquery.min.js"></script>
+
 <script src="/plugins/bootstrap.bundle.min.js"></script>
 
 <script src="/plugins/bootstrap-table.min.js"></script>
-
-<script src="/plugins/swiper-bundle.min.js"></script>
 
 <script src="/plugins/bootstrap-table.min.js"></script>
 

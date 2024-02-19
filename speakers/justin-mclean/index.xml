@@ -6,5 +6,24 @@
     <description>Recent content in Justin Mclean on Community Over Code Europe</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language><atom:link href="https://eu.communityovercode.org/speakers/justin-mclean/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Inside the Apache Software Foundation Board</title>
+      <link>https://eu.communityovercode.org/sessions/2024/inside-the-apache-software-foundation-board/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eu.communityovercode.org/sessions/2024/inside-the-apache-software-foundation-board/</guid>
+      <description>This talk delves into the inner workings of the Apache Software Foundation board, shedding light on its workings and the responsibilities of its board members. Attendees will gain a comprehensive understanding of the ASF board&amp;rsquo;s governance structure, decision-making processes, and its crucial role in overseeing one of the world&amp;rsquo;s largest groups of open-source communities. Drawing from real-life experiences, the speaker will share personal insights, challenges faced, and the rewarding aspects of contributing to ASF&amp;rsquo;s mission.</description>
+    </item>
+    
+    <item>
+      <title>Navigating Podling Releases: Achieving Success in the Apache Incubator</title>
+      <link>https://eu.communityovercode.org/sessions/2024/navigating-podling-releases-achieving-success-in-the-apache-incubator/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eu.communityovercode.org/sessions/2024/navigating-podling-releases-achieving-success-in-the-apache-incubator/</guid>
+      <description>Discover the keys to success when releasing a podling within the Apache Incubator. This talk explores the crucial aspects that the incubator PMC looks for in every release, providing practical tips to pass the IPMC vote and move your project closer to graduation.
+Learn about the latest incubator and ASF policies, recent updates you may have missed, and the legal requirements of open source licenses. Gain insights into assembling your NOTICE and LICENSE files effectively, while understanding the reasoning behind specific practices.</description>
+    </item>
+    
   </channel>
 </rss>

@@ -6,5 +6,14 @@
     <description>Recent content in Ahmed Sobeh on Community Over Code Europe</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language><atom:link href="https://eu.communityovercode.org/speakers/ahmed-sobeh/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Managing In The Open, Managing Contributions: The challenges of OSPO developers management</title>
+      <link>https://eu.communityovercode.org/sessions/2024/managing-in-the-open-managing-contributions-the-challenges-of-ospo-developers-management/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eu.communityovercode.org/sessions/2024/managing-in-the-open-managing-contributions-the-challenges-of-ospo-developers-management/</guid>
+      <description>Managing an Open Source Program Office (OSPO) team is undoubtedly a unique experience. In this talk I will discuss the unique challenges and best practices for managing software developers in an OSPO environment. I will cover topics such as managing remote teams, maintaining the career progression of OSPO developers, fostering a culture of collaboration and collaborating with the open source community. I will also explore the role of performance metrics in managing software developers in an OSPO, how to align those metrics withe the goals of the organisation and how to help developers balance the needs of the organisation with the needs of the open source community.</description>
+    </item>
+    
   </channel>
 </rss>

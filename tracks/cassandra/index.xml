@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cassandra on Community Over Code Europe</title>
+    <link>https://eu.communityovercode.org/tracks/cassandra/</link>
+    <description>Recent content in Cassandra on Community Over Code Europe</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language><atom:link href="https://eu.communityovercode.org/tracks/cassandra/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cassandra CIDR filtering authorizer (CEP-33)</title>
+      <link>https://eu.communityovercode.org/sessions/2024/cassandra-cidr-filtering-authorizer-cep-33/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eu.communityovercode.org/sessions/2024/cassandra-cidr-filtering-authorizer-cep-33/</guid>
+      <description>As Cassandra clusters and users onboarding to multi cloud platforms, users may access Cassandra clusters from on-premise and from various cloud platforms. Admins may need to restrict certain users/teams to access from certain IP ranges, aka, CIDR groups. Also, may need to restrict superusers credentials usage from third party clouds.
+CIDR filtering authorizer provides capability for admins to configure allow or disallow users access from different CIDR groups, which can help in preventing misuse of copied or hacked credentials.</description>
+    </item>
+    
+    <item>
+      <title>Moving Apache Cassandra command execution and monitoring from JMX to CQL: A Developer&#39;s Overview</title>
+      <link>https://eu.communityovercode.org/sessions/2024/moving-apache-cassandra-command-execution-and-monitoring-from-jmx-to-cql-a-developer-s-overview/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eu.communityovercode.org/sessions/2024/moving-apache-cassandra-command-execution-and-monitoring-from-jmx-to-cql-a-developer-s-overview/</guid>
+      <description>Monitoring and management go hand in hand in distributed storage systems, and this is true for Apache Cassandra as well. Apache Cassandra has a wide range of monitoring and management API extensions that provide insight into its internal processes and make management operations accessible.
+This talk will provide an overview of several new initiatives that are closely related from a software developer&amp;rsquo;s perspective. These initiatives follow the same design principles and their overall direction can be characterized as a strategic shift in both management and monitoring from JMX to CQL.</description>
+    </item>
+    
+    <item>
+      <title>Storage Attached Index &amp; Vector Search in Cassandra 5.0</title>
+      <link>https://eu.communityovercode.org/sessions/2024/storage-attached-index-vector-search-in-cassandra-5-0/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eu.communityovercode.org/sessions/2024/storage-attached-index-vector-search-in-cassandra-5-0/</guid>
+      <description>This session will be a dive into the internals of SAI and Vector Search in Cassandra 5.0. It will cover the current functionality and limitations of SAI and suggested future priorities for the project. It will also look at the read and write paths for SAI and their relationship to the current Cassandra paths. Finally, it will look at the the in-memory and on-disk data structures used for the indexes and why these were chosen.</description>
+    </item>
+    
+    <item>
+      <title>The Accord Consensus Protocol: ACID transactions globally at any scale</title>
+      <link>https://eu.communityovercode.org/sessions/2024/the-accord-consensus-protocol-acid-transactions-globally-at-any-scale/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eu.communityovercode.org/sessions/2024/the-accord-consensus-protocol-acid-transactions-globally-at-any-scale/</guid>
+      <description>The Accord Consensus Protocol, providing global leaderless single-network-round-trip consensus using commodity clocks.
+Research from University of Michigan &amp;amp; Apple Inc. introduces ACID-compliant, strict serialisable transactions that can run globally at scale, at high throughput, with low latency.
+This will be a run-through of
+the importance of ACID transactions in Apache Cassandra,
+how previous consensus protocols work,
+how Accord improves on these to provide its industry leading characteristics.</description>
+    </item>
+    
+    <item>
+      <title>The Unified Compaction Strategy in Cassandra 5</title>
+      <link>https://eu.communityovercode.org/sessions/2024/the-unified-compaction-strategy-in-cassandra-5/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eu.communityovercode.org/sessions/2024/the-unified-compaction-strategy-in-cassandra-5/</guid>
+      <description>Choosing a compaction strategy for a Cassandra database has historically been a very difficult problem, where making the wrong choice can have lasting effects on performance while making a change later is a time-consuming and costly process.
+The Unified Compaction Strategy, introduced with Cassandra 5, is designed to provide a solution to this problem by effectively handling a diverse range of use cases, including those best suited for leveled, tiered, and time-windowed compaction.</description>
+    </item>
+    
+  </channel>
+</rss>

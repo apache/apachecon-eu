@@ -6,5 +6,15 @@
     <description>Recent content in David Higgins on Community Over Code Europe</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language><atom:link href="https://eu.communityovercode.org/speakers/david-higgins/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Increasing Adoption and Achieving Financial Inclusion through DPI</title>
+      <link>https://eu.communityovercode.org/sessions/2024/increasing-adoption-and-achieving-financial-inclusion-through-dpi/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eu.communityovercode.org/sessions/2024/increasing-adoption-and-achieving-financial-inclusion-through-dpi/</guid>
+      <description>The Digital Public Infrastructure movement has been gaining momentum globally as governments move to DPI-based approaches to create exponential societal outcomes within and across sectors. DPI is composed of open, interoperable technology with transparent, accountable, and participatory governance frameworks to unlock innovation and value at scale. This session will introduce how Apache projects like Fineract recognized as Digital Public Goods are having transformative impact on achieving SDGs.
+Through presentation of the work Mifos has been undertaking over the past 12 months we will show how capabilities have been enhanced in Payment Hub EE combined with the power of Fineract to cover new use cases of P2G, Voucher Management and Account Mapping.</description>
+    </item>
+    
   </channel>
 </rss>

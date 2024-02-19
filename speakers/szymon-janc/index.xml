@@ -6,5 +6,16 @@
     <description>Recent content in Szymon Janc on Community Over Code Europe</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language><atom:link href="https://eu.communityovercode.org/speakers/szymon-janc/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Apache Mynewt - connected RTOS - project overview</title>
+      <link>https://eu.communityovercode.org/sessions/2024/apache-mynewt-connected-rtos-project-overview/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eu.communityovercode.org/sessions/2024/apache-mynewt-connected-rtos-project-overview/</guid>
+      <description>Apache Mynewt is a community-driven, permissively licensed Open Source initiative for constrained, embedded devices and applications. It provides foundational RTOS, middleware (secure bootloader, filesystem, networking stack, device management) and tooling.
+This presentation will cover history and overall state of the project, its architecture and selected components (eg Bluetooth stack). Will discuss already available features as well additions planned in near future.
+Last but not least, state of community will be presented.</description>
+    </item>
+    
   </channel>
 </rss>

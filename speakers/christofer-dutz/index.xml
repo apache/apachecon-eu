@@ -6,5 +6,25 @@
     <description>Recent content in Christofer Dutz on Community Over Code Europe</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language><atom:link href="https://eu.communityovercode.org/speakers/christofer-dutz/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Inside the Apache Software Foundation Board</title>
+      <link>https://eu.communityovercode.org/sessions/2024/inside-the-apache-software-foundation-board/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eu.communityovercode.org/sessions/2024/inside-the-apache-software-foundation-board/</guid>
+      <description>This talk delves into the inner workings of the Apache Software Foundation board, shedding light on its workings and the responsibilities of its board members. Attendees will gain a comprehensive understanding of the ASF board&amp;rsquo;s governance structure, decision-making processes, and its crucial role in overseeing one of the world&amp;rsquo;s largest groups of open-source communities. Drawing from real-life experiences, the speaker will share personal insights, challenges faced, and the rewarding aspects of contributing to ASF&amp;rsquo;s mission.</description>
+    </item>
+    
+    <item>
+      <title>Magic industrial data acquisition with Apache PLC4X, TsFile and IoTDB</title>
+      <link>https://eu.communityovercode.org/sessions/2024/magic-industrial-data-acquisition-with-apache-plc4x-tsfile-and-iotdb/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eu.communityovercode.org/sessions/2024/magic-industrial-data-acquisition-with-apache-plc4x-tsfile-and-iotdb/</guid>
+      <description>In industrial automation, the established way of collecting data from industrial equipment has many issues. Issues for which Apache provides a number of great ways to avoid them.
+In this talk, I want to demonstrate some of the issues I have seen and how we can resolve all of them with combinations of some of the amazing projects we have at Apache:
+How we can use Apache TsFile to directly collect data on the hardware</description>
+    </item>
+    
   </channel>
 </rss>

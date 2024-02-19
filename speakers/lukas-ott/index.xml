@@ -6,5 +6,15 @@
     <description>Recent content in Lukas Ott on Community Over Code Europe</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language><atom:link href="https://eu.communityovercode.org/speakers/lukas-ott/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>State of the Civet</title>
+      <link>https://eu.communityovercode.org/sessions/2024/state-of-the-civet/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eu.communityovercode.org/sessions/2024/state-of-the-civet/</guid>
+      <description>An update on what&amp;rsquo;s happened inside the Apache PLC4X over the last year. What we have achieved and what we are planning on doing for the near and not-so-near future.
+From new protocols, updated APIs, new languages, GUI applications right up to even more supported languages and fully generated driver implementations.</description>
+    </item>
+    
   </channel>
 </rss>

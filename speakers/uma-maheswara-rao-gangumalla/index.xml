@@ -6,5 +6,15 @@
     <description>Recent content in Uma Maheswara Rao Gangumalla on Community Over Code Europe</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language><atom:link href="https://eu.communityovercode.org/speakers/uma-maheswara-rao-gangumalla/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Elevating Scalable Object Storage: A Comprehensive Exploration of Ozone’s Trailblazing Capabilities</title>
+      <link>https://eu.communityovercode.org/sessions/2024/elevating-scalable-object-storage-a-comprehensive-exploration-of-ozones-trailblazing-capabilities/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eu.communityovercode.org/sessions/2024/elevating-scalable-object-storage-a-comprehensive-exploration-of-ozones-trailblazing-capabilities/</guid>
+      <description>In the era of explosive data growth, scalability is paramount for any storage solution. This abstract focuses on the scalability aspects of Apache Ozone, a distributed object storage system designed to handle the ever-increasing demands of modern data-intensive applications.
+The session will commence with an up-to-date overview of Apache Ozone, providing insights into its current state, recent enhancements, and its pivotal role in addressing the evolving needs of organizations. Attendees will gain a comprehensive understanding of how Apache Ozone offers scalable, high-performance, and future-ready solutions tailored to the challenges posed by today&amp;rsquo;s data-intensive applications.</description>
+    </item>
+    
   </channel>
 </rss>

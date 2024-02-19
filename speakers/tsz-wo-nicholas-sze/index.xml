@@ -6,5 +6,15 @@
     <description>Recent content in Tsz-Wo Nicholas Sze on Community Over Code Europe</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language><atom:link href="https://eu.communityovercode.org/speakers/tsz-wo-nicholas-sze/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Apache Ratis - A High Performance Raft Library</title>
+      <link>https://eu.communityovercode.org/sessions/2024/apache-ratis-a-high-performance-raft-library/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eu.communityovercode.org/sessions/2024/apache-ratis-a-high-performance-raft-library/</guid>
+      <description>Apache Ratis is an open source Java library for the Raft Consensus Protocol. Raft is being used successfully as an alternative to Paxos to implement a consistently replicated log. Raft is proven to be safe and is designed to be simpler to understand. Ratis is a high performance implementation of Raft. Apache Ozone, Apache IoTDB and Alluxio use Apache Ratis for providing high availability and replicating raw data.
+Ratis implements all the standard Raft features, including leader election, log replication, membership change and log compaction.</description>
+    </item>
+    
   </channel>
 </rss>

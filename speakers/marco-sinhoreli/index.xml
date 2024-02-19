@@ -6,5 +6,15 @@
     <description>Recent content in Marco Sinhoreli on Community Over Code Europe</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language><atom:link href="https://eu.communityovercode.org/speakers/marco-sinhoreli/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Transitioning from VMware to Apache CloudStack: A Path to Profitability and Competitiveness</title>
+      <link>https://eu.communityovercode.org/sessions/2024/transitioning-from-vmware-to-apache-cloudstack-a-path-to-profitability-and-competitiveness/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eu.communityovercode.org/sessions/2024/transitioning-from-vmware-to-apache-cloudstack-a-path-to-profitability-and-competitiveness/</guid>
+      <description>In this session, we will explore the potential of migrating from VMware to Apache CloudStack with KVM. VMware vSphere is a robust cloud infrastructure and management solution that combines vSphere and vRealize Suite, providing automation and operations capabilities for traditional and modern infrastructure and apps. However, the transition to Apache CloudStack can offer enhanced profitability and competitiveness.
+We will delve into the benefits of Apache CloudStack, including its cost-effectiveness and open-source nature, and discuss how a gradual migration from VMware vCloud can reduce ownership costs, increase profitability, and enhance competitiveness.</description>
+    </item>
+    
   </channel>
 </rss>

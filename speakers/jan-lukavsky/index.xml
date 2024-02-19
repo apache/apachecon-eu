@@ -6,5 +6,14 @@
     <description>Recent content in Jan Lukavský on Community Over Code Europe</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language><atom:link href="https://eu.communityovercode.org/speakers/jan-lukavsky/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Enhancing Flexibility and Productivity with Access Patterns and Storage-Agnostic Abstractions</title>
+      <link>https://eu.communityovercode.org/sessions/2024/enhancing-flexibility-and-productivity-with-access-patterns-and-storage-agnostic-abstractions/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eu.communityovercode.org/sessions/2024/enhancing-flexibility-and-productivity-with-access-patterns-and-storage-agnostic-abstractions/</guid>
+      <description>This session will introduce a platform created to bridge the existing gaps in data management while removing some of the complexities in existing Big Data ecosystem. The platform is built around a comprehensive data model describing structured entities and their relations. The model is consistently applied across three abstract types of storages - streaming (e.g. Apache Kafka, Google Cloud PubSub), batch (e.g. Hadoop HDFS, S3, Google Cloud Storage) and random-access (e.</description>
+    </item>
+    
   </channel>
 </rss>

@@ -6,5 +6,15 @@
     <description>Recent content in David Kjerrumgaard on Community Over Code Europe</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language><atom:link href="https://eu.communityovercode.org/speakers/david-kjerrumgaard/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Oxia - A Horizontally Scalable Alternative to Apache Zookeeper</title>
+      <link>https://eu.communityovercode.org/sessions/2024/oxia-a-horizontally-scalable-alternative-to-apache-zookeeper/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eu.communityovercode.org/sessions/2024/oxia-a-horizontally-scalable-alternative-to-apache-zookeeper/</guid>
+      <description>For over a decade, Apache Zookeeper has played a crucial role in maintaining configuration information and providing synchronization within distributed systems. Its unique ability to provide these features made it the de facto standard for distributed systems within the Apache community.
+Despite its prolific adoption, there is an emerging trend toward eliminating the dependency on Zookeeper altogether and replacing it with an alternative technology. The most notable example is the KRaft subproject within the Apache Kafka community,</description>
+    </item>
+    
   </channel>
 </rss>
