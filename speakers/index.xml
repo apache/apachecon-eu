@@ -36,12 +36,931 @@ He is also Executive Director and Chairperson of the Green Software Foundation, 
     </item>
     
     <item>
-      <title>Ruth Ikega</title>
-      <link>https://eu.communityovercode.org/speakers/ruth-ikega/</link>
+      <title>Adam Saghy</title>
+      <link>https://eu.communityovercode.org/speakers/adam-saghy/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://eu.communityovercode.org/speakers/ruth-ikega/</guid>
-      <description></description>
+      <guid>https://eu.communityovercode.org/speakers/adam-saghy/</guid>
+      <description>Principal Software Engineer with 6 years of Fintech knowledge
+Fineract contributor, committer and PMC member</description>
+    </item>
+    
+    <item>
+      <title>Addie Girouard</title>
+      <link>https://eu.communityovercode.org/speakers/addie-girouard/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eu.communityovercode.org/speakers/addie-girouard/</guid>
+      <description>Addie Girouard is a strategic communications synergist, with over 15 years of experience building engagement and community in senior leadership roles. She is an InnerSource advocate, actively contributing to various open source projects including InnerSource Commons Foundation and Cardano. She has worked with organizations including Tetra Technologies, Elanco, Input Output Global, and Analog Devices, as well as consulting for numerous start-up companies. In 2008, she founded Third Man Agency.</description>
+    </item>
+    
+    <item>
+      <title>Ahmed Sobeh</title>
+      <link>https://eu.communityovercode.org/speakers/ahmed-sobeh/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eu.communityovercode.org/speakers/ahmed-sobeh/</guid>
+      <description>Ahmed Sobeh is an Open Source Engineering Manager at Aiven&amp;rsquo;s Open Source Program Office. An Egyptian, with different experiences in open source ranging from working on Firefox at Mozilla to working with Rust at SAP, his interest and experience in open source have grown over the past few years.</description>
+    </item>
+    
+    <item>
+      <title>Akshat Mathur</title>
+      <link>https://eu.communityovercode.org/speakers/akshat-mathur/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eu.communityovercode.org/speakers/akshat-mathur/</guid>
+      <description>With over 5 years of dedicated experience in the dynamic field of data engineering, Helped architecting and implementing robust data infrastructure for a variety of organizations, contributing to their success in harnessing the power of data.
+Currently contributing in Apache Hive</description>
+    </item>
+    
+    <item>
+      <title>Aleksandar Vidakovic</title>
+      <link>https://eu.communityovercode.org/speakers/aleksandar-vidakovic/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eu.communityovercode.org/speakers/aleksandar-vidakovic/</guid>
+      <description>Aleks is an independent software developer and consultant who has been working for more than two decades in industries like security, publishing, automotive and telecommunications.
+He’s a PMC member and the release manager for Apache Fineract. He’s also a Member of the Apache Software Foundation.</description>
+    </item>
+    
+    <item>
+      <title>Alessandro Benedetti</title>
+      <link>https://eu.communityovercode.org/speakers/alessandro-benedetti/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eu.communityovercode.org/speakers/alessandro-benedetti/</guid>
+      <description>Alessandro Benedetti is an Apache Lucene/Solr committer and Solr PMC member.
+Director and R&amp;amp;D Software Engineer at Sease Ltd.
+His focus is on R&amp;amp;D in Information Retrieval, Information Extraction, Natural Language Processing, and Machine Learning. He firmly believes in Open Source as a way to build a bridge between Academia and Industry and facilitate the progress of applied research.
+Experience with a great variety of clients has taught him to be a proficient and professional consultant.</description>
+    </item>
+    
+    <item>
+      <title>Alexandre Gallice</title>
+      <link>https://eu.communityovercode.org/speakers/alexandre-gallice/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eu.communityovercode.org/speakers/alexandre-gallice/</guid>
+      <description>I&amp;rsquo;m an Apache Camel contributor, working mainly on Camel Quarkus those days.</description>
+    </item>
+    
+    <item>
+      <title>Alexandre Mattioli</title>
+      <link>https://eu.communityovercode.org/speakers/alexandre-mattioli/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eu.communityovercode.org/speakers/alexandre-mattioli/</guid>
+      <description>Alexandre Mattioli is a highly experienced Infrastructure Architect who has been working with Apache Cloudstack since 2015, he has designed, built and operated one of the largest ACS clouds in existence and led a team that designed and productised several diverse solutions on top of ACS.
+He&amp;rsquo;s currently a Cloud Architect at ShapeBlue.</description>
+    </item>
+    
+    <item>
+      <title>Aliaksandr Sheliustin</title>
+      <link>https://eu.communityovercode.org/speakers/aliaksandr-sheliustin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eu.communityovercode.org/speakers/aliaksandr-sheliustin/</guid>
+      <description>Data Engineer and Architect with a passion for optimization. Reduced the company&amp;rsquo;s DWH monthly bill for my salary amount.</description>
+    </item>
+    
+    <item>
+      <title>Ana Jiménez Santamaría</title>
+      <link>https://eu.communityovercode.org/speakers/ana-jimenez-santamaria/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eu.communityovercode.org/speakers/ana-jimenez-santamaria/</guid>
+      <description>Ana is the OSPO Program Manager at the TODO Group, a LF project and an open community of practitioners who aim to create and share knowledge and collaborate on practices, tools, and other ways to run successful and effective Open Source Program Offices. Formerly she worked at Bitergia, where she finished her MSc in Data Science, whose final thesis focused on measuring DevRel’s success within Open Source development communities.
+Ana is really interested in Open Source, InnerSource, and community metrics.</description>
+    </item>
+    
+    <item>
+      <title>Andrija Panic</title>
+      <link>https://eu.communityovercode.org/speakers/andrija-panic/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eu.communityovercode.org/speakers/andrija-panic/</guid>
+      <description>Andrija Panic is a Cloud Architect at ShapeBlue, the Cloud Specialists, and is a committer and PMC member of Apache CloudStack. Andrija spends most of his time designing and implementing IaaS solutions based on Apache CloudStack.</description>
+    </item>
+    
+    <item>
+      <title>Angad Sharma</title>
+      <link>https://eu.communityovercode.org/speakers/angad-sharma/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eu.communityovercode.org/speakers/angad-sharma/</guid>
+      <description>I am a Sr. Software Engineer at Zomato, India&amp;rsquo;s largest food aggregator &amp;amp; delivery service, where I help build search and discovery at scale.</description>
+    </item>
+    
+    <item>
+      <title>Anton Okolnychyi</title>
+      <link>https://eu.communityovercode.org/speakers/anton-okolnychyi/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eu.communityovercode.org/speakers/anton-okolnychyi/</guid>
+      <description>Anton is a committer and PMC member of Apache Iceberg as well as an Apache Spark contributor at Apple.</description>
+    </item>
+    
+    <item>
+      <title>Antonio Murgia</title>
+      <link>https://eu.communityovercode.org/speakers/antonio-murgia/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eu.communityovercode.org/speakers/antonio-murgia/</guid>
+      <description>The spirit of a SW Engineer in the body of a Data Engineer: on a never-ending quest for painless data operationalisation</description>
+    </item>
+    
+    <item>
+      <title>Aparna Sundar</title>
+      <link>https://eu.communityovercode.org/speakers/aparna-sundar/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eu.communityovercode.org/speakers/aparna-sundar/</guid>
+      <description>Aparna Sundar is a Senior Researcher at OpenSearch Project. She has decades of experience in the field of research and design. She actively publishes in cognitive science journals. Aparna gives talks in various domains including Technology, Psychology and Marketing.</description>
+    </item>
+    
+    <item>
+      <title>Atita Arora</title>
+      <link>https://eu.communityovercode.org/speakers/atita-arora/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eu.communityovercode.org/speakers/atita-arora/</guid>
+      <description>Atita Arora is a seasoned and esteemed professional shaping the landscape of information retrieval systems. With a robust background spanning from her impactful contributions as a committer in various information retrieval and relevancy workbench projects including Apache OpenNLP to her insightful blogs on leveraging vectors in e-commerce search and an open source implementation called Chorus to pair with.
+Her commitment to calibrating the essence of &amp;ldquo;good&amp;rdquo; in information retrieval systems through OTB metrics and user-centric approaches reflects her dedication to enhancing user experiences.</description>
+    </item>
+    
+    <item>
+      <title>Attila Mészáros</title>
+      <link>https://eu.communityovercode.org/speakers/attila-meszaros/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eu.communityovercode.org/speakers/attila-meszaros/</guid>
+      <description>Attila is a Principal Software Engineer at Red Hat, creator and maintainer of Java Operator SDK, member of Operator Framework steering committee. In a wider scope currently focusing on Java developer experience on Kubernetes. He is a passionate Java developer but in addition to that last six years also focusing on server side solutions. As a freelancer he was also part of brilliant platform teams, building platforms mostly on top of Kuberentes/Openshift and AWS.</description>
+    </item>
+    
+    <item>
+      <title>Attila Turóczy</title>
+      <link>https://eu.communityovercode.org/speakers/attila-turoczy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eu.communityovercode.org/speakers/attila-turoczy/</guid>
+      <description>Apache Hive, Impala and Big Data enthusiasm at Cloudera</description>
+    </item>
+    
+    <item>
+      <title>Bertrand Delacretaz</title>
+      <link>https://eu.communityovercode.org/speakers/bertrand-delacretaz/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eu.communityovercode.org/speakers/bertrand-delacretaz/</guid>
+      <description>Bertrand Delacretaz works as a Principal Scientist for Adobe in Basel, Switzerland, on large-scale content management systems. He&amp;rsquo;s also an active member of the Apache Software Foundation, serving on its Board of Directors for more than ten years.</description>
+    </item>
+    
+    <item>
+      <title>Boris Gordeev</title>
+      <link>https://eu.communityovercode.org/speakers/boris-gordeev/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eu.communityovercode.org/speakers/boris-gordeev/</guid>
+      <description>An engineer with a total of 6 years of experience who worked for various product-based companies in Russia and small startups in Europe, currently working for a tech unicorn and potentially the next big thing - Revolut</description>
+    </item>
+    
+    <item>
+      <title>Branimir Lambov</title>
+      <link>https://eu.communityovercode.org/speakers/branimir-lambov/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eu.communityovercode.org/speakers/branimir-lambov/</guid>
+      <description>Long-term Cassandra contributor, working on all aspects of Cassandra with a focus on improving the performance of the node-local storage and processing.</description>
+    </item>
+    
+    <item>
+      <title>Brian Proffitt</title>
+      <link>https://eu.communityovercode.org/speakers/brian-proffitt/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eu.communityovercode.org/speakers/brian-proffitt/</guid>
+      <description>Brian Proffitt is Senior Manager, Community Outreach within Red Hat&amp;rsquo;s Open Source Program Office, focusing on enablement, community metrics, and foundation and trade organization relationships&amp;ndash;as well as the management of OSPO&amp;rsquo;s budget. Brian&amp;rsquo;s experience with community management includes knowledge of community onboarding, community health, and business alignment. He is currently serving as VP, Conferences and VP, Marketing &amp;amp; Publicity for the Apache Software Foundation. He is also a board member for Project CHAOSS.</description>
+    </item>
+    
+    <item>
+      <title>Bryan Lima</title>
+      <link>https://eu.communityovercode.org/speakers/bryan-lima/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eu.communityovercode.org/speakers/bryan-lima/</guid>
+      <description>Apache CloudStack Developer at SC Clouds; CloudStack Committer</description>
+    </item>
+    
+    <item>
+      <title>Christina Lin</title>
+      <link>https://eu.communityovercode.org/speakers/christina-lin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eu.communityovercode.org/speakers/christina-lin/</guid>
+      <description>Christina has 20+ years of experience in software development. She has worked as a developer, consultant, architect. She is an advocate for making innovative solutions down to earth and making them easily accessible for everyone. Skilled in Open Source technology such as Redpanda, Apache Camel, Kafka and Kubernetes, Ansible.</description>
+    </item>
+    
+    <item>
+      <title>Christofer Dutz</title>
+      <link>https://eu.communityovercode.org/speakers/christofer-dutz/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eu.communityovercode.org/speakers/christofer-dutz/</guid>
+      <description>Open-Source enthusiast, that likes to help people working together. PMC member of the PLC4X, IoTDB and TsFile project (and many others), Member of the ASF and (currently) serving his second term as Director of the ASF.</description>
+    </item>
+    
+    <item>
+      <title>Craig Russell</title>
+      <link>https://eu.communityovercode.org/speakers/craig-russell/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eu.communityovercode.org/speakers/craig-russell/</guid>
+      <description>I joined Apache as a committer on the incubating JDO project in 2005 and became an Apache Member in 2007. I was appointed Assistant Secretary in 2009 and Secretary in 2010, where I served until 2019. I was elected to the Board of Directors in 2019 and currently serve as a Director.
+I was originally attracted to Apache by its approach to governance, where the people doing the work decide what direction to take the project.</description>
+    </item>
+    
+    <item>
+      <title>Daniel Augusto Veronezi Salvador</title>
+      <link>https://eu.communityovercode.org/speakers/daniel-augusto-veronezi-salvador/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eu.communityovercode.org/speakers/daniel-augusto-veronezi-salvador/</guid>
+      <description>Principal Engineer at SC Clouds; CloudStack PMC</description>
+    </item>
+    
+    <item>
+      <title>David Higgins</title>
+      <link>https://eu.communityovercode.org/speakers/david-higgins/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eu.communityovercode.org/speakers/david-higgins/</guid>
+      <description>David has over 23 years experience in managing Enterprise IT and large scale development programmes in the Telecommunications, Financial Services and Fintech sectors. Some of the projects David has worked on have included the launch of BT Wifi and Mobile Operator capabilities; scaling up and rolling out UK Fibre broadband for Openreach; transforming IT infrastructure for a rapidly growing leading UK Insurance Broker to remove Tech Debt, improve security and reduce operating overheads.</description>
+    </item>
+    
+    <item>
+      <title>David Kjerrumgaard</title>
+      <link>https://eu.communityovercode.org/speakers/david-kjerrumgaard/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eu.communityovercode.org/speakers/david-kjerrumgaard/</guid>
+      <description>David is a globally recognized expert in the world of real-time data, messaging systems, and Big Data technologies. He is a distinguished committer on the Apache Pulsar project, showcasing his invaluable contributions to the advancement of this groundbreaking event streaming platform.
+As an accomplished author, David has penned the highly regarded book &amp;ldquo;Pulsar in Action,&amp;rdquo; which serves as a definitive guide for those seeking to master the intricacies of Apache Pulsar.</description>
+    </item>
+    
+    <item>
+      <title>Dennis Kieselhorst</title>
+      <link>https://eu.communityovercode.org/speakers/dennis-kieselhorst/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eu.communityovercode.org/speakers/dennis-kieselhorst/</guid>
+      <description>Dennis Kieselhorst is a Solutions Architect at Amazon Web Services. He has 20 years of experience with software architectures, especially in large distributed heterogeneous environments.
+Dennis loves to contribute to Open Source projects and is a committer and PMC member at Apache Software Foundation. Moreover he is member of the organizing committees for the Java Forum Nord and the Java User Group (JUG) Bremen-Oldenburg.
+Prior to joing Amazon Dennis worked as a team leader, architect and consultant at a number of enterprise companies in different sectors.</description>
+    </item>
+    
+    <item>
+      <title>Dominik Jelinek</title>
+      <link>https://eu.communityovercode.org/speakers/dominik-jelinek/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eu.communityovercode.org/speakers/dominik-jelinek/</guid>
+      <description>I am a Senior Software Quality Engineer at Red Hat. I&amp;rsquo;ve been working here for 7+ years already. In my current role as a contributor to the Camel Tooling team and lead of Tooling QE group, my focus revolves around ensuring top-notch quality and advancing VS Code extensions for Apache Camel developed by Red Hat. These extensions play a role in enhancing the experience for Apache Camel developers. I am also writing blog posts about mentioned tooling on the Apache Camel Blog and posting videos on YouTube with Apache Camel experience in VS Code content.</description>
+    </item>
+    
+    <item>
+      <title>Edith Puclla</title>
+      <link>https://eu.communityovercode.org/speakers/edith-puclla/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eu.communityovercode.org/speakers/edith-puclla/</guid>
+      <description>Edith, a Tech Evangelist at Percona, is a passionate contributor to the world of open-source. Throughout her career, she successfully contributed to the Apache Airflow project during her internship with Outreachy and is playing a crucial role in translating the Kubernetes website into Spanish. She also holds the title of Ambassador for the Cloud Native Computing Foundation and is a Docker captain. Recently, she took a significant step by relocating to the UK with a Global Talent Visa.</description>
+    </item>
+    
+    <item>
+      <title>Ela Demir</title>
+      <link>https://eu.communityovercode.org/speakers/ela-demir/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eu.communityovercode.org/speakers/ela-demir/</guid>
+      <description>Ela Demir was named Microsoft Female Technical Talent in 2021 and was also named an ApacheCon-USA participant with full travel assistance by Apache Software Foundation in 2022. She was a Tech Speaker at Kafka Summit London in 2023 and spoke about Kafka and Flink. She also worked as a Big Data Engineer at Vodafone and Havelsan. She researches and develops big data solutions using open source technologies such as Spark, Kafka, Flink and Elasticsearch.</description>
+    </item>
+    
+    <item>
+      <title>Floor Drees</title>
+      <link>https://eu.communityovercode.org/speakers/floor-drees/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eu.communityovercode.org/speakers/floor-drees/</guid>
+      <description>I&amp;rsquo;m a Staff Developer Advocate at Aiven(.io),we’re a managed solution for your favorite open source data tools. Previously I worked in Developer Relations roles at Grafana Labs and Microsoft. I co-organize devopsdays Amsterdam and devopsdays Eindhoven, as well as several meetup groups including contributing.today, a monthly virtual-first-an-only meetup on open source topics.
+I’m a devopsdays core member, and a Microsoft MVP, awarded for my community work in the developer technologies space.</description>
+    </item>
+    
+    <item>
+      <title>Gabor Kaszab</title>
+      <link>https://eu.communityovercode.org/speakers/gabor-kaszab/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eu.communityovercode.org/speakers/gabor-kaszab/</guid>
+      <description>Joined Cloudera in 2017 and since then has been actively working on big data querying with Apache Impala. In the recent years most of his contributions were concentrated on Impala&amp;rsquo;s integration with Apache Iceberg.</description>
+    </item>
+    
+    <item>
+      <title>Gabor Somogyi</title>
+      <link>https://eu.communityovercode.org/speakers/gabor-somogyi/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eu.communityovercode.org/speakers/gabor-somogyi/</guid>
+      <description>Data Platform Engineer at Apple &amp;amp; Apache Flink + Spark Committer at The Apache Software Foundation. Discovering realtime data processing and security areas.</description>
+    </item>
+    
+    <item>
+      <title>Gláucia Esppenchutz</title>
+      <link>https://eu.communityovercode.org/speakers/glaucia-esppenchutz/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eu.communityovercode.org/speakers/glaucia-esppenchutz/</guid>
+      <description>Hello there! I&amp;rsquo;m Gláucia, an experienced developer passionate about Python and DataOps. With over ten years of coding, I&amp;rsquo;ve had the opportunity to work on a wide range of projects and contribute to inclusive initiatives for women in tech and neurodiverse individuals.</description>
+    </item>
+    
+    <item>
+      <title>Greg Brown</title>
+      <link>https://eu.communityovercode.org/speakers/greg-brown/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eu.communityovercode.org/speakers/greg-brown/</guid>
+      <description>Originally beginning my career in film, I pivoted to working in tech, first for a contextualized data start up, and now as a product manager in marketing for Instaclustr, a leader in open source technology. By drawing on my years of experiences working and studying in film, I’ve been able use those lessons to create dynamic and exciting content of all mediums and grow awareness for all things open source – all despite never taking a computer science course.</description>
+    </item>
+    
+    <item>
+      <title>Gyula Fora</title>
+      <link>https://eu.communityovercode.org/speakers/gyula-fora/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eu.communityovercode.org/speakers/gyula-fora/</guid>
+      <description>Gyula is a Software Engineer at Apple, focusing on running and improving integration for Flink on cloud infrastructure.
+He has been a committer and contributor since the early days of Flink streaming. He has used Flink in large scale production at King for several years before joining Cloudera in 2019 to work on enterprise integration and deliver the company&amp;rsquo;s first Flink distribution.
+Gyula currently lives in Switzerland and in his free time enjoys traveling, scuba diving and skiing around the world.</description>
+    </item>
+    
+    <item>
+      <title>Hichem Kenniche</title>
+      <link>https://eu.communityovercode.org/speakers/hichem-kenniche/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eu.communityovercode.org/speakers/hichem-kenniche/</guid>
+      <description>Hichem brings more than 15 years in the big data processing domain. He is currently an OSS Product Architect at Instaclustr (part of Spot by NetApp) working with the product team to prioritize the market and customers needs into new features.</description>
+    </item>
+    
+    <item>
+      <title>Hongyue Zhang</title>
+      <link>https://eu.communityovercode.org/speakers/hongyue-zhang/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eu.communityovercode.org/speakers/hongyue-zhang/</guid>
+      <description>Hongyue started his career developing micro services in AWS to help schedule the serverless containers at scale. His journey with data started in 2021, and he immediately became the fan of the Apache Iceberg project. At Apple, Hongyue is building tools and systems around Apache Iceberg to help make data-driven decisions.</description>
+    </item>
+    
+    <item>
+      <title>Jan Lukavský</title>
+      <link>https://eu.communityovercode.org/speakers/jan-lukavsky/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eu.communityovercode.org/speakers/jan-lukavsky/</guid>
+      <description>More than 13 years professional Data Engineer enjoying the journey from batch to real-time data analytics, unified batch and stream computation models and applications minimizing latency between data and insights. Apache Beam committer, PMC member and practitioner, huge fan of Apache Software Foundation and Open Source Software. Author of Building Big Data Pipelines with Apache Beam.</description>
+    </item>
+    
+    <item>
+      <title>Jean-frederic Clere</title>
+      <link>https://eu.communityovercode.org/speakers/jean-frederic-clere/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eu.communityovercode.org/speakers/jean-frederic-clere/</guid>
+      <description>Jean-Frederic has spent more than 30 years writing client/server software.
+His knowledges range from Cobol to Java, BS2000 to Linux and /390 to i386 but with preference to the later ;).
+He is committer in Httpd and Tomcat and he likes complex projects where different languages and machines are involved.
+Borne in France, Jean-Frederic lived in Barcelona (Spain) for 14 years.
+Since May 2006 he lives in Neuchatel (Switzerland) where he works for RedHat on Tomcat, httpd and cloud/cluster related topics.</description>
+    </item>
+    
+    <item>
+      <title>Jeremy Meyer</title>
+      <link>https://eu.communityovercode.org/speakers/jeremy-meyer/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eu.communityovercode.org/speakers/jeremy-meyer/</guid>
+      <description>More than 20 years as a computer scientist and software engineer, developer, writer and educator.</description>
+    </item>
+    
+    <item>
+      <title>João Jandre Paraquetti</title>
+      <link>https://eu.communityovercode.org/speakers/joao-jandre-paraquetti/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eu.communityovercode.org/speakers/joao-jandre-paraquetti/</guid>
+      <description>DevOps Developer at SC Clouds; CloudStack Commiter</description>
+    </item>
+    
+    <item>
+      <title>Juan Pablo Flores</title>
+      <link>https://eu.communityovercode.org/speakers/juan-pablo-flores/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eu.communityovercode.org/speakers/juan-pablo-flores/</guid>
+      <description>Juan Pablo Flores is a Program Manager at the GitHub Education Team, where he supports student leaders to grow local technical communities in their schools. He is passionate about building opportunities for students, bridges between different communities, and helping people from diverse backgrounds to code. He has worked on the HCI research on how people collaborate in online platforms and explored the social dynamics of live streaming on platforms.</description>
+    </item>
+    
+    <item>
+      <title>Julian Feinauer</title>
+      <link>https://eu.communityovercode.org/speakers/julian-feinauer/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eu.communityovercode.org/speakers/julian-feinauer/</guid>
+      <description>Julian Feinauer is a mathematician and open-source evangelist. He holds a PhD in math and focuses on data related problems and projects like Apache PLC4X, Apache IoTDB and Apache Calcite. Furthermore he is a PMC member of Apache IoTDB.</description>
+    </item>
+    
+    <item>
+      <title>Justin Mclean</title>
+      <link>https://eu.communityovercode.org/speakers/justin-mclean/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eu.communityovercode.org/speakers/justin-mclean/</guid>
+      <description>Justin Mclean is a highly experienced professional with over 30 years in web application development, education, and community work, and he is an active contributor to open-source software. Justin is a renowned speaker at conferences worldwide and currently serves as the Community Manager at Datastrato. He mentors projects in the Apache Software Foundation, holds positions as VP of the ASF Incubator, and is an ASF board member.</description>
+    </item>
+    
+    <item>
+      <title>Kanchana Welagedara</title>
+      <link>https://eu.communityovercode.org/speakers/kanchana-welagedara/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eu.communityovercode.org/speakers/kanchana-welagedara/</guid>
+      <description>Kanchana Welagedara is a seasoned open source enthusiast whose contributions to the field have been both deep and far-reaching. She is a member of the Apache Software Foundation. She contributed to Apache Axis C++ and Geronimo, among other notable open source projects. Kanchana&amp;rsquo;s passion extends beyond development; she involved in local community development within Apache. Her efforts in organizing local Apache events n the past demonstrate her commitment to fostering a collaborative and inclusive open source community.</description>
+    </item>
+    
+    <item>
+      <title>Karin Safra</title>
+      <link>https://eu.communityovercode.org/speakers/karin-safra/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eu.communityovercode.org/speakers/karin-safra/</guid>
+      <description>Lead Product Manager with a proven track record of driving successful product development from concept to launch.
+Experienced in leading cross-functional teams to deliver innovative solutions that meet customer needs and business objectives.
+Strong technical background of 20 years experience in various aspects: Team leader, Software architect, DBA and Big data developer.
+B.Sc., Computer Science &amp;amp; Management in Tel Aviv University, MBA, Management Information Systems in Bar-Ilan University.</description>
+    </item>
+    
+    <item>
+      <title>Kyle Hoondert</title>
+      <link>https://eu.communityovercode.org/speakers/kyle-hoondert/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eu.communityovercode.org/speakers/kyle-hoondert/</guid>
+      <description>Kyle Hoondert leverages 20+ years of experience in systems and data analytics to bridge the gap between technical infrastructure and actionable insights. Using his expertise in systems administration and analytics applications, Kyle helps organisations optimize processes, improve performance, and make data-driven decisions for tangible results.</description>
+    </item>
+    
+    <item>
+      <title>Lisa N. Cao</title>
+      <link>https://eu.communityovercode.org/speakers/lisa-n-cao/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eu.communityovercode.org/speakers/lisa-n-cao/</guid>
+      <description>Lisa is a former data analyst, now data engineer and software engineer interested in observability, validation, and reliability in data systems. Her background consists of a variety of start-ups, nonprofits, consulting firms, GovTech, and biotechnology. She is a Google Women TechMakers Ambassador, Linux Foundation LiFT recipient for Women in Open Source, founder and chair of the Vancouver Datajam, and lead maintainer of the BiocSwirl project.</description>
+    </item>
+    
+    <item>
+      <title>Luciano Resende</title>
+      <link>https://eu.communityovercode.org/speakers/luciano-resende/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eu.communityovercode.org/speakers/luciano-resende/</guid>
+      <description>Luciano Resende is an AI Platform Architect at Apple AI/ML organization. He&amp;rsquo;s a highly performant technical leader that embraces challenges and complex problems to drive breakthrough innovations. Luciano&amp;rsquo;s expertise is in open source, and enterprise-grade AI platform technologies with over 20 years of experience successfully designing, building and delivering complex software in fortune 500 companies and open source. He has a strong background in open source big data platforms such as Apache Spark, and data science building blocks such as the Jupyter Notebook Stack, Elyra and Apache Toree Scala kernel.</description>
+    </item>
+    
+    <item>
+      <title>Lukas Ott</title>
+      <link>https://eu.communityovercode.org/speakers/lukas-ott/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eu.communityovercode.org/speakers/lukas-ott/</guid>
+      <description>Lukas has a deep theoretical and practical knowledge of information technology. Business analysis andstrategic portfolio management is oneof his core skills. As a member of
+numerous consulting and researchprojects, he shows leadership and forsight. Combining a deep technical understanding with a fine grasp of business processes and management needs. Specialized in Digital Twins combining business domains and various technologies.</description>
+    </item>
+    
+    <item>
+      <title>Mallikarjun Venkataswamyreddy</title>
+      <link>https://eu.communityovercode.org/speakers/mallikarjun-venkataswamyreddy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eu.communityovercode.org/speakers/mallikarjun-venkataswamyreddy/</guid>
+      <description>Engineer @ Hbase Team, Flipkart</description>
+    </item>
+    
+    <item>
+      <title>Marco Sinhoreli</title>
+      <link>https://eu.communityovercode.org/speakers/marco-sinhoreli/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eu.communityovercode.org/speakers/marco-sinhoreli/</guid>
+      <description>I am a Technical Marketing Manager at ShapeBlue, the leading global provider of cloud infrastructure solutions, and an Apache CloudStack expert. With over 25 years of IT experience, I have a deep understanding of cloud computing and network administration, as well as a passion for creating and delivering engaging technical marketing content.
+My mission is to effectively communicate with customers and prospects, both technical and non-technical, and help them make informed decisions and achieve their business goals.</description>
+    </item>
+    
+    <item>
+      <title>Mark Thomas</title>
+      <link>https://eu.communityovercode.org/speakers/mark-thomas/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eu.communityovercode.org/speakers/mark-thomas/</guid>
+      <description>Mark has been an Apache Tomcat committer since November 2003. He initially worked on Tomcat in his free time but since August 2008 he has been employed by SpringSource (now part of Broadcom) to work on Tomcat. He spends most of his time working on Tomcat but he also works on Tanzu tc Server, Broadcom&amp;rsquo;s Servlet &amp;amp; JSP container based on Tomcat.
+Mark is the release manager for Tomcat 11.0 where he tries to release a new version every month or so.</description>
+    </item>
+    
+    <item>
+      <title>Martijn Visser</title>
+      <link>https://eu.communityovercode.org/speakers/martijn-visser/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eu.communityovercode.org/speakers/martijn-visser/</guid>
+      <description>Martijn Visser is Senior Product Manager at Confluent and PMC member and Committer for the Apache Flink project. He works with the open source community on user facing features such as the Table/SQL and DataStream API, connectors, and formats. Prior to joining Confluent, he worked as Product Manager at Immerok, which was acquired by Confluent.
+He has also worked as Product Manager at Ververica, where he was responsible for product development on Apache Flink and Ververica Platform, and as Product Lead at ING, where he was responsible for ING&amp;rsquo;s Streaming Data and Engagement Platform.</description>
+    </item>
+    
+    <item>
+      <title>Martin Desruisseaux</title>
+      <link>https://eu.communityovercode.org/speakers/martin-desruisseaux/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eu.communityovercode.org/speakers/martin-desruisseaux/</guid>
+      <description>Martin holds a Ph.D in oceanography, but has continuously focused on developing tools for data analysis work. Programming experience was C/C++ before switching to Java in 1997. He has been developing geospatial libraries for more than 25 years, as a contributor to Apache SIS since 2013. He follows Open Geospatial Consortium (OGC) meetings since 2002. Martin works in a small IT services company (Geomatys) specialized in development of geoportals, which uses Apache SIS as a foundation.</description>
+    </item>
+    
+    <item>
+      <title>Marton Balassi</title>
+      <link>https://eu.communityovercode.org/speakers/marton-balassi/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eu.communityovercode.org/speakers/marton-balassi/</guid>
+      <description>Marton Balassi is a Flink PMC member and a Engineer Manager at Apple. In previous roles he worked directly with more than 50 customers to guide their journey of distributed data processing. Most recently before joining Apple Marton led the Flink Engineering team at Cloudera.</description>
+    </item>
+    
+    <item>
+      <title>Maxim Muzafarov</title>
+      <link>https://eu.communityovercode.org/speakers/maxim-muzafarov/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eu.communityovercode.org/speakers/maxim-muzafarov/</guid>
+      <description>Open-source software engineer with over 15 years of experience, specializing in Java and Python. Apache Project Management Committee member and committer with over 5 years of dedicated ASF contributions, contributing to Apache Ignite and Apache Cassandra, particularly in the areas of distributed cluster snapshots, storage engines, messaging protocols, and monitoring and management tools. As a member of the Ignite Project Management Committee, he has led major open-source software releases and is well-versed in big data technologies.</description>
+    </item>
+    
+    <item>
+      <title>Medine Aktaş</title>
+      <link>https://eu.communityovercode.org/speakers/medine-aktas/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eu.communityovercode.org/speakers/medine-aktas/</guid>
+      <description>I worked as a backend developer in different companies such as Architecht, Havelsan and TOM. I research and develop big data solutions using open source technologies. I aim to be someone who has a desire to explore and has learned to learn the endless learning process. I am an energetic person who always moves forward with the logic of 1&amp;gt;0, who is a fighter and who cannot give up here, who always maintains his excitement.</description>
+    </item>
+    
+    <item>
+      <title>Michael Rambichler</title>
+      <link>https://eu.communityovercode.org/speakers/michael-rambichler/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eu.communityovercode.org/speakers/michael-rambichler/</guid>
+      <description>20 Years Software Development and now leading the Integration Architecture and System of a european retailer</description>
+    </item>
+    
+    <item>
+      <title>Mick Semb Wever</title>
+      <link>https://eu.communityovercode.org/speakers/mick-semb-wever/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eu.communityovercode.org/speakers/mick-semb-wever/</guid>
+      <description>Principal Architect at DataStax, engineering and product on Cassandra and Open Source.
+Beyond technology, crazy about snowboarding, rock climbing, trail running, skiing, surfing, and just anything awesome in nature.</description>
+    </item>
+    
+    <item>
+      <title>Mike Adamson</title>
+      <link>https://eu.communityovercode.org/speakers/mike-adamson/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eu.communityovercode.org/speakers/mike-adamson/</guid>
+      <description>Mike is a Committer to the Apache Cassandra project with 15 years exprerience working with and developing for Cassandra. He was the lead developer on the migration of the Storage Attached Index project (CEP-7) and the Vector Search project (CEP-30) to Cassandra 5.0.</description>
+    </item>
+    
+    <item>
+      <title>Mirko Boehm</title>
+      <link>https://eu.communityovercode.org/speakers/mirko-boehm/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eu.communityovercode.org/speakers/mirko-boehm/</guid>
+      <description>Mirko Boehm is a free and open source software contributor, community manager, licensing expert and researcher, with contributions to major open source projects like the KDE Desktop (since 1997, including several years on the KDE e.V. board), the Open Invention Network, the Open Source Initiative and others. He is a visiting lecturer and researcher on free and open source software at the Technical University of Berlin. Mirko Boehm has a wide range of experience as an entrepreneur, corporate manager, software developer and German Air Force officer.</description>
+    </item>
+    
+    <item>
+      <title>Mirko Kämpf</title>
+      <link>https://eu.communityovercode.org/speakers/mirko-kampf/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eu.communityovercode.org/speakers/mirko-kampf/</guid>
+      <description>Mirko Kämpf, Managing Director at the Organisation for Conscious Consumerism and Co-Founder of ecolytiq GmbH, is an experienced data enthusiast aiming on integration of sustainability aspects into the future’s data economy. With a passion for data experiments and physics and a career spanning roles in research, industry, and start-ups, he&amp;rsquo;s a pioneer in integrating open-source ideas and interdisciplinary collaboration. His current work focuses on innovative solutions for complex systems, aiming to shape a sustainable future through digital technologies and global cooperation.</description>
+    </item>
+    
+    <item>
+      <title>Muhammet Orazov</title>
+      <link>https://eu.communityovercode.org/speakers/muhammet-orazov/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eu.communityovercode.org/speakers/muhammet-orazov/</guid>
+      <description>Experienced in databases, distributed systems and learning about streaming systems.</description>
+    </item>
+    
+    <item>
+      <title>Nadia Jiang</title>
+      <link>https://eu.communityovercode.org/speakers/nadia-jiang/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eu.communityovercode.org/speakers/nadia-jiang/</guid>
+      <description>Nadia Jiang is an entrepreneur, open-source enthusiast, and DevRel expert. Currently serving as the COO of SegmentFault, China&amp;rsquo;s largest developer Q&amp;amp;A community, and co-founder of Apache Answer.
+In addition to her professional accomplishments, Nadia is a dedicated contributor to open-source organizations, including the China Open-Source Alliance (KAIYUANSHE), Chance Open-Source Foundation, China Computer Federation (CCF), and China Institute of Communications (CIC), etc.
+She plays an instrumental role in organizing and volunteering for various open-source events, such as ApacheCon Asia, OpenInfra Days China, etc.</description>
+    </item>
+    
+    <item>
+      <title>Natali Vlatko</title>
+      <link>https://eu.communityovercode.org/speakers/natali-vlatko/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eu.communityovercode.org/speakers/natali-vlatko/</guid>
+      <description>Natali Vlatko (she/her) is an Open Source Architect at Cisco, specializing in open software, policy, compliance, and governance, and is a SIG Docs Co-Chair for Kubernetes. She plays on the fun computer in her spare time. Her academic background is in Egyptology and Archaeology; specifically, burial customs across the various kingdoms of Ancient Egypt. Ask her about dead stuff.</description>
+    </item>
+    
+    <item>
+      <title>Navendu Pottekkat</title>
+      <link>https://eu.communityovercode.org/speakers/navendu-pottekkat/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eu.communityovercode.org/speakers/navendu-pottekkat/</guid>
+      <description>Navendu Pottekkat is a maintainer of Apache APISIX. He is passionate about designing, developing, and deploying scalable, distributed systems. Navendu dedicates himself to helping new contributors to open source, mentoring through the Google Summer of Code and Linux Foundation Mentorship Program. He also writes and speaks about the cloud native ecosystem, sharing his experience in contributing to, building, scaling, and maintaining open source projects.</description>
+    </item>
+    
+    <item>
+      <title>Nicolas Fränkel</title>
+      <link>https://eu.communityovercode.org/speakers/nicolas-frankel/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eu.communityovercode.org/speakers/nicolas-frankel/</guid>
+      <description>Developer Advocate with 15+ years experience consulting for many different customers, in a wide range of contexts (such as telecoms, banking, insurances, large retail and public sector). Usually working on Java/Java EE and Spring technologies, but with focused interests like Rich Internet Applications, Testing, CI/CD and DevOps. Also double as a trainer and triples as a book author.</description>
+    </item>
+    
+    <item>
+      <title>Niklas Merz</title>
+      <link>https://eu.communityovercode.org/speakers/niklas-merz/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eu.communityovercode.org/speakers/niklas-merz/</guid>
+      <description>Niklas got into Apache Cordova in a previous job developing mobile applications. Although he is no longer developing apps in his day jobs he is active in the community producing releases and doing community work for the project and W3C WebView Community Group.</description>
+    </item>
+    
+    <item>
+      <title>Noémi Pap-Takács</title>
+      <link>https://eu.communityovercode.org/speakers/noemi-pap-takacs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eu.communityovercode.org/speakers/noemi-pap-takacs/</guid>
+      <description>Noémi Pap-Takács is is a software engineer at Cloudera, contributing to Apache Impala. Her focus lies in performance optimization and the integration of Apache Iceberg into Impala.</description>
+    </item>
+    
+    <item>
+      <title>Oleg Nenashev</title>
+      <link>https://eu.communityovercode.org/speakers/oleg-nenashev/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eu.communityovercode.org/speakers/oleg-nenashev/</guid>
+      <description>Oleg is a passionate Open Whatever advocate: software, hardware and communities. He is a TOC member in the Continuous Delivery Foundation. Oleg is a core maintainer and board member in Jenkins, and also WireMock and OpenFeature co-maintainer. Oleg has a PhD degree in hardware design and volunteers in the Free and Open Source Silicon Foundation. He created a few pet projects like Testcontainers for C/C++ or FaaScinator. CNCF and CDF Ambassador, Testcontainers Champion</description>
+    </item>
+    
+    <item>
+      <title>Omotola Omotayo</title>
+      <link>https://eu.communityovercode.org/speakers/omotola-omotayo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eu.communityovercode.org/speakers/omotola-omotayo/</guid>
+      <description>Omotola is a community builder, leading communities at Outreachy and She Code Africa, among others. She is passionate about community, open source, advocacy, diversity, equity, and inclusion.
+She founded Elegance Media Agency out of her passion to help organizations, businesses, and individuals leverage the power of their online presence and community. She also empowers people to learn the skills needed to do the same.
+Omotola understands how communities work and creates an extraordinarily welcoming and safe environment for community users.</description>
+    </item>
+    
+    <item>
+      <title>Oz Katz</title>
+      <link>https://eu.communityovercode.org/speakers/oz-katz/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eu.communityovercode.org/speakers/oz-katz/</guid>
+      <description>Oz Katz is the CTO and Co-Creator of the open source lakeFS Project, an open source platform that delivers resilience and manageability to object-storage based data lakes. Oz engineered and maintained petabyte-scale data infrastructure at analytics giant SmilarWeb, which he joined after the acquisition of Swayy.</description>
+    </item>
+    
+    <item>
+      <title>Paul Brebner</title>
+      <link>https://eu.communityovercode.org/speakers/paul-brebner/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eu.communityovercode.org/speakers/paul-brebner/</guid>
+      <description>Paul Brebner is an Open Source Technology Evangelist at Instaclustr (part of Spot by NetApp). For the last 7 years he has been developing, writing about, and presenting realistic demonstration applications for challenging use cases, with a focus on Kafka performance and scalability, and has recently published his 100th technical blog. Paul has a background in distributed systems R&amp;amp;D and performance engineering, and runs the performance engineering track at ApacheCon/Community over Code conferences.</description>
+    </item>
+    
+    <item>
+      <title>Paul King</title>
+      <link>https://eu.communityovercode.org/speakers/paul-king/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eu.communityovercode.org/speakers/paul-king/</guid>
+      <description>Dr Paul King has been contributing to open source projects for over 30 years and is an active committer on numerous projects including Groovy, GPars and Gradle. Paul is VP Apache Groovy, speaks at international conferences, publishes in software magazines and journals, and is a co-author of Manning’s best-seller: Groovy in Action, 2nd Edition.</description>
+    </item>
+    
+    <item>
+      <title>Péter Rózsa</title>
+      <link>https://eu.communityovercode.org/speakers/peter-rozsa/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eu.communityovercode.org/speakers/peter-rozsa/</guid>
+      <description>Péter Rózsa, a Software Engineer at Cloudera since 2020, started contributing to Apache Impala in 2022. He&amp;rsquo;s been working on different parts of the Impala project, recently on Iceberg integrations</description>
+    </item>
+    
+    <item>
+      <title>Peter Vary</title>
+      <link>https://eu.communityovercode.org/speakers/peter-vary/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eu.communityovercode.org/speakers/peter-vary/</guid>
+      <description>Peter Vary is an Apache Iceberg committer and an Apache Hive PMC member, he is a Staff Engineer at Apple. He focuses on data storage, sharing and querying. In previous roles he worked on optimizing Hive transactional performance which also lead to integrating Iceberg to Hive as a new table format. Most recently before joining Apple Peter led the Hungarian Hive Engineering team at Cloudera.</description>
+    </item>
+    
+    <item>
+      <title>Rafael Weingärtner</title>
+      <link>https://eu.communityovercode.org/speakers/rafael-weingartner/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eu.communityovercode.org/speakers/rafael-weingartner/</guid>
+      <description>Apache CloudStack PMC and OpenStack PTL/Core reviewer with a practical view on the &amp;ldquo;Cloud stack&amp;rdquo; (separated!) world.</description>
+    </item>
+    
+    <item>
+      <title>Remy Maucherat</title>
+      <link>https://eu.communityovercode.org/speakers/remy-maucherat/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eu.communityovercode.org/speakers/remy-maucherat/</guid>
+      <description>Remy is a long time Tomcat contributor and ASF member, with a particular interest on Tomcat connectors and new APIs that appear in the Java world.</description>
+    </item>
+    
+    <item>
+      <title>Riccardo Amadio</title>
+      <link>https://eu.communityovercode.org/speakers/riccardo-amadio/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eu.communityovercode.org/speakers/riccardo-amadio/</guid>
+      <description>I&amp;rsquo;m Software Engineer passionate about AI and Data Engineering, but before and for ever a SWE. I love Clean Code and Design Pattern, but sometimes Spaghetti Code it&amp;rsquo;s fine. When I don&amp;rsquo;t have a device on my hand I usually loves to make sports like water sports or climbing or crossfit, trekkings with my dog.</description>
+    </item>
+    
+    <item>
+      <title>Rich Bowen</title>
+      <link>https://eu.communityovercode.org/speakers/rich-bowen/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eu.communityovercode.org/speakers/rich-bowen/</guid>
+      <description>Rich Bowen has been involved in open source since before we started calling it that. He&amp;rsquo;s a member of the Apache Software Foundation, where he currently serves as a board member and VP Conferences. Rich is an Open Source Strategist at AWS.</description>
+    </item>
+    
+    <item>
+      <title>Sergio del Amo</title>
+      <link>https://eu.communityovercode.org/speakers/sergio-del-amo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eu.communityovercode.org/speakers/sergio-del-amo/</guid>
+      <description>I am a fullstack developer specialized in the development of mobile phone apps ( iOS, Android) powered by Grails / Micronaut backends. Since 2015, I write a newsletter, Groovy Calamari, around the Groovy Ecosystem and Microservices. Groovy, Grails, Micronaut, Gradle,&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Shailaja Koppu</title>
+      <link>https://eu.communityovercode.org/speakers/shailaja-koppu/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eu.communityovercode.org/speakers/shailaja-koppu/</guid>
+      <description>Shailaja has extensive experience developing highly scalable distributed storage systems and microservices. She is currently working for Apple and contributing to Cassandra development. She worked on development of Teradata&amp;rsquo;s RDBMs filesystem, NetApp&amp;rsquo;s primary filesystem, EMC2&amp;rsquo;s backup filesystem, Microsoft Azure cloud&amp;rsquo;s backup and recovery, and explored startups for development for Hadoop and Flash filesystems. In addition to storage systems, she has experience on fintech as well, she worked on development of Uber&amp;rsquo;s revenue engineering and Bloomberg&amp;rsquo;s FX trading software</description>
+    </item>
+    
+    <item>
+      <title>Shu Kit Chan</title>
+      <link>https://eu.communityovercode.org/speakers/shu-kit-chan/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eu.communityovercode.org/speakers/shu-kit-chan/</guid>
+      <description>Kit is currently a senior software architect working in Yahoo. His team is tasked to leverage Apache Traffic Server to provide innovative, fast and secure solutions to delivery contents to users. He has been a long time contributor to the Apache Traffic Server project and was responsible with a number of ATS plugins such as ESI (edge side include), Lua and WebAssembly.
+Kit is also a volunteer at the open source program office in Yahoo and has been providing guidance in monitoring the usage and contribution of open source software as well as advising on the governance of these processes.</description>
+    </item>
+    
+    <item>
+      <title>Simhadri Govindappa</title>
+      <link>https://eu.communityovercode.org/speakers/simhadri-govindappa/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eu.communityovercode.org/speakers/simhadri-govindappa/</guid>
+      <description>Senior Software Engineer at Cloudera.
+Apache Hive contributor and actively working on hive iceberg integration.
+Github: https://github.com/apache/hive/commits/master/?author=simhadri-g</description>
+    </item>
+    
+    <item>
+      <title>Subham Rakshit</title>
+      <link>https://eu.communityovercode.org/speakers/subham-rakshit/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eu.communityovercode.org/speakers/subham-rakshit/</guid>
+      <description>Subham Rakshit is a Streaming Solutions Architect for Analytics at AWS based in the UK. He works with customers to design and build streaming architectures so that they can get value from analysing their streaming data. His two little daughters keep her occupied most of the time outside work and loves solving jigsaw puzzles with them.</description>
+    </item>
+    
+    <item>
+      <title>Szymon Janc</title>
+      <link>https://eu.communityovercode.org/speakers/szymon-janc/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eu.communityovercode.org/speakers/szymon-janc/</guid>
+      <description>Szymon is an embedded software engineer. Develops embedded Open Source systems since 2007. FLOSS enthusiast and contributor. Mostly focused on local connectivity area. Apache Mynewt PMC member and chair since 2021. In 2015 co-founded Codecoup, a company providing support in building IoT solutions, local connectivity, Linux, Open Source and embedded software.</description>
+    </item>
+    
+    <item>
+      <title>Tomas Ferreiro</title>
+      <link>https://eu.communityovercode.org/speakers/tomas-ferreiro/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eu.communityovercode.org/speakers/tomas-ferreiro/</guid>
+      <description>With a background in the crypto sector, Tomás has devoted years to sales, marketing, and business development. His focus has been on consultative selling, accumulating over 5 years of expertise in this field.
+Currently serving as a Business Manager at FIter, he is committed to commercial expansion across multiple regions. His dedication lies in promoting financial inclusion and advocating for Fineract, actively contributing to the organization&amp;rsquo;s strategic growth.</description>
+    </item>
+    
+    <item>
+      <title>Trista Pan</title>
+      <link>https://eu.communityovercode.org/speakers/trista-pan/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eu.communityovercode.org/speakers/trista-pan/</guid>
+      <description>Apache Member &amp;amp; Incubator Mentor, Apache ShardingSphere PMC, AWS Data Hero, China Mulan Open Source Community Mentor, Tencent Cloud TVP.
+She used to be responsible for the design and development of the intelligent database platform of JD Digital Science and Technology. She now focuses on the distributed database &amp;amp; middleware ecosystem, and open-source community. Recipient of the “2020 China Open-Source Pioneer” award &amp;amp; the “2021 OSCAR 2021 Top Open Source Pioneer”.</description>
+    </item>
+    
+    <item>
+      <title>Tsz-Wo Nicholas Sze</title>
+      <link>https://eu.communityovercode.org/speakers/tsz-wo-nicholas-sze/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eu.communityovercode.org/speakers/tsz-wo-nicholas-sze/</guid>
+      <description>Dr. Tsz-Wo Nicholas Sze is a principal engineer at Cloudera. He is the PMC Chair of Apache Ratis and a PMC member of Apache Hadoop and Apache Ozone. He has been involved with Apache Hadoop and HDFS since 2007 and is one of the few early contributors still involved with the project. In 2016, he started the Apache Ratis project in order to support high availability and high performance write pipelines in Apache Ozone.</description>
+    </item>
+    
+    <item>
+      <title>Uma Maheswara Rao Gangumalla</title>
+      <link>https://eu.communityovercode.org/speakers/uma-maheswara-rao-gangumalla/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eu.communityovercode.org/speakers/uma-maheswara-rao-gangumalla/</guid>
+      <description>Uma Maheswara Rao is an Apache Software Foundation Member[1]. An Apache Hadoop, Ozone, BookKeeper, Incubator committer and a member of the Project Management Committee[2], and a long-term active contributor to the Apache Hadoop project. He is also mentoring several incubator projects at Apache. He has more than 15 years of experience in large scale Distributed Software Platforms design and development. Currently, Uma is working as a Senior Engineering Manager at Cloudera, Inc, and primarily focuses on open source big data technologies.</description>
+    </item>
+    
+    <item>
+      <title>Wei Zhou</title>
+      <link>https://eu.communityovercode.org/speakers/wei-zhou/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eu.communityovercode.org/speakers/wei-zhou/</guid>
+      <description>Wei has many years experience on cloud technologies. He is a Apache CloudStack committer since 2013 and PMC member since 2017. He is working as a Software Architect at Shapeblue.</description>
+    </item>
+    
+    <item>
+      <title>Yupeng Fu</title>
+      <link>https://eu.communityovercode.org/speakers/yupeng-fu/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eu.communityovercode.org/speakers/yupeng-fu/</guid>
+      <description>Yupeng is a Principal Engineer at Uber and he leads Uber&amp;rsquo;s Real-time Data and Search Platform. including multiple mission-critical services powered by several open-source technologies like Kafka/Flink/Pinot as well as a Search platform over Apache Lucene. Before Uber, he was a founding member of Alluxio Inc, and a PMC member of the Alluxio open source project. Prior to Alluxio, Yupeng worked at Palantir, building data analytics platforms.</description>
+    </item>
+    
+    <item>
+      <title>Zoltan Borok-Nagy</title>
+      <link>https://eu.communityovercode.org/speakers/zoltan-borok-nagy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eu.communityovercode.org/speakers/zoltan-borok-nagy/</guid>
+      <description>Zoltán is a software engineer at Cloudera, working on Apache Impala. He is also a PMC member on the project. Currently he is leading the Impala/Iceberg integration efforts. Before Cloudera, Zoltán worked on C++ static analysis tools. He is interested in distributed, massively parallel systems, databases, and performance engineering.</description>
+    </item>
+    
+    <item>
+      <title>Zoltan Mezei</title>
+      <link>https://eu.communityovercode.org/speakers/zoltan-mezei/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eu.communityovercode.org/speakers/zoltan-mezei/</guid>
+      <description>Zoltan is an IT generalist, currently working with open source and cloud technologies for fintech and e-commerce companies.</description>
     </item>
     
   </channel>
