@@ -18,6 +18,7 @@ theme = "coceu"
 tag = "tags"
 category = "categories"
 speaker = "speakers"
+track = "tracks"
 
 
 ############################## navigation ###############################
@@ -28,7 +29,7 @@ speaker = "speakers"
     identifier = "category"
     name = "About"
     url = "/about"
-    weight = 2
+    weight = 1
   [[menu.main]]
     identifier = "category1"
     name = "Community Over Code"
@@ -48,6 +49,15 @@ speaker = "speakers"
     parent = "category"
     weight = 3
 
+[[menu.main]]
+  name = "Program"
+  URL = "/schedule"
+  weight = 2
+
+[[menu.main]]
+  name = "Speakers"
+  URL = "/speakers"
+  weight = 3
 
 [[menu.main]]
     identifier = "venue"
@@ -67,11 +77,6 @@ speaker = "speakers"
     url = "/how-to-get-there"
     parent = "venue"
     weight = 2
-
-[[menu.main]]
-  name = "Speakers"
-  URL = "/#speakers"
-  weight = 4
 
 [[menu.main]]
   name = "News"
@@ -164,18 +169,15 @@ link = "/plugins/bootstrap-table.min.css"
 [[params.plugins.css]]
 link = "/plugins/fontawesome.css"
 
-[[params.plugins.css]]
-link = "/plugins/swiper-bundle.min.css"
-
 # JS Plugins
+[[params.plugins.js]]
+link="/plugins/jquery.min.js"
+
 [[params.plugins.js]]
 link="/plugins/bootstrap.bundle.min.js"
 
 [[params.plugins.js]]
 link="/plugins/bootstrap-table.min.js"
-
-[[params.plugins.js]]
-link="/plugins/swiper-bundle.min.js"
 
 [[params.plugins.js]]
 link="/plugins/bootstrap-table.min.js"

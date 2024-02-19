@@ -6,7 +6,7 @@ aliases:
  - /schedule-alt
 description: Airflow Summit 2023 features more than 90 sessions covering Airflow features, case studies, workshops and community sessions. Check it out!
 
-tracks:
+the_tracks:
  - Airflow basics
  - Airflow & ...
  - Community
