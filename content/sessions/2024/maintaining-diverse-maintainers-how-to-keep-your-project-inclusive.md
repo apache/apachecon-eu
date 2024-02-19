@@ -2,7 +2,7 @@
 title: "Maintaining Diverse Maintainers: How to Keep Your Project Inclusive"
 slug: maintaining-diverse-maintainers-how-to-keep-your-project-inclusive
 speakers:
- - Lisa N. Cao
+ - Lisa N Cao
 time_start: 2024-06-03 16:50:00
 time_end: 2024-06-03 17:20:00
 tracks:

@@ -1,6 +1,6 @@
 ---
 title: "Hichem Kenniche"
-designation: "Instaclustr helps organizations deliver applications at scale by operating and supporting their data infrastructure through its SaaS platform for open source technologies."
+designation: "OSS Product Architect at Instaclustr"
 images:
  - images/speakers/hichem-kenniche.jpg
 linkedin: https://www.linkedin.com/in/hichem-kenniche-71b3b940/
