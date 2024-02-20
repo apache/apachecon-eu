@@ -20,7 +20,7 @@ There is also <a href="https://www.flixbus.com/" target="_blank">Flixbus</a> tha
 
 <br>
 
-When it comes to trains, for instance coming from the close by cities like Prague, you can take <a href="https://www.cd.cz/en/spojeni-a-jizdenka/" target="_blank">Czech railways</a> that goes through Brno to Bratislava and Intercity Class coming from Budapest. 
+When it comes to train from different european cities, you can take <a href="https://www.sbb.ch/en" target="_blank">Swiss trains</a> or, for instance, if you are coming from the closeby cities like Prague, you can take <a href="https://www.cd.cz/en/spojeni-a-jizdenka/" target="_blank">Czech railways</a>  that goes through Brno to Bratislava and Intercity Class coming from Budapest.
 
 If you rent a car you will have to go through the highway, a toll is needed, you can buy a 10 days <a href="https://eznamka.sk/selfcare/purchase" target="_blank">electronic vignette here</a>. 
 

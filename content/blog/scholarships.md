@@ -40,6 +40,5 @@ Note that, in return for financial assistance, **TAC Committee asks you to perfo
 
 The Committee judges applications on merit, based on details each applicant provides on their application form. The Committee will notify those it deems to be most in need of assistance within a week of the closing of the application period. If you have not heard from the Committee within one week of the application closing date, you should assume that you did not qualify on this occasion. However, you are welcome to email tac-apply@apache.org for confirmation if you wish. 
 
-
-
+<iframe width="100%" height="600" src="https://www.youtube.com/embed/7nY2rlnPISg?si=5n5xUvq3LGlsLBt7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
