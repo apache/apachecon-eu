@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Niharika Singhal on Community Over Code Europe</title>
+    <link>https://eu.communityovercode.org/speakers/niharika-singhal/</link>
+    <description>Recent content in Niharika Singhal on Community Over Code Europe</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language><atom:link href="https://eu.communityovercode.org/speakers/niharika-singhal/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ethical Algorithms, Licensing Impasses: The Intersection of Free Software and AI openness</title>
+      <link>https://eu.communityovercode.org/sessions/2024/ethical-algorithms/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eu.communityovercode.org/sessions/2024/ethical-algorithms/</guid>
+      <description>The significance of responsible and ethical AI systems has gained immense prominence on the global stage, underscoring the escalating recognition of its far-reaching impact on societies worldwide. Lately, diverse groups and individuals have transitioned from relying solely on Free Software licenses for their projects to pioneering new forms of licensing solutions which impose restrictions related to fields of endeavour, behaviour, community management and commercial practices. This practice has now spilled over to creation of suo moto ethics codes for AI, leading to creation of licenses with restrictive characteristics.</description>
+    </item>
+    
+  </channel>
+</rss>
