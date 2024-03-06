@@ -4,6 +4,7 @@ designation: "Instaclustr Open Source Technology Evangelist"
 images:
  - images/speakers/paul-brebner.jpg
 linkedin: https://www.linkedin.com/in/paul-brebner-0a547b4/
+role: "Performance Engineering"
 events:
  - 2024
 ---

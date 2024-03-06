@@ -3,5 +3,4 @@ title: Speakers
 
 ---
 
-
-### Meet our confirmed speakers so far. 
+#### Meet the amazing team of track leads and speakers managing the content for Community over Code EU.

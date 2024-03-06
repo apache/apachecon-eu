@@ -4,6 +4,7 @@ designation: "Red Hat Software developer"
 images:
  - images/speakers/jean-frederic-clere.jpg
 linkedin: https://www.linkedin.com/in/jeclere/
+role: "Tomcat, Httpd and other servers"
 events:
  - 2024
 ---

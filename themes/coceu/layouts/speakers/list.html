@@ -5,8 +5,37 @@
     <div class="mb-4">
       {{ .Content }}
     </div>
+    <div class="mb-4">
+      <h2>Track leads</h2>
+    </div>
     <div class="speaker-strip">
-      {{ range .Data.Pages.ByTitle }}
+      {{ range sort (where .Data.Pages.ByTitle "Params.role" "ne" nil) "Params.role" }}
+      <div class="speaker-item">
+        <div class="speaker-block">
+          <div class="headshot-box">
+            <a href="{{.RelPermalink}}">
+              {{ $img := resources.Get (index .Params.images 0) }}
+              {{ with $img }}
+                {{ $imgp := $img.Resize "400x webp" }}
+                <img src="{{$imgp.RelPermalink }}" alt="Photo of {{.Title}}" class="img-fluid rounded-circle">
+              {{ end }}  
+          </a>
+        </div>
+          <div class="speaker-info text-center">
+            <h4 class="mb-0 mt-3"><a href="{{.RelPermalink }}">{{ .Title }}</a></h4>
+            <h5>{{ .Params.role }}</h5>
+            <p>{{ .Params.Designation}}</p>
+          </div>
+        </div>
+      </div>
+      {{ end }}
+    </div>
+
+    <div class="my-4">
+      <h2>Speakers</h2>
+    </div>
+    <div class="speaker-strip">
+      {{ range where .Data.Pages.ByTitle "Params.role" "eq" nil }}
       <div class="speaker-item">
         <div class="speaker-block">
           <div class="headshot-box">

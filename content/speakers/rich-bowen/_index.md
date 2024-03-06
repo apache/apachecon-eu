@@ -3,7 +3,8 @@ title: "Rich Bowen"
 designation: "ASF enthusiast, director, member, and advocate."
 images:
  - images/speakers/rich-bowen.jpg
-linkedin: 
+linkedin: https://www.linkedin.com/in/rcbowen/
+role: "Community"
 events:
  - 2024
 ---

@@ -4,6 +4,7 @@ designation: "Unity Foundation"
 images:
  - images/speakers/paul-king.jpg
 linkedin: https://www.linkedin.com/in/paulwilliamking/
+role: "Groovy"
 events:
  - 2024
 ---

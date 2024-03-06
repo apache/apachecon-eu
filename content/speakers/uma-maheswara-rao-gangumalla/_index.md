@@ -4,6 +4,7 @@ designation: "ASF Member, Senior Engineering Manager, Hadoop PMC/Committer"
 images:
  - images/speakers/uma-maheswara-rao-gangumalla.jpg
 linkedin: https://www.linkedin.com/in/umamaheswararaog/
+role: "Data compute & Data storage"
 events:
  - 2024
 ---

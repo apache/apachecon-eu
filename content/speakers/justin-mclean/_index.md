@@ -4,6 +4,7 @@ designation: "ASF Director, VP ASF Incubator, Datastrato Community Manager"
 images:
  - images/speakers/justin-mclean.jpg
 linkedin: http://linkedin.com/in/justinmclean/
+role: "Incubator"
 events:
  - 2024
 ---

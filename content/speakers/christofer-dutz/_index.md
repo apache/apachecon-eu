@@ -4,6 +4,7 @@ designation: "Solution Consulting Expert - Timecho Europe GmbH"
 images:
  - images/speakers/christofer-dutz.jpg
 linkedin: https://www.linkedin.com/in/christofer-dutz/
+role: "IoT"
 events:
  - 2024
 ---
