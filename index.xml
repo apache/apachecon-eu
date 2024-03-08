@@ -941,15 +941,6 @@ Learn about the latest incubator and ASF policies, recent updates you may have m
     </item>
     
     <item>
-      <title>No Programming Language Needed: Use Nifi on Kafka for Your Data Flows</title>
-      <link>https://eu.communityovercode.org/sessions/2024/no-programming-language-needed-use-nifi-on-kafka-for-your-data-flows/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://eu.communityovercode.org/sessions/2024/no-programming-language-needed-use-nifi-on-kafka-for-your-data-flows/</guid>
-      <description>Drag and Drop! In this session, you can find how to build data flow using Apache Nifi over Kafka even if you do not know programming! Apache Nifi is an easy-to-use, powerful and reliable system to process and distribute data. Also if anyone in the team prefers to use a browser-based user interface for data flow rather than coding, this is the best solution to combine your Kafka sources with Apache Nifi.</description>
-    </item>
-    
-    <item>
       <title>Obtain, Distribute and Use Temporary Credentials Automatically in Apache Spark and Apache Flink</title>
       <link>https://eu.communityovercode.org/sessions/2024/obtain-distribute-and-use-temporary-credentials-automatically-in-apache-spark-and-apache-flink/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
