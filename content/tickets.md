@@ -19,7 +19,7 @@ title: "Tickets"
   </thead>
   <tbody>
     <tr>
-      <th scope="row">Member of under-represented group</th>
+      <th scope="row">Member of under-represented group (women, LGBTQ+ and people that are not citizens nor permanent residents of a country in Europe or North America)</th>
       <td class="text-center">15%</td>
       <td>COCEU_15DISC_FRIENDS</td>
     </tr>
