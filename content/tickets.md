@@ -12,8 +12,7 @@ title: "Tickets"
 
 ### Special discounts
 
-* Active undergraduate students can get a 20% discount using the code COCEU_20DISC_STUDENT
-* We believe in equal opportunities, and as such offer a discount code for people from groups underrepresented in tech. You can apply for a discount by [submitting this form](https://forms.gle/ifRg68CFDf4M6GXs7). 
+* We believe in equal opportunities, and as such offer a discount code for people from groups underrepresented in tech. You can apply for a discount by <a href="submitting this form](https://forms.gle/ifRg68CFDf4M6GXs7). 
 
 
 
