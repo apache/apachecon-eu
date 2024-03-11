@@ -12,8 +12,7 @@ title: "Tickets"
 
 ### Special discounts
 
-* We believe in equal opportunities, and as such offer a discount code for people from groups underrepresented in tech. You can apply for a discount by <a href="submitting this form](https://forms.gle/ifRg68CFDf4M6GXs7). 
-
+* We believe in equal opportunities, and as such offer a discount code for students and people from groups underrepresented in tech. You can apply for a discount by <a target="_blank" href="https://forms.gle/ifRg68CFDf4M6GXs7">submitting this form</a>.
 
 
 If the tickets widget is not displayed above, you can go directly to our [tickets page on tito.io](https://ti.to/softwareguru/coceu2024).
