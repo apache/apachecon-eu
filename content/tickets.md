@@ -9,30 +9,12 @@ title: "Tickets"
 
 <tito-widget event="softwareguru/coceu2024"></tito-widget>
 
-<table class="table-dark" id="sessions-table" data-toggle="table">
-  <thead>
-    <tr>
-      <th scope="col">Type of discount</th>
-      <th scope="col">Discount</th>
-      <th scope="col">Code</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <th scope="row">Member of under-represented group (women, LGBTQ+ and people that are not citizens nor permanent residents of a country in Europe or North America)</th>
-      <td class="text-center">15%</td>
-      <td>COCEU_15DISC_FRIENDS</td>
-    </tr>
-    <tr>
-      <th scope="row">Student</th>
-      <td class="text-center">20%</td>
-      <td>COCEU_20DISC_STUDENT</td>   
-    </tr>
-  </tbody>
-</table>
 
-<br>
+### Special discounts
 
-If you cannot afford your travel expenses, apply for TAC scholarship [here](/scholarships/).
+* Active undergraduate students can get a 20% discount using the code COCEU_20DISC_STUDENT
+* We believe in equal opportunities, and as such offer a discount code for people from groups underrepresented in tech. You can apply for a discount by [submitting this form](https://forms.gle/ifRg68CFDf4M6GXs7). 
+
+
 
 If the tickets widget is not displayed above, you can go directly to our [tickets page on tito.io](https://ti.to/softwareguru/coceu2024).
