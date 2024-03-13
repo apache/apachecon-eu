@@ -72,7 +72,7 @@ We are looking forward to seeing you in Bratislava next June! Should you have an
 <br>
 
 
-<table class="table" style="background-color: transparent !important;">
+<table class="table table-dark" style="background-color: transparent !important;">
     <tr>
       <th scope="col">Hotels</th>
       <th scope="col">Walking time</th>
@@ -84,7 +84,13 @@ We are looking forward to seeing you in Bratislava next June! Should you have an
       <th scope="row">Radisson Blu Carlton</th>
       <td>-</td>
       <td>€134.55</td>
-      <td><a href="http://tinyurl.com/mupc3fhk">COC2024 reservation link</td>
+      <td><a href="http://tinyurl.com/mupc3fhk" target="_blank">COC2024 reservation link</td>
+    </tr>
+    <tr>
+      <th scope="row">Park Inn by Radisson Danube Bratislava</th>
+      <td>5 min</td>
+      <td>€128.50</td>
+      <td><a href="https://www.radissonhotels.com/en-us/booking/room-display?checkInDate=2024-06-01&checkOutDate=2024-06-06&searchType=pac&promotionCode=NSHINC&voucher=&taxIncludedRegion=true&adults%5B%5D=1&children%5B%5D=0&aoc%5B%5D=NaN&paymentType=onlyCash&hotelCode=SKBTSDAN" target="_blank">COC24 reservation link</a>/ Promotional Code: NSHINC</td>
     </tr>
   </tbody>
 </table>
