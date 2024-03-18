@@ -12,6 +12,36 @@ images: ["images/blog/venue.png"]
 author: "Community Over Code EU Team"
 ---
 
+<a id="lodging"></a>
+<h2 id="discounts" class="mb-4">Where to Stay</h2>
+
+
+
+<table class="table table-dark mb-4" style="background-color: transparent !important;">
+    <tr>
+      <th scope="col">Hotels</th>
+      <th scope="col">Walking time</th>
+      <th scope="col">Room rate</th>
+      <th scope="col">Booking link</th>
+    </tr>
+  <tbody>
+    <tr>
+      <th scope="row">Radisson Blu Carlton</th>
+      <td>-</td>
+      <td>€134.55</td>
+      <td><a href="http://tinyurl.com/mupc3fhk" target="_blank">COC2024 reservation link</a><br>(promotional code only works for dates between June 1-6)</td>
+    </tr>
+    <tr>
+      <th scope="row">Park Inn by Radisson Danube Bratislava</th>
+      <td>5 min</td>
+      <td>€128.50</td>
+      <td><a href="https://www.radissonhotels.com/en-us/booking/room-display?checkInDate=2024-06-01&checkOutDate=2024-06-06&searchType=pac&promotionCode=NSHINC&voucher=&taxIncludedRegion=true&adults%5B%5D=1&children%5B%5D=0&aoc%5B%5D=NaN&paymentType=onlyCash&hotelCode=SKBTSDAN" target="_blank">COC24 reservation link</a><br>(promotional code only works for dates between June 1-6)</td>
+    </tr>
+  </tbody>
+</table>
+
+   
+
   <div class="d-flex flex-wrap justify-content-between mb-3">
     <div class="col-lg-6">
       <p>This year the beautiful city of Bratislava will welcome the ASF Conference. We chose this city for its charm, history, attractions and the many possibilities to get there so that your Community Over Code experience will be memorable both inside and outside the venue.</p>
@@ -66,34 +96,3 @@ Start planning your trip, here are some useful phrases you might need during you
 We are looking forward to seeing you in Bratislava next June! Should you have any questions, please contact us at: teyza@sg.com.mx
 
 
-<a id="lodging"></a>
-<h2 id="discounts" class="text-center">Where to Stay</h2>
-
-<br>
-
-
-<table class="table table-dark" style="background-color: transparent !important;">
-    <tr>
-      <th scope="col">Hotels</th>
-      <th scope="col">Walking time</th>
-      <th scope="col">Room rate</th>
-      <th scope="col">Booking link</th>
-    </tr>
-  <tbody>
-    <tr>
-      <th scope="row">Radisson Blu Carlton</th>
-      <td>-</td>
-      <td>€134.55</td>
-      <td><a href="http://tinyurl.com/mupc3fhk" target="_blank">COC2024 reservation link</td>
-    </tr>
-    <tr>
-      <th scope="row">Park Inn by Radisson Danube Bratislava</th>
-      <td>5 min</td>
-      <td>€128.50</td>
-      <td><a href="https://www.radissonhotels.com/en-us/booking/room-display?checkInDate=2024-06-01&checkOutDate=2024-06-06&searchType=pac&promotionCode=NSHINC&voucher=&taxIncludedRegion=true&adults%5B%5D=1&children%5B%5D=0&aoc%5B%5D=NaN&paymentType=onlyCash&hotelCode=SKBTSDAN" target="_blank">COC24 reservation link</a>/ Promotional Code: NSHINC</td>
-    </tr>
-  </tbody>
-</table>
-
-   
-***Room rates don't include service fee and taxes***
