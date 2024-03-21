@@ -2,12 +2,12 @@
 
 {{ with $data.sponsors }}
 <section class="section sponsors">
-  <div class="sponsors">
-    <h2>Partners</h2> 
+  <h2>Partners</h2> 
 
+  <div class="sponsors-box">
     {{ range .sponsor_group }}
     <div class="mb-5">
-      <h4 class="">{{ .title | markdownify }}</h4>
+      <h4 class="text-center">{{ .title | markdownify }}</h4>
       <div class="sponsor-strip {{ .slug }} mb-4 py-2">
         {{ range .sponsor }}
         <div class="sponsor-item mx-3 my-2">

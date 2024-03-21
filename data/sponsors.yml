@@ -1,8 +1,13 @@
 enable :  true
 title : "Sponsors"
 sponsor_group:
-  - title : ""
-    slug : "platinum"
+  - title : "Gold"
+    slug : "gold"
+    sponsor:
+      - logo : "/images/partners/gradle.png"
+        link : https://gradle.com/
+  - title : "Community"
+    slug : "community"
     sponsor:
       - logo : "/images/partners/packt.png"
         link : "https://www.packtpub.com/"
