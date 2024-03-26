@@ -9,6 +9,8 @@ github:
 events:
  - 2024
 featured: true 
+featured_order: 7
+
 ---
 
 

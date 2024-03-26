@@ -5,7 +5,7 @@
         <p>Check out the featured speakers that we have confirmed so far.</p>
       </div>
       <div id="speakers" class="speaker-strip">
-        {{ range where (where (where .Site.Pages.ByTitle "Type" "speakers") "Kind" "term") "Params.featured" true }}
+        {{ range sort (where (where (where .Site.Pages.ByTitle "Type" "speakers") "Kind" "term") "Params.featured" true) "Params.featured_order" }}
         <div class="speaker-item">
           <div class="speaker-block">
             <div class="headshot-box">

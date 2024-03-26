@@ -6,6 +6,8 @@ images:
 linkedin: https://www.linkedin.com/in/ana-jimenez-santamaria
 events:
  - 2024
+featured: true
+featured_order: 6
 ---
 
 Ana is the OSPO Program Manager at the TODO Group, a LF project and an open community of practitioners who aim to create and share knowledge and collaborate on practices, tools, and other ways to run successful and effective Open Source Program Offices. Formerly she worked at Bitergia, where she finished her MSc in Data Science, whose final thesis focused on measuring DevRel’s success within Open Source development communities.

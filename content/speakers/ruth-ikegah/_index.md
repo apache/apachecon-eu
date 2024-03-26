@@ -9,6 +9,7 @@ github: https://github.com/Ruth-ikegah
 events:
  - 2024
 featured: true
+featured_order: 4
 ---
 
  I’m Ruth Ikegah and I’m an open source program manager, technical writer, GitHub Star, and public speaker. Currently, I’m working as an Open Source Consultant at Bitgeria and serve as the Community Lead for CHAOSS Africa. I’m passionate about encouraging people to embrace open source and contribute their skills to the ever-evolving landscape of technology. I’m an avid reader, an enthusiastic traveler, and a lover of all things art and culture. 
