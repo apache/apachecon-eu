@@ -553,6 +553,17 @@ In the world of product management, the role of a Data Science Product Manager s
     </item>
     
     <item>
+      <title>Doing for sustainability, what open source did for software</title>
+      <link>https://eu.communityovercode.org/sessions/2024/keynote-asin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eu.communityovercode.org/sessions/2024/keynote-asin/</guid>
+      <description>In the realm of sustainability, grassroots initiatives often emerge as powerful catalysts for change, driven by the collective wisdom of practitioners.
+Our organization, a coalition of hundreds of software practitioners, embodies this ethos, operating on the principles of consensus and practical action. The result? Tangible solutions that directly foster meaningful change.
+Enter Impact Framework, an open-source tool designed to quantify the environmental impact of software. It takes observations you can easily gather from running systems such as CPU utilisation, page views, installs, prompts and induces them into environmental impacts like carbon, waste, water.</description>
+    </item>
+    
+    <item>
       <title>Efficient, Low Latency Ingestion to Large Tables via Apache Flink and Apache Iceberg</title>
       <link>https://eu.communityovercode.org/sessions/2024/efficient-low-latency-ingestion-to-large-tables-via-apache-flink-and-apache-iceberg/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -784,15 +795,6 @@ Outreachy is a paid and remote internship OS program that empowers, grows talent
       <guid>https://eu.communityovercode.org/sessions/2024/integration-in-the-cloud-era-with-camel-quarkus/</guid>
       <description>Apache Camel is the proven integration swiss knife for years. In today&amp;rsquo;s world of workloads moving to the cloud, the need for disparate systems to communicate remains more than ever. This context makes a Kubernetes Java stack like Quarkus a good fit to implement Camel routes.
 In this session, the attendance can first expect a quick reminder about Camel Quarkus basics. Beyond, some day to day useful features will be presented via concrete examples.</description>
-    </item>
-    
-    <item>
-      <title>Keynote</title>
-      <link>https://eu.communityovercode.org/sessions/2024/keynote-asin/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://eu.communityovercode.org/sessions/2024/keynote-asin/</guid>
-      <description>Abstract coming soon.</description>
     </item>
     
     <item>
