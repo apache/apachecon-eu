@@ -6,15 +6,19 @@ sponsor_group:
     sponsor:
       - logo : "/images/partners/gradle.png"
         link : https://gradle.com/
-  - title : "Community"
+  - title : "Community Partners"
     slug : "community"
     sponsor:
       - logo : "/images/partners/packt.png"
         link : "https://www.packtpub.com/"
       - logo : "/images/partners/Clowder-Space-Logo.png"
         link : "https://clowder.space/"
-      #- logo : "/images/logos/.png"
-      #  link : ""
+      - logo : "/images/partners/superset-logo.png"
+        link : "https://superset.apache.org/"
+      - logo : "/images/partners/Apache-Airflow.png"
+        link : "https://airflow.apache.org/"
+      - logo : "/images/partners/logo-fiter.png"
+        link : "https://fiter.io/"
         
 
 
