@@ -19,6 +19,8 @@ sponsor_group:
         link : "https://airflow.apache.org/"
       - logo : "/images/partners/logo-fiter.png"
         link : "https://fiter.io/"
+      - logo : "/images/partners/github-logo.png"
+        link : "https://github.com/"
         
 
 
