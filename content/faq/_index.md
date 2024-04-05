@@ -11,13 +11,13 @@ Community Over Code EU 2024 will be at the <a href="https://www.radissonhotels.c
 Yes. We aim to provide a harassment-free experience to all participants following the [ASF Anti-Harassment Policy](https://apache.org/foundation/policies/anti-harassment.html) and the [ASF Code of Conduct](https://apache.org/foundation/policies/conduct).
 
 ### How/when can I get a ticket?
-We are finalizing details for tickets and will have them available in this website very soon.
+Tickets are [now available](https://eu.communityovercode.org/tickets/) in this website.
 
 ### Will there be live streaming?
 As of this moment, we are not planning to have live streaming. We will, however, record sessions and make them available later at the ASF YouTube channel.
 
 ### Can I join as sponsor?
-Yes! We will soon have our Prsopectus available here. In the meantime, if you are interested in sponsoring please contact us at [sponsor@apachecon.com](mailto:sponsor@apachecon.com?subject=[EU]Sponsorship).
+Our [Prospectus is now available](https://communityovercode.org/wp-content/uploads/2023/12/community-over-code-prospectus-2024.pdf). In the meantime, if you are interested in sponsoring please contact us at [sponsor@apachecon.com](mailto:sponsor@apachecon.com?subject=[EU]Sponsorship).
 
 ### Accessibility
 We strive to provide a welcoming, inclusive, and accessible environment for all, regardless of ability. Participants requiring special accommodations should provide details in their registration and/or by email at [planners@apachecon.com](mailto:planners@apachecon.com?subject=[EU]Accessibility). This information will be kept private and only be shared with individuals who need to know to secure these accommodations.
