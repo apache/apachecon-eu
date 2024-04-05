@@ -21,12 +21,9 @@ Participants must themselves obtain Travel Insurance (including Medical coverage
 
 ### How to apply for travel assistance 
 
-Visit the [online application](https://tac-apply.apache.org/) and answer all questions as fully as possible **before March 1st**. Note that you do not need to answer all questions in the same session: you can keep coming back until you have completed the form. Ensure that you specify which event you are applying for.
+Visit the [online application](https://tac-apply.apache.org/) and answer all questions as fully as possible. Note that you do not need to answer all questions in the same session: you can keep coming back until you have completed the form. Ensure that you specify which event you are applying for.
 
-
-### Events for which support is available this year: 
-
- * Community Over Code EU 2024 (June 3-5 2024 in Bratislava, Slovakia)
+### Events for which support is still available this year: 
 
  * Community Over Code Asia 2024 (July 26-28 2024 in Hangzhou, China)
 
