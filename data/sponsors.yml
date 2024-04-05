@@ -6,6 +6,8 @@ sponsor_group:
     sponsor:
       - logo : "/images/partners/gradle.png"
         link : https://gradle.com/
+      - logo : "/images/partners/logo-redhat.png"
+        link : https://www.redhat.com/ 
   - title : "Community Partners"
     slug : "community"
     sponsor:
@@ -19,6 +21,8 @@ sponsor_group:
         link : "https://airflow.apache.org/"
       - logo : "/images/partners/logo-fiter.png"
         link : "https://fiter.io/"
+      - logo : "/images/partners/github-logo.png"
+        link : "https://github.com/"
         
 
 
