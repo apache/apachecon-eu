@@ -25,7 +25,7 @@ For our efforts towards Diversity & Inclusion, we have recently been awarded a G
 <br>
 This Community Over Code 2024 we are proud to announce the diversity and inclusion setup in which we have been carefully working based on other models all over the world, we want this event to be comfortable and memorable for everyone. We want you to feel included, confident and free to share whatever is on your mind. These are some of the scopes that we are taking into consideration:
 
-<br>
+<br><br>
 
 * **Scholarships for event pass and travel expenses**
 
