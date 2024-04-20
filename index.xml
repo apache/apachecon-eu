@@ -545,6 +545,15 @@ In the world of product management, the role of a Data Science Product Manager s
     </item>
     
     <item>
+      <title>Deciphering Cassandra’s Prophecy: Preventing the Fall of Your Application</title>
+      <link>https://eu.communityovercode.org/sessions/2024/deciphering-cassandras-prophecy-preventing-the-fall-of-your-application/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eu.communityovercode.org/sessions/2024/deciphering-cassandras-prophecy-preventing-the-fall-of-your-application/</guid>
+      <description>Cassandra predicted the fall of Troy and no one heeded her warning. Over the years, we’ve learned a lot at Bloomberg about running Apache Cassandra at scale. In this talk, we’ll discuss some of the mistakes we’ve made using Cassandra, how we found and remedied them, and what you can do to avoid them in the future.</description>
+    </item>
+    
+    <item>
       <title>Decoding &#39;Community Over Code&#39;</title>
       <link>https://eu.communityovercode.org/sessions/2024/decoding-community-over-code/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
