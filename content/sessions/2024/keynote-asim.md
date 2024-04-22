@@ -1,5 +1,7 @@
 ---
 title: "Doing for sustainability, what open source did for software"
+aliases:
+ - keynote-asin
 speakers:
  - Asim Hussain
 time_start: 2024-06-04 9:30:00

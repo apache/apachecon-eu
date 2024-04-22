@@ -2,10 +2,12 @@
 title: "All your code are belong to Policy Makers, Politicians and the Law"
 speakers:
  - Dirk-Willem van Gulik
-time_start: 2024-06-03T15:00:00-04:00
-time_end: 2024-06-03T15:25:00-04:00
-room: TBD
-track: TBD
+aliases: 
+ - keynote-all-your-code-are-belong-to-policy-makers-politicians-and-the-law
+time_start: 2024-06-05 09:20:00
+time_end: 2024-06-05 09:50:00
+tracks:
+ - Keynote
 day: 
 timeslot: 
 
