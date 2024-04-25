@@ -1,9 +1,9 @@
 ---
-title: "All your code are belong to Policy Makers, Politicians and the Law"
+title: "All your code belongs to Policy Makers, Politicians and the Law"
 speakers:
  - Dirk-Willem van Gulik
 aliases: 
- - keynote-all-your-code-are-belong-to-policy-makers-politicians-and-the-law
+ - keynote-all-your-code-belongs-to-policy-makers-politicians-and-the-law
 time_start: 2024-06-05 09:20:00
 time_end: 2024-06-05 09:50:00
 tracks:
