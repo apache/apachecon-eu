@@ -49,3 +49,13 @@
 	}
 }
   
+.video-promotion{
+	width: 900px;
+	
+	@include tablet {
+		width: 600px;
+	}
+	@include mobile {
+		width: 390px;
+	}
+}
