@@ -684,6 +684,15 @@ Scalability improvements: Presenting improvements on Fineract&amp;rsquo;s scalab
     </item>
     
     <item>
+      <title>From Local Roots to Global Impact: Building an Inclusive Open Source Community in Africa</title>
+      <link>https://eu.communityovercode.org/sessions/2024/keynote-ruth/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eu.communityovercode.org/sessions/2024/keynote-ruth/</guid>
+      <description>The rapid growth of the global open source community has led to the expansion of numerous projects, including the establishment of chapters in diverse regions such as Africa. This talk will explore the unique experiences and insights gained from leading an African chapter of the CHAOSS project, highlighting both the challenges faced and the victories achieved along the way. It will discuss the growth of the open source movement in Africa and emphasize the importance of building a diverse and inclusive community.</description>
+    </item>
+    
+    <item>
       <title>Gatekeep iceberg data quality with Apache Toree and airflow</title>
       <link>https://eu.communityovercode.org/sessions/2024/gatekeep-iceberg-data-quality-with-apache-toree-and-airflow/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -817,15 +826,6 @@ In this session, the attendance can first expect a quick reminder about Camel Qu
     </item>
     
     <item>
-      <title>Keynote</title>
-      <link>https://eu.communityovercode.org/sessions/2024/keynote-ruth/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://eu.communityovercode.org/sessions/2024/keynote-ruth/</guid>
-      <description>Abstract coming soon.</description>
-    </item>
-    
-    <item>
       <title>Let’s see how fast Impala runs on Iceberg</title>
       <link>https://eu.communityovercode.org/sessions/2024/lets-see-how-fast-impala-runs-on-iceberg/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -889,6 +889,15 @@ How we can use Apache TsFile to directly collect data on the hardware</descripti
       <guid>https://eu.communityovercode.org/sessions/2024/managing-the-camel-development-lifecycle-within-vs-code/</guid>
       <description>Apache Camel is the leading open-source integration framework that simplifies the integration of various systems and applications. There exists a comprehensive set of Tooling specifically designed to empower Camel developers in their work with Apache Camel within VS Code. These tools facilitate a seamless and efficient development experience, offering robust support and functionalities tailored to the needs of Camel developers.
 In my session I would like to rely on the Extension Pack for Apache Camel which contains a set of specific extensions for Camel but also leverages the VS Code ecosystem.</description>
+    </item>
+    
+    <item>
+      <title>Measuring the Impact of Community Events</title>
+      <link>https://eu.communityovercode.org/sessions/2024/measuring-impact-community/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eu.communityovercode.org/sessions/2024/measuring-impact-community/</guid>
+      <description>One of the mainstays of the open source ecosystem are community events. Open Source Summit, All Things Open, Community Over Code&amp;hellip; all examples of community events with vitality and influence within open source. But unlike more commercially focused events, community events are not as simple to measure in terms of benefits to organizations that participate. Without sales leads or conversions, how does a commercial organization measure the gains of participation? And for community projects, what&amp;rsquo;s the return on investment in running a booth or giving talks at such events?</description>
     </item>
     
     <item>
