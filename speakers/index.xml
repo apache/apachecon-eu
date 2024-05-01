@@ -298,12 +298,30 @@ I was originally attracted to Apache by its approach to governance, where the pe
     </item>
     
     <item>
+      <title>Csaba Ringhofer</title>
+      <link>https://eu.communityovercode.org/speakers/csaba-ringhofer/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eu.communityovercode.org/speakers/csaba-ringhofer/</guid>
+      <description>Csaba has been working on Apache Impala since 2017 at Cloudera. He is a Member of the Apache Impala PMC. He studied at the Budapest University of Technology and Economics.</description>
+    </item>
+    
+    <item>
       <title>Daniel Augusto Veronezi Salvador</title>
       <link>https://eu.communityovercode.org/speakers/daniel-augusto-veronezi-salvador/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://eu.communityovercode.org/speakers/daniel-augusto-veronezi-salvador/</guid>
       <description>Principal Engineer at SC Clouds; CloudStack PMC</description>
+    </item>
+    
+    <item>
+      <title>Daniel Becker</title>
+      <link>https://eu.communityovercode.org/speakers/daniel-becker/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eu.communityovercode.org/speakers/daniel-becker/</guid>
+      <description>Daniel Becker started working on Apache Impala in 2019 at Cloudera. His Impala contributions encompass various topics, including LLVM code generation, complex types, Parquet and Iceberg. He is a member of the Apache Impala PMC and has a degree from Pázmány Péter Catholic University.</description>
     </item>
     
     <item>
