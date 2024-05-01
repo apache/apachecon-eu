@@ -2,7 +2,7 @@
 title: "EU policies and regulations affecting open source specialists working in OSPOs"
 slug: eu-policies-and-regulations-affecting-open-source-specialists-working-in-ospos
 speakers:
- - Ana Jiménez Santamaría
+ - ana-jimenez-santamaria
  - Floor Drees
  - Natali Vlatko
  - Mirko Boehm
