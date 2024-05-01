@@ -17,5 +17,15 @@ Exploring which are the patterns for data pipeline with Airflow+Spark, Airflow+D
 Define which are the fundamental concepts of a Data Pipeline, from Data Lineage, Data Observability, Metadata, Data quality, Data auditing and how to integrate it on a Data Pipeline.</description>
     </item>
     
+    <item>
+      <title>Whitefox: simple table format sharing</title>
+      <link>https://eu.communityovercode.org/sessions/2024/whitefox-simple-table-format-sharing/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eu.communityovercode.org/sessions/2024/whitefox-simple-table-format-sharing/</guid>
+      <description>&amp;ldquo;In the evolving landscape of data platforms, the decoupling of compute and storage has led to the emergence of open data systems free from vendor constraints. However, this shift towards &amp;ldquo;&amp;ldquo;modularity&amp;rdquo;&amp;rdquo; brings its own set of challenges. The intricate task of establishing effective access controls within table-format architectures proves to be complex. Despite data residing in the cloud and theoretically accessible from anywhere, the existing friction impedes seamless accessibility.
+Enter Whitefox: an open-source initiative inspired by the brilliant principles of Delta-Sharing.</description>
+    </item>
+    
   </channel>
 </rss>

@@ -17,6 +17,16 @@ CIDR filtering authorizer provides capability for admins to configure allow or d
     </item>
     
     <item>
+      <title>Cassandra Vector Search Performance Tuning</title>
+      <link>https://eu.communityovercode.org/sessions/2024/cassandra-vector-search-performance/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eu.communityovercode.org/sessions/2024/cassandra-vector-search-performance/</guid>
+      <description>Cassandra 5.0 now incorporates vector search capabilities powered by DiskANN, an advanced technology developed by Microsoft Research. In this session, we are will demonstrate the vector search performance of Cassandra 5.0, juxtaposed with other leading databases. Our benchmarking platform will be utilized to assess a variety of key metrics, including I/O performance as well as the precision and recall accuracy of the search results.
+Furthermore, the session will delve into optimization strategies for Cassandra.</description>
+    </item>
+    
+    <item>
       <title>Deciphering Cassandra’s Prophecy: Preventing the Fall of Your Application</title>
       <link>https://eu.communityovercode.org/sessions/2024/deciphering-cassandras-prophecy-preventing-the-fall-of-your-application/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>

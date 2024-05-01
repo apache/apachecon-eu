@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Uri Smiley on Community Over Code Europe</title>
+    <link>https://eu.communityovercode.org/speakers/uri-smiley/</link>
+    <description>Recent content in Uri Smiley on Community Over Code Europe</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language><atom:link href="https://eu.communityovercode.org/speakers/uri-smiley/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cassandra Vector Search Performance Tuning</title>
+      <link>https://eu.communityovercode.org/sessions/2024/cassandra-vector-search-performance/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eu.communityovercode.org/sessions/2024/cassandra-vector-search-performance/</guid>
+      <description>Cassandra 5.0 now incorporates vector search capabilities powered by DiskANN, an advanced technology developed by Microsoft Research. In this session, we are will demonstrate the vector search performance of Cassandra 5.0, juxtaposed with other leading databases. Our benchmarking platform will be utilized to assess a variety of key metrics, including I/O performance as well as the precision and recall accuracy of the search results.
+Furthermore, the session will delve into optimization strategies for Cassandra.</description>
+    </item>
+    
+  </channel>
+</rss>

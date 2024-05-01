@@ -96,6 +96,15 @@ Experience with a great variety of clients has taught him to be a proficient and
     </item>
     
     <item>
+      <title>Alexander Laye</title>
+      <link>https://eu.communityovercode.org/speakers/alexander-laye/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eu.communityovercode.org/speakers/alexander-laye/</guid>
+      <description>I&amp;rsquo;m a Northern Virginia based Software Engineer. I started my career working for a government contractor developing internal tooling for other developers working on a grant management application. About two years ago, I changed roles to work at Microsoft, and since then I&amp;rsquo;ve been working on Azure&amp;rsquo;s managed Cassandra offering.</description>
+    </item>
+    
+    <item>
       <title>Alexandre Gallice</title>
       <link>https://eu.communityovercode.org/speakers/alexandre-gallice/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -170,15 +179,6 @@ Ana is really interested in Open Source, InnerSource, and community metrics.</de
     </item>
     
     <item>
-      <title>Antonio Murgia</title>
-      <link>https://eu.communityovercode.org/speakers/antonio-murgia/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://eu.communityovercode.org/speakers/antonio-murgia/</guid>
-      <description>The spirit of a SW Engineer in the body of a Data Engineer: on a never-ending quest for painless data operationalisation</description>
-    </item>
-    
-    <item>
       <title>Aparna Sundar</title>
       <link>https://eu.communityovercode.org/speakers/aparna-sundar/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -230,7 +230,16 @@ Her commitment to calibrating the essence of &amp;ldquo;good&amp;rdquo; in infor
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://eu.communityovercode.org/speakers/boris-gordeev/</guid>
-      <description>An engineer with a total of 6 years of experience who worked for various product-based companies in Russia and small startups in Europe, currently working for a tech unicorn and potentially the next big thing - Revolut</description>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Boris Stoyanov</title>
+      <link>https://eu.communityovercode.org/speakers/boris-stoyanov/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eu.communityovercode.org/speakers/boris-stoyanov/</guid>
+      <description>Devoted to QA and testing since 2007. I&amp;rsquo;ve been involved with Apache CloudStack since 2016 and I&amp;rsquo;ve been testing numerous features and releases throughout the years. Also I&amp;rsquo;ve been active community member and PMC.</description>
     </item>
     
     <item>
@@ -502,7 +511,7 @@ Since May 2006 he lives in Neuchatel (Switzerland) where he works for RedHat on 
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://eu.communityovercode.org/speakers/jeremy-meyer/</guid>
-      <description>More than 20 years as a computer scientist and software engineer, developer, writer and educator.</description>
+      <description></description>
     </item>
     
     <item>
@@ -581,12 +590,12 @@ B.Sc., Computer Science &amp;amp; Management in Tel Aviv University, MBA, Manage
     </item>
     
     <item>
-      <title>Lisa N. Cao</title>
+      <title>Lisa N Cao</title>
       <link>https://eu.communityovercode.org/speakers/lisa-n-cao/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://eu.communityovercode.org/speakers/lisa-n-cao/</guid>
-      <description>Lisa is a former data analyst, now data engineer and software engineer interested in observability, validation, and reliability in data systems. Her background consists of a variety of start-ups, nonprofits, consulting firms, GovTech, and biotechnology. She is a Google Women TechMakers Ambassador, Linux Foundation LiFT recipient for Women in Open Source, founder and chair of the Vancouver Datajam, and lead maintainer of the BiocSwirl project.</description>
+      <description></description>
     </item>
     
     <item>
@@ -699,7 +708,7 @@ Beyond technology, crazy about snowboarding, rock climbing, trail running, skiin
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://eu.communityovercode.org/speakers/mike-adamson/</guid>
-      <description>Mike is a Committer to the Apache Cassandra project with 15 years exprerience working with and developing for Cassandra. He was the lead developer on the migration of the Storage Attached Index project (CEP-7) and the Vector Search project (CEP-30) to Cassandra 5.0.</description>
+      <description></description>
     </item>
     
     <item>
@@ -905,6 +914,15 @@ Omotola understands how communities work and creates an extraordinarily welcomin
     </item>
     
     <item>
+      <title>Ritesh Shukla</title>
+      <link>https://eu.communityovercode.org/speakers/ritesh-shukla/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eu.communityovercode.org/speakers/ritesh-shukla/</guid>
+      <description>Ritesh is an Apache Ozone PMC. He has over a decade of experience with distributed storage solutions and systems. He is passionate about picking all three in a solution: simple, right, and efficient. He is currently working on Ozone, a distributed object store that caters to HDFS and S3 workloads.</description>
+    </item>
+    
+    <item>
       <title>Sergio del Amo</title>
       <link>https://eu.communityovercode.org/speakers/sergio-del-amo/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -1015,6 +1033,15 @@ She used to be responsible for the design and development of the intelligent dat
       
       <guid>https://eu.communityovercode.org/speakers/uma-maheswara-rao-gangumalla/</guid>
       <description>Uma Maheswara Rao is an Apache Software Foundation Member[1]. An Apache Hadoop, Ozone, BookKeeper, Incubator committer and a member of the Project Management Committee[2], and a long-term active contributor to the Apache Hadoop project. He is also mentoring several incubator projects at Apache. He has more than 15 years of experience in large scale Distributed Software Platforms design and development. Currently, Uma is working as a Senior Engineering Manager at Cloudera, Inc, and primarily focuses on open source big data technologies.</description>
+    </item>
+    
+    <item>
+      <title>Uri Smiley</title>
+      <link>https://eu.communityovercode.org/speakers/uri-smiley/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eu.communityovercode.org/speakers/uri-smiley/</guid>
+      <description>I am part of the team dedicated to developing Microsoft&amp;rsquo;s Cassandra as a Service (CaaS) offering. In my current role, I have been deeply involved in performance tuning and benchmarking, both for our specific product and for Cassandra at large. My contributions include devising and implementing comprehensive workloads that are used daily to detect and address any performance regressions.</description>
     </item>
     
     <item>
