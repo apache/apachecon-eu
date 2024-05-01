@@ -2,7 +2,7 @@
 title: "Ritesh Shukla"
 designation: "Principal Engineer at Cloudera"
 images:
- - images/speakers/ritesh-shukla.jpg
+ - /images/speakers/ritesh-shukla.jpg
 linkedin: https://www.linkedin.com/in/kerneltime/
 events:
  - 2024
