@@ -54,15 +54,6 @@ The Java Operator SDK is a production-ready framework that makes implementing Ku
     </item>
     
     <item>
-      <title>Building services and pipelines for real-world data</title>
-      <link>https://eu.communityovercode.org/sessions/2024/building-services-and-pipelines-for-real-world-data/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://eu.communityovercode.org/sessions/2024/building-services-and-pipelines-for-real-world-data/</guid>
-      <description>In the speech &amp;ldquo;Building Services and Pipelines for Real-World Data,&amp;rdquo; the speaker, an experienced professional in analytics services, delves into the complexities and challenges of extracting meaningful insights from chaotic, real-world data. The speech will address practical scenarios, from analyzing trading transactions to interpreting geolocation data, highlighting the difficulties in aligning data with real-world events and developing reliable analytical services. The speaker will share firsthand experiences and solutions for creating effective data pipelines and services, emphasizing the importance of adaptable architectures and strategies in data transformation and interpretation.</description>
-    </item>
-    
-    <item>
       <title>Data enrichment patterns with Apache Flink</title>
       <link>https://eu.communityovercode.org/sessions/2024/data-enrichment-patterns-with-apache-flink/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>

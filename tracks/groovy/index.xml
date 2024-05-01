@@ -33,15 +33,6 @@ A database access toolkit that uses ahead-of-time (AoT) compilation to pre-compu
     </item>
     
     <item>
-      <title>Leveraging Groovy and Apache Ignite for fast, distributed, scaleable computing and data</title>
-      <link>https://eu.communityovercode.org/sessions/2024/leveraging-groovy-and-apache-ignite-for-fast-distributed-scaleable-computing-and-data/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://eu.communityovercode.org/sessions/2024/leveraging-groovy-and-apache-ignite-for-fast-distributed-scaleable-computing-and-data/</guid>
-      <description>Following on from the previous success of distributing Groovy tasks over an Ignite Cluster to solve oddly shaped Rubik’s cubes, we investigate further possibilities using Groovy’s concise and expressive syntax to extend Ignite. This time we take a deeper look at classloader behaviour in the JVM to distribute native Groovy closures. We also extend the Groovy REPL to give us an easy way to fire up nodes in an Ignite cluster and to query data against it.</description>
-    </item>
-    
-    <item>
       <title>Whisky Clustering with Apache Projects: Groovy, Commons Math, Ignite, Spark, Wayang and Beam</title>
       <link>https://eu.communityovercode.org/sessions/2024/whisky-clustering-with-apache-projects-groovy-commons-math-ignite-spark-wayang-and-beam/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>

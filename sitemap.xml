@@ -198,8 +198,6 @@
   </url><url>
     <loc>https://eu.communityovercode.org/tracks/big-data-storage/</loc>
   </url><url>
-    <loc>https://eu.communityovercode.org/speakers/boris-gordeev/</loc>
-  </url><url>
     <loc>https://eu.communityovercode.org/speakers/boris-stoyanov/</loc>
   </url><url>
     <loc>https://eu.communityovercode.org/speakers/branimir-lambov/</loc>
@@ -215,8 +213,6 @@
     <loc>https://eu.communityovercode.org/sessions/2024/building-a-kubernetes-operator-for-apache-flink-in-java/</loc>
   </url><url>
     <loc>https://eu.communityovercode.org/sessions/2024/building-healthy-developer-communities-a-versatile-framework-for-success/</loc>
-  </url><url>
-    <loc>https://eu.communityovercode.org/sessions/2024/building-services-and-pipelines-for-real-world-data/</loc>
   </url><url>
     <loc>https://eu.communityovercode.org/tracks/cassandra/</loc>
   </url><url>
@@ -362,8 +358,6 @@
   </url><url>
     <loc>https://eu.communityovercode.org/speakers/jean-frederic-clere/</loc>
   </url><url>
-    <loc>https://eu.communityovercode.org/speakers/jeremy-meyer/</loc>
-  </url><url>
     <loc>https://eu.communityovercode.org/speakers/joao-jandre-paraquetti/</loc>
   </url><url>
     <loc>https://eu.communityovercode.org/speakers/juan-pablo-flores/</loc>
@@ -382,19 +376,13 @@
   </url><url>
     <loc>https://eu.communityovercode.org/sessions/2024/lets-see-how-fast-impala-runs-on-iceberg/</loc>
   </url><url>
-    <loc>https://eu.communityovercode.org/sessions/2024/leveraging-groovy-and-apache-ignite-for-fast-distributed-scaleable-computing-and-data/</loc>
-  </url><url>
     <loc>https://eu.communityovercode.org/speakers/lindsey-zurovchak/</loc>
-  </url><url>
-    <loc>https://eu.communityovercode.org/speakers/lisa-n-cao/</loc>
   </url><url>
     <loc>https://eu.communityovercode.org/speakers/luciano-resende/</loc>
   </url><url>
     <loc>https://eu.communityovercode.org/speakers/lukas-ott/</loc>
   </url><url>
     <loc>https://eu.communityovercode.org/sessions/2024/magic-industrial-data-acquisition-with-apache-plc4x-tsfile-and-iotdb/</loc>
-  </url><url>
-    <loc>https://eu.communityovercode.org/sessions/2024/maintaining-diverse-maintainers-how-to-keep-your-project-inclusive/</loc>
   </url><url>
     <loc>https://eu.communityovercode.org/sessions/2024/making-apache-cloudstack-market-ready-with-a-native-rating-solution/</loc>
   </url><url>
@@ -423,8 +411,6 @@
     <loc>https://eu.communityovercode.org/speakers/michael-rambichler/</loc>
   </url><url>
     <loc>https://eu.communityovercode.org/speakers/mick-semb-wever/</loc>
-  </url><url>
-    <loc>https://eu.communityovercode.org/speakers/mike-adamson/</loc>
   </url><url>
     <loc>https://eu.communityovercode.org/speakers/ming-wen/</loc>
   </url><url>
@@ -533,8 +519,6 @@
     <loc>https://eu.communityovercode.org/sessions/2024/state-of-apache-iotdb/</loc>
   </url><url>
     <loc>https://eu.communityovercode.org/sessions/2024/state-of-the-civet/</loc>
-  </url><url>
-    <loc>https://eu.communityovercode.org/sessions/2024/storage-attached-index-vector-search-in-cassandra-5-0/</loc>
   </url><url>
     <loc>https://eu.communityovercode.org/speakers/subham-rakshit/</loc>
   </url><url>
