@@ -3,6 +3,7 @@ title: "Elevating Scalable Object Storage: A Comprehensive Exploration of Ozoneâ
 slug: elevating-scalable-object-storage-a-comprehensive-exploration-of-ozones-trailblazing-capabilities
 speakers:
  - Uma Maheswara Rao Gangumalla
+ - Ritesh Shukla
 time_start: 2024-06-03 16:10:00
 time_end: 2024-06-03 16:40:00
 tracks:
