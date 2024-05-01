@@ -1,13 +1,10 @@
 ---
 title: 
 designation: 
-image: /images/speakers/.jpg
 images: 
  - /images/speakers/.jpg
-description: 
 events:
- - 2022
-twitter: 
+ - 2024
 linkedin: 
 draft: true
 ---
