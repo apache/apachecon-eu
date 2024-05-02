@@ -8,6 +8,11 @@ sponsor_group:
         link : https://gradle.com/
       - logo : "/images/partners/logo-redhat.png"
         link : https://www.redhat.com/ 
+  - title : "Bronze"
+    slug : "bronze"
+    sponsor:
+      - logo : "/images/partners/bloomberg.png"
+        link : https://www.bloomberg.com/company/careers/working-here/engineering/
   - title : "Community Partners"
     slug : "community"
     sponsor:
