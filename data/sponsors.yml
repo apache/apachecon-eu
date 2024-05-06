@@ -8,6 +8,10 @@ sponsor_group:
         link : https://gradle.com/
       - logo : "/images/partners/logo-redhat.png"
         link : https://www.redhat.com/ 
+      - logo : "/images/partners/cisco.png"
+        link : https://www.cisco.com/ 
+
+  
   - title : "Bronze"
     slug : "bronze"
     sponsor:
@@ -28,6 +32,8 @@ sponsor_group:
         link : "https://fiter.io/"
       - logo : "/images/partners/github-logo.png"
         link : "https://github.com/"
+      - logo : "/images/partners/apache-beam.png"
+        link : "https://beam.apache.org/"
         
 
 
