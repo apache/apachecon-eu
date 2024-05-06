@@ -29,13 +29,13 @@ author: "Community Over Code EU Team"
       <th scope="row">Radisson Blu Carlton</th>
       <td>-</td>
       <td>€134.55</td>
-      <td><a href="http://tinyurl.com/mupc3fhk" target="_blank">COC2024 reservation link</a><br>(promotional code only works for dates between June 1-6)</td>
+      <td><a href="http://tinyurl.com/mupc3fhk" target="_blank">COC2024 reservation link</a><br>(promotional code only works for dates between June 1-6, expires on May 10)</td>
     </tr>
     <tr>
       <th scope="row">Park Inn by Radisson Danube Bratislava</th>
       <td>5 min</td>
       <td>€128.50</td>
-      <td><a href="https://www.radissonhotels.com/en-us/booking/room-display?checkInDate=2024-06-01&checkOutDate=2024-06-06&searchType=pac&promotionCode=NSHINC&voucher=&taxIncludedRegion=true&adults%5B%5D=1&children%5B%5D=0&aoc%5B%5D=NaN&paymentType=onlyCash&hotelCode=SKBTSDAN" target="_blank">COC24 reservation link</a><br>(promotional code only works for dates between June 1-6, expires on May 10)</td>
+      <td><a href="https://www.radissonhotels.com/en-us/booking/room-display?checkInDate=2024-06-01&checkOutDate=2024-06-06&searchType=pac&promotionCode=NSHINC&voucher=&taxIncludedRegion=true&adults%5B%5D=1&children%5B%5D=0&aoc%5B%5D=NaN&paymentType=onlyCash&hotelCode=SKBTSDAN" target="_blank">COC24 reservation link</a><br>(promotional code only works for dates between June 1-6)</td>
     </tr>
   </tbody>
 </table>
