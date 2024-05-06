@@ -200,8 +200,6 @@
   </url><url>
     <loc>https://eu.communityovercode.org/tracks/big-data-compute/</loc>
   </url><url>
-    <loc>https://eu.communityovercode.org/tracks/big-data-storage/</loc>
-  </url><url>
     <loc>https://eu.communityovercode.org/speakers/boris-stoyanov/</loc>
   </url><url>
     <loc>https://eu.communityovercode.org/speakers/branimir-lambov/</loc>
@@ -217,8 +215,6 @@
     <loc>https://eu.communityovercode.org/sessions/2024/building-a-kubernetes-operator-for-apache-flink-in-java/</loc>
   </url><url>
     <loc>https://eu.communityovercode.org/sessions/2024/building-healthy-developer-communities-a-versatile-framework-for-success/</loc>
-  </url><url>
-    <loc>https://eu.communityovercode.org/tracks/cassandra/</loc>
   </url><url>
     <loc>https://eu.communityovercode.org/sessions/2024/cassandra-cidr-filtering-authorizer-cep-33/</loc>
   </url><url>
@@ -283,6 +279,8 @@
     <loc>https://eu.communityovercode.org/sessions/2024/efficient-low-latency-ingestion-to-large-tables-via-apache-flink-and-apache-iceberg/</loc>
   </url><url>
     <loc>https://eu.communityovercode.org/sessions/2024/elevating-scalable-object-storage-a-comprehensive-exploration-of-ozones-trailblazing-capabilities/</loc>
+  </url><url>
+    <loc>https://eu.communityovercode.org/sessions/2024/empowering-diversity/</loc>
   </url><url>
     <loc>https://eu.communityovercode.org/sessions/2024/empowering-inclusivity-apache-airflow-s-impact-on-outreachy/</loc>
   </url><url>
@@ -353,8 +351,6 @@
     <loc>https://eu.communityovercode.org/sessions/2024/inside-the-apache-software-foundation-board/</loc>
   </url><url>
     <loc>https://eu.communityovercode.org/sessions/2024/integration-in-the-cloud-era-with-camel-quarkus/</loc>
-  </url><url>
-    <loc>https://eu.communityovercode.org/tracks/iot/</loc>
   </url><url>
     <loc>https://eu.communityovercode.org/speakers/ismael-mejia/</loc>
   </url><url>
@@ -509,8 +505,6 @@
     <loc>https://eu.communityovercode.org/speakers/ritesh-shukla/</loc>
   </url><url>
     <loc>https://eu.communityovercode.org/sessions/2024/sdn-options-in-apache-cloudstack/</loc>
-  </url><url>
-    <loc>https://eu.communityovercode.org/tracks/search/</loc>
   </url><url>
     <loc>https://eu.communityovercode.org/speakers/sergio-del-amo/</loc>
   </url><url>

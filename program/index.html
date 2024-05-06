@@ -28,7 +28,7 @@
 
   <!-- Main Stylesheet -->
   
-  <link rel="stylesheet" href='/scss/style.min.css?v=202405060538' media="screen">
+  <link rel="stylesheet" href='/scss/style.min.css?v=202405060816' media="screen">
 
   <!--Favicon-->
   <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
@@ -137,7 +137,7 @@
 
 <div class="container">
     <div class="content mt-4">
-        <h4 class="mb-4">Welcome to the session program for Airflow Summit 2023. </h4>
+        <h4 class="mb-4">Welcome to the session program for Community Over Code EU 2024. </h4>
 
     </div>
 
@@ -145,14 +145,28 @@
     <div class="color-code-list">
         <div id="track-all" class="btn color-code-item track-all" onclick="showTrack(this,'all')">All</div>
         
+        <button id="track-community" type="button" class="btn color-code-item track-community" onclick="showTrack(this,'community')">Community</button>
+        
+        <button id="track-cassandra" type="button" class="btn color-code-item track-cassandra" onclick="showTrack(this,'cassandra')">Cassandra</button>
+        
+        <button id="track-search" type="button" class="btn color-code-item track-search" onclick="showTrack(this,'search')">Search</button>
+        
+        <button id="track-iot" type="button" class="btn color-code-item track-iot" onclick="showTrack(this,'iot')">IoT</button>
+        
+        <button id="track-big-data-storage" type="button" class="btn color-code-item track-big-data-storage" onclick="showTrack(this,'big-data-storage')">Big Data Storage</button>
+        
+        <button id="track-data-engineering" type="button" class="btn color-code-item track-data-engineering" onclick="showTrack(this,'data-engineering')">Data Engineering</button>
+        
+        <button id="track-api--microservices" type="button" class="btn color-code-item track-api--microservices" onclick="showTrack(this,'api--microservices')">API &amp; Microservices</button>
+        
     </div>
 
     <h3 class="mt-3">Filter by day</h3> 
     <div id="day-buttons" class="mb-4 text-center">
     
-        <button id="button-day-1" type="button" class="btn btn-outline-danger mx-2" onclick="showDay(this,'1')">Tuesday</button>
+        <button id="button-day-1" type="button" class="btn btn-outline-danger mx-2" onclick="showDay(this,'1')">Monday</button>
     
-        <button id="button-day-2" type="button" class="btn btn-outline-danger mx-2" onclick="showDay(this,'2')">Wednesday</button>
+        <button id="button-day-2" type="button" class="btn btn-outline-danger mx-2" onclick="showDay(this,'2')">Tuesday</button>
     
         <button id="button-day-3" type="button" class="btn btn-outline-danger mx-2" onclick="showDay(this,'3')">Thursday</button>
     
@@ -163,7 +177,7 @@
       
 
     <div id="dayblock-1" class="dayblock my-5">
-        <h2 class="mb-3">Tuesday, September 19, 2023</h2>
+        <h2 class="mb-3">Monday June 3, 2024</h2>
         
             
             
@@ -171,46 +185,19 @@
                 <div class="time-label d-sm-none">09:00</div>
                     
                 
-                    <div class="time-room room-ballroom-a-b">
+                    <div class="time-room room-melody">
                         
                     </div>
                 
-                    <div class="time-room room-ballroom-c-d">
+                    <div class="time-room room-symphony">
                         
                     </div>
                 
-                    <div class="time-room room-ballroom-crush">
+                    <div class="time-room room-rhapsody">
                         
                     </div>
                 
-                    <div class="time-room room-york">
-                        
-                    </div>
-                
-                
-
-            </div>
-            
-        
-            
-            
-            <div class="time-row keynote">
-                <div class="time-label d-sm-none">09:30</div>
-                    
-                
-                    <div class="time-room room-ballroom-a-b">
-                        
-                    </div>
-                
-                    <div class="time-room room-ballroom-c-d">
-                        
-                    </div>
-                
-                    <div class="time-room room-ballroom-crush">
-                        
-                    </div>
-                
-                    <div class="time-room room-york">
+                    <div class="time-room room-mirror-lounge">
                         
                     </div>
                 
@@ -222,22 +209,35 @@
             
             
             <div class="time-row keynote">
-                <div class="time-label d-sm-none">10:00</div>
+                <div class="time-label d-sm-none">09:20</div>
                     
                 
-                    <div class="time-room room-ballroom-a-b">
+                    <div class="time-room room-melody">
+                        
+                        <div class="session-item order- track-keynote" data-slot='' data-timestart='03 Jun 2024 11:10:00 UTC' data-timeend='03 Jun 2024 11:40:00 UTC' data-track="keynote">
+                            <div class="session-time">11:10 - 11:40.</div>
+                            <div class="session-title"><a href="#abs-eu-policies-and-regulations-affecting-open-source-specialists-working-in-ospos" data-bs-toggle="collapse">EU policies and regulations affecting open source specialists working in OSPOs</a></div>
+                            <div class="session-speakers">by Ana Jimenez Santamaria, Floor Drees, Natali Vlatko & Mirko Boehm</div>
+                            <div class="session-track">Track: Keynote</div>
+                            <div class="session-track d-sm-none">Room: Melody</div>
+                            <div class="collapse card-abstract" id="abs-eu-policies-and-regulations-affecting-open-source-specialists-working-in-ospos">
+                                <div class="my-2 session-abstract">The panel will discuss how EU legislation affects the daily work of open source operations (upstream contribution to open source projects, open source compliance, etc) focusing on how these laws impact open source professionals working in OSPOs or similar entities. Panelists will cover some of the recent policy updates, the challenges of staying compliant when managing open source contribution and usage within organizations, and their personal experiences in adapting to the changing European regulatory environment.</div>                                
+                              </div>
+                            <div class="pb-3"><a href="https://eu.communityovercode.org/sessions/2024/eu-policies-and-regulations-affecting-open-source-specialists-working-in-ospos/" class="read-more">Full details</a></div>  
+                            <div id="live-" class="live-button text-center d-none"><a class="btn btn-danger btn-sm" href="" target="_blank">Watch</a></div>
+                        </div>
                         
                     </div>
                 
-                    <div class="time-room room-ballroom-c-d">
+                    <div class="time-room room-symphony">
                         
                     </div>
                 
-                    <div class="time-room room-ballroom-crush">
+                    <div class="time-room room-rhapsody">
                         
                     </div>
                 
-                    <div class="time-room room-york">
+                    <div class="time-room room-mirror-lounge">
                         
                     </div>
                 
@@ -249,12 +249,12 @@
             
             
             <div class="time-row break">
-                <div class="time-label d-sm-none">11:00</div>
+                <div class="time-label d-sm-none">10:25</div>
                 
                     <div class="time-room">
                         <div class="session-item track-break">
-                            <div class="session-time text-center d-none d-sm-block">11:00 - 11:30</div>
-                            <div class="session-title text-center font-weight-normal">Morning break</div>
+                            <div class="session-time text-center d-none d-sm-block">10:25 - 11:10</div>
+                            <div class="session-title text-center font-weight-normal">Morning break &amp; Poster sessions</div>
                         </div>
                     </div>
                 
@@ -268,13 +268,13 @@
                 <div class="time-label d-sm-none">11:00</div>
                                 
                   
-                    <div class="mt-1 mb-2 text-center"><h4>Ballroom A-B</h4></div>
+                    <div class="mt-1 mb-2 text-center"><h4>Melody</h4></div>
                   
-                    <div class="mt-1 mb-2 text-center"><h4>Ballroom C-D</h4></div>
+                    <div class="mt-1 mb-2 text-center"><h4>Symphony</h4></div>
                   
-                    <div class="mt-1 mb-2 text-center"><h4>Ballroom crush</h4></div>
+                    <div class="mt-1 mb-2 text-center"><h4>Rhapsody</h4></div>
                   
-                    <div class="mt-1 mb-2 text-center"><h4>York</h4></div>
+                    <div class="mt-1 mb-2 text-center"><h4>Mirror Lounge</h4></div>
                   
                 
 
@@ -284,22 +284,78 @@
             
             
             <div class="time-row concurrent">
-                <div class="time-label d-sm-none">11:30</div>
+                <div class="time-label d-sm-none">11:10</div>
                     
                 
-                    <div class="time-room room-ballroom-a-b">
+                    <div class="time-room room-melody">
+                        
+                        <div class="session-item order- track-community" data-slot='' data-timestart='03 Jun 2024 11:10:00 UTC' data-timeend='03 Jun 2024 11:40:00 UTC' data-track="community">
+                            <div class="session-time">11:10 - 11:40.</div>
+                            <div class="session-title"><a href="#abs-decoding-community-over-code" data-bs-toggle="collapse">Decoding &#39;Community Over Code&#39;</a></div>
+                            <div class="session-speakers">by Kanchana Welagedara</div>
+                            <div class="session-track">Track: Community</div>
+                            <div class="session-track d-sm-none">Room: Melody</div>
+                            <div class="collapse card-abstract" id="abs-decoding-community-over-code">
+                                <div class="my-2 session-abstract">At the Community Over Code Europe 2024, the annual conference of the Apache Software Foundation, join us for an insightful session on understanding the core principle of &lsquo;Community Over Code&rsquo;. This talk will delve into how this philosophy shapes the foundation&rsquo;s approach to software development. We&rsquo;ll explore the significance of prioritizing a collaborative, inclusive community and how this fosters innovation and sustainability in open source projects. Attendees will learn about the practical implications of this ethos in Apache&rsquo;s day-to-day operations and its impact on the broader open-source ecosystem.</div>                                
+                              </div>
+                            <div class="pb-3"><a href="https://eu.communityovercode.org/sessions/2024/decoding-community-over-code/" class="read-more">Full details</a></div>  
+                            <div id="live-" class="live-button text-center d-none"><a class="btn btn-danger btn-sm" href="" target="_blank">Watch</a></div>
+                        </div>
                         
                     </div>
                 
-                    <div class="time-room room-ballroom-c-d">
+                    <div class="time-room room-symphony">
+                        
+                        <div class="session-item order- track-cassandra" data-slot='' data-timestart='03 Jun 2024 11:10:00 UTC' data-timeend='03 Jun 2024 11:40:00 UTC' data-track="cassandra">
+                            <div class="session-time">11:10 - 11:40.</div>
+                            <div class="session-title"><a href="#abs-moving-apache-cassandra-command-execution-and-monitoring-from-jmx-to-cql-a-developer-s-overview" data-bs-toggle="collapse">Moving Apache Cassandra command execution and monitoring from JMX to CQL: A Developer&#39;s Overview</a></div>
+                            <div class="session-speakers">by Maxim Muzafarov</div>
+                            <div class="session-track">Track: Cassandra</div>
+                            <div class="session-track d-sm-none">Room: Symphony</div>
+                            <div class="collapse card-abstract" id="abs-moving-apache-cassandra-command-execution-and-monitoring-from-jmx-to-cql-a-developer-s-overview">
+                                <div class="my-2 session-abstract">Monitoring and management go hand in hand in distributed storage systems, and this is true for Apache Cassandra as well. Apache Cassandra has a wide range of monitoring and management API extensions that provide insight into its internal processes and make management operations accessible.
+This talk will provide an overview of several new initiatives that are closely related from a software developer&rsquo;s perspective. These initiatives follow the same design principles and their overall direction can be characterized as a strategic shift in both management and monitoring from JMX to CQL.</div>                                
+                              </div>
+                            <div class="pb-3"><a href="https://eu.communityovercode.org/sessions/2024/moving-apache-cassandra-command-execution-and-monitoring-from-jmx-to-cql-a-developer-s-overview/" class="read-more">Full details</a></div>  
+                            <div id="live-" class="live-button text-center d-none"><a class="btn btn-danger btn-sm" href="" target="_blank">Watch</a></div>
+                        </div>
                         
                     </div>
                 
-                    <div class="time-room room-ballroom-crush">
+                    <div class="time-room room-rhapsody">
+                        
+                        <div class="session-item order- track-search" data-slot='' data-timestart='03 Jun 2024 11:10:00 UTC' data-timeend='03 Jun 2024 11:40:00 UTC' data-track="search">
+                            <div class="session-time">11:10 - 11:40.</div>
+                            <div class="session-title"><a href="#abs-navigating-challenges-and-enhancing-performance-of-llm-based-applications" data-bs-toggle="collapse">Navigating Challenges and Enhancing Performance of LLM based Applications</a></div>
+                            <div class="session-speakers">by Atita Arora</div>
+                            <div class="session-track">Track: Search</div>
+                            <div class="session-track d-sm-none">Room: Rhapsody</div>
+                            <div class="collapse card-abstract" id="abs-navigating-challenges-and-enhancing-performance-of-llm-based-applications">
+                                <div class="my-2 session-abstract">Retrieval-Augmented Generation (RAG) is probably one of the most popular implementations of LLMs that integrates retrieval and generation models, augmenting AI&rsquo;s understanding of text and improving response accuracy through an information database.
+This approach tackles the limitations of traditional generation models by fusing retrieval mechanisms, and enriching outputs with contextual depth and external knowledge.
+Evaluating applications using LLMs, such as RAG, is pivotal for confidence and improvement, yet faces challenges like subjectiveness with respect to domain-specific suitability.</div>                                
+                              </div>
+                            <div class="pb-3"><a href="https://eu.communityovercode.org/sessions/2024/navigating-challenges-and-enhancing-performance-of-llm-based-applications/" class="read-more">Full details</a></div>  
+                            <div id="live-" class="live-button text-center d-none"><a class="btn btn-danger btn-sm" href="" target="_blank">Watch</a></div>
+                        </div>
                         
                     </div>
                 
-                    <div class="time-room room-york">
+                    <div class="time-room room-mirror-lounge">
+                        
+                        <div class="session-item order- track-iot" data-slot='' data-timestart='03 Jun 2024 11:10:00 UTC' data-timeend='03 Jun 2024 11:40:00 UTC' data-track="iot">
+                            <div class="session-time">11:10 - 11:40.</div>
+                            <div class="session-title"><a href="#abs-state-of-apache-iotdb" data-bs-toggle="collapse">State of Apache IoTDB</a></div>
+                            <div class="session-speakers">by Julian Feinauer</div>
+                            <div class="session-track">Track: IoT</div>
+                            <div class="session-track d-sm-none">Room: Mirror Lounge</div>
+                            <div class="collapse card-abstract" id="abs-state-of-apache-iotdb">
+                                <div class="my-2 session-abstract">Apache IoTDB, a time series database focused on IoT workloads. At the end of 2022 the major version 1.0 was released which containted many major changes, e.g. a completely new cluster module, new export and import options and new APIS to integrate with Apache IoTDB.
+In 2023 three minor releases, namely 1.1, 1.2 and 1.3 have been released but although they are considered minor releases they contain many new features.</div>                                
+                              </div>
+                            <div class="pb-3"><a href="https://eu.communityovercode.org/sessions/2024/state-of-apache-iotdb/" class="read-more">Full details</a></div>  
+                            <div id="live-" class="live-button text-center d-none"><a class="btn btn-danger btn-sm" href="" target="_blank">Watch</a></div>
+                        </div>
                         
                     </div>
                 
@@ -311,22 +367,82 @@
             
             
             <div class="time-row concurrent">
-                <div class="time-label d-sm-none">12:00</div>
+                <div class="time-label d-sm-none">11:50</div>
                     
                 
-                    <div class="time-room room-ballroom-a-b">
+                    <div class="time-room room-melody">
+                        
+                        <div class="session-item order- track-community" data-slot='' data-timestart='05 Jun 2024 11:50:00 UTC' data-timeend='05 Jun 2024 12:20:00 UTC' data-track="community">
+                            <div class="session-time">11:50 - 12:20.</div>
+                            <div class="session-title"><a href="#abs-ethical-algorithms" data-bs-toggle="collapse">Ethical Algorithms, Licensing Impasses: The Intersection of Free Software and AI openness</a></div>
+                            <div class="session-speakers">by Niharika Singhal</div>
+                            <div class="session-track">Track: Community</div>
+                            <div class="session-track d-sm-none">Room: Melody</div>
+                            <div class="collapse card-abstract" id="abs-ethical-algorithms">
+                                <div class="my-2 session-abstract">The significance of responsible and ethical AI systems has gained immense prominence on the global stage, underscoring the escalating recognition of its far-reaching impact on societies worldwide. Lately, diverse groups and individuals have transitioned from relying solely on Free Software licenses for their projects to pioneering new forms of licensing solutions which impose restrictions related to fields of endeavour, behaviour, community management and commercial practices. This practice has now spilled over to creation of suo moto ethics codes for AI, leading to creation of licenses with restrictive characteristics.</div>                                
+                              </div>
+                            <div class="pb-3"><a href="https://eu.communityovercode.org/sessions/2024/ethical-algorithms/" class="read-more">Full details</a></div>  
+                            <div id="live-" class="live-button text-center d-none"><a class="btn btn-danger btn-sm" href="" target="_blank">Watch</a></div>
+                        </div>
                         
                     </div>
                 
-                    <div class="time-room room-ballroom-c-d">
+                    <div class="time-room room-symphony">
+                        
+                        <div class="session-item order- track-cassandra" data-slot='' data-timestart='03 Jun 2024 11:50:00 UTC' data-timeend='03 Jun 2024 12:20:00 UTC' data-track="cassandra">
+                            <div class="session-time">11:50 - 12:20.</div>
+                            <div class="session-title"><a href="#abs-the-accord-consensus-protocol-acid-transactions-globally-at-any-scale" data-bs-toggle="collapse">The Accord Consensus Protocol: ACID transactions globally at any scale</a></div>
+                            <div class="session-speakers">by Mick Semb Wever</div>
+                            <div class="session-track">Track: Cassandra</div>
+                            <div class="session-track d-sm-none">Room: Symphony</div>
+                            <div class="collapse card-abstract" id="abs-the-accord-consensus-protocol-acid-transactions-globally-at-any-scale">
+                                <div class="my-2 session-abstract">The Accord Consensus Protocol, providing global leaderless single-network-round-trip consensus using commodity clocks.
+Research from University of Michigan &amp; Apple Inc. introduces ACID-compliant, strict serialisable transactions that can run globally at scale, at high throughput, with low latency.
+This will be a run-through of
+the importance of ACID transactions in Apache Cassandra,
+how previous consensus protocols work,
+how Accord improves on these to provide its industry leading characteristics.</div>                                
+                              </div>
+                            <div class="pb-3"><a href="https://eu.communityovercode.org/sessions/2024/the-accord-consensus-protocol-acid-transactions-globally-at-any-scale/" class="read-more">Full details</a></div>  
+                            <div id="live-" class="live-button text-center d-none"><a class="btn btn-danger btn-sm" href="" target="_blank">Watch</a></div>
+                        </div>
                         
                     </div>
                 
-                    <div class="time-room room-ballroom-crush">
+                    <div class="time-room room-rhapsody">
+                        
+                        <div class="session-item order- track-search" data-slot='' data-timestart='03 Jun 2024 11:50:00 UTC' data-timeend='03 Jun 2024 12:20:00 UTC' data-track="search">
+                            <div class="session-time">11:50 - 12:20.</div>
+                            <div class="session-title"><a href="#abs-hybrid-search-with-apache-solr" data-bs-toggle="collapse">Hybrid Search with Apache Solr</a></div>
+                            <div class="session-speakers">by Alessandro Benedetti</div>
+                            <div class="session-track">Track: Search</div>
+                            <div class="session-track d-sm-none">Room: Rhapsody</div>
+                            <div class="collapse card-abstract" id="abs-hybrid-search-with-apache-solr">
+                                <div class="my-2 session-abstract">Vector-based search gained incredible popularity in the last few years: Large Language Models fine-tuned for sentence similarity proved to be quite effective in encoding text to vectors and representing some of the semantics of sentences in a numerical form.
+These vectors can be used to run a K-nearest neighbour search and look for documents/paragraphs close to the query in a n-dimensional vector space, effectively mimicking a similarity search in the semantic space (Apache Solr KNN Query Parser).</div>                                
+                              </div>
+                            <div class="pb-3"><a href="https://eu.communityovercode.org/sessions/2024/hybrid-search-with-apache-solr/" class="read-more">Full details</a></div>  
+                            <div id="live-" class="live-button text-center d-none"><a class="btn btn-danger btn-sm" href="" target="_blank">Watch</a></div>
+                        </div>
                         
                     </div>
                 
-                    <div class="time-room room-york">
+                    <div class="time-room room-mirror-lounge">
+                        
+                        <div class="session-item order- track-iot" data-slot='' data-timestart='03 Jun 2024 11:50:00 UTC' data-timeend='03 Jun 2024 12:20:00 UTC' data-track="iot">
+                            <div class="session-time">11:50 - 12:20.</div>
+                            <div class="session-title"><a href="#abs-apache-mynewt-connected-rtos-project-overview" data-bs-toggle="collapse">Apache Mynewt - connected RTOS - project overview</a></div>
+                            <div class="session-speakers">by Szymon Janc</div>
+                            <div class="session-track">Track: IoT</div>
+                            <div class="session-track d-sm-none">Room: Mirror Lounge</div>
+                            <div class="collapse card-abstract" id="abs-apache-mynewt-connected-rtos-project-overview">
+                                <div class="my-2 session-abstract">Apache Mynewt is a community-driven, permissively licensed Open Source initiative for constrained, embedded devices and applications. It provides foundational RTOS, middleware (secure bootloader, filesystem, networking stack, device management) and tooling.
+This presentation will cover history and overall state of the project, its architecture and selected components (eg Bluetooth stack). Will discuss already available features as well additions planned in near future.
+Last but not least, state of community will be presented.</div>                                
+                              </div>
+                            <div class="pb-3"><a href="https://eu.communityovercode.org/sessions/2024/apache-mynewt-connected-rtos-project-overview/" class="read-more">Full details</a></div>  
+                            <div id="live-" class="live-button text-center d-none"><a class="btn btn-danger btn-sm" href="" target="_blank">Watch</a></div>
+                        </div>
                         
                     </div>
                 
@@ -341,19 +457,76 @@
                 <div class="time-label d-sm-none">12:30</div>
                     
                 
-                    <div class="time-room room-ballroom-a-b">
+                    <div class="time-room room-melody">
+                        
+                        <div class="session-item order- track-community" data-slot='' data-timestart='03 Jun 2024 12:30:00 UTC' data-timeend='03 Jun 2024 13:00:00 UTC' data-track="community">
+                            <div class="session-time">12:30 - 13:00.</div>
+                            <div class="session-title"><a href="#abs-mentorship-programs-growing-new-team-and-community-leaders" data-bs-toggle="collapse">Mentorship programs. Growing new team and community leaders</a></div>
+                            <div class="session-speakers">by Oleg Nenashev</div>
+                            <div class="session-track">Track: Community</div>
+                            <div class="session-track d-sm-none">Room: Melody</div>
+                            <div class="collapse card-abstract" id="abs-mentorship-programs-growing-new-team-and-community-leaders">
+                                <div class="my-2 session-abstract">Mentorship and outreach programs are often considered as side projects. Although they are a nice way to spend time and have some fun, one may say they rarely add new long-term contributors to your company project or a community. Is it true? Is it even the main goal? Or is it about team bonding and growing new maintainers and community leaders?
+Let’s talk about organizing mentorship programs so that they help to grow your current community and contributors.</div>                                
+                              </div>
+                            <div class="pb-3"><a href="https://eu.communityovercode.org/sessions/2024/mentorship-programs-growing-new-team-and-community-leaders/" class="read-more">Full details</a></div>  
+                            <div id="live-" class="live-button text-center d-none"><a class="btn btn-danger btn-sm" href="" target="_blank">Watch</a></div>
+                        </div>
                         
                     </div>
                 
-                    <div class="time-room room-ballroom-c-d">
+                    <div class="time-room room-symphony">
+                        
+                        <div class="session-item order- track-cassandra" data-slot='' data-timestart='03 Jun 2024 12:30:00 UTC' data-timeend='03 Jun 2024 13:00:00 UTC' data-track="cassandra">
+                            <div class="session-time">12:30 - 13:00.</div>
+                            <div class="session-title"><a href="#abs-deciphering-cassandras-prophecy-preventing-the-fall-of-your-application" data-bs-toggle="collapse">Deciphering Cassandra’s Prophecy: Preventing the Fall of Your Application</a></div>
+                            <div class="session-speakers">by Lindsey Zurovchak</div>
+                            <div class="session-track">Track: Cassandra</div>
+                            <div class="session-track d-sm-none">Room: Symphony</div>
+                            <div class="collapse card-abstract" id="abs-deciphering-cassandras-prophecy-preventing-the-fall-of-your-application">
+                                <div class="my-2 session-abstract">Cassandra predicted the fall of Troy and no one heeded her warning. Over the years, we’ve learned a lot at Bloomberg about running Apache Cassandra at scale. In this talk, we’ll discuss some of the mistakes we’ve made using Cassandra, how we found and remedied them, and what you can do to avoid them in the future.</div>                                
+                              </div>
+                            <div class="pb-3"><a href="https://eu.communityovercode.org/sessions/2024/deciphering-cassandras-prophecy-preventing-the-fall-of-your-application/" class="read-more">Full details</a></div>  
+                            <div id="live-" class="live-button text-center d-none"><a class="btn btn-danger btn-sm" href="" target="_blank">Watch</a></div>
+                        </div>
                         
                     </div>
                 
-                    <div class="time-room room-ballroom-crush">
+                    <div class="time-room room-rhapsody">
+                        
+                        <div class="session-item order- track-search" data-slot='' data-timestart='03 Jun 2024 12:30:00 UTC' data-timeend='03 Jun 2024 13:00:00 UTC' data-track="search">
+                            <div class="session-time">12:30 - 13:00.</div>
+                            <div class="session-title"><a href="#abs-solr-eclipse-zomato-s-journey-to-64-million-search-queries-a-day" data-bs-toggle="collapse">Solr Eclipse - Zomato&#39;s Journey to 64 Million Search Queries a Day</a></div>
+                            <div class="session-speakers">by Angad Sharma</div>
+                            <div class="session-track">Track: Search</div>
+                            <div class="session-track d-sm-none">Room: Rhapsody</div>
+                            <div class="collapse card-abstract" id="abs-solr-eclipse-zomato-s-journey-to-64-million-search-queries-a-day">
+                                <div class="my-2 session-abstract">Zomato is the Indian market leader for restaurant aggregation and food delivery.
+This is a story of how Zomato leverages the power of Apache Solr at scale, some of the problems we faced and how we tackled them to reach where we are now.
+Starting with just one Solr instance serving 1000 queries a day with 10K restaurants, to building and shipping a massive, first in class, search server with the capability of seamlessly searching 100 Million restaurant catalogues (SKUs), 800K+ restaurants and 50K+ unique dishes in 13 different languages at 64 Million search queries a day.</div>                                
+                              </div>
+                            <div class="pb-3"><a href="https://eu.communityovercode.org/sessions/2024/solr-eclipse-zomato-s-journey-to-64-million-search-queries-a-day/" class="read-more">Full details</a></div>  
+                            <div id="live-" class="live-button text-center d-none"><a class="btn btn-danger btn-sm" href="" target="_blank">Watch</a></div>
+                        </div>
                         
                     </div>
                 
-                    <div class="time-room room-york">
+                    <div class="time-room room-mirror-lounge">
+                        
+                        <div class="session-item order- track-iot" data-slot='' data-timestart='03 Jun 2024 12:30:00 UTC' data-timeend='03 Jun 2024 13:00:00 UTC' data-track="iot">
+                            <div class="session-time">12:30 - 13:00.</div>
+                            <div class="session-title"><a href="#abs-magic-industrial-data-acquisition-with-apache-plc4x-tsfile-and-iotdb" data-bs-toggle="collapse">Magic industrial data acquisition with Apache PLC4X, TsFile and IoTDB</a></div>
+                            <div class="session-speakers">by Christofer Dutz</div>
+                            <div class="session-track">Track: IoT</div>
+                            <div class="session-track d-sm-none">Room: Mirror Lounge</div>
+                            <div class="collapse card-abstract" id="abs-magic-industrial-data-acquisition-with-apache-plc4x-tsfile-and-iotdb">
+                                <div class="my-2 session-abstract">In industrial automation, the established way of collecting data from industrial equipment has many issues. Issues for which Apache provides a number of great ways to avoid them.
+In this talk, I want to demonstrate some of the issues I have seen and how we can resolve all of them with combinations of some of the amazing projects we have at Apache:
+How we can use Apache TsFile to directly collect data on the hardware</div>                                
+                              </div>
+                            <div class="pb-3"><a href="https://eu.communityovercode.org/sessions/2024/magic-industrial-data-acquisition-with-apache-plc4x-tsfile-and-iotdb/" class="read-more">Full details</a></div>  
+                            <div id="live-" class="live-button text-center d-none"><a class="btn btn-danger btn-sm" href="" target="_blank">Watch</a></div>
+                        </div>
                         
                     </div>
                 
@@ -384,13 +557,13 @@
                 <div class="time-label d-sm-none">11:00</div>
                                 
                   
-                    <div class="mt-1 mb-2 text-center"><h4>Ballroom A-B</h4></div>
+                    <div class="mt-1 mb-2 text-center"><h4>Melody</h4></div>
                   
-                    <div class="mt-1 mb-2 text-center"><h4>Ballroom C-D</h4></div>
+                    <div class="mt-1 mb-2 text-center"><h4>Symphony</h4></div>
                   
-                    <div class="mt-1 mb-2 text-center"><h4>Ballroom crush</h4></div>
+                    <div class="mt-1 mb-2 text-center"><h4>Rhapsody</h4></div>
                   
-                    <div class="mt-1 mb-2 text-center"><h4>York</h4></div>
+                    <div class="mt-1 mb-2 text-center"><h4>Mirror Lounge</h4></div>
                   
                 
 
@@ -403,19 +576,74 @@
                 <div class="time-label d-sm-none">14:00</div>
                     
                 
-                    <div class="time-room room-ballroom-a-b">
+                    <div class="time-room room-melody">
+                        
+                        <div class="session-item order- track-community" data-slot='' data-timestart='03 Jun 2024 14:00:00 UTC' data-timeend='03 Jun 2024 14:30:00 UTC' data-track="community">
+                            <div class="session-time">14:00 - 14:30.</div>
+                            <div class="session-title"><a href="#abs-managing-in-the-open-managing-contributions-the-challenges-of-ospo-developers-management" data-bs-toggle="collapse">Managing In The Open, Managing Contributions: The challenges of OSPO developers management</a></div>
+                            <div class="session-speakers">by Ahmed Sobeh</div>
+                            <div class="session-track">Track: Community</div>
+                            <div class="session-track d-sm-none">Room: Melody</div>
+                            <div class="collapse card-abstract" id="abs-managing-in-the-open-managing-contributions-the-challenges-of-ospo-developers-management">
+                                <div class="my-2 session-abstract">Managing an Open Source Program Office (OSPO) team is undoubtedly a unique experience. In this talk I will discuss the unique challenges and best practices for managing software developers in an OSPO environment. I will cover topics such as managing remote teams, maintaining the career progression of OSPO developers, fostering a culture of collaboration and collaborating with the open source community. I will also explore the role of performance metrics in managing software developers in an OSPO, how to align those metrics withe the goals of the organisation and how to help developers balance the needs of the organisation with the needs of the open source community.</div>                                
+                              </div>
+                            <div class="pb-3"><a href="https://eu.communityovercode.org/sessions/2024/managing-in-the-open-managing-contributions-the-challenges-of-ospo-developers-management/" class="read-more">Full details</a></div>  
+                            <div id="live-" class="live-button text-center d-none"><a class="btn btn-danger btn-sm" href="" target="_blank">Watch</a></div>
+                        </div>
                         
                     </div>
                 
-                    <div class="time-room room-ballroom-c-d">
+                    <div class="time-room room-symphony">
+                        
+                        <div class="session-item order- track-cassandra" data-slot='' data-timestart='03 Jun 2024 14:00:00 UTC' data-timeend='03 Jun 2024 14:30:00 UTC' data-track="cassandra">
+                            <div class="session-time">14:00 - 14:30.</div>
+                            <div class="session-title"><a href="#abs-cassandra-cidr-filtering-authorizer-cep-33" data-bs-toggle="collapse">Cassandra CIDR filtering authorizer (CEP-33)</a></div>
+                            <div class="session-speakers">by Shailaja Koppu</div>
+                            <div class="session-track">Track: Cassandra</div>
+                            <div class="session-track d-sm-none">Room: Symphony</div>
+                            <div class="collapse card-abstract" id="abs-cassandra-cidr-filtering-authorizer-cep-33">
+                                <div class="my-2 session-abstract">As Cassandra clusters and users onboarding to multi cloud platforms, users may access Cassandra clusters from on-premise and from various cloud platforms. Admins may need to restrict certain users/teams to access from certain IP ranges, aka, CIDR groups. Also, may need to restrict superusers credentials usage from third party clouds.
+CIDR filtering authorizer provides capability for admins to configure allow or disallow users access from different CIDR groups, which can help in preventing misuse of copied or hacked credentials.</div>                                
+                              </div>
+                            <div class="pb-3"><a href="https://eu.communityovercode.org/sessions/2024/cassandra-cidr-filtering-authorizer-cep-33/" class="read-more">Full details</a></div>  
+                            <div id="live-" class="live-button text-center d-none"><a class="btn btn-danger btn-sm" href="" target="_blank">Watch</a></div>
+                        </div>
                         
                     </div>
                 
-                    <div class="time-room room-ballroom-crush">
+                    <div class="time-room room-rhapsody">
+                        
+                        <div class="session-item order- track-search" data-slot='' data-timestart='03 Jun 2024 14:00:00 UTC' data-timeend='03 Jun 2024 14:30:00 UTC' data-track="search">
+                            <div class="session-time">14:00 - 14:30.</div>
+                            <div class="session-title"><a href="#abs-vector-search-at-uber" data-bs-toggle="collapse">Vector Search at Uber</a></div>
+                            <div class="session-speakers">by Yupeng Fu</div>
+                            <div class="session-track">Track: Search</div>
+                            <div class="session-track d-sm-none">Room: Rhapsody</div>
+                            <div class="collapse card-abstract" id="abs-vector-search-at-uber">
+                                <div class="my-2 session-abstract">Vector Search has been regarded as a revolution for Search and Information Retrieval since the breakthrough with BERT and GPT in 2018. There has been an ever growing interest from both academia and industry in using machine learning models and vector search to leverage all sorts of content beyond the lexical features, including images, events, contextual semantics and so on.
+At Uber, we added the Vector Search support by leveraging Apache Lucene to our Search platform, and empower multiple business-critical use cases, such as Semantic Search and Gen AI support.</div>                                
+                              </div>
+                            <div class="pb-3"><a href="https://eu.communityovercode.org/sessions/2024/vector-search-at-uber/" class="read-more">Full details</a></div>  
+                            <div id="live-" class="live-button text-center d-none"><a class="btn btn-danger btn-sm" href="" target="_blank">Watch</a></div>
+                        </div>
                         
                     </div>
                 
-                    <div class="time-room room-york">
+                    <div class="time-room room-mirror-lounge">
+                        
+                        <div class="session-item order- track-iot" data-slot='' data-timestart='03 Jun 2024 14:00:00 UTC' data-timeend='03 Jun 2024 14:30:00 UTC' data-track="iot">
+                            <div class="session-time">14:00 - 14:30.</div>
+                            <div class="session-title"><a href="#abs-unleashing-high-concurrency-real-time-iot-queries-with-apache-druid" data-bs-toggle="collapse">Unleashing High Concurrency Real-Time IoT Queries with Apache Druid</a></div>
+                            <div class="session-speakers">by Kyle Hoondert</div>
+                            <div class="session-track">Track: IoT</div>
+                            <div class="session-track d-sm-none">Room: Mirror Lounge</div>
+                            <div class="collapse card-abstract" id="abs-unleashing-high-concurrency-real-time-iot-queries-with-apache-druid">
+                                <div class="my-2 session-abstract">Apache Druid is a real-time analytics database built for speed and scale, capable of executing complex queries against billions of rows and getting sub-second answers. Druid thrives on highly concurrent workloads, making it ideal for applications like website clickstream analysis, network performance monitoring, or handling vast IoT metrics. By using pre-aggregated data, lightning-fast columnar storage, and parallel processing we can gain insights in real-time.
+In this talk, we will share techniques for improving query concurrency and achieving sub-second responses.</div>                                
+                              </div>
+                            <div class="pb-3"><a href="https://eu.communityovercode.org/sessions/2024/unleashing-high-concurrency-real-time-iot-queries-with-apache-druid/" class="read-more">Full details</a></div>  
+                            <div id="live-" class="live-button text-center d-none"><a class="btn btn-danger btn-sm" href="" target="_blank">Watch</a></div>
+                        </div>
                         
                     </div>
                 
@@ -427,22 +655,76 @@
             
             
             <div class="time-row concurrent">
-                <div class="time-label d-sm-none">14:30</div>
+                <div class="time-label d-sm-none">14:40</div>
                     
                 
-                    <div class="time-room room-ballroom-a-b">
+                    <div class="time-room room-melody">
+                        
+                        <div class="session-item order- track-community" data-slot='' data-timestart='03 Jun 2024 14:40:00 UTC' data-timeend='03 Jun 2024 15:10:00 UTC' data-track="community">
+                            <div class="session-time">14:40 - 15:10.</div>
+                            <div class="session-title"><a href="#abs-building-healthy-developer-communities-a-versatile-framework-for-success" data-bs-toggle="collapse">Building Healthy Developer Communities: A Versatile Framework for Success</a></div>
+                            <div class="session-speakers">by Juan Pablo Flores</div>
+                            <div class="session-track">Track: Community</div>
+                            <div class="session-track d-sm-none">Room: Melody</div>
+                            <div class="collapse card-abstract" id="abs-building-healthy-developer-communities-a-versatile-framework-for-success">
+                                <div class="my-2 session-abstract">As developer communities grow both in size and number, it can be easy to lose sight of the importance of community health in the development process. Most tech communities guide their community efforts and future work based on NPS scores and feedback forms. Though well intended, these methods do not provide a full view of the current status of their community members or guarantee they are moving towards a direction that benefits their members or fulfills their needs.</div>                                
+                              </div>
+                            <div class="pb-3"><a href="https://eu.communityovercode.org/sessions/2024/building-healthy-developer-communities-a-versatile-framework-for-success/" class="read-more">Full details</a></div>  
+                            <div id="live-" class="live-button text-center d-none"><a class="btn btn-danger btn-sm" href="" target="_blank">Watch</a></div>
+                        </div>
                         
                     </div>
                 
-                    <div class="time-room room-ballroom-c-d">
+                    <div class="time-room room-symphony">
+                        
+                        <div class="session-item order- track-cassandra" data-slot='' data-timestart='03 Jun 2024 14:40:00 UTC' data-timeend='03 Jun 2024 15:10:00 UTC' data-track="cassandra">
+                            <div class="session-time">14:40 - 15:10.</div>
+                            <div class="session-title"><a href="#abs-the-unified-compaction-strategy-in-cassandra-5" data-bs-toggle="collapse">The Unified Compaction Strategy in Cassandra 5</a></div>
+                            <div class="session-speakers">by Branimir Lambov</div>
+                            <div class="session-track">Track: Cassandra</div>
+                            <div class="session-track d-sm-none">Room: Symphony</div>
+                            <div class="collapse card-abstract" id="abs-the-unified-compaction-strategy-in-cassandra-5">
+                                <div class="my-2 session-abstract">Choosing a compaction strategy for a Cassandra database has historically been a very difficult problem, where making the wrong choice can have lasting effects on performance while making a change later is a time-consuming and costly process.
+The Unified Compaction Strategy, introduced with Cassandra 5, is designed to provide a solution to this problem by effectively handling a diverse range of use cases, including those best suited for leveled, tiered, and time-windowed compaction.</div>                                
+                              </div>
+                            <div class="pb-3"><a href="https://eu.communityovercode.org/sessions/2024/the-unified-compaction-strategy-in-cassandra-5/" class="read-more">Full details</a></div>  
+                            <div id="live-" class="live-button text-center d-none"><a class="btn btn-danger btn-sm" href="" target="_blank">Watch</a></div>
+                        </div>
                         
                     </div>
                 
-                    <div class="time-room room-ballroom-crush">
+                    <div class="time-room room-rhapsody">
+                        
+                        <div class="session-item order- track-big-data-storage" data-slot='' data-timestart='03 Jun 2024 14:40:00 UTC' data-timeend='03 Jun 2024 15:10:00 UTC' data-track="big-data-storage">
+                            <div class="session-time">14:40 - 15:10.</div>
+                            <div class="session-title"><a href="#abs-apache-iceberg-planning-explained" data-bs-toggle="collapse">Apache Iceberg Planning Explained</a></div>
+                            <div class="session-speakers">by Anton Okolnychyi</div>
+                            <div class="session-track">Track: Big Data Storage</div>
+                            <div class="session-track d-sm-none">Room: Rhapsody</div>
+                            <div class="collapse card-abstract" id="abs-apache-iceberg-planning-explained">
+                                <div class="my-2 session-abstract">A critical aspect of any table format is the rapid identification of files relevant for a query irrespective of the underlying data volume. The focus of this presentation is on the job planning process in Apache Iceberg, highlighting its efficiency and ability to scale to tens of millions of files. This session will explain how the project leverages a hybrid strategy for planning jobs, seamlessly transitioning between local and distributed execution for optimal performance.</div>                                
+                              </div>
+                            <div class="pb-3"><a href="https://eu.communityovercode.org/sessions/2024/apache-iceberg-planning-explained/" class="read-more">Full details</a></div>  
+                            <div id="live-" class="live-button text-center d-none"><a class="btn btn-danger btn-sm" href="" target="_blank">Watch</a></div>
+                        </div>
                         
                     </div>
                 
-                    <div class="time-room room-york">
+                    <div class="time-room room-mirror-lounge">
+                        
+                        <div class="session-item order- track-iot" data-slot='' data-timestart='03 Jun 2024 14:40:00 UTC' data-timeend='03 Jun 2024 15:10:00 UTC' data-track="iot">
+                            <div class="session-time">14:40 - 15:10.</div>
+                            <div class="session-title"><a href="#abs-state-of-the-civet" data-bs-toggle="collapse">State of the Civet</a></div>
+                            <div class="session-speakers">by Lukas Ott</div>
+                            <div class="session-track">Track: IoT</div>
+                            <div class="session-track d-sm-none">Room: Mirror Lounge</div>
+                            <div class="collapse card-abstract" id="abs-state-of-the-civet">
+                                <div class="my-2 session-abstract">An update on what&rsquo;s happened inside the Apache PLC4X over the last year. What we have achieved and what we are planning on doing for the near and not-so-near future.
+From new protocols, updated APIs, new languages, GUI applications right up to even more supported languages and fully generated driver implementations.</div>                                
+                              </div>
+                            <div class="pb-3"><a href="https://eu.communityovercode.org/sessions/2024/state-of-the-civet/" class="read-more">Full details</a></div>  
+                            <div id="live-" class="live-button text-center d-none"><a class="btn btn-danger btn-sm" href="" target="_blank">Watch</a></div>
+                        </div>
                         
                     </div>
                 
@@ -454,49 +736,77 @@
             
             
             <div class="time-row concurrent">
-                <div class="time-label d-sm-none">15:00</div>
+                <div class="time-label d-sm-none">15:20</div>
                     
                 
-                    <div class="time-room room-ballroom-a-b">
+                    <div class="time-room room-melody">
+                        
+                        <div class="session-item order- track-community" data-slot='' data-timestart='03 Jun 2024 15:20:00 UTC' data-timeend='03 Jun 2024 15:50:00 UTC' data-track="community">
+                            <div class="session-time">15:20 - 15:50.</div>
+                            <div class="session-title"><a href="#abs-inside-the-apache-software-foundation-board" data-bs-toggle="collapse">Inside the Apache Software Foundation Board</a></div>
+                            <div class="session-speakers">by Justin Mclean & Christofer Dutz</div>
+                            <div class="session-track">Track: Community</div>
+                            <div class="session-track d-sm-none">Room: Melody</div>
+                            <div class="collapse card-abstract" id="abs-inside-the-apache-software-foundation-board">
+                                <div class="my-2 session-abstract">This talk delves into the inner workings of the Apache Software Foundation board, shedding light on its workings and the responsibilities of its board members. Attendees will gain a comprehensive understanding of the ASF board&rsquo;s governance structure, decision-making processes, and its crucial role in overseeing one of the world&rsquo;s largest groups of open-source communities. Drawing from real-life experiences, the speaker will share personal insights, challenges faced, and the rewarding aspects of contributing to ASF&rsquo;s mission.</div>                                
+                              </div>
+                            <div class="pb-3"><a href="https://eu.communityovercode.org/sessions/2024/inside-the-apache-software-foundation-board/" class="read-more">Full details</a></div>  
+                            <div id="live-" class="live-button text-center d-none"><a class="btn btn-danger btn-sm" href="" target="_blank">Watch</a></div>
+                        </div>
                         
                     </div>
                 
-                    <div class="time-room room-ballroom-c-d">
+                    <div class="time-room room-symphony">
+                        
+                        <div class="session-item order- track-cassandra" data-slot='' data-timestart='03 Jun 2024 15:20:00 UTC' data-timeend='03 Jun 2024 15:50:00 UTC' data-track="cassandra">
+                            <div class="session-time">15:20 - 15:50.</div>
+                            <div class="session-title"><a href="#abs-" data-bs-toggle="collapse">Cassandra Vector Search Performance Tuning</a></div>
+                            <div class="session-speakers">by Uri Smiley & Alexander Laye</div>
+                            <div class="session-track">Track: Cassandra</div>
+                            <div class="session-track d-sm-none">Room: Symphony</div>
+                            <div class="collapse card-abstract" id="abs-">
+                                <div class="my-2 session-abstract">Cassandra 5.0 now incorporates vector search capabilities powered by DiskANN, an advanced technology developed by Microsoft Research. In this session, we are will demonstrate the vector search performance of Cassandra 5.0, juxtaposed with other leading databases. Our benchmarking platform will be utilized to assess a variety of key metrics, including I/O performance as well as the precision and recall accuracy of the search results.
+Furthermore, the session will delve into optimization strategies for Cassandra.</div>                                
+                              </div>
+                            <div class="pb-3"><a href="https://eu.communityovercode.org/sessions/2024/cassandra-vector-search-performance/" class="read-more">Full details</a></div>  
+                            <div id="live-" class="live-button text-center d-none"><a class="btn btn-danger btn-sm" href="" target="_blank">Watch</a></div>
+                        </div>
                         
                     </div>
                 
-                    <div class="time-room room-ballroom-crush">
+                    <div class="time-room room-rhapsody">
+                        
+                        <div class="session-item order- track-big-data-storage" data-slot='' data-timestart='03 Jun 2024 15:20:00 UTC' data-timeend='03 Jun 2024 15:50:00 UTC' data-track="big-data-storage">
+                            <div class="session-time">15:20 - 15:50.</div>
+                            <div class="session-title"><a href="#abs-apache-ratis-a-high-performance-raft-library" data-bs-toggle="collapse">Apache Ratis - A High Performance Raft Library</a></div>
+                            <div class="session-speakers">by Tsz-Wo Nicholas Sze</div>
+                            <div class="session-track">Track: Big Data Storage</div>
+                            <div class="session-track d-sm-none">Room: Rhapsody</div>
+                            <div class="collapse card-abstract" id="abs-apache-ratis-a-high-performance-raft-library">
+                                <div class="my-2 session-abstract">Apache Ratis is an open source Java library for the Raft Consensus Protocol. Raft is being used successfully as an alternative to Paxos to implement a consistently replicated log. Raft is proven to be safe and is designed to be simpler to understand. Ratis is a high performance implementation of Raft. Apache Ozone, Apache IoTDB and Alluxio use Apache Ratis for providing high availability and replicating raw data.
+Ratis implements all the standard Raft features, including leader election, log replication, membership change and log compaction.</div>                                
+                              </div>
+                            <div class="pb-3"><a href="https://eu.communityovercode.org/sessions/2024/apache-ratis-a-high-performance-raft-library/" class="read-more">Full details</a></div>  
+                            <div id="live-" class="live-button text-center d-none"><a class="btn btn-danger btn-sm" href="" target="_blank">Watch</a></div>
+                        </div>
                         
                     </div>
                 
-                    <div class="time-room room-york">
+                    <div class="time-room room-mirror-lounge">
                         
-                    </div>
-                
-                
-
-            </div>
-            
-        
-            
-            
-            <div class="time-row concurrent">
-                <div class="time-label d-sm-none">15:30</div>
-                    
-                
-                    <div class="time-room room-ballroom-a-b">
-                        
-                    </div>
-                
-                    <div class="time-room room-ballroom-c-d">
-                        
-                    </div>
-                
-                    <div class="time-room room-ballroom-crush">
-                        
-                    </div>
-                
-                    <div class="time-room room-york">
+                        <div class="session-item order- track-api--microservices" data-slot='' data-timestart='03 Jun 2024 15:20:00 UTC' data-timeend='03 Jun 2024 15:50:00 UTC' data-track="api--microservices">
+                            <div class="session-time">15:20 - 15:50.</div>
+                            <div class="session-title"><a href="#abs-a-hands-on-introduction-to-the-kubernetes-gateway-api-with-apache-apisix" data-bs-toggle="collapse">A Hands-On Introduction to the Kubernetes Gateway API with Apache APISIX</a></div>
+                            <div class="session-speakers">by Navendu Pottekkat</div>
+                            <div class="session-track">Track: API &amp; Microservices</div>
+                            <div class="session-track d-sm-none">Room: Mirror Lounge</div>
+                            <div class="collapse card-abstract" id="abs-a-hands-on-introduction-to-the-kubernetes-gateway-api-with-apache-apisix">
+                                <div class="my-2 session-abstract">Why do you need another API to handle external traffic when you have the stable Kubernetes Ingress API and dozens of implementations? What problems of the Ingress API does the new Gateway API solve? Does this mean the end of the Ingress API?
+In this short talk, Navendu will answer these questions by exploring how Gateway APIs evolved and solved the shortcomings of the Ingress API with hands-on examples using Apache APISIX.</div>                                
+                              </div>
+                            <div class="pb-3"><a href="https://eu.communityovercode.org/sessions/2024/a-hands-on-introduction-to-the-kubernetes-gateway-api-with-apache-apisix/" class="read-more">Full details</a></div>  
+                            <div id="live-" class="live-button text-center d-none"><a class="btn btn-danger btn-sm" href="" target="_blank">Watch</a></div>
+                        </div>
                         
                     </div>
                 
@@ -508,11 +818,11 @@
             
             
             <div class="time-row break">
-                <div class="time-label d-sm-none">16:00</div>
+                <div class="time-label d-sm-none">15:50</div>
                 
                     <div class="time-room">
                         <div class="session-item track-break">
-                            <div class="session-time text-center d-none d-sm-block">16:00 - 16:15</div>
+                            <div class="session-time text-center d-none d-sm-block">15:50 - 16:10</div>
                             <div class="session-title text-center font-weight-normal">Afternoon break</div>
                         </div>
                     </div>
@@ -524,16 +834,16 @@
             
             
             <div class="time-row room-labels">
-                <div class="time-label d-sm-none">16:15</div>
+                <div class="time-label d-sm-none">16:10</div>
                                 
                   
-                    <div class="mt-1 mb-2 text-center"><h4>Ballroom A-B</h4></div>
+                    <div class="mt-1 mb-2 text-center"><h4>Melody</h4></div>
                   
-                    <div class="mt-1 mb-2 text-center"><h4>Ballroom C-D</h4></div>
+                    <div class="mt-1 mb-2 text-center"><h4>Symphony</h4></div>
                   
-                    <div class="mt-1 mb-2 text-center"><h4>Ballroom crush</h4></div>
+                    <div class="mt-1 mb-2 text-center"><h4>Rhapsody</h4></div>
                   
-                    <div class="mt-1 mb-2 text-center"><h4>York</h4></div>
+                    <div class="mt-1 mb-2 text-center"><h4>Mirror Lounge</h4></div>
                   
                 
 
@@ -543,22 +853,78 @@
             
             
             <div class="time-row concurrent">
-                <div class="time-label d-sm-none">16:15</div>
+                <div class="time-label d-sm-none">16:10</div>
                     
                 
-                    <div class="time-room room-ballroom-a-b">
+                    <div class="time-room room-melody">
+                        
+                        <div class="session-item order- track-community" data-slot='' data-timestart='03 Jun 2024 16:10:00 UTC' data-timeend='03 Jun 2024 16:40:00 UTC' data-track="community">
+                            <div class="session-time">16:10 - 16:40.</div>
+                            <div class="session-title"><a href="#abs-building-a-diverse-global-community-taking-your-local-community-to-the-global-stage" data-bs-toggle="collapse">Building a Diverse Global Community: Taking Your Local Community to the Global Stage</a></div>
+                            <div class="session-speakers">by Trista Pan</div>
+                            <div class="session-track">Track: Community</div>
+                            <div class="session-track d-sm-none">Room: Melody</div>
+                            <div class="collapse card-abstract" id="abs-building-a-diverse-global-community-taking-your-local-community-to-the-global-stage">
+                                <div class="my-2 session-abstract">In an increasingly interconnected world, the importance of building diverse and inclusive global communities cannot be overstated. This topic explores the journey of taking a local community and expanding its reach to become a vibrant and diverse global community. By examining strategies, best practices, examples of some successful Chinese opensource communities, this session will provide valuable insights into fostering inclusivity, cultural exchange, and collaboration on a global scale.
+Participants will gain a deeper understanding of the challenges and opportunities involved in transitioning a local community to the global stage.</div>                                
+                              </div>
+                            <div class="pb-3"><a href="https://eu.communityovercode.org/sessions/2024/building-a-diverse-global-community-taking-your-local-community-to-the-global-stage/" class="read-more">Full details</a></div>  
+                            <div id="live-" class="live-button text-center d-none"><a class="btn btn-danger btn-sm" href="" target="_blank">Watch</a></div>
+                        </div>
                         
                     </div>
                 
-                    <div class="time-room room-ballroom-c-d">
+                    <div class="time-room room-symphony">
+                        
+                        <div class="session-item order- track-incubator" data-slot='' data-timestart='03 Jun 2024 16:10:00 UTC' data-timeend='03 Jun 2024 16:40:00 UTC' data-track="incubator">
+                            <div class="session-time">16:10 - 16:40.</div>
+                            <div class="session-title"><a href="#abs-navigating-podling-releases-achieving-success-in-the-apache-incubator" data-bs-toggle="collapse">Navigating Podling Releases: Achieving Success in the Apache Incubator</a></div>
+                            <div class="session-speakers">by Justin Mclean</div>
+                            <div class="session-track">Track: Incubator</div>
+                            <div class="session-track d-sm-none">Room: Symphony</div>
+                            <div class="collapse card-abstract" id="abs-navigating-podling-releases-achieving-success-in-the-apache-incubator">
+                                <div class="my-2 session-abstract">Discover the keys to success when releasing a podling within the Apache Incubator. This talk explores the crucial aspects that the incubator PMC looks for in every release, providing practical tips to pass the IPMC vote and move your project closer to graduation.
+Learn about the latest incubator and ASF policies, recent updates you may have missed, and the legal requirements of open source licenses. Gain insights into assembling your NOTICE and LICENSE files effectively, while understanding the reasoning behind specific practices.</div>                                
+                              </div>
+                            <div class="pb-3"><a href="https://eu.communityovercode.org/sessions/2024/navigating-podling-releases-achieving-success-in-the-apache-incubator/" class="read-more">Full details</a></div>  
+                            <div id="live-" class="live-button text-center d-none"><a class="btn btn-danger btn-sm" href="" target="_blank">Watch</a></div>
+                        </div>
                         
                     </div>
                 
-                    <div class="time-room room-ballroom-crush">
+                    <div class="time-room room-rhapsody">
+                        
+                        <div class="session-item order- track-big-data-storage" data-slot='' data-timestart='03 Jun 2024 16:10:00 UTC' data-timeend='03 Jun 2024 16:40:00 UTC' data-track="big-data-storage">
+                            <div class="session-time">16:10 - 16:40.</div>
+                            <div class="session-title"><a href="#abs-elevating-scalable-object-storage-a-comprehensive-exploration-of-ozones-trailblazing-capabilities" data-bs-toggle="collapse">Elevating Scalable Object Storage: A Comprehensive Exploration of Ozone’s Trailblazing Capabilities</a></div>
+                            <div class="session-speakers">by Uma Maheswara Rao Gangumalla & Ritesh Shukla</div>
+                            <div class="session-track">Track: Big Data Storage</div>
+                            <div class="session-track d-sm-none">Room: Rhapsody</div>
+                            <div class="collapse card-abstract" id="abs-elevating-scalable-object-storage-a-comprehensive-exploration-of-ozones-trailblazing-capabilities">
+                                <div class="my-2 session-abstract">In the era of explosive data growth, scalability is paramount for any storage solution. This abstract focuses on the scalability aspects of Apache Ozone, a distributed object storage system designed to handle the ever-increasing demands of modern data-intensive applications.
+The session will commence with an up-to-date overview of Apache Ozone, providing insights into its current state, recent enhancements, and its pivotal role in addressing the evolving needs of organizations. Attendees will gain a comprehensive understanding of how Apache Ozone offers scalable, high-performance, and future-ready solutions tailored to the challenges posed by today&rsquo;s data-intensive applications.</div>                                
+                              </div>
+                            <div class="pb-3"><a href="https://eu.communityovercode.org/sessions/2024/elevating-scalable-object-storage-a-comprehensive-exploration-of-ozones-trailblazing-capabilities/" class="read-more">Full details</a></div>  
+                            <div id="live-" class="live-button text-center d-none"><a class="btn btn-danger btn-sm" href="" target="_blank">Watch</a></div>
+                        </div>
                         
                     </div>
                 
-                    <div class="time-room room-york">
+                    <div class="time-room room-mirror-lounge">
+                        
+                        <div class="session-item order- track-api--microservices" data-slot='' data-timestart='03 Jun 2024 16:10:00 UTC' data-timeend='03 Jun 2024 16:40:00 UTC' data-track="api--microservices">
+                            <div class="session-time">16:10 - 16:40.</div>
+                            <div class="session-title"><a href="#abs-the-right-feature-at-the-right-place-the-example-of-authorization" data-bs-toggle="collapse">The right feature at the right place: the example of authorization</a></div>
+                            <div class="session-speakers">by Nicolas Fränkel</div>
+                            <div class="session-track">Track: API &amp; Microservices</div>
+                            <div class="session-track d-sm-none">Room: Mirror Lounge</div>
+                            <div class="collapse card-abstract" id="abs-the-right-feature-at-the-right-place-the-example-of-authorization">
+                                <div class="my-2 session-abstract">All mature tech stacks nowadays offer infrastructure-related capabilities, either a standard lib or in 3rd-party libraries, e.g., rate-limiting and authorization. While it&rsquo;s great to have such features, it&rsquo;s impossible to audit them easily. You&rsquo;d need to be familiar with the stack and dive deep into the code. This approach just doesn&rsquo;t scale,
+A well-designed system keeps the right feature at the right place. In this talk, I&rsquo;ll go through all steps toward making your system more easily auditable.</div>                                
+                              </div>
+                            <div class="pb-3"><a href="https://eu.communityovercode.org/sessions/2024/the-right-feature-at-the-right-place-the-example-of-authorization/" class="read-more">Full details</a></div>  
+                            <div id="live-" class="live-button text-center d-none"><a class="btn btn-danger btn-sm" href="" target="_blank">Watch</a></div>
+                        </div>
                         
                     </div>
                 
@@ -570,22 +936,76 @@
             
             
             <div class="time-row concurrent">
-                <div class="time-label d-sm-none">16:45</div>
+                <div class="time-label d-sm-none">16:50</div>
                     
                 
-                    <div class="time-room room-ballroom-a-b">
+                    <div class="time-room room-melody">
+                        
+                        <div class="session-item order- track-community" data-slot='' data-timestart='03 Jun 2024 16:50:00 UTC' data-timeend='03 Jun 2024 17:20:00 UTC' data-track="community">
+                            <div class="session-time">16:50 - 17:20.</div>
+                            <div class="session-title"><a href="#abs-" data-bs-toggle="collapse">Empowering Diversity in the community:The Apache Software Foundation&#39;s Mentorship</a></div>
+                            <div class="session-speakers">by Kanchana Welagedara</div>
+                            <div class="session-track">Track: Community</div>
+                            <div class="session-track d-sm-none">Room: Melody</div>
+                            <div class="collapse card-abstract" id="abs-">
+                                <div class="my-2 session-abstract">The session will highlight the strategies employed by Apache to foster a more diverse and inclusive environment, emphasizing the importance of mentorship in nurturing new talents and perspectives. This approach not only enriches the Apache community ecosystem but also ensures that it reflects the wide array of users it serves. Attendees will gain insights into the practical steps for implementing similar programs and the profound impact of inclusivity on technology development.</div>                                
+                              </div>
+                            <div class="pb-3"><a href="https://eu.communityovercode.org/sessions/2024/empowering-diversity/" class="read-more">Full details</a></div>  
+                            <div id="live-" class="live-button text-center d-none"><a class="btn btn-danger btn-sm" href="" target="_blank">Watch</a></div>
+                        </div>
                         
                     </div>
                 
-                    <div class="time-room room-ballroom-c-d">
+                    <div class="time-room room-symphony">
+                        
+                        <div class="session-item order- track-incubator" data-slot='' data-timestart='03 Jun 2024 16:50:00 UTC' data-timeend='03 Jun 2024 17:20:00 UTC' data-track="incubator">
+                            <div class="session-time">16:50 - 17:20.</div>
+                            <div class="session-title"><a href="#abs-apache-docs-training-empowering-communities-through-accessible-docs-training-material" data-bs-toggle="collapse">Apache Docs &amp; Training: Empowering communities through accessible Docs &amp; training material</a></div>
+                            <div class="session-speakers">by Mirko Kämpf & Gláucia Esppenchutz</div>
+                            <div class="session-track">Track: Incubator</div>
+                            <div class="session-track d-sm-none">Room: Symphony</div>
+                            <div class="collapse card-abstract" id="abs-apache-docs-training-empowering-communities-through-accessible-docs-training-material">
+                                <div class="my-2 session-abstract">In the ever-evolving landscape of open source projects, the Apache Software Foundation (ASF) stands at the forefront of innovation and community-driven development. Two of its young projects, Apache Training and Apache Wayang, are working on an exciting journey of expansion and inclusivity.
+This session is dedicated to showcasing how these projects are opening their doors to a broader audience, including non-technical individuals, thereby fostering a more diverse and robust community, which helps the ASF to continue in solving some of the world’s tech problems by bringing people together.</div>                                
+                              </div>
+                            <div class="pb-3"><a href="https://eu.communityovercode.org/sessions/2024/apache-docs-training-empowering-communities-through-accessible-docs-training-material/" class="read-more">Full details</a></div>  
+                            <div id="live-" class="live-button text-center d-none"><a class="btn btn-danger btn-sm" href="" target="_blank">Watch</a></div>
+                        </div>
                         
                     </div>
                 
-                    <div class="time-room room-ballroom-crush">
+                    <div class="time-room room-rhapsody">
+                        
+                        <div class="session-item order- track-big-data-storage" data-slot='' data-timestart='03 Jun 2024 16:50:00 UTC' data-timeend='03 Jun 2024 17:20:00 UTC' data-track="big-data-storage">
+                            <div class="session-time">16:50 - 17:20.</div>
+                            <div class="session-title"><a href="#abs-this-impala-not-only-reads-but-modifies-and-optimizes-iceberg-tables" data-bs-toggle="collapse">This Impala not only reads, but modifies and optimizes Iceberg tables</a></div>
+                            <div class="session-speakers">by Zoltan Borok-Nagy, Péter Rózsa & Noémi Pap-Takács</div>
+                            <div class="session-track">Track: Big Data Storage</div>
+                            <div class="session-track d-sm-none">Room: Rhapsody</div>
+                            <div class="collapse card-abstract" id="abs-this-impala-not-only-reads-but-modifies-and-optimizes-iceberg-tables">
+                                <div class="my-2 session-abstract">Apache Impala is a distributed, massively parallel query engine for big data. Initially, it focused on fast query execution on top of large datasets that were ingested via long-running batch jobs. The table schema and the ingested data typically remained unchanged, and row-level modifications were impractical to say the least.
+Today&rsquo;s expectations for modern data warehouse engines have risen significantly. Users now want to have RDBMS-like capabilities in their data warehouses.</div>                                
+                              </div>
+                            <div class="pb-3"><a href="https://eu.communityovercode.org/sessions/2024/this-impala-not-only-reads-but-modifies-and-optimizes-iceberg-tables/" class="read-more">Full details</a></div>  
+                            <div id="live-" class="live-button text-center d-none"><a class="btn btn-danger btn-sm" href="" target="_blank">Watch</a></div>
+                        </div>
                         
                     </div>
                 
-                    <div class="time-room room-york">
+                    <div class="time-room room-mirror-lounge">
+                        
+                        <div class="session-item order- track-api--microservices" data-slot='' data-timestart='03 Jun 2024 16:50:00 UTC' data-timeend='03 Jun 2024 17:20:00 UTC' data-track="api--microservices">
+                            <div class="session-time">16:50 - 17:20.</div>
+                            <div class="session-title"><a href="#abs-modernize-apis-to-run-serverless-using-apache-cxf" data-bs-toggle="collapse">Modernize APIs to run serverless using Apache CXF</a></div>
+                            <div class="session-speakers">by Dennis Kieselhorst</div>
+                            <div class="session-track">Track: API &amp; Microservices</div>
+                            <div class="session-track d-sm-none">Room: Mirror Lounge</div>
+                            <div class="collapse card-abstract" id="abs-modernize-apis-to-run-serverless-using-apache-cxf">
+                                <div class="my-2 session-abstract">Years ago the Service-oriented architecture (SOA) architectural style came along with implementations of web services based on standards like the Web Service Description Language (WSDL) and SOAP. Many of these interfaces are still in place as of today as a change requires both provider and all consumers to agree on a new definition and change the implementation (often without any business value). The underlying infrastructure, sometimes based on Enterprise Services Buses (ESB) is however often end-of-life and hard to maintain.</div>                                
+                              </div>
+                            <div class="pb-3"><a href="https://eu.communityovercode.org/sessions/2024/modernize-apis-to-run-serverless-using-apache-cxf/" class="read-more">Full details</a></div>  
+                            <div id="live-" class="live-button text-center d-none"><a class="btn btn-danger btn-sm" href="" target="_blank">Watch</a></div>
+                        </div>
                         
                     </div>
                 
@@ -597,49 +1017,22 @@
             
             
             <div class="time-row concurrent">
-                <div class="time-label d-sm-none">17:15</div>
+                <div class="time-label d-sm-none">17:30</div>
                     
                 
-                    <div class="time-room room-ballroom-a-b">
+                    <div class="time-room room-melody">
                         
                     </div>
                 
-                    <div class="time-room room-ballroom-c-d">
+                    <div class="time-room room-symphony">
                         
                     </div>
                 
-                    <div class="time-room room-ballroom-crush">
+                    <div class="time-room room-rhapsody">
                         
                     </div>
                 
-                    <div class="time-room room-york">
-                        
-                    </div>
-                
-                
-
-            </div>
-            
-        
-            
-            
-            <div class="time-row concurrent">
-                <div class="time-label d-sm-none">17:45</div>
-                    
-                
-                    <div class="time-room room-ballroom-a-b">
-                        
-                    </div>
-                
-                    <div class="time-room room-ballroom-c-d">
-                        
-                    </div>
-                
-                    <div class="time-room room-ballroom-crush">
-                        
-                    </div>
-                
-                    <div class="time-room room-york">
+                    <div class="time-room room-mirror-lounge">
                         
                     </div>
                 
@@ -654,7 +1047,7 @@
       
 
     <div id="dayblock-2" class="dayblock my-5">
-        <h2 class="mb-3">Wednesday, September 20, 2023</h2>
+        <h2 class="mb-3">Tuesday June 4, 2024</h2>
         
             
             
@@ -662,46 +1055,19 @@
                 <div class="time-label d-sm-none">09:00</div>
                     
                 
-                    <div class="time-room room-ballroom-a-b">
+                    <div class="time-room room-melody">
                         
                     </div>
                 
-                    <div class="time-room room-ballroom-c-d">
+                    <div class="time-room room-symphony">
                         
                     </div>
                 
-                    <div class="time-room room-ballroom-crush">
+                    <div class="time-room room-rhapsody">
                         
                     </div>
                 
-                    <div class="time-room room-york">
-                        
-                    </div>
-                
-                
-
-            </div>
-            
-        
-            
-            
-            <div class="time-row keynote">
-                <div class="time-label d-sm-none">09:30</div>
-                    
-                
-                    <div class="time-room room-ballroom-a-b">
-                        
-                    </div>
-                
-                    <div class="time-room room-ballroom-c-d">
-                        
-                    </div>
-                
-                    <div class="time-room room-ballroom-crush">
-                        
-                    </div>
-                
-                    <div class="time-room room-york">
+                    <div class="time-room room-mirror-lounge">
                         
                     </div>
                 
@@ -713,22 +1079,77 @@
             
             
             <div class="time-row keynote">
-                <div class="time-label d-sm-none">10:00</div>
+                <div class="time-label d-sm-none">09:20</div>
                     
                 
-                    <div class="time-room room-ballroom-a-b">
+                    <div class="time-room room-melody">
+                        
+                        <div class="session-item order- track-keynote" data-slot='' data-timestart='04 Jun 2024 09:20:00 UTC' data-timeend='04 Jun 2024 09:50:00 UTC' data-track="keynote">
+                            <div class="session-time">09:20 - 09:50.</div>
+                            <div class="session-title"><a href="#abs-" data-bs-toggle="collapse">From Local Roots to Global Impact: Building an Inclusive Open Source Community in Africa</a></div>
+                            <div class="session-speakers">by Ruth Ikegah</div>
+                            <div class="session-track">Track: Keynote</div>
+                            <div class="session-track d-sm-none">Room: Melody</div>
+                            <div class="collapse card-abstract" id="abs-">
+                                <div class="my-2 session-abstract">The rapid growth of the global open source community has led to the expansion of numerous projects, including the establishment of chapters in diverse regions such as Africa. This talk will explore the unique experiences and insights gained from leading an African chapter of the CHAOSS project, highlighting both the challenges faced and the victories achieved along the way. It will discuss the growth of the open source movement in Africa and emphasize the importance of building a diverse and inclusive community.</div>                                
+                              </div>
+                            <div class="pb-3"><a href="https://eu.communityovercode.org/sessions/2024/keynote-ruth/" class="read-more">Full details</a></div>  
+                            <div id="live-" class="live-button text-center d-none"><a class="btn btn-danger btn-sm" href="" target="_blank">Watch</a></div>
+                        </div>
                         
                     </div>
                 
-                    <div class="time-room room-ballroom-c-d">
+                    <div class="time-room room-symphony">
                         
                     </div>
                 
-                    <div class="time-room room-ballroom-crush">
+                    <div class="time-room room-rhapsody">
                         
                     </div>
                 
-                    <div class="time-room room-york">
+                    <div class="time-room room-mirror-lounge">
+                        
+                    </div>
+                
+                
+
+            </div>
+            
+        
+            
+            
+            <div class="time-row keynote">
+                <div class="time-label d-sm-none">09:55</div>
+                    
+                
+                    <div class="time-room room-melody">
+                        
+                        <div class="session-item order- track-keynote" data-slot='' data-timestart='04 Jun 2024 09:50:00 UTC' data-timeend='04 Jun 2024 10:25:00 UTC' data-track="keynote">
+                            <div class="session-time">09:50 - 10:25.</div>
+                            <div class="session-title"><a href="#abs-" data-bs-toggle="collapse">Doing for sustainability, what open source did for software</a></div>
+                            <div class="session-speakers">by Asim Hussain</div>
+                            <div class="session-track">Track: Keynote</div>
+                            <div class="session-track d-sm-none">Room: Melody</div>
+                            <div class="collapse card-abstract" id="abs-">
+                                <div class="my-2 session-abstract">In the realm of sustainability, grassroots initiatives often emerge as powerful catalysts for change, driven by the collective wisdom of practitioners.
+Our organization, a coalition of hundreds of software practitioners, embodies this ethos, operating on the principles of consensus and practical action. The result? Tangible solutions that directly foster meaningful change.
+Enter Impact Framework, an open-source tool designed to quantify the environmental impact of software. It takes observations you can easily gather from running systems such as CPU utilisation, page views, installs, prompts and induces them into environmental impacts like carbon, waste, water.</div>                                
+                              </div>
+                            <div class="pb-3"><a href="https://eu.communityovercode.org/sessions/2024/keynote-asim/" class="read-more">Full details</a></div>  
+                            <div id="live-" class="live-button text-center d-none"><a class="btn btn-danger btn-sm" href="" target="_blank">Watch</a></div>
+                        </div>
+                        
+                    </div>
+                
+                    <div class="time-room room-symphony">
+                        
+                    </div>
+                
+                    <div class="time-room room-rhapsody">
+                        
+                    </div>
+                
+                    <div class="time-room room-mirror-lounge">
                         
                     </div>
                 
@@ -740,12 +1161,12 @@
             
             
             <div class="time-row break">
-                <div class="time-label d-sm-none">11:00</div>
+                <div class="time-label d-sm-none">10:25</div>
                 
                     <div class="time-room">
                         <div class="session-item track-break">
-                            <div class="session-time text-center d-none d-sm-block">11:00 - 11:30</div>
-                            <div class="session-title text-center font-weight-normal">Morning break</div>
+                            <div class="session-time text-center d-none d-sm-block">10:25 - 11:10</div>
+                            <div class="session-title text-center font-weight-normal">Morning break &amp; Poster sessions</div>
                         </div>
                     </div>
                 
@@ -759,13 +1180,13 @@
                 <div class="time-label d-sm-none">11:00</div>
                                 
                   
-                    <div class="mt-1 mb-2 text-center"><h4>Ballroom A-B</h4></div>
+                    <div class="mt-1 mb-2 text-center"><h4>Melody</h4></div>
                   
-                    <div class="mt-1 mb-2 text-center"><h4>Ballroom C-D</h4></div>
+                    <div class="mt-1 mb-2 text-center"><h4>Symphony</h4></div>
                   
-                    <div class="mt-1 mb-2 text-center"><h4>Ballroom crush</h4></div>
+                    <div class="mt-1 mb-2 text-center"><h4>Rhapsody</h4></div>
                   
-                    <div class="mt-1 mb-2 text-center"><h4>York</h4></div>
+                    <div class="mt-1 mb-2 text-center"><h4>Mirror Lounge</h4></div>
                   
                 
 
@@ -775,22 +1196,64 @@
             
             
             <div class="time-row concurrent">
-                <div class="time-label d-sm-none">11:30</div>
+                <div class="time-label d-sm-none">11:10</div>
                     
                 
-                    <div class="time-room room-ballroom-a-b">
+                    <div class="time-room room-melody">
+                        
+                        <div class="session-item order- track-big-data-storage" data-slot='' data-timestart='04 Jun 2024 11:10:00 UTC' data-timeend='04 Jun 2024 11:40:00 UTC' data-track="big-data-storage">
+                            <div class="session-time">11:10 - 11:40.</div>
+                            <div class="session-title"><a href="#abs-multi-tenancy-apache-hbase" data-bs-toggle="collapse">Multi Tenancy — Apache Hbase</a></div>
+                            <div class="session-speakers">by Mallikarjun Venkataswamyreddy</div>
+                            <div class="session-track">Track: Big Data Storage</div>
+                            <div class="session-track d-sm-none">Room: Melody</div>
+                            <div class="collapse card-abstract" id="abs-multi-tenancy-apache-hbase">
+                                <div class="my-2 session-abstract">Apache HBase is an open-source non-relational distributed database with multiple components such as Zookeeper, JournalNodes, Hmaster, Namenodes, Datanodes, Regionserver. Managing independent clusters for each use case is operationally heavy and sub-optimal utilization of hardware. Hence there is a need for providing a consolidated, managed, multi-tenant HBase cluster with stronger isolation guarantees in many organizations.
+In this talk, we are going to talk about how we approached this problem, made tradeoffs and run large scale multi-tenant hbase clusters with strict isolation guarantees.</div>                                
+                              </div>
+                            <div class="pb-3"><a href="https://eu.communityovercode.org/sessions/2024/multi-tenancy-apache-hbase/" class="read-more">Full details</a></div>  
+                            <div id="live-" class="live-button text-center d-none"><a class="btn btn-danger btn-sm" href="" target="_blank">Watch</a></div>
+                        </div>
                         
                     </div>
                 
-                    <div class="time-room room-ballroom-c-d">
+                    <div class="time-room room-symphony">
+                        
+                        <div class="session-item order- track-fintech" data-slot='' data-timestart='04 Jun 2024 11:10:00 UTC' data-timeend='04 Jun 2024 11:40:00 UTC' data-track="fintech">
+                            <div class="session-time">11:10 - 11:40.</div>
+                            <div class="session-title"><a href="#abs-evolving-fintech-landscapes-driving-business-innovation-with-fineract" data-bs-toggle="collapse">Evolving Fintech Landscapes: Driving Business Innovation with Fineract</a></div>
+                            <div class="session-speakers">by Tomas Ferreiro</div>
+                            <div class="session-track">Track: Fintech</div>
+                            <div class="session-track d-sm-none">Room: Symphony</div>
+                            <div class="collapse card-abstract" id="abs-evolving-fintech-landscapes-driving-business-innovation-with-fineract">
+                                <div class="my-2 session-abstract">This session explores Fineract&rsquo;s impact on banking transformation in fintech. It analyzes motivators driving core banking system changes, addressing challenges and innovative solutions.
+From a client-focused view, it details how Fineract addresses banking sector needs, emphasizing adaptability and strategic advantages globally.
+Real success cases and their metrics will demonstrate Fineract&rsquo;s positive influence, driving innovation across financial landscapes. It also discusses regional fintech challenges and the potential solutions with Fineract as a fundamental piece.</div>                                
+                              </div>
+                            <div class="pb-3"><a href="https://eu.communityovercode.org/sessions/2024/evolving-fintech-landscapes-driving-business-innovation-with-fineract/" class="read-more">Full details</a></div>  
+                            <div id="live-" class="live-button text-center d-none"><a class="btn btn-danger btn-sm" href="" target="_blank">Watch</a></div>
+                        </div>
                         
                     </div>
                 
-                    <div class="time-room room-ballroom-crush">
+                    <div class="time-room room-rhapsody">
+                        
+                        <div class="session-item order- track-data-engineering" data-slot='' data-timestart='04 Jun 2024 11:10:00 UTC' data-timeend='04 Jun 2024 11:40:00 UTC' data-track="data-engineering">
+                            <div class="session-time">11:10 - 11:40.</div>
+                            <div class="session-title"><a href="#abs-architecting-applications-with-multiple-open-source-big-data-technologies" data-bs-toggle="collapse">Architecting Applications With Multiple Open-Source Big Data Technologies</a></div>
+                            <div class="session-speakers">by Paul Brebner</div>
+                            <div class="session-track">Track: Data Engineering</div>
+                            <div class="session-track d-sm-none">Room: Rhapsody</div>
+                            <div class="collapse card-abstract" id="abs-architecting-applications-with-multiple-open-source-big-data-technologies">
+                                <div class="my-2 session-abstract">When I started as the Instaclustr Technology Evangelist 7 years ago, I already had a background in computer science R&amp;D and thought I knew a few things about architecting complex distributed systems. But it was still challenging to learn multiple new Apache (and other) Big Data technologies and build and scale realistic demonstration applications for domains such as IoT/logistics, fintech, anomaly detection, geospatial data, data pipelines and a drone delivery application - with streaming machine learning.</div>                                
+                              </div>
+                            <div class="pb-3"><a href="https://eu.communityovercode.org/sessions/2024/architecting-applications-with-multiple-open-source-big-data-technologies/" class="read-more">Full details</a></div>  
+                            <div id="live-" class="live-button text-center d-none"><a class="btn btn-danger btn-sm" href="" target="_blank">Watch</a></div>
+                        </div>
                         
                     </div>
                 
-                    <div class="time-room room-york">
+                    <div class="time-room room-mirror-lounge">
                         
                     </div>
                 
@@ -802,22 +1265,80 @@
             
             
             <div class="time-row concurrent">
-                <div class="time-label d-sm-none">12:00</div>
+                <div class="time-label d-sm-none">11:50</div>
                     
                 
-                    <div class="time-room room-ballroom-a-b">
+                    <div class="time-room room-melody">
+                        
+                        <div class="session-item order- track-big-data-storage" data-slot='' data-timestart='04 Jun 2024 11:50:00 UTC' data-timeend='04 Jun 2024 12:20:00 UTC' data-track="big-data-storage">
+                            <div class="session-time">11:50 - 12:20.</div>
+                            <div class="session-title"><a href="#abs-whitefox-simple-table-format-sharing" data-bs-toggle="collapse">Whitefox: simple table format sharing</a></div>
+                            <div class="session-speakers">by Riccardo Amadio</div>
+                            <div class="session-track">Track: Big Data Storage</div>
+                            <div class="session-track d-sm-none">Room: Melody</div>
+                            <div class="collapse card-abstract" id="abs-whitefox-simple-table-format-sharing">
+                                <div class="my-2 session-abstract">&ldquo;In the evolving landscape of data platforms, the decoupling of compute and storage has led to the emergence of open data systems free from vendor constraints. However, this shift towards &ldquo;&ldquo;modularity&rdquo;&rdquo; brings its own set of challenges. The intricate task of establishing effective access controls within table-format architectures proves to be complex. Despite data residing in the cloud and theoretically accessible from anywhere, the existing friction impedes seamless accessibility.
+Enter Whitefox: an open-source initiative inspired by the brilliant principles of Delta-Sharing.</div>                                
+                              </div>
+                            <div class="pb-3"><a href="https://eu.communityovercode.org/sessions/2024/whitefox-simple-table-format-sharing/" class="read-more">Full details</a></div>  
+                            <div id="live-" class="live-button text-center d-none"><a class="btn btn-danger btn-sm" href="" target="_blank">Watch</a></div>
+                        </div>
                         
                     </div>
                 
-                    <div class="time-room room-ballroom-c-d">
+                    <div class="time-room room-symphony">
+                        
+                        <div class="session-item order- track-fintech" data-slot='' data-timestart='04 Jun 2024 11:50:00 UTC' data-timeend='04 Jun 2024 12:20:00 UTC' data-track="fintech">
+                            <div class="session-time">11:50 - 12:20.</div>
+                            <div class="session-title"><a href="#abs-data-symphony-orchestrating-insights-in-fintech" data-bs-toggle="collapse">Data Symphony: Orchestrating Insights in Fintech</a></div>
+                            <div class="session-speakers">by Karin Safra</div>
+                            <div class="session-track">Track: Fintech</div>
+                            <div class="session-track d-sm-none">Room: Symphony</div>
+                            <div class="collapse card-abstract" id="abs-data-symphony-orchestrating-insights-in-fintech">
+                                <div class="my-2 session-abstract">Uncover the pivotal role of a Data Science Product Manager as they conduct a data-driven symphony in a high-volume Fintech environment.
+In the world of product management, the role of a Data Science Product Manager stands out as a conductor orchestrating a symphony of insights. Join me in this session as I share firsthand experiences from my journey as a Data Science Product Manager at PayPal, delving into the challenges, successes, and failures that have shaped my approach to leading products in a data-rich environment.</div>                                
+                              </div>
+                            <div class="pb-3"><a href="https://eu.communityovercode.org/sessions/2024/data-symphony-orchestrating-insights-in-fintech/" class="read-more">Full details</a></div>  
+                            <div id="live-" class="live-button text-center d-none"><a class="btn btn-danger btn-sm" href="" target="_blank">Watch</a></div>
+                        </div>
                         
                     </div>
                 
-                    <div class="time-room room-ballroom-crush">
+                    <div class="time-room room-rhapsody">
+                        
+                        <div class="session-item order- track-data-engineering" data-slot='' data-timestart='04 Jun 2024 11:50:00 UTC' data-timeend='04 Jun 2024 12:20:00 UTC' data-track="data-engineering">
+                            <div class="session-time">11:50 - 12:20.</div>
+                            <div class="session-title"><a href="#abs-unlocking-insights-data-federation" data-bs-toggle="collapse">Unlocking Insights: Data Federation</a></div>
+                            <div class="session-speakers">by Akshat Mathur</div>
+                            <div class="session-track">Track: Data Engineering</div>
+                            <div class="session-track d-sm-none">Room: Rhapsody</div>
+                            <div class="collapse card-abstract" id="abs-unlocking-insights-data-federation">
+                                <div class="my-2 session-abstract">With great data comes great responsibilities! Companies of every scale face issues of managing huge amounts of data spread across various platforms, databases, and applications.
+Data federation offers a solution to this problem by integrating and accessing data from various data sources without the need for complex ETL processes or data duplication.
+This session will delve into the following key aspects of data federation:
+Introduction to Data Federation:
+The problem today?</div>                                
+                              </div>
+                            <div class="pb-3"><a href="https://eu.communityovercode.org/sessions/2024/unlocking-insights-data-federation/" class="read-more">Full details</a></div>  
+                            <div id="live-" class="live-button text-center d-none"><a class="btn btn-danger btn-sm" href="" target="_blank">Watch</a></div>
+                        </div>
                         
                     </div>
                 
-                    <div class="time-room room-york">
+                    <div class="time-room room-mirror-lounge">
+                        
+                        <div class="session-item order- track-community" data-slot='' data-timestart='04 Jun 2024 11:50:00 UTC' data-timeend='04 Jun 2024 12:20:00 UTC' data-track="community">
+                            <div class="session-time">11:50 - 12:20.</div>
+                            <div class="session-title"><a href="#abs-" data-bs-toggle="collapse">Measuring the Impact of Community Events</a></div>
+                            <div class="session-speakers">by Brian Proffitt</div>
+                            <div class="session-track">Track: Community</div>
+                            <div class="session-track d-sm-none">Room: Mirror Lounge</div>
+                            <div class="collapse card-abstract" id="abs-">
+                                <div class="my-2 session-abstract">One of the mainstays of the open source ecosystem are community events. Open Source Summit, All Things Open, Community Over Code&hellip; all examples of community events with vitality and influence within open source. But unlike more commercially focused events, community events are not as simple to measure in terms of benefits to organizations that participate. Without sales leads or conversions, how does a commercial organization measure the gains of participation? And for community projects, what&rsquo;s the return on investment in running a booth or giving talks at such events?</div>                                
+                              </div>
+                            <div class="pb-3"><a href="https://eu.communityovercode.org/sessions/2024/measuring-impact-community/" class="read-more">Full details</a></div>  
+                            <div id="live-" class="live-button text-center d-none"><a class="btn btn-danger btn-sm" href="" target="_blank">Watch</a></div>
+                        </div>
                         
                     </div>
                 
@@ -832,19 +1353,60 @@
                 <div class="time-label d-sm-none">12:30</div>
                     
                 
-                    <div class="time-room room-ballroom-a-b">
+                    <div class="time-room room-melody">
+                        
+                        <div class="session-item order- track-cloudstack" data-slot='' data-timestart='04 Jun 2024 12:30:00 UTC' data-timeend='04 Jun 2024 13:00:00 UTC' data-track="cloudstack">
+                            <div class="session-time">12:30 - 13:00.</div>
+                            <div class="session-title"><a href="#abs-transitioning-from-vmware-to-apache-cloudstack-a-path-to-profitability-and-competitiveness" data-bs-toggle="collapse">Transitioning from VMware to Apache CloudStack: A Path to Profitability and Competitiveness</a></div>
+                            <div class="session-speakers">by Marco Sinhoreli</div>
+                            <div class="session-track">Track: CloudStack</div>
+                            <div class="session-track d-sm-none">Room: Melody</div>
+                            <div class="collapse card-abstract" id="abs-transitioning-from-vmware-to-apache-cloudstack-a-path-to-profitability-and-competitiveness">
+                                <div class="my-2 session-abstract">In this session, we will explore the potential of migrating from VMware to Apache CloudStack with KVM. VMware vSphere is a robust cloud infrastructure and management solution that combines vSphere and vRealize Suite, providing automation and operations capabilities for traditional and modern infrastructure and apps. However, the transition to Apache CloudStack can offer enhanced profitability and competitiveness.
+We will delve into the benefits of Apache CloudStack, including its cost-effectiveness and open-source nature, and discuss how a gradual migration from VMware vCloud can reduce ownership costs, increase profitability, and enhance competitiveness.</div>                                
+                              </div>
+                            <div class="pb-3"><a href="https://eu.communityovercode.org/sessions/2024/transitioning-from-vmware-to-apache-cloudstack-a-path-to-profitability-and-competitiveness/" class="read-more">Full details</a></div>  
+                            <div id="live-" class="live-button text-center d-none"><a class="btn btn-danger btn-sm" href="" target="_blank">Watch</a></div>
+                        </div>
                         
                     </div>
                 
-                    <div class="time-room room-ballroom-c-d">
+                    <div class="time-room room-symphony">
+                        
+                        <div class="session-item order- track-fintech" data-slot='' data-timestart='04 Jun 2024 12:30:00 UTC' data-timeend='04 Jun 2024 13:00:00 UTC' data-track="fintech">
+                            <div class="session-time">12:30 - 13:00.</div>
+                            <div class="session-title"><a href="#abs-increasing-adoption-and-achieving-financial-inclusion-through-dpi" data-bs-toggle="collapse">Increasing Adoption and Achieving Financial Inclusion through DPI</a></div>
+                            <div class="session-speakers">by David Higgins</div>
+                            <div class="session-track">Track: Fintech</div>
+                            <div class="session-track d-sm-none">Room: Symphony</div>
+                            <div class="collapse card-abstract" id="abs-increasing-adoption-and-achieving-financial-inclusion-through-dpi">
+                                <div class="my-2 session-abstract">The Digital Public Infrastructure movement has been gaining momentum globally as governments move to DPI-based approaches to create exponential societal outcomes within and across sectors. DPI is composed of open, interoperable technology with transparent, accountable, and participatory governance frameworks to unlock innovation and value at scale. This session will introduce how Apache projects like Fineract recognized as Digital Public Goods are having transformative impact on achieving SDGs.
+Through presentation of the work Mifos has been undertaking over the past 12 months we will show how capabilities have been enhanced in Payment Hub EE combined with the power of Fineract to cover new use cases of P2G, Voucher Management and Account Mapping.</div>                                
+                              </div>
+                            <div class="pb-3"><a href="https://eu.communityovercode.org/sessions/2024/increasing-adoption-and-achieving-financial-inclusion-through-dpi/" class="read-more">Full details</a></div>  
+                            <div id="live-" class="live-button text-center d-none"><a class="btn btn-danger btn-sm" href="" target="_blank">Watch</a></div>
+                        </div>
                         
                     </div>
                 
-                    <div class="time-room room-ballroom-crush">
+                    <div class="time-room room-rhapsody">
+                        
+                        <div class="session-item order- track-data-engineering" data-slot='' data-timestart='04 Jun 2024 14:00:00 UTC' data-timeend='04 Jun 2024 14:30:00 UTC' data-track="data-engineering">
+                            <div class="session-time">14:00 - 14:30.</div>
+                            <div class="session-title"><a href="#abs-enhancing-flexibility-and-productivity-with-access-patterns-and-storage-agnostic-abstractions" data-bs-toggle="collapse">Enhancing Flexibility and Productivity with Access Patterns and Storage-Agnostic Abstractions</a></div>
+                            <div class="session-speakers">by Jan Lukavský</div>
+                            <div class="session-track">Track: Data Engineering</div>
+                            <div class="session-track d-sm-none">Room: Rhapsody</div>
+                            <div class="collapse card-abstract" id="abs-enhancing-flexibility-and-productivity-with-access-patterns-and-storage-agnostic-abstractions">
+                                <div class="my-2 session-abstract">This session will introduce a platform created to bridge the existing gaps in data management while removing some of the complexities in existing Big Data ecosystem. The platform is built around a comprehensive data model describing structured entities and their relations. The model is consistently applied across three abstract types of storages - streaming (e.g. Apache Kafka, Google Cloud PubSub), batch (e.g. Hadoop HDFS, S3, Google Cloud Storage) and random-access (e.</div>                                
+                              </div>
+                            <div class="pb-3"><a href="https://eu.communityovercode.org/sessions/2024/enhancing-flexibility-and-productivity-with-access-patterns-and-storage-agnostic-abstractions/" class="read-more">Full details</a></div>  
+                            <div id="live-" class="live-button text-center d-none"><a class="btn btn-danger btn-sm" href="" target="_blank">Watch</a></div>
+                        </div>
                         
                     </div>
                 
-                    <div class="time-room room-york">
+                    <div class="time-room room-mirror-lounge">
                         
                     </div>
                 
@@ -875,13 +1437,13 @@
                 <div class="time-label d-sm-none">11:00</div>
                                 
                   
-                    <div class="mt-1 mb-2 text-center"><h4>Ballroom A-B</h4></div>
+                    <div class="mt-1 mb-2 text-center"><h4>Melody</h4></div>
                   
-                    <div class="mt-1 mb-2 text-center"><h4>Ballroom C-D</h4></div>
+                    <div class="mt-1 mb-2 text-center"><h4>Symphony</h4></div>
                   
-                    <div class="mt-1 mb-2 text-center"><h4>Ballroom crush</h4></div>
+                    <div class="mt-1 mb-2 text-center"><h4>Rhapsody</h4></div>
                   
-                    <div class="mt-1 mb-2 text-center"><h4>York</h4></div>
+                    <div class="mt-1 mb-2 text-center"><h4>Mirror Lounge</h4></div>
                   
                 
 
@@ -894,19 +1456,76 @@
                 <div class="time-label d-sm-none">14:00</div>
                     
                 
-                    <div class="time-room room-ballroom-a-b">
+                    <div class="time-room room-melody">
+                        
+                        <div class="session-item order- track-cloudstack" data-slot='' data-timestart='04 Jun 2024 14:00:00 UTC' data-timeend='04 Jun 2024 14:30:00 UTC' data-track="cloudstack">
+                            <div class="session-time">14:00 - 14:30.</div>
+                            <div class="session-title"><a href="#abs-making-apache-cloudstack-market-ready-with-a-native-rating-solution" data-bs-toggle="collapse">Making Apache CloudStack market ready with a native rating solution</a></div>
+                            <div class="session-speakers">by Daniel Augusto Veronezi Salvador, Bryan Lima, João Jandre Paraquetti & Rafael Weingärtner</div>
+                            <div class="session-track">Track: CloudStack</div>
+                            <div class="session-track d-sm-none">Room: Melody</div>
+                            <div class="collapse card-abstract" id="abs-making-apache-cloudstack-market-ready-with-a-native-rating-solution">
+                                <div class="my-2 session-abstract">Apache CloudStack (ACS) is a solid option among known cloud orchestration systems, being on the same level as OpenStack, Azure Stack, and others. All of them address the basic needs to create and run a private cloud system; however, ACS&rsquo;s users have to adopt external solutions for rating/billing the resources consumption, which is native in the other orchestration tools (e.g. OpenStack). This presentation will address the design and efforts of the ACS community to implement a native rating feature that will allow more flexibility and reduce the need for external systems.</div>                                
+                              </div>
+                            <div class="pb-3"><a href="https://eu.communityovercode.org/sessions/2024/making-apache-cloudstack-market-ready-with-a-native-rating-solution/" class="read-more">Full details</a></div>  
+                            <div id="live-" class="live-button text-center d-none"><a class="btn btn-danger btn-sm" href="" target="_blank">Watch</a></div>
+                        </div>
                         
                     </div>
                 
-                    <div class="time-room room-ballroom-c-d">
+                    <div class="time-room room-symphony">
+                        
+                        <div class="session-item order- track-fintech" data-slot='' data-timestart='04 Jun 2024 14:00:00 UTC' data-timeend='04 Jun 2024 14:30:00 UTC' data-track="fintech">
+                            <div class="session-time">14:00 - 14:30.</div>
+                            <div class="session-title"><a href="#abs-how-to-extend-fineract-with-custom-modules" data-bs-toggle="collapse">How to extend Fineract with custom modules</a></div>
+                            <div class="session-speakers">by Aleksandar Vidakovic</div>
+                            <div class="session-track">Track: Fintech</div>
+                            <div class="session-track d-sm-none">Room: Symphony</div>
+                            <div class="collapse card-abstract" id="abs-how-to-extend-fineract-with-custom-modules">
+                                <div class="my-2 session-abstract">Apache Fineract has a wide range of built-in features, but most companies that integrate Fineract into their applications and services still require some customization of existing functionality or add new features. The usual approach is to fork the upstream project on Github and start right away editing the original code. This approach has a couple of drawbacks, especially that after a while of development the customization gets so complex that pulling changes from the upstream repository makes Git conflicts more likely and contributions back to the upstream project very difficult.</div>                                
+                              </div>
+                            <div class="pb-3"><a href="https://eu.communityovercode.org/sessions/2024/how-to-extend-fineract-with-custom-modules/" class="read-more">Full details</a></div>  
+                            <div id="live-" class="live-button text-center d-none"><a class="btn btn-danger btn-sm" href="" target="_blank">Watch</a></div>
+                        </div>
                         
                     </div>
                 
-                    <div class="time-room room-ballroom-crush">
+                    <div class="time-room room-rhapsody">
+                        
+                        <div class="session-item order- track-data-engineering" data-slot='' data-timestart='04 Jun 2024 14:40:00 UTC' data-timeend='04 Jun 2024 15:10:00 UTC' data-track="data-engineering">
+                            <div class="session-time">14:40 - 15:10.</div>
+                            <div class="session-title"><a href="#abs-modern-data-orchestrators" data-bs-toggle="collapse">Modern Data Orchestrators</a></div>
+                            <div class="session-speakers">by Riccardo Amadio</div>
+                            <div class="session-track">Track: Data Engineering</div>
+                            <div class="session-track d-sm-none">Room: Rhapsody</div>
+                            <div class="collapse card-abstract" id="abs-modern-data-orchestrators">
+                                <div class="my-2 session-abstract">In this talk, I&rsquo;ll walk you through the tricks and best practices to take your data pipeline game to the next level. No boring theory here - we&rsquo;ll be talking real-world use cases.
+Exploring which are the patterns for data pipeline with Airflow+Spark, Airflow+DBT, Airflow+Polars, how to avoid dependencies management on Airflow and resuse DAGs template on our organization.
+Define which are the fundamental concepts of a Data Pipeline, from Data Lineage, Data Observability, Metadata, Data quality, Data auditing and how to integrate it on a Data Pipeline.</div>                                
+                              </div>
+                            <div class="pb-3"><a href="https://eu.communityovercode.org/sessions/2024/modern-data-orchestrators/" class="read-more">Full details</a></div>  
+                            <div id="live-" class="live-button text-center d-none"><a class="btn btn-danger btn-sm" href="" target="_blank">Watch</a></div>
+                        </div>
                         
                     </div>
                 
-                    <div class="time-room room-york">
+                    <div class="time-room room-mirror-lounge">
+                        
+                        <div class="session-item order- track-api--microservices" data-slot='' data-timestart='04 Jun 2024 14:00:00 UTC' data-timeend='04 Jun 2024 14:30:00 UTC' data-track="api--microservices">
+                            <div class="session-time">14:00 - 14:30.</div>
+                            <div class="session-title"><a href="#abs-apache-camel-takes-charge-of-over-1000-interfaces-in-a-seamless-transition-from-oracle-soa-suite" data-bs-toggle="collapse">Apache Camel Takes Charge of Over 1000 Interfaces in a Seamless Transition from Oracle SOA Suite</a></div>
+                            <div class="session-speakers">by Michael Rambichler</div>
+                            <div class="session-track">Track: API &amp; Microservices</div>
+                            <div class="session-track d-sm-none">Room: Mirror Lounge</div>
+                            <div class="collapse card-abstract" id="abs-apache-camel-takes-charge-of-over-1000-interfaces-in-a-seamless-transition-from-oracle-soa-suite">
+                                <div class="my-2 session-abstract">Apache Camel leads a seamless transition, taking control of 1000+ interfaces from Oracle SOA Suite.
+Over the last two years, we have driven forward the integration of all retail systems from a centralised and proprietary system into a microservice-oriented architecture based on Apache Camel and Openshift.
+The previously centralised gateways are now independent interfaces.
+The challenge here was to lift the countless proprietary implementations to a system that is open to all.</div>                                
+                              </div>
+                            <div class="pb-3"><a href="https://eu.communityovercode.org/sessions/2024/apache-camel-takes-charge-of-over-1000-interfaces-in-a-seamless-transition-from-oracle-soa-suite/" class="read-more">Full details</a></div>  
+                            <div id="live-" class="live-button text-center d-none"><a class="btn btn-danger btn-sm" href="" target="_blank">Watch</a></div>
+                        </div>
                         
                     </div>
                 
@@ -918,22 +1537,79 @@
             
             
             <div class="time-row concurrent">
-                <div class="time-label d-sm-none">14:30</div>
+                <div class="time-label d-sm-none">14:40</div>
                     
                 
-                    <div class="time-room room-ballroom-a-b">
+                    <div class="time-room room-melody">
+                        
+                        <div class="session-item order- track-cloudstack" data-slot='' data-timestart='04 Jun 2024 14:40:00 UTC' data-timeend='04 Jun 2024 15:10:00 UTC' data-track="cloudstack">
+                            <div class="session-time">14:40 - 15:10.</div>
+                            <div class="session-title"><a href="#abs-importing-kvm-instances-from-external-kvm-hosts-or-qcow2" data-bs-toggle="collapse">Importing KVM instances from external KVM hosts or QCOW2</a></div>
+                            <div class="session-speakers">by Andrija Panic</div>
+                            <div class="session-track">Track: CloudStack</div>
+                            <div class="session-track d-sm-none">Room: Melody</div>
+                            <div class="collapse card-abstract" id="abs-importing-kvm-instances-from-external-kvm-hosts-or-qcow2">
+                                <div class="my-2 session-abstract">CloudStack recently introduced a few hypervisor migration features, to help cloud operators migrate existing VM workloads into CloudStack. In this session, we are going to see how you can migrate instances from external KVM hosts to KVM hosts managed by CloudStack. Also, we are going to see how we can quickly deploy an instance from a previously prepared qcow2 image.</div>                                
+                              </div>
+                            <div class="pb-3"><a href="https://eu.communityovercode.org/sessions/2024/importing-kvm-instances-from-external-kvm-hosts-or-qcow2/" class="read-more">Full details</a></div>  
+                            <div id="live-" class="live-button text-center d-none"><a class="btn btn-danger btn-sm" href="" target="_blank">Watch</a></div>
+                        </div>
                         
                     </div>
                 
-                    <div class="time-room room-ballroom-c-d">
+                    <div class="time-room room-symphony">
+                        
+                        <div class="session-item order- track-fintech" data-slot='' data-timestart='04 Jun 2024 14:40:00 UTC' data-timeend='04 Jun 2024 15:10:00 UTC' data-track="fintech">
+                            <div class="session-time">14:40 - 15:10.</div>
+                            <div class="session-title"><a href="#abs-fineract-advanced-payment-allocation" data-bs-toggle="collapse">Fineract - Advanced payment allocation</a></div>
+                            <div class="session-speakers">by Adam Saghy</div>
+                            <div class="session-track">Track: Fintech</div>
+                            <div class="session-track d-sm-none">Room: Symphony</div>
+                            <div class="collapse card-abstract" id="abs-fineract-advanced-payment-allocation">
+                                <div class="my-2 session-abstract">Since the first repayment strategy got introduced, many followed, but there was one thing common in them:
+They were hard coding the allocation rules for each transaction type.
+By introducing - part of the 1.9.0 release - the &ldquo;Advanced payment allocation&rdquo; the idea was to have a repayment strategy which was:
+Supporting dynamic configuration of the allocation rules for transaction types
+Supporting configuration of more fine-grained allocation rules for future installments</div>                                
+                              </div>
+                            <div class="pb-3"><a href="https://eu.communityovercode.org/sessions/2024/fineract-advanced-payment-allocation/" class="read-more">Full details</a></div>  
+                            <div id="live-" class="live-button text-center d-none"><a class="btn btn-danger btn-sm" href="" target="_blank">Watch</a></div>
+                        </div>
                         
                     </div>
                 
-                    <div class="time-room room-ballroom-crush">
+                    <div class="time-room room-rhapsody">
+                        
+                        <div class="session-item order- track-data-engineering" data-slot='' data-timestart='04 Jun 2024 15:20:00 UTC' data-timeend='04 Jun 2024 15:50:00 UTC' data-track="data-engineering">
+                            <div class="session-time">15:20 - 15:50.</div>
+                            <div class="session-title"><a href="#abs-apache-sis-library-for-geospatial-applications" data-bs-toggle="collapse">Apache SIS library for geospatial applications</a></div>
+                            <div class="session-speakers">by Martin Desruisseaux</div>
+                            <div class="session-track">Track: Data Engineering</div>
+                            <div class="session-track d-sm-none">Room: Rhapsody</div>
+                            <div class="collapse card-abstract" id="abs-apache-sis-library-for-geospatial-applications">
+                                <div class="my-2 session-abstract">Geospatial data are ubiquitous, but the difficulty of handling them accurately is often under-estimated. Various projects implement their own routines for performing geospatial operations, but not always with awareness about the pitfalls of simple approaches. This talk will present some of the difficulties in mapping &ldquo;real world&rdquo; to digital data. Then we will present some international standards published jointly by the Open Geospatial Consortium (OGC) and the International Organization for Standardization (ISO).</div>                                
+                              </div>
+                            <div class="pb-3"><a href="https://eu.communityovercode.org/sessions/2024/apache-sis-library-for-geospatial-applications/" class="read-more">Full details</a></div>  
+                            <div id="live-" class="live-button text-center d-none"><a class="btn btn-danger btn-sm" href="" target="_blank">Watch</a></div>
+                        </div>
                         
                     </div>
                 
-                    <div class="time-room room-york">
+                    <div class="time-room room-mirror-lounge">
+                        
+                        <div class="session-item order- track-api--microservices" data-slot='' data-timestart='04 Jun 2024 14:40:00 UTC' data-timeend='04 Jun 2024 15:10:00 UTC' data-track="api--microservices">
+                            <div class="session-time">14:40 - 15:10.</div>
+                            <div class="session-title"><a href="#abs-integration-in-the-cloud-era-with-camel-quarkus" data-bs-toggle="collapse">Integration in the cloud era with Camel Quarkus</a></div>
+                            <div class="session-speakers">by Alexandre Gallice</div>
+                            <div class="session-track">Track: API &amp; Microservices</div>
+                            <div class="session-track d-sm-none">Room: Mirror Lounge</div>
+                            <div class="collapse card-abstract" id="abs-integration-in-the-cloud-era-with-camel-quarkus">
+                                <div class="my-2 session-abstract">Apache Camel is the proven integration swiss knife for years. In today&rsquo;s world of workloads moving to the cloud, the need for disparate systems to communicate remains more than ever. This context makes a Kubernetes Java stack like Quarkus a good fit to implement Camel routes.
+In this session, the attendance can first expect a quick reminder about Camel Quarkus basics. Beyond, some day to day useful features will be presented via concrete examples.</div>                                
+                              </div>
+                            <div class="pb-3"><a href="https://eu.communityovercode.org/sessions/2024/integration-in-the-cloud-era-with-camel-quarkus/" class="read-more">Full details</a></div>  
+                            <div id="live-" class="live-button text-center d-none"><a class="btn btn-danger btn-sm" href="" target="_blank">Watch</a></div>
+                        </div>
                         
                     </div>
                 
@@ -945,49 +1621,22 @@
             
             
             <div class="time-row concurrent">
-                <div class="time-label d-sm-none">15:00</div>
+                <div class="time-label d-sm-none">15:20</div>
                     
                 
-                    <div class="time-room room-ballroom-a-b">
+                    <div class="time-room room-melody">
                         
                     </div>
                 
-                    <div class="time-room room-ballroom-c-d">
+                    <div class="time-room room-symphony">
                         
                     </div>
                 
-                    <div class="time-room room-ballroom-crush">
+                    <div class="time-room room-rhapsody">
                         
                     </div>
                 
-                    <div class="time-room room-york">
-                        
-                    </div>
-                
-                
-
-            </div>
-            
-        
-            
-            
-            <div class="time-row concurrent">
-                <div class="time-label d-sm-none">15:30</div>
-                    
-                
-                    <div class="time-room room-ballroom-a-b">
-                        
-                    </div>
-                
-                    <div class="time-room room-ballroom-c-d">
-                        
-                    </div>
-                
-                    <div class="time-room room-ballroom-crush">
-                        
-                    </div>
-                
-                    <div class="time-room room-york">
+                    <div class="time-room room-mirror-lounge">
                         
                     </div>
                 
@@ -999,11 +1648,11 @@
             
             
             <div class="time-row break">
-                <div class="time-label d-sm-none">16:00</div>
+                <div class="time-label d-sm-none">15:50</div>
                 
                     <div class="time-room">
                         <div class="session-item track-break">
-                            <div class="session-time text-center d-none d-sm-block">16:00 - 16:15</div>
+                            <div class="session-time text-center d-none d-sm-block">15:50 - 16:10</div>
                             <div class="session-title text-center font-weight-normal">Afternoon break</div>
                         </div>
                     </div>
@@ -1015,16 +1664,16 @@
             
             
             <div class="time-row room-labels">
-                <div class="time-label d-sm-none">11:00</div>
+                <div class="time-label d-sm-none">16:10</div>
                                 
                   
-                    <div class="mt-1 mb-2 text-center"><h4>Ballroom A-B</h4></div>
+                    <div class="mt-1 mb-2 text-center"><h4>Melody</h4></div>
                   
-                    <div class="mt-1 mb-2 text-center"><h4>Ballroom C-D</h4></div>
+                    <div class="mt-1 mb-2 text-center"><h4>Symphony</h4></div>
                   
-                    <div class="mt-1 mb-2 text-center"><h4>Ballroom crush</h4></div>
+                    <div class="mt-1 mb-2 text-center"><h4>Rhapsody</h4></div>
                   
-                    <div class="mt-1 mb-2 text-center"><h4>York</h4></div>
+                    <div class="mt-1 mb-2 text-center"><h4>Mirror Lounge</h4></div>
                   
                 
 
@@ -1034,49 +1683,22 @@
             
             
             <div class="time-row concurrent">
-                <div class="time-label d-sm-none">16:15</div>
+                <div class="time-label d-sm-none">16:10</div>
                     
                 
-                    <div class="time-room room-ballroom-a-b">
+                    <div class="time-room room-melody">
                         
                     </div>
                 
-                    <div class="time-room room-ballroom-c-d">
+                    <div class="time-room room-symphony">
                         
                     </div>
                 
-                    <div class="time-room room-ballroom-crush">
+                    <div class="time-room room-rhapsody">
                         
                     </div>
                 
-                    <div class="time-room room-york">
-                        
-                    </div>
-                
-                
-
-            </div>
-            
-        
-            
-            
-            <div class="time-row concurrent">
-                <div class="time-label d-sm-none">16:45</div>
-                    
-                
-                    <div class="time-room room-ballroom-a-b">
-                        
-                    </div>
-                
-                    <div class="time-room room-ballroom-c-d">
-                        
-                    </div>
-                
-                    <div class="time-room room-ballroom-crush">
-                        
-                    </div>
-                
-                    <div class="time-room room-york">
+                    <div class="time-room room-mirror-lounge">
                         
                     </div>
                 
@@ -1088,22 +1710,36 @@
             
             
             <div class="time-row concurrent">
-                <div class="time-label d-sm-none">17:15</div>
+                <div class="time-label d-sm-none">16:50</div>
                     
                 
-                    <div class="time-room room-ballroom-a-b">
+                    <div class="time-room room-melody">
                         
                     </div>
                 
-                    <div class="time-room room-ballroom-c-d">
+                    <div class="time-room room-symphony">
                         
                     </div>
                 
-                    <div class="time-room room-ballroom-crush">
+                    <div class="time-room room-rhapsody">
+                        
+                        <div class="session-item order- track-big-data-compute" data-slot='' data-timestart='04 Jun 2024 16:50:00 UTC' data-timeend='04 Jun 2024 17:20:00 UTC' data-track="big-data-compute">
+                            <div class="session-time">16:50 - 17:20.</div>
+                            <div class="session-title"><a href="#abs-" data-bs-toggle="collapse">Anatomy of reading Apache Parquet files (from the Apache Impala perspective)</a></div>
+                            <div class="session-speakers">by Csaba Ringhofer & Daniel Becker</div>
+                            <div class="session-track">Track: Big Data Compute</div>
+                            <div class="session-track d-sm-none">Room: Rhapsody</div>
+                            <div class="collapse card-abstract" id="abs-">
+                                <div class="my-2 session-abstract">Reading file formats efficiently is a crucial part of big data systems - in selective scans data is often only big before hitting the first filter and becomes manageable during the rest of the processing. The talk describes this early stage of query execution in Apache Impala, from reading the bytes of Parquet files on the filesystem to applying predicates and runtime filters on individual rows.
+Apache Impala is a distributed massively parallel analytic query engine written in C++ and Java.</div>                                
+                              </div>
+                            <div class="pb-3"><a href="https://eu.communityovercode.org/sessions/2024/anatomy-apache-parquet-files/" class="read-more">Full details</a></div>  
+                            <div id="live-" class="live-button text-center d-none"><a class="btn btn-danger btn-sm" href="" target="_blank">Watch</a></div>
+                        </div>
                         
                     </div>
                 
-                    <div class="time-room room-york">
+                    <div class="time-room room-mirror-lounge">
                         
                     </div>
                 
@@ -1115,22 +1751,22 @@
             
             
             <div class="time-row concurrent">
-                <div class="time-label d-sm-none">17:45</div>
+                <div class="time-label d-sm-none">17:30</div>
                     
                 
-                    <div class="time-room room-ballroom-a-b">
+                    <div class="time-room room-melody">
                         
                     </div>
                 
-                    <div class="time-room room-ballroom-c-d">
+                    <div class="time-room room-symphony">
                         
                     </div>
                 
-                    <div class="time-room room-ballroom-crush">
+                    <div class="time-room room-rhapsody">
                         
                     </div>
                 
-                    <div class="time-room room-york">
+                    <div class="time-room room-mirror-lounge">
                         
                     </div>
                 
@@ -1229,56 +1865,26 @@
     
 
 </div>
+
 <script>
 
 function showTrack(obj,track) {
 
     if (track == "all") {
-        document.getElementsByClassName("session-item").forEach(block => { block.style.display = 'block' });        
+        document.querySelectorAll('.session-item').forEach(block => { block.style.display = 'block' });
     }
     else {
-        document.getElementsByClassName("session-item").forEach(block => { block.style.display = 'none' });        
-        document.getElementsByClassName("session-item track-"+track).forEach(block => { block.style.display = 'block' });        
+        document.querySelectorAll('.session-item').forEach(block => { block.style.display = 'none' });
+        document.querySelectorAll('.session-item.track-'+track).forEach(block => { block.style.display = 'block' });  
     }
 }
 
 function showDay(obj, id) {
 
-    document.getElementsByClassName("dayblock").forEach(block => { block.style.display = 'none' });
+    document.querySelectorAll('.dayblock').forEach(block => { block.style.display = 'none' });
     document.getElementById("dayblock-"+id).style.display = 'block';
 
 }
-</script>
-
-<script>
-    function checkWatch(item) {
-      let curDate = new Date();
-      let oneMoreHour = new Date(curDate.getTime() + 60*60000);
-      let dateStart = new Date(Date.parse(item.dataset.timestart));
-      let dateEnd = new Date(Date.parse(item.dataset.timeend));
-
-      if (!item.dataset.slot) {
-        return;
-      }
-
-      if (item.dataset.track == "workshop") {
-        return;
-      }
-      console.log("Session: "+item.dataset.slot+". Start: "+dateStart);
-  
-      
-      if (curDate < dateEnd && oneMoreHour > dateStart) {
-        
-        console.log("Show this one");
-        document.getElementById('live-'+item.dataset.slot).classList.remove("d-none");
-      }
-  
-    }
-
-document.querySelectorAll('.session-item').forEach(function(item) {
-    checkWatch(item)
-    });
-  
 </script>
 
   

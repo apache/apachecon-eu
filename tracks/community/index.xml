@@ -17,25 +17,6 @@ Governance in software development tends to exclude valuable insights from indiv
     </item>
     
     <item>
-      <title>Building a Diverse Global Community: Taking Your Local Community to the Global Stage</title>
-      <link>https://eu.communityovercode.org/sessions/2024/building-a-diverse-global-community-taking-your-local-community-to-the-global-stage/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://eu.communityovercode.org/sessions/2024/building-a-diverse-global-community-taking-your-local-community-to-the-global-stage/</guid>
-      <description>In an increasingly interconnected world, the importance of building diverse and inclusive global communities cannot be overstated. This topic explores the journey of taking a local community and expanding its reach to become a vibrant and diverse global community. By examining strategies, best practices, examples of some successful Chinese opensource communities, this session will provide valuable insights into fostering inclusivity, cultural exchange, and collaboration on a global scale.
-Participants will gain a deeper understanding of the challenges and opportunities involved in transitioning a local community to the global stage.</description>
-    </item>
-    
-    <item>
-      <title>Building Healthy Developer Communities: A Versatile Framework for Success</title>
-      <link>https://eu.communityovercode.org/sessions/2024/building-healthy-developer-communities-a-versatile-framework-for-success/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://eu.communityovercode.org/sessions/2024/building-healthy-developer-communities-a-versatile-framework-for-success/</guid>
-      <description>As developer communities grow both in size and number, it can be easy to lose sight of the importance of community health in the development process. Most tech communities guide their community efforts and future work based on NPS scores and feedback forms. Though well intended, these methods do not provide a full view of the current status of their community members or guarantee they are moving towards a direction that benefits their members or fulfills their needs.</description>
-    </item>
-    
-    <item>
       <title>Community census: Understanding users &amp; maintainer personas with a community survey</title>
       <link>https://eu.communityovercode.org/sessions/2024/community-census-understanding-users-maintainer-personas-with-a-community-survey/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -43,15 +24,6 @@ Participants will gain a deeper understanding of the challenges and opportunitie
       <guid>https://eu.communityovercode.org/sessions/2024/community-census-understanding-users-maintainer-personas-with-a-community-survey/</guid>
       <description>It takes a village to run an open source project successfully. A village is usually run by its citizens and governed by some elected officials. In open source we call the citizens &amp;ldquo;users&amp;rdquo; and the people in charge of a project &amp;ldquo;maintainers&amp;rdquo;. To understand the health and sustainability of a project we should take a closer look at the community and not necessarily the code in the first place.
 To understand their demographics a village can run a census.</description>
-    </item>
-    
-    <item>
-      <title>Decoding &#39;Community Over Code&#39;</title>
-      <link>https://eu.communityovercode.org/sessions/2024/decoding-community-over-code/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://eu.communityovercode.org/sessions/2024/decoding-community-over-code/</guid>
-      <description>At the Community Over Code Europe 2024, the annual conference of the Apache Software Foundation, join us for an insightful session on understanding the core principle of &amp;lsquo;Community Over Code&amp;rsquo;. This talk will delve into how this philosophy shapes the foundation&amp;rsquo;s approach to software development. We&amp;rsquo;ll explore the significance of prioritizing a collaborative, inclusive community and how this fosters innovation and sustainability in open source projects. Attendees will learn about the practical implications of this ethos in Apache&amp;rsquo;s day-to-day operations and its impact on the broader open-source ecosystem.</description>
     </item>
     
     <item>
@@ -73,24 +45,6 @@ To understand their demographics a village can run a census.</description>
     </item>
     
     <item>
-      <title>Ethical Algorithms, Licensing Impasses: The Intersection of Free Software and AI openness</title>
-      <link>https://eu.communityovercode.org/sessions/2024/ethical-algorithms/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://eu.communityovercode.org/sessions/2024/ethical-algorithms/</guid>
-      <description>The significance of responsible and ethical AI systems has gained immense prominence on the global stage, underscoring the escalating recognition of its far-reaching impact on societies worldwide. Lately, diverse groups and individuals have transitioned from relying solely on Free Software licenses for their projects to pioneering new forms of licensing solutions which impose restrictions related to fields of endeavour, behaviour, community management and commercial practices. This practice has now spilled over to creation of suo moto ethics codes for AI, leading to creation of licenses with restrictive characteristics.</description>
-    </item>
-    
-    <item>
-      <title>EU policies and regulations affecting open source specialists working in OSPOs</title>
-      <link>https://eu.communityovercode.org/sessions/2024/eu-policies-and-regulations-affecting-open-source-specialists-working-in-ospos/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://eu.communityovercode.org/sessions/2024/eu-policies-and-regulations-affecting-open-source-specialists-working-in-ospos/</guid>
-      <description>The panel will discuss how EU legislation affects the daily work of open source operations (upstream contribution to open source projects, open source compliance, etc) focusing on how these laws impact open source professionals working in OSPOs or similar entities. Panelists will cover some of the recent policy updates, the challenges of staying compliant when managing open source contribution and usage within organizations, and their personal experiences in adapting to the changing European regulatory environment.</description>
-    </item>
-    
-    <item>
       <title>Influencing the Tech Ecosystem through Community Participation.</title>
       <link>https://eu.communityovercode.org/sessions/2024/influencing-the-tech-ecosystem-through-community-participation/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -98,43 +52,6 @@ To understand their demographics a village can run a census.</description>
       <guid>https://eu.communityovercode.org/sessions/2024/influencing-the-tech-ecosystem-through-community-participation/</guid>
       <description>Open source has widely grown to allow different tech career paths to enhance projects with their skills and provide jobs for those interested in working with open source. Open source contribution programs provide opportunities for interested individuals to become professionals.
 Outreachy is a paid and remote internship OS program that empowers, grows talents, and prepares them for career growth. Outreachy provides internships to people subject to systemic bias and impacted by underrepresentation in the technical industry where they are living.</description>
-    </item>
-    
-    <item>
-      <title>Inside the Apache Software Foundation Board</title>
-      <link>https://eu.communityovercode.org/sessions/2024/inside-the-apache-software-foundation-board/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://eu.communityovercode.org/sessions/2024/inside-the-apache-software-foundation-board/</guid>
-      <description>This talk delves into the inner workings of the Apache Software Foundation board, shedding light on its workings and the responsibilities of its board members. Attendees will gain a comprehensive understanding of the ASF board&amp;rsquo;s governance structure, decision-making processes, and its crucial role in overseeing one of the world&amp;rsquo;s largest groups of open-source communities. Drawing from real-life experiences, the speaker will share personal insights, challenges faced, and the rewarding aspects of contributing to ASF&amp;rsquo;s mission.</description>
-    </item>
-    
-    <item>
-      <title>Managing In The Open, Managing Contributions: The challenges of OSPO developers management</title>
-      <link>https://eu.communityovercode.org/sessions/2024/managing-in-the-open-managing-contributions-the-challenges-of-ospo-developers-management/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://eu.communityovercode.org/sessions/2024/managing-in-the-open-managing-contributions-the-challenges-of-ospo-developers-management/</guid>
-      <description>Managing an Open Source Program Office (OSPO) team is undoubtedly a unique experience. In this talk I will discuss the unique challenges and best practices for managing software developers in an OSPO environment. I will cover topics such as managing remote teams, maintaining the career progression of OSPO developers, fostering a culture of collaboration and collaborating with the open source community. I will also explore the role of performance metrics in managing software developers in an OSPO, how to align those metrics withe the goals of the organisation and how to help developers balance the needs of the organisation with the needs of the open source community.</description>
-    </item>
-    
-    <item>
-      <title>Measuring the Impact of Community Events</title>
-      <link>https://eu.communityovercode.org/sessions/2024/measuring-impact-community/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://eu.communityovercode.org/sessions/2024/measuring-impact-community/</guid>
-      <description>One of the mainstays of the open source ecosystem are community events. Open Source Summit, All Things Open, Community Over Code&amp;hellip; all examples of community events with vitality and influence within open source. But unlike more commercially focused events, community events are not as simple to measure in terms of benefits to organizations that participate. Without sales leads or conversions, how does a commercial organization measure the gains of participation? And for community projects, what&amp;rsquo;s the return on investment in running a booth or giving talks at such events?</description>
-    </item>
-    
-    <item>
-      <title>Mentorship programs. Growing new team and community leaders</title>
-      <link>https://eu.communityovercode.org/sessions/2024/mentorship-programs-growing-new-team-and-community-leaders/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://eu.communityovercode.org/sessions/2024/mentorship-programs-growing-new-team-and-community-leaders/</guid>
-      <description>Mentorship and outreach programs are often considered as side projects. Although they are a nice way to spend time and have some fun, one may say they rarely add new long-term contributors to your company project or a community. Is it true? Is it even the main goal? Or is it about team bonding and growing new maintainers and community leaders?
-Let’s talk about organizing mentorship programs so that they help to grow your current community and contributors.</description>
     </item>
     
     <item>
