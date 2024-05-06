@@ -10,7 +10,7 @@
       <h4 class="text-center">{{ .title | markdownify }}</h4>
       <div class="sponsor-strip {{ .slug }} mb-4 py-2">
         {{ range .sponsor }}
-        <div class="sponsor-item mx-3 my-2">
+        <div class="sponsor-item">
           {{ if and (ne .link "") (ne .link "#") }}
           <a href="{{ .link }}" target="_blank"><img src="{{ .logo | relURL }}" alt="" class="img-fluid"></a>
           {{ else }}
@@ -35,10 +35,6 @@
 
     <img src="/images/d&igold.png" class="img-fluid mx-auto d-block" width="350px">
 
-    <br>
-
-    <p style="color: black;" class="text-center">There is a special discount if you attend both events, <a href="mailto:planners@apachecon.com?subject=[EU]">contact us</a> for getting the special discount.
-    </p>
 
 
   </div>

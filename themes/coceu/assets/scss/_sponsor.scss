@@ -24,7 +24,9 @@ section.sponsors {
 }
 
 
-
+.sponsor-item {
+	margin: 1em 3em;
+}
 
 .platinum .sponsor-item {
 	width: 300px;
@@ -43,6 +45,7 @@ section.sponsors {
 }
 
 .community .sponsor-item {
+	margin: 1em 1.5em;
 	width: 180px;
 }
 
