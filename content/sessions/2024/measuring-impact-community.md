@@ -2,6 +2,7 @@
 title: "Measuring the Impact of Community Events"
 speakers:
  - Brian Proffitt
+slug: redhat
 time_start: 2024-06-04 11:50:00
 time_end: 2024-06-04 12:20:00
 track: Community

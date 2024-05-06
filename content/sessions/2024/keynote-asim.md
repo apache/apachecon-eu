@@ -1,5 +1,6 @@
 ---
 title: "Doing for sustainability, what open source did for software"
+slug: keynote-asim 
 aliases:
  - keynote-asin
 speakers:

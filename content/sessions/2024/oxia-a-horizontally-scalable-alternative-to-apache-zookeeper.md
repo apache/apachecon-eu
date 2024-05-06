@@ -5,8 +5,10 @@ speakers:
  - David Kjerrumgaard
 time_start: 2024-06-05 11:50:00
 time_end: 2024-06-05 12:20:00
-tracks:
- - Performance Engineering
+track: Performance Engineering
+day: 3
+timeslot: 6
+room: Symphony
 ---
 
 For over a decade, Apache Zookeeper has played a crucial role in maintaining configuration information and providing synchronization within distributed systems. Its unique ability to provide these features made it the de facto standard for distributed systems within the Apache community.

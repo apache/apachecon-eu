@@ -5,8 +5,10 @@ speakers:
  - Brian Proffitt
 time_start: 2024-06-05 14:00:00
 time_end: 2024-06-05 14:30:00
-tracks:
- - Community
+track: Community
+day: 3
+timeslot: 9
+room: Melody
 ---
 
 There are millions of open source projects people can use and contribute to. Why yours?

@@ -7,13 +7,19 @@ aliases:
 description: Airflow Summit 2023 features more than 90 sessions covering Airflow features, case studies, workshops and community sessions. Check it out!
 
 the_tracks:
- - Community
- - Cassandra
- - Search
- - IoT
- - Big Data Storage
- - Data Engineering
  - API & Microservices
+ - Community
+ - Big Data Compute
+ - Big Data Storage
+ - Cassandra
+ - CloudStack
+ - Data Engineering
+ - Incubator
+ - Fintech
+ - IoT
+ - Performance Engineering
+ - Search
+ - Tomcat, Httpd and other servers
 
 days: 
   - id: 1
@@ -78,7 +84,11 @@ days:
       - id: 15
         time_start: 2024-06-03T17:30:00+01:00
         type: concurrent
-
+      - id: 16
+        time_start: 2024-06-03T17:30:00+01:00
+        time_end: 2024-06-03T18:30:00+01:00
+        type: break
+        name: Birds of a Feather
 
   - id: 2
     title_short: Tuesday
@@ -145,24 +155,69 @@ days:
       - id: 15
         time_start: 2024-06-04T17:30:00+01:00
         type: concurrent
+      - id: 16
+        time_start: 2024-06-04T17:30:00+01:00
+        time_end: 2024-06-04T18:30:00+01:00
+        type: break
+        name: Birds of a Feather
 
 
   - id: 3
-    title_short: Thursday
-    title_full: Thursday, September 21, 2023
-    rooms: ["Trinity 1", "Trinity 2", "Trinity 3", "Trinity 4", "Trinity 5"]
+    title_short: Wednesday
+    title_full: Wednesday June 5, 2024
+    rooms: ["Melody", "Symphony", "Rhapsody", "Mirror Lounge"]
     timeslots: 
       - id: 1
-        time_start: 2023-09-21T09:00:00+01:00
-        type: workshops
+        time_start: 2023-06-05T09:00:00+01:00
+        type: keynote
       - id: 2
-        time_start: 2023-09-21T11:30:00+01:00
-        time_end: 2023-09-21T12:00:00+01:00
+        time_start: 2023-06-05T09:20:00+01:00
+        type: keynote
+      - id: 3
+        time_start: 2023-06-05T09:55:00+01:00
+        type: keynote
+      - id: 4
+        time_start: 2024-06-05T10:25:00+01:00
+        time_end: 2024-06-05T11:10:00+01:00
+        type: break
+        name: Morning break & Poster sessions
+      - id: 4a
+        time_start: 2024-06-05T11:00:00+01:00
+        type: room-labels
+      - id: 5
+        time_start: 2024-06-05T11:10:00+01:00
+        type: concurrent
+      - id: 6
+        time_start: 2024-06-05T11:50:00+01:00
+        type: concurrent
+      - id: 7
+        time_start: 2024-06-05T12:30:00+01:00
+        type: concurrent
+      - id: 8
+        time_start: 2024-06-05T13:00:00+01:00
+        time_end: 2024-06-05T14:00:00+01:00
         type: break
         name: Lunch
-      - id: 3
-        time_start: 2023-09-21T12:00:00+01:00
-        type: workshops
+      - id: 8a
+        time_start: 2024-06-05T11:00:00+01:00
+        type: room-labels
+      - id: 9
+        time_start: 2024-06-05T14:00:00+01:00
+        type: concurrent
+      - id: 10
+        time_start: 2024-06-05T14:40:00+01:00
+        type: concurrent
+      - id: 11
+        time_start: 2024-06-05T15:20:00+01:00
+        type: concurrent
+      - id: 13
+        time_start: 2024-06-05T16:10:00+01:00
+        type: concurrent
+      - id: 14
+        time_start: 2024-06-05T16:50:00+01:00
+        time_end: 2024-06-05T17:20:00+01:00
+        type: break
+        name: Lightning Talks
 
 
 summary: "Welcome to the session program for Airflow Summit."

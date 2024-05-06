@@ -5,8 +5,10 @@ speakers:
  - Craig Russell
 time_start: 2024-06-04 16:50:00
 time_end: 2024-06-04 17:20:00
-tracks:
- - Incubator
+track: Incubator
+day: 2
+timeslot: 14
+room: Symphony
 ---
 
 to submit patches to a podling?

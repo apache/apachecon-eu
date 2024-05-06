@@ -4,12 +4,13 @@ speakers:
  - Dirk-Willem van Gulik
 aliases: 
  - keynote-all-your-code-belongs-to-policy-makers-politicians-and-the-law
+slug: keynote-dirk 
 time_start: 2024-06-05 09:20:00
 time_end: 2024-06-05 09:50:00
-tracks:
- - Keynote
-day: 
-timeslot: 
+track: Keynote
+day: 3
+timeslot: 2
+room: Melody
 
 ---
 

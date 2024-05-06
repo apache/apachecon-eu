@@ -5,8 +5,10 @@ speakers:
  - Jean-frederic Clere
 time_start: 2024-06-05 11:10:00
 time_end: 2024-06-05 11:40:00
-tracks:
- - Tomcat, Httpd and other servers
+track: Tomcat, Httpd and other servers
+day: 3
+timeslot: 5
+room: Mirror Lounge
 ---
 
 As HTTP/3 looks ready we will look to where we are with it in our servers.

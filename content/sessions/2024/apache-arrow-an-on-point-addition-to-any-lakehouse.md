@@ -5,8 +5,10 @@ speakers:
  - Oz Katz
 time_start: 2024-06-05 14:00:00
 time_end: 2024-06-05 14:30:00
-tracks:
- - Data Engineering
+track: Data Engineering
+day: 3
+timeslot: 9
+room: Rhapsody
 ---
 
 Apache Arrow has become a de-facto standard for representing large datasets and a very useful tool in any modern data engineering stack. While it allows different technologies to better communicate and share data, the ecosystem around it enables much more! 

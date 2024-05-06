@@ -3,10 +3,13 @@ title: "Getting Started with the Micronaut® Framework"
 slug: getting-started-with-the-micronaut-r-framework
 speakers:
  - Sergio del Amo
-time_start: 2024-06-05 16:10:00
-time_end: 2024-06-05 16:40:00
-tracks:
- - Groovy
+time_start: 2024-06-05 15:20:00
+time_end: 2024-06-05 16:10:00
+track: Groovy
+day: 3
+timeslot: 11
+room: Mirror Lounge
+
 ---
 
 In this session, Sergio del Amo introduces the Micronaut® framework and demonstrates how the Framework's unique compile-time approach enables the development of ultra-lightweight Java applications.

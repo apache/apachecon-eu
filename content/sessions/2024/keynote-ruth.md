@@ -1,5 +1,6 @@
 ---
 title: "From Local Roots to Global Impact: Building an Inclusive Open Source Community in Africa"
+slug: keynote-ruth
 speakers:
  - Ruth Ikegah
 time_start: 2024-06-04 09:20:00

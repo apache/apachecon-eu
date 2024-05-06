@@ -5,8 +5,10 @@ speakers:
  - Rich Bowen
 time_start: 2024-06-05 11:50:00
 time_end: 2024-06-05 12:20:00
-tracks:
- - Community
+track: Community
+day: 3
+timeslot: 6
+room: Melody
 ---
 
 For those of us who already know how important open source is, it can be challenging to persuasively make the case to management, because we assume that everyone already knows the basics. This can work against us, confusing our audience and making us come across as condescending or concerned about irrelevant lofty philosophical points.

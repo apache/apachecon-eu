@@ -5,8 +5,11 @@ speakers:
  - Niklas Merz
 time_start: 2024-06-05 16:10:00
 time_end: 2024-06-05 16:40:00
-tracks:
- - Community
+track: Community
+day: 3
+timeslot: 13
+room: Melody
+
 ---
 
 It takes a village to run an open source project successfully. A village is usually run by its citizens and governed by some elected officials. In open source we call the citizens "users" and the people in charge of a project "maintainers". To understand the health and sustainability of a project we should take a closer look at the community and not necessarily the code in the first place.

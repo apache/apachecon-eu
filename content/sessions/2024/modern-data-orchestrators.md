@@ -3,8 +3,8 @@ title: "Modern Data Orchestrators"
 slug: modern-data-orchestrators
 speakers:
  - Riccardo Amadio
-time_start: 2024-06-04 14:40:00
-time_end: 2024-06-04 15:10:00
+time_start: 2024-06-04 14:00:00
+time_end: 2024-06-04 14:30:00
 track: Data Engineering
 day: 2
 timeslot: 9

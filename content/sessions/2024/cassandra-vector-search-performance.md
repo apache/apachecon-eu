@@ -1,5 +1,6 @@
 ---
 title: "Cassandra Vector Search Performance Tuning"
+slug: cassandra-vector
 speakers:
  - Uri Smiley
  - Alexander Laye

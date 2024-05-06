@@ -2,10 +2,13 @@
 title: "To Toot or not to Toot: That is the question"
 speakers:
  - Sherae Daniel
+slug: keynote-sherae 
 time_start: 2024-06-05 09:55:00
-time_end: 2024-06-05 10:30:00
-tracks:
- - Keynote
+time_end: 2024-06-05 10:25:00
+track: Keynote
+day: 3
+timeslot: 3
+room: Melody
 
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "Anatomy of reading Apache Parquet files (from the Apache Impala perspective)"
+slug: anatomy-parquet-files
 speakers:
  - Csaba Ringhofer
  - Daniel Becker

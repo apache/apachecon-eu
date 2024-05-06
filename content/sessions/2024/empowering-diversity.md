@@ -1,5 +1,6 @@
 ---
 title: "Empowering Diversity in the community:The Apache Software Foundation's Mentorship"
+slug: empowering-diversity
 speakers:
  - Kanchana Welagedara
 time_start: 2024-06-03 16:50:00

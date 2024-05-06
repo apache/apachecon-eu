@@ -5,8 +5,10 @@ speakers:
  - Shu Kit Chan
 time_start: 2024-06-05 12:30:00
 time_end: 2024-06-05 13:00:00
-tracks:
- - Tomcat, Httpd and other servers
+track: Tomcat, Httpd and other servers
+day: 3
+timeslot: 7
+room: Mirror Lounge
 ---
 
 The WebAssembly (Wasm) plugin for Apache Traffic Server (ATS) allows WebAssembly modules following the "proxy-wasm" specification to be run on ATS.

@@ -3,8 +3,8 @@ title: "Apache SIS library for geospatial applications"
 slug: apache-sis-library-for-geospatial-applications
 speakers:
  - Martin Desruisseaux
-time_start: 2024-06-04 15:20:00
-time_end: 2024-06-04 15:50:00
+time_start: 2024-06-04 14:40:00
+time_end: 2024-06-04 15:10:00
 track: Data Engineering
 day: 2
 timeslot: 10
