@@ -51,7 +51,7 @@ track = "tracks"
 
 [[menu.main]]
   name = "Program"
-  URL = "/schedule"
+  URL = "/program"
   weight = 2
 
 [[menu.main]]
