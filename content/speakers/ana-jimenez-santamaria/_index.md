@@ -3,7 +3,7 @@ title: "Ana Jiménez Santamaría"
 designation: "OSPO Program Manager"
 images:
  - images/speakers/ana-jimenez-santamaria.jpg
-linkedin: https://www.linkedin.com/in/ana-jimenez-santamaria
+linkedin: https://www.linkedin.com/in/ana-jim%C3%A9nez-santamar%C3%ADa/
 events:
  - 2024
 featured: true
