@@ -8,10 +8,10 @@
     <language>en</language><atom:link href="https://eu.communityovercode.org/speakers/daniel-becker/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Anatomy of reading Apache Parquet files (from the Apache Impala perspective)</title>
-      <link>https://eu.communityovercode.org/sessions/2024/anatomy-apache-parquet-files/</link>
+      <link>https://eu.communityovercode.org/sessions/2024/anatomy-parquet-files/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://eu.communityovercode.org/sessions/2024/anatomy-apache-parquet-files/</guid>
+      <guid>https://eu.communityovercode.org/sessions/2024/anatomy-parquet-files/</guid>
       <description>Reading file formats efficiently is a crucial part of big data systems - in selective scans data is often only big before hitting the first filter and becomes manageable during the rest of the processing. The talk describes this early stage of query execution in Apache Impala, from reading the bytes of Parquet files on the filesystem to applying predicates and runtime filters on individual rows.
 Apache Impala is a distributed massively parallel analytic query engine written in C++ and Java.</description>
     </item>

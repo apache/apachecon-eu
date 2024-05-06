@@ -369,10 +369,10 @@ Europe leads that pack with the, now final, Cyber Resilience Act and the Product
     
     <item>
       <title>Anatomy of reading Apache Parquet files (from the Apache Impala perspective)</title>
-      <link>https://eu.communityovercode.org/sessions/2024/anatomy-apache-parquet-files/</link>
+      <link>https://eu.communityovercode.org/sessions/2024/anatomy-parquet-files/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://eu.communityovercode.org/sessions/2024/anatomy-apache-parquet-files/</guid>
+      <guid>https://eu.communityovercode.org/sessions/2024/anatomy-parquet-files/</guid>
       <description>Reading file formats efficiently is a crucial part of big data systems - in selective scans data is often only big before hitting the first filter and becomes manageable during the rest of the processing. The talk describes this early stage of query execution in Apache Impala, from reading the bytes of Parquet files on the filesystem to applying predicates and runtime filters on individual rows.
 Apache Impala is a distributed massively parallel analytic query engine written in C++ and Java.</description>
     </item>
@@ -385,6 +385,15 @@ Apache Impala is a distributed massively parallel analytic query engine written 
       <guid>https://eu.communityovercode.org/sessions/2024/apache-arrow-an-on-point-addition-to-any-lakehouse/</guid>
       <description>Apache Arrow has become a de-facto standard for representing large datasets and a very useful tool in any modern data engineering stack. While it allows different technologies to better communicate and share data, the ecosystem around it enables much more!
 In this talk we’ll cover how Arrow interacts with Apache Spark - from allowing PySpark to interoperate with other Python data libraries, to building data-driven applications with the recent addition of Spark Connect.</description>
+    </item>
+    
+    <item>
+      <title>Apache Build Observability</title>
+      <link>https://eu.communityovercode.org/sessions/2024/gradle/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eu.communityovercode.org/sessions/2024/gradle/</guid>
+      <description>With more than 300 ASF projects being built thousands of times by developers and CI machines every day, making informed decisions about where to put the attention to accelerate build and test feedback cycles and increase the stability of the build process requires deep and holistic build data from which actionable insights can be derived. You will learn how Develocity aggregates the build data captured from dozens of Apache projects and &amp;gt;30k builds every week, surfacing surprising and interesting insights about how these projects are built and how the building of the software can be improved.</description>
     </item>
     
     <item>
@@ -508,10 +517,10 @@ CIDR filtering authorizer provides capability for admins to configure allow or d
     
     <item>
       <title>Cassandra Vector Search Performance Tuning</title>
-      <link>https://eu.communityovercode.org/sessions/2024/cassandra-vector-search-performance/</link>
+      <link>https://eu.communityovercode.org/sessions/2024/cassandra-vector/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://eu.communityovercode.org/sessions/2024/cassandra-vector-search-performance/</guid>
+      <guid>https://eu.communityovercode.org/sessions/2024/cassandra-vector/</guid>
       <description>Cassandra 5.0 now incorporates vector search capabilities powered by DiskANN, an advanced technology developed by Microsoft Research. In this session, we are will demonstrate the vector search performance of Cassandra 5.0, juxtaposed with other leading databases. Our benchmarking platform will be utilized to assess a variety of key metrics, including I/O performance as well as the precision and recall accuracy of the search results.
 Furthermore, the session will delve into optimization strategies for Cassandra.</description>
     </item>
@@ -904,10 +913,10 @@ In my session I would like to rely on the Extension Pack for Apache Camel which 
     
     <item>
       <title>Measuring the Impact of Community Events</title>
-      <link>https://eu.communityovercode.org/sessions/2024/measuring-impact-community/</link>
+      <link>https://eu.communityovercode.org/sessions/2024/redhat/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://eu.communityovercode.org/sessions/2024/measuring-impact-community/</guid>
+      <guid>https://eu.communityovercode.org/sessions/2024/redhat/</guid>
       <description>One of the mainstays of the open source ecosystem are community events. Open Source Summit, All Things Open, Community Over Code&amp;hellip; all examples of community events with vitality and influence within open source. But unlike more commercially focused events, community events are not as simple to measure in terms of benefits to organizations that participate. Without sales leads or conversions, how does a commercial organization measure the gains of participation? And for community projects, what&amp;rsquo;s the return on investment in running a booth or giving talks at such events?</description>
     </item>
     

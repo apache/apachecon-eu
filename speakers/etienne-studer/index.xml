@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Etienne Studer on Community Over Code Europe</title>
+    <link>https://eu.communityovercode.org/speakers/etienne-studer/</link>
+    <description>Recent content in Etienne Studer on Community Over Code Europe</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language><atom:link href="https://eu.communityovercode.org/speakers/etienne-studer/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Apache Build Observability</title>
+      <link>https://eu.communityovercode.org/sessions/2024/gradle/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eu.communityovercode.org/sessions/2024/gradle/</guid>
+      <description>With more than 300 ASF projects being built thousands of times by developers and CI machines every day, making informed decisions about where to put the attention to accelerate build and test feedback cycles and increase the stability of the build process requires deep and holistic build data from which actionable insights can be derived. You will learn how Develocity aggregates the build data captured from dozens of Apache projects and &amp;gt;30k builds every week, surfacing surprising and interesting insights about how these projects are built and how the building of the software can be improved.</description>
+    </item>
+    
+  </channel>
+</rss>

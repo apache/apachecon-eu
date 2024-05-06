@@ -160,7 +160,7 @@
   </url><url>
     <loc>https://eu.communityovercode.org/speakers/ana-jimenez-santamaria/</loc>
   </url><url>
-    <loc>https://eu.communityovercode.org/sessions/2024/anatomy-apache-parquet-files/</loc>
+    <loc>https://eu.communityovercode.org/sessions/2024/anatomy-parquet-files/</loc>
   </url><url>
     <loc>https://eu.communityovercode.org/speakers/andrija-panic/</loc>
   </url><url>
@@ -171,6 +171,8 @@
     <loc>https://eu.communityovercode.org/speakers/anton-okolnychyi/</loc>
   </url><url>
     <loc>https://eu.communityovercode.org/sessions/2024/apache-arrow-an-on-point-addition-to-any-lakehouse/</loc>
+  </url><url>
+    <loc>https://eu.communityovercode.org/sessions/2024/gradle/</loc>
   </url><url>
     <loc>https://eu.communityovercode.org/sessions/2024/apache-camel-takes-charge-of-over-1000-interfaces-in-a-seamless-transition-from-oracle-soa-suite/</loc>
   </url><url>
@@ -186,8 +188,6 @@
   </url><url>
     <loc>https://eu.communityovercode.org/speakers/aparna-sundar/</loc>
   </url><url>
-    <loc>https://eu.communityovercode.org/tracks/api-microservices/</loc>
-  </url><url>
     <loc>https://eu.communityovercode.org/sessions/2024/architecting-applications-with-multiple-open-source-big-data-technologies/</loc>
   </url><url>
     <loc>https://eu.communityovercode.org/speakers/atita-arora/</loc>
@@ -197,8 +197,6 @@
     <loc>https://eu.communityovercode.org/speakers/attila-turoczy/</loc>
   </url><url>
     <loc>https://eu.communityovercode.org/speakers/bertrand-delacretaz/</loc>
-  </url><url>
-    <loc>https://eu.communityovercode.org/tracks/big-data-compute/</loc>
   </url><url>
     <loc>https://eu.communityovercode.org/speakers/boris-stoyanov/</loc>
   </url><url>
@@ -218,7 +216,7 @@
   </url><url>
     <loc>https://eu.communityovercode.org/sessions/2024/cassandra-cidr-filtering-authorizer-cep-33/</loc>
   </url><url>
-    <loc>https://eu.communityovercode.org/sessions/2024/cassandra-vector-search-performance/</loc>
+    <loc>https://eu.communityovercode.org/sessions/2024/cassandra-vector/</loc>
   </url><url>
     <loc>https://eu.communityovercode.org/categories/</loc>
   </url><url>
@@ -230,11 +228,7 @@
   </url><url>
     <loc>https://eu.communityovercode.org/speakers/claude-warren/</loc>
   </url><url>
-    <loc>https://eu.communityovercode.org/tracks/cloudstack/</loc>
-  </url><url>
     <loc>https://eu.communityovercode.org/coc/</loc>
-  </url><url>
-    <loc>https://eu.communityovercode.org/tracks/community/</loc>
   </url><url>
     <loc>https://eu.communityovercode.org/sessions/2024/community-census-understanding-users-maintainer-personas-with-a-community-survey/</loc>
   </url><url>
@@ -247,8 +241,6 @@
     <loc>https://eu.communityovercode.org/speakers/daniel-augusto-veronezi-salvador/</loc>
   </url><url>
     <loc>https://eu.communityovercode.org/speakers/daniel-becker/</loc>
-  </url><url>
-    <loc>https://eu.communityovercode.org/tracks/data-engineering/</loc>
   </url><url>
     <loc>https://eu.communityovercode.org/sessions/2024/data-enrichment-patterns-with-apache-flink/</loc>
   </url><url>
@@ -290,6 +282,8 @@
   </url><url>
     <loc>https://eu.communityovercode.org/sessions/2024/ethical-algorithms/</loc>
   </url><url>
+    <loc>https://eu.communityovercode.org/speakers/etienne-studer/</loc>
+  </url><url>
     <loc>https://eu.communityovercode.org/sessions/2024/eu-policies-and-regulations-affecting-open-source-specialists-working-in-ospos/</loc>
   </url><url>
     <loc>https://eu.communityovercode.org/events/</loc>
@@ -301,8 +295,6 @@
     <loc>https://eu.communityovercode.org/sessions/2024/fineract-advanced-payment-allocation/</loc>
   </url><url>
     <loc>https://eu.communityovercode.org/sessions/2024/fineract-scalability-improvements/</loc>
-  </url><url>
-    <loc>https://eu.communityovercode.org/tracks/fintech/</loc>
   </url><url>
     <loc>https://eu.communityovercode.org/speakers/floor-drees/</loc>
   </url><url>
@@ -319,8 +311,6 @@
     <loc>https://eu.communityovercode.org/speakers/glaucia-esppenchutz/</loc>
   </url><url>
     <loc>https://eu.communityovercode.org/speakers/greg-brown/</loc>
-  </url><url>
-    <loc>https://eu.communityovercode.org/tracks/groovy/</loc>
   </url><url>
     <loc>https://eu.communityovercode.org/speakers/gyula-fora/</loc>
   </url><url>
@@ -343,8 +333,6 @@
     <loc>https://eu.communityovercode.org/sessions/2024/increasing-adoption-and-achieving-financial-inclusion-through-dpi/</loc>
   </url><url>
     <loc>https://eu.communityovercode.org/sessions/2024/incremental-snapshots-backups-in-kvm-plugin-of-apache-cloudstack/</loc>
-  </url><url>
-    <loc>https://eu.communityovercode.org/tracks/incubator/</loc>
   </url><url>
     <loc>https://eu.communityovercode.org/sessions/2024/influencing-the-tech-ecosystem-through-community-participation/</loc>
   </url><url>
@@ -375,8 +363,6 @@
     <loc>https://eu.communityovercode.org/speakers/kanchana-welagedara/</loc>
   </url><url>
     <loc>https://eu.communityovercode.org/speakers/karin-safra/</loc>
-  </url><url>
-    <loc>https://eu.communityovercode.org/tracks/keynote/</loc>
   </url><url>
     <loc>https://eu.communityovercode.org/speakers/kyle-hoondert/</loc>
   </url><url>
@@ -410,7 +396,7 @@
   </url><url>
     <loc>https://eu.communityovercode.org/speakers/maxim-muzafarov/</loc>
   </url><url>
-    <loc>https://eu.communityovercode.org/sessions/2024/measuring-impact-community/</loc>
+    <loc>https://eu.communityovercode.org/sessions/2024/redhat/</loc>
   </url><url>
     <loc>https://eu.communityovercode.org/sessions/2024/mentorship-programs-growing-new-team-and-community-leaders/</loc>
   </url><url>
@@ -475,8 +461,6 @@
     <loc>https://eu.communityovercode.org/speakers/paul-brebner/</loc>
   </url><url>
     <loc>https://eu.communityovercode.org/speakers/paul-king/</loc>
-  </url><url>
-    <loc>https://eu.communityovercode.org/tracks/performance-engineering/</loc>
   </url><url>
     <loc>https://eu.communityovercode.org/speakers/peter-rozsa/</loc>
   </url><url>
@@ -553,8 +537,6 @@
     <loc>https://eu.communityovercode.org/speakers/tomas-ferreiro/</loc>
   </url><url>
     <loc>https://eu.communityovercode.org/sessions/2024/tomcat-11-and-jakarta-ee-11/</loc>
-  </url><url>
-    <loc>https://eu.communityovercode.org/tracks/tomcat-httpd-and-other-servers/</loc>
   </url><url>
     <loc>https://eu.communityovercode.org/tracks/</loc>
   </url><url>
