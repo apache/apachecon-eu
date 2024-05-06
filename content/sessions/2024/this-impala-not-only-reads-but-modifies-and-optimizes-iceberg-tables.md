@@ -7,15 +7,17 @@ speakers:
  - Noémi Pap-Takács
 time_start: 2024-06-03 16:50:00
 time_end: 2024-06-03 17:20:00
-tracks:
- - Big Data Storage
+track: Big Data Storage
+day: 1
+timeslot: 14
+room: Rhapsody
 ---
 
 Apache Impala is a distributed, massively parallel query engine for big data. Initially, it focused on fast query execution on top of large datasets that were ingested via long-running batch jobs. The table schema and the ingested data typically remained unchanged, and row-level modifications were impractical to say the least.
  
  
  
- Today's expectations for modern data warehouse engines have risen significantly. Users now want to have RDBMS-like capabilities in their data warehouses. E.g., they often need to comply with regulations like GDPR or CCPA, i.e. they need to be able to remove or update records belonging to certain individuals.
+Today's expectations for modern data warehouse engines have risen significantly. Users now want to have RDBMS-like capabilities in their data warehouses. E.g., they often need to comply with regulations like GDPR or CCPA, i.e. they need to be able to remove or update records belonging to certain individuals.
  
  
  

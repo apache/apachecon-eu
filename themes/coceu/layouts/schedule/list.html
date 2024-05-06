@@ -8,7 +8,7 @@
     <h3 class="mt-4">Filter by track</h3> 
     <div class="color-code-list">
         <div id="track-all" class="btn color-code-item track-all" onclick="showTrack(this,'all')">All</div>
-        {{ range .Params.tracks }}
+        {{ range .Params.the_tracks }}
         <button id="track-{{ anchorize . }}" type="button" class="btn color-code-item track-{{ anchorize . }}" onclick="showTrack(this,'{{ anchorize . }}')">{{ . }}</button>
         {{ end }}
     </div>
@@ -48,14 +48,14 @@
                         {{ range sort (where (where (where (where $.Site.Pages "Section" "sessions") ".Params.day" $curr_day ) ".Params.timeslot" $time_id) ".Params.room" . ) ".Params.timeorder" }}
                         <div class="session-item order-{{ .Params.timeorder }} track-{{anchorize .Params.track}}" data-slot='{{.Params.slot}}' data-timestart='{{ with .Params.time_start | time }}{{ .Format "02 Jan 2006 15:04:05 MST" }}{{ end }}' data-timeend='{{ with .Params.time_end | time }}{{ .Format "02 Jan 2006 15:04:05 MST" }}{{ end }}' data-track="{{ anchorize .Params.track }}">
                             <div class="session-time">{{ with .Params.time_start | time }}{{ .Format "15:04" }}{{ end }}{{ with .Params.time_end | time }} - {{ .Format "15:04" }}{{ end }}.</div>
-                            <div class="session-title"><a href="#abs-{{.Params.slug}}" target="_blank" data-toggle="collapse">{{ .Title }}</a></div>
+                            <div class="session-title"><a href="#abs-{{.Params.slug}}" data-bs-toggle="collapse">{{ .Title }}</a></div>
                             <div class="session-speakers">{{ with .Params.speakers }}by {{ delimit . ", " " & " }}{{ end }}</div>
                             <div class="session-track">{{ with .Params.track }}Track: {{.}}{{ end }}</div>
                             <div class="session-track d-sm-none">Room: {{ .Params.room }}</div>
                             <div class="collapse card-abstract" id="abs-{{.Params.slug}}">
                                 <div class="my-2 session-abstract">{{ .Summary }}</div>                                
                               </div>
-                            <div class="pb-3"><a href="{{.Permalink}}" class="read-more">See details</a></div>  
+                            <div class="pb-3"><a href="{{.Permalink}}" class="read-more">Full details</a></div>  
                             <div id="live-{{ .Params.slot }}" class="live-button text-center d-none"><a class="btn btn-danger btn-sm" href="{{ .Params.live_url }}" target="_blank">Watch</a></div>
                         </div>
                         {{ end }}
@@ -70,56 +70,26 @@
     {{ end }}
 
 </div>
+
 <script>
 
 function showTrack(obj,track) {
 
     if (track == "all") {
-        document.getElementsByClassName("session-item").forEach(block => { block.style.display = 'block' });        
+        document.querySelectorAll('.session-item').forEach(block => { block.style.display = 'block' });
     }
     else {
-        document.getElementsByClassName("session-item").forEach(block => { block.style.display = 'none' });        
-        document.getElementsByClassName("session-item track-"+track).forEach(block => { block.style.display = 'block' });        
+        document.querySelectorAll('.session-item').forEach(block => { block.style.display = 'none' });
+        document.querySelectorAll('.session-item.track-'+track).forEach(block => { block.style.display = 'block' });  
     }
 }
 
 function showDay(obj, id) {
 
-    document.getElementsByClassName("dayblock").forEach(block => { block.style.display = 'none' });
+    document.querySelectorAll('.dayblock').forEach(block => { block.style.display = 'none' });
     document.getElementById("dayblock-"+id).style.display = 'block';
 
 }
-</script>
-
-<script>
-    function checkWatch(item) {
-      let curDate = new Date();
-      let oneMoreHour = new Date(curDate.getTime() + 60*60000);
-      let dateStart = new Date(Date.parse(item.dataset.timestart));
-      let dateEnd = new Date(Date.parse(item.dataset.timeend));
-
-      if (!item.dataset.slot) {
-        return;
-      }
-
-      if (item.dataset.track == "workshop") {
-        return;
-      }
-      console.log("Session: "+item.dataset.slot+". Start: "+dateStart);
-  
-      // Check if it finish time is not past and if start time is within one hour of now.
-      if (curDate < dateEnd && oneMoreHour > dateStart) {
-        // Remove d-none class so that the button shows up.
-        console.log("Show this one");
-        document.getElementById('live-'+item.dataset.slot).classList.remove("d-none");
-      }
-  
-    }
-
-document.querySelectorAll('.session-item').forEach(function(item) {
-    checkWatch(item)
-    });
-  
 </script>
 
   

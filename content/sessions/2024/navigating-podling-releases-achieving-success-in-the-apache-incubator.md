@@ -5,8 +5,11 @@ speakers:
  - Justin Mclean
 time_start: 2024-06-03 16:10:00
 time_end: 2024-06-03 16:40:00
-tracks:
- - Incubator
+track: Incubator
+day: 1
+timeslot: 13
+room: Symphony
+
 ---
 
 Discover the keys to success when releasing a podling within the Apache Incubator. This talk explores the crucial aspects that the incubator PMC looks for in every release, providing practical tips to pass the IPMC vote and move your project closer to graduation.

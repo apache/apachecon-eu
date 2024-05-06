@@ -5,13 +5,15 @@ speakers:
  - Michael Rambichler
 time_start: 2024-06-04 14:00:00
 time_end: 2024-06-04 14:30:00
-tracks:
- - API & Microservices
+track: API & Microservices
+day: 2
+timeslot: 9
+room: Mirror Lounge
 ---
 
 Apache Camel leads a seamless transition, taking control of 1000+ interfaces from Oracle SOA Suite.
  
- Over the last two years, we have driven forward the integration of all retail systems from a centralised and proprietary system into a microservice-oriented architecture based on Apache Camel and Openshift.
+Over the last two years, we have driven forward the integration of all retail systems from a centralised and proprietary system into a microservice-oriented architecture based on Apache Camel and Openshift.
  
  
  

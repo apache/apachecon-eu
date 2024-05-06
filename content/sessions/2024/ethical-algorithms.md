@@ -3,10 +3,13 @@ title: "Ethical Algorithms, Licensing Impasses: The Intersection of Free Softwar
 slug: ethical-algorithms
 speakers:
  - Niharika Singhal
-time_start: 2024-06-05 14:00:00
-time_end: 2024-06-05 14:30:00
-tracks:
- - Community
+time_start: 2024-06-05 11:50:00
+time_end: 2024-06-05 12:20:00
+track: Community
+day: 1
+timeslot: 6
+room: Melody
+
 ---
 
 The significance of responsible and ethical AI systems has gained immense prominence on the global stage, underscoring the escalating recognition of its far-reaching impact on societies worldwide. Lately, diverse groups and individuals have transitioned from relying solely on Free Software licenses for their projects to pioneering new forms of licensing solutions which impose restrictions related to fields of endeavour, behaviour, community management and commercial practices. This practice has now spilled over to creation of suo moto ethics codes for AI, leading to creation of licenses with restrictive characteristics.

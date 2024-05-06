@@ -117,6 +117,7 @@
 	padding: 0.8em;  
 	border-radius: 10px;
 	font-size: 16px;
+	background-color: #e0e0e0;
 
 	@media (min-width: 576px) {
 		height:95%;
@@ -126,7 +127,11 @@
 .session-time {
 	white-space: nowrap;
 	font-size: 0.8em;
-	color: #606060;
+	color: #404040;
+}
+
+.track-break .session-time {
+	color: white;
 }
 
 .session-speakers{
@@ -137,7 +142,7 @@
 .session-abstract {
 	font-size: 0.8em;
 	line-height: 120%;
-
+	color: #505050;
 }
 
 .session-room {
@@ -178,28 +183,9 @@
 
   
 .track-break {
-	background-color: #d0d0d0a0;
+	background-color: #d0d0d080;
 }
   
-.track-keynote, .track-panel {
-	background-color: #ff000020;
-	border: 2px solid #ff0000;
-}
-	
-.track-use-cases {
-	background-color: #40d9ff20;
-   	border: 2px solid #40d9ff;
-}
-
-.track-lineage--quality {
-	background-color: #f7fa1120;
-	border: 2px solid #f7fa11;
-}
-  
-.track-community {
-	background-color: #fc6a0320;
-	border: 2px solid #fc6a03;
-}
 
 .track-airflow-basics {
 	background-color: #62fdd120;
@@ -258,6 +244,7 @@
     margin-right: 1em;
 	color: #202020;
 	margin-bottom: 1em;
+	background-color: #e0e0e0;
 }
 
 .session-meta {

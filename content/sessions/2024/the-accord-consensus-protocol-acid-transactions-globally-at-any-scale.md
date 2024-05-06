@@ -5,8 +5,10 @@ speakers:
  - Mick Semb Wever
 time_start: 2024-06-03 11:50:00
 time_end: 2024-06-03 12:20:00
-tracks:
- - Cassandra
+track: Cassandra
+day: 1
+timeslot: 6
+room: Symphony
 ---
 
 The Accord Consensus Protocol, providing global leaderless single-network-round-trip consensus using commodity clocks.

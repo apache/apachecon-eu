@@ -5,8 +5,10 @@ speakers:
  - Alessandro Benedetti
 time_start: 2024-06-03 11:50:00
 time_end: 2024-06-03 12:20:00
-tracks:
- - Search
+track: Search
+day: 1
+timeslot: 6
+room: Rhapsody
 ---
 
 Vector-based search gained incredible popularity in the last few years: Large Language Models fine-tuned for sentence similarity proved to be quite effective in encoding text to vectors and representing some of the semantics of sentences in a numerical form. 

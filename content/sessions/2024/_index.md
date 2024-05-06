@@ -1,6 +1,6 @@
 ---
 title: Community Over Code EU 2024 sessions
-time_start: 2023-09-19T09:00:00.000Z
+time_start: 2024-06-03T09:00:00.000Z
 
 ---
 

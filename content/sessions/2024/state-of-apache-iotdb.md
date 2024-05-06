@@ -5,8 +5,11 @@ speakers:
  - Julian Feinauer
 time_start: 2024-06-03 11:10:00
 time_end: 2024-06-03 11:40:00
-tracks:
- - IoT
+track: IoT
+day: 1
+timeslot: 5
+room: Mirror Lounge
+
 ---
 
 Apache IoTDB, a time series database focused on IoT workloads. At the end of 2022 the major version 1.0 was released which containted many major changes, e.g. a completely new cluster module, new export and import options and new APIS to integrate with Apache IoTDB.

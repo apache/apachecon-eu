@@ -5,8 +5,10 @@ speakers:
  - Riccardo Amadio
 time_start: 2024-06-04 11:50:00
 time_end: 2024-06-04 12:20:00
-tracks:
- - Big Data Storage
+track: Big Data Storage
+day: 2
+timeslot: 6
+room: Melody
 ---
 
 "In the evolving landscape of data platforms, the decoupling of compute and storage has led to the emergence of open data systems free from vendor constraints. However, this shift towards ""modularity"" brings its own set of challenges. The intricate task of establishing effective access controls within table-format architectures proves to be complex. Despite data residing in the cloud and theoretically accessible from anywhere, the existing friction impedes seamless accessibility.

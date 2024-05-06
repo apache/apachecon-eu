@@ -5,8 +5,10 @@ speakers:
  - Adam Saghy
 time_start: 2024-06-04 14:40:00
 time_end: 2024-06-04 15:10:00
-tracks:
- - Fintech
+track: Fintech
+day: 2
+timeslot: 10
+room: Symphony
 ---
 
 Since the first repayment strategy got introduced, many followed, but there was one thing common in them:

@@ -5,8 +5,11 @@ speakers:
  - Navendu Pottekkat
 time_start: 2024-06-03 15:20:00
 time_end: 2024-06-03 15:50:00
-tracks:
- - API & Microservices
+track: API & Microservices
+day: 1
+timeslot: 11
+room: Mirror Lounge
+
 ---
 
 Why do you need another API to handle external traffic when you have the stable Kubernetes Ingress API and dozens of implementations? What problems of the Ingress API does the new Gateway API solve? Does this mean the end of the Ingress API?

@@ -5,8 +5,10 @@ speakers:
  - David Higgins
 time_start: 2024-06-04 12:30:00
 time_end: 2024-06-04 13:00:00
-tracks:
- - Fintech
+track: Fintech
+day: 2
+timeslot: 7
+room: Symphony
 ---
 
 The Digital Public Infrastructure movement has been gaining momentum globally as governments move to DPI-based approaches to create exponential societal outcomes within and across sectors. DPI is composed of open, interoperable technology with transparent, accountable, and participatory governance frameworks to unlock innovation and value at scale. This session will introduce how Apache projects like Fineract recognized as Digital Public Goods are having transformative impact on achieving SDGs. 

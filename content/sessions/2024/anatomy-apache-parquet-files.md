@@ -5,8 +5,10 @@ speakers:
  - Daniel Becker
 time_start: 2024-06-04 16:50:00
 time_end: 2024-06-04 17:20:00
-tracks:
- - Big Data Compute
+track: Big Data Compute
+day: 2
+room: Rhapsody
+timeslot: 14
 ---
 
 Reading file formats efficiently is a crucial part of big data systems - in selective scans data is often only big before hitting the first filter and becomes manageable during the rest of the processing. The talk describes this early stage of query execution in Apache Impala, from reading the bytes of Parquet files on the filesystem to applying predicates and runtime filters on individual rows.

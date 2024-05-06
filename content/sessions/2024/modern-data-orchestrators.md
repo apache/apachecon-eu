@@ -5,8 +5,10 @@ speakers:
  - Riccardo Amadio
 time_start: 2024-06-04 14:40:00
 time_end: 2024-06-04 15:10:00
-tracks:
- - Data Engineering
+track: Data Engineering
+day: 2
+timeslot: 9
+room: Rhapsody
 ---
 
 In this talk, I'll walk you through the tricks and best practices to take your data pipeline game to the next level. No boring theory here - we'll be talking real-world use cases. 

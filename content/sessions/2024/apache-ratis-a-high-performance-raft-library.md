@@ -5,8 +5,11 @@ speakers:
  - Tsz-Wo Nicholas Sze
 time_start: 2024-06-03 15:20:00
 time_end: 2024-06-03 15:50:00
-tracks:
- - Big Data Storage
+track: Big Data Storage
+day: 1
+timeslot: 11
+room: Rhapsody
+
 ---
 
 Apache Ratis is an open source Java library for the Raft Consensus Protocol. Raft is being used successfully as an alternative to Paxos to implement a consistently replicated log. Raft is proven to be safe and is designed to be simpler to understand. Ratis is a high performance implementation of Raft. Apache Ozone, Apache IoTDB and Alluxio use Apache Ratis for providing high availability and replicating raw data.

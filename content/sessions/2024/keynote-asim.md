@@ -4,11 +4,12 @@ aliases:
  - keynote-asin
 speakers:
  - Asim Hussain
-time_start: 2024-06-04 9:30:00
-time_end: 2024-06-04 10:00:00
-tracks:
- - Keynote
-
+time_start: 2024-06-04 9:50:00
+time_end: 2024-06-04 10:25:00
+track: Keynote
+day: 2
+timeslot: 3
+room: Melody
 ---
 
 In the realm of sustainability, grassroots initiatives often emerge as powerful catalysts for change, driven by the collective wisdom of practitioners. 

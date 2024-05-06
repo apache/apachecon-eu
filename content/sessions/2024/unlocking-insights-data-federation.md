@@ -5,8 +5,11 @@ speakers:
  - Akshat Mathur
 time_start: 2024-06-04 11:50:00
 time_end: 2024-06-04 12:20:00
-tracks:
- - Data Engineering
+track: Data Engineering
+day: 2
+timeslot: 6
+room: Rhapsody
+
 ---
 
 With great data comes great responsibilities! Companies of every scale face issues of managing huge amounts of data spread across various platforms, databases, and applications. 

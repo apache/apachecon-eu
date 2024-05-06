@@ -6,15 +6,18 @@ speakers:
  - Gláucia Esppenchutz
 time_start: 2024-06-03 16:50:00
 time_end: 2024-06-03 17:20:00
-tracks:
- - Incubator
+track: Incubator
+day: 1
+timeslot: 14
+room: Symphony
+
 ---
 
 In the ever-evolving landscape of open source projects, the Apache Software Foundation (ASF) stands at the forefront of innovation and community-driven development. Two of its young projects, Apache Training and Apache Wayang, are working on an exciting journey of expansion and inclusivity. 
  
  
  
- This session is dedicated to showcasing how these projects are opening their doors to a broader audience, including non-technical individuals, thereby fostering a more diverse and robust community, which helps the ASF to continue in solving some of the world’s tech problems by bringing people together.
+This session is dedicated to showcasing how these projects are opening their doors to a broader audience, including non-technical individuals, thereby fostering a more diverse and robust community, which helps the ASF to continue in solving some of the world’s tech problems by bringing people together.
  
  Our focus will be on the pivotal role of accessible, clear, comprehensive documentation and training materials in making open source projects more attractive. We use the example of Apache Wayang, which aims on serving specific needs of data driven businesses and organizations. 
  

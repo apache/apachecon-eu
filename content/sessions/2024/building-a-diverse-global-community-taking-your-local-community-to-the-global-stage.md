@@ -5,8 +5,11 @@ speakers:
  - Trista Pan
 time_start: 2024-06-03 16:10:00
 time_end: 2024-06-03 16:40:00
-tracks:
- - Community
+track: Community
+day: 1
+timeslot: 13
+room: Melody
+
 ---
 
 In an increasingly interconnected world, the importance of building diverse and inclusive global communities cannot be overstated. This topic explores the journey of taking a local community and expanding its reach to become a vibrant and diverse global community. By examining strategies, best practices, examples of some successful Chinese opensource communities, this session will provide valuable insights into fostering inclusivity, cultural exchange, and collaboration on a global scale.
