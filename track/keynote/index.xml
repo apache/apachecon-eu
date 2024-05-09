@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Keynote on Community Over Code Europe</title>
+    <link>https://eu.communityovercode.org/track/keynote/</link>
+    <description>Recent content in Keynote on Community Over Code Europe</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language><atom:link href="https://eu.communityovercode.org/track/keynote/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>All your code belongs to Policy Makers, Politicians and the Law</title>
+      <link>https://eu.communityovercode.org/sessions/2024/keynote-dirk/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eu.communityovercode.org/sessions/2024/keynote-dirk/</guid>
+      <description>Software has matured and is now an integral, key, part of society, its infrastructure and economy. Yet, by and large, the industries stance on security, reliability and preventing data leaks has fallen way behind. We&amp;rsquo;re regularly front-page news. So - like all important engineering industries before it - that means that politicians all over the world have started to care. And are introducing software regulation.
+Europe leads that pack with the, now final, Cyber Resilience Act and the Product Liability Directive.</description>
+    </item>
+    
+    <item>
+      <title>Doing for sustainability, what open source did for software</title>
+      <link>https://eu.communityovercode.org/sessions/2024/keynote-asim/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eu.communityovercode.org/sessions/2024/keynote-asim/</guid>
+      <description>In the realm of sustainability, grassroots initiatives often emerge as powerful catalysts for change, driven by the collective wisdom of practitioners.
+Our organization, a coalition of hundreds of software practitioners, embodies this ethos, operating on the principles of consensus and practical action. The result? Tangible solutions that directly foster meaningful change.
+Enter Impact Framework, an open-source tool designed to quantify the environmental impact of software. It takes observations you can easily gather from running systems such as CPU utilisation, page views, installs, prompts and induces them into environmental impacts like carbon, waste, water.</description>
+    </item>
+    
+    <item>
+      <title>EU policies and regulations affecting open source specialists working in OSPOs</title>
+      <link>https://eu.communityovercode.org/sessions/2024/eu-policies-and-regulations-affecting-open-source-specialists-working-in-ospos/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eu.communityovercode.org/sessions/2024/eu-policies-and-regulations-affecting-open-source-specialists-working-in-ospos/</guid>
+      <description>The panel will discuss how EU legislation affects the daily work of open source operations (upstream contribution to open source projects, open source compliance, etc) focusing on how these laws impact open source professionals working in OSPOs or similar entities. Panelists will cover some of the recent policy updates, the challenges of staying compliant when managing open source contribution and usage within organizations, and their personal experiences in adapting to the changing European regulatory environment.</description>
+    </item>
+    
+    <item>
+      <title>From Local Roots to Global Impact: Building an Inclusive Open Source Community in Africa</title>
+      <link>https://eu.communityovercode.org/sessions/2024/keynote-ruth/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eu.communityovercode.org/sessions/2024/keynote-ruth/</guid>
+      <description>The rapid growth of the global open source community has led to the expansion of numerous projects, including the establishment of chapters in diverse regions such as Africa. This talk will explore the unique experiences and insights gained from leading an African chapter of the CHAOSS project, highlighting both the challenges faced and the victories achieved along the way. It will discuss the growth of the open source movement in Africa and emphasize the importance of building a diverse and inclusive community.</description>
+    </item>
+    
+    <item>
+      <title>To Toot or not to Toot: That is the question</title>
+      <link>https://eu.communityovercode.org/sessions/2024/keynote-sherae/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eu.communityovercode.org/sessions/2024/keynote-sherae/</guid>
+      <description>The path to successful progression through the ranks of an open-source community remains unclear. Historically, the quality and quantity of one’s technical skills have been essential components in progressing through the ranks in OSS communities. Because participants conduct much of this work in coding repositories, the demonstration of technical skills drives outcomes. However, given that individuals do not typically meet face to face, as they would in a conventional organisational setting, various on-line impression management techniques such as self-promotion (i.</description>
+    </item>
+    
+  </channel>
+</rss>

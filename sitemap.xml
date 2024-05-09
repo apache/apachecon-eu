@@ -188,6 +188,8 @@
   </url><url>
     <loc>https://eu.communityovercode.org/speakers/aparna-sundar/</loc>
   </url><url>
+    <loc>https://eu.communityovercode.org/track/api-microservices/</loc>
+  </url><url>
     <loc>https://eu.communityovercode.org/sessions/2024/architecting-applications-with-multiple-open-source-big-data-technologies/</loc>
   </url><url>
     <loc>https://eu.communityovercode.org/speakers/atita-arora/</loc>
@@ -197,6 +199,10 @@
     <loc>https://eu.communityovercode.org/speakers/attila-turoczy/</loc>
   </url><url>
     <loc>https://eu.communityovercode.org/speakers/bertrand-delacretaz/</loc>
+  </url><url>
+    <loc>https://eu.communityovercode.org/track/big-data-compute/</loc>
+  </url><url>
+    <loc>https://eu.communityovercode.org/track/big-data-storage/</loc>
   </url><url>
     <loc>https://eu.communityovercode.org/speakers/boris-stoyanov/</loc>
   </url><url>
@@ -214,6 +220,8 @@
   </url><url>
     <loc>https://eu.communityovercode.org/sessions/2024/building-healthy-developer-communities-a-versatile-framework-for-success/</loc>
   </url><url>
+    <loc>https://eu.communityovercode.org/track/cassandra/</loc>
+  </url><url>
     <loc>https://eu.communityovercode.org/sessions/2024/cassandra-cidr-filtering-authorizer-cep-33/</loc>
   </url><url>
     <loc>https://eu.communityovercode.org/sessions/2024/cassandra-vector/</loc>
@@ -228,7 +236,11 @@
   </url><url>
     <loc>https://eu.communityovercode.org/speakers/claude-warren/</loc>
   </url><url>
+    <loc>https://eu.communityovercode.org/track/cloudstack/</loc>
+  </url><url>
     <loc>https://eu.communityovercode.org/coc/</loc>
+  </url><url>
+    <loc>https://eu.communityovercode.org/track/community/</loc>
   </url><url>
     <loc>https://eu.communityovercode.org/sessions/2024/community-census-understanding-users-maintainer-personas-with-a-community-survey/</loc>
   </url><url>
@@ -241,6 +253,8 @@
     <loc>https://eu.communityovercode.org/speakers/daniel-augusto-veronezi-salvador/</loc>
   </url><url>
     <loc>https://eu.communityovercode.org/speakers/daniel-becker/</loc>
+  </url><url>
+    <loc>https://eu.communityovercode.org/track/data-engineering/</loc>
   </url><url>
     <loc>https://eu.communityovercode.org/sessions/2024/data-enrichment-patterns-with-apache-flink/</loc>
   </url><url>
@@ -296,6 +310,8 @@
   </url><url>
     <loc>https://eu.communityovercode.org/sessions/2024/fineract-scalability-improvements/</loc>
   </url><url>
+    <loc>https://eu.communityovercode.org/track/fintech/</loc>
+  </url><url>
     <loc>https://eu.communityovercode.org/speakers/floor-drees/</loc>
   </url><url>
     <loc>https://eu.communityovercode.org/sessions/2024/keynote-ruth/</loc>
@@ -311,6 +327,8 @@
     <loc>https://eu.communityovercode.org/speakers/glaucia-esppenchutz/</loc>
   </url><url>
     <loc>https://eu.communityovercode.org/speakers/greg-brown/</loc>
+  </url><url>
+    <loc>https://eu.communityovercode.org/track/groovy/</loc>
   </url><url>
     <loc>https://eu.communityovercode.org/speakers/gyula-fora/</loc>
   </url><url>
@@ -334,11 +352,15 @@
   </url><url>
     <loc>https://eu.communityovercode.org/sessions/2024/incremental-snapshots-backups-in-kvm-plugin-of-apache-cloudstack/</loc>
   </url><url>
+    <loc>https://eu.communityovercode.org/track/incubator/</loc>
+  </url><url>
     <loc>https://eu.communityovercode.org/sessions/2024/influencing-the-tech-ecosystem-through-community-participation/</loc>
   </url><url>
     <loc>https://eu.communityovercode.org/sessions/2024/inside-the-apache-software-foundation-board/</loc>
   </url><url>
     <loc>https://eu.communityovercode.org/sessions/2024/integration-in-the-cloud-era-with-camel-quarkus/</loc>
+  </url><url>
+    <loc>https://eu.communityovercode.org/track/iot/</loc>
   </url><url>
     <loc>https://eu.communityovercode.org/speakers/ismael-mejia/</loc>
   </url><url>
@@ -363,6 +385,8 @@
     <loc>https://eu.communityovercode.org/speakers/kanchana-welagedara/</loc>
   </url><url>
     <loc>https://eu.communityovercode.org/speakers/karin-safra/</loc>
+  </url><url>
+    <loc>https://eu.communityovercode.org/track/keynote/</loc>
   </url><url>
     <loc>https://eu.communityovercode.org/speakers/kyle-hoondert/</loc>
   </url><url>
@@ -438,6 +462,8 @@
   </url><url>
     <loc>https://eu.communityovercode.org/speakers/noemi-pap-takacs/</loc>
   </url><url>
+    <loc>https://eu.communityovercode.org/track/observability/</loc>
+  </url><url>
     <loc>https://eu.communityovercode.org/sessions/2024/obtain-distribute-and-use-temporary-credentials-automatically-in-apache-spark-and-apache-flink/</loc>
   </url><url>
     <loc>https://eu.communityovercode.org/speakers/oleg-nenashev/</loc>
@@ -462,11 +488,13 @@
   </url><url>
     <loc>https://eu.communityovercode.org/speakers/paul-king/</loc>
   </url><url>
+    <loc>https://eu.communityovercode.org/track/performance-engineering/</loc>
+  </url><url>
     <loc>https://eu.communityovercode.org/speakers/peter-rozsa/</loc>
   </url><url>
     <loc>https://eu.communityovercode.org/speakers/peter-vary/</loc>
   </url><url>
-    <loc>https://eu.communityovercode.org/tracks/poster/</loc>
+    <loc>https://eu.communityovercode.org/track/poster-session/</loc>
   </url><url>
     <loc>https://eu.communityovercode.org/schedule/</loc>
   </url><url>
@@ -489,6 +517,8 @@
     <loc>https://eu.communityovercode.org/speakers/ritesh-shukla/</loc>
   </url><url>
     <loc>https://eu.communityovercode.org/sessions/2024/sdn-options-in-apache-cloudstack/</loc>
+  </url><url>
+    <loc>https://eu.communityovercode.org/track/search/</loc>
   </url><url>
     <loc>https://eu.communityovercode.org/speakers/sergio-del-amo/</loc>
   </url><url>
@@ -538,7 +568,9 @@
   </url><url>
     <loc>https://eu.communityovercode.org/sessions/2024/tomcat-11-and-jakarta-ee-11/</loc>
   </url><url>
-    <loc>https://eu.communityovercode.org/tracks/</loc>
+    <loc>https://eu.communityovercode.org/track/tomcat-httpd-and-other-servers/</loc>
+  </url><url>
+    <loc>https://eu.communityovercode.org/track/</loc>
   </url><url>
     <loc>https://eu.communityovercode.org/sessions/2024/transitioning-from-vmware-to-apache-cloudstack-a-path-to-profitability-and-competitiveness/</loc>
   </url><url>

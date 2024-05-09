@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>API &amp; Microservices on Community Over Code Europe</title>
+    <link>https://eu.communityovercode.org/track/api-microservices/</link>
+    <description>Recent content in API &amp; Microservices on Community Over Code Europe</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language><atom:link href="https://eu.communityovercode.org/track/api-microservices/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A Hands-On Introduction to the Kubernetes Gateway API with Apache APISIX</title>
+      <link>https://eu.communityovercode.org/sessions/2024/a-hands-on-introduction-to-the-kubernetes-gateway-api-with-apache-apisix/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eu.communityovercode.org/sessions/2024/a-hands-on-introduction-to-the-kubernetes-gateway-api-with-apache-apisix/</guid>
+      <description>Why do you need another API to handle external traffic when you have the stable Kubernetes Ingress API and dozens of implementations? What problems of the Ingress API does the new Gateway API solve? Does this mean the end of the Ingress API?
+In this short talk, Navendu will answer these questions by exploring how Gateway APIs evolved and solved the shortcomings of the Ingress API with hands-on examples using Apache APISIX.</description>
+    </item>
+    
+    <item>
+      <title>Apache Camel Takes Charge of Over 1000 Interfaces in a Seamless Transition from Oracle SOA Suite</title>
+      <link>https://eu.communityovercode.org/sessions/2024/apache-camel-takes-charge-of-over-1000-interfaces-in-a-seamless-transition-from-oracle-soa-suite/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eu.communityovercode.org/sessions/2024/apache-camel-takes-charge-of-over-1000-interfaces-in-a-seamless-transition-from-oracle-soa-suite/</guid>
+      <description>Apache Camel leads a seamless transition, taking control of 1000+ interfaces from Oracle SOA Suite.
+Over the last two years, we have driven forward the integration of all retail systems from a centralised and proprietary system into a microservice-oriented architecture based on Apache Camel and Openshift.
+The previously centralised gateways are now independent interfaces.
+The challenge here was to lift the countless proprietary implementations to a system that is open to all.</description>
+    </item>
+    
+    <item>
+      <title>Integration in the cloud era with Camel Quarkus</title>
+      <link>https://eu.communityovercode.org/sessions/2024/integration-in-the-cloud-era-with-camel-quarkus/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eu.communityovercode.org/sessions/2024/integration-in-the-cloud-era-with-camel-quarkus/</guid>
+      <description>Apache Camel is the proven integration swiss knife for years. In today&amp;rsquo;s world of workloads moving to the cloud, the need for disparate systems to communicate remains more than ever. This context makes a Kubernetes Java stack like Quarkus a good fit to implement Camel routes.
+In this session, the attendance can first expect a quick reminder about Camel Quarkus basics. Beyond, some day to day useful features will be presented via concrete examples.</description>
+    </item>
+    
+    <item>
+      <title>Managing the Camel development lifecycle within VS Code</title>
+      <link>https://eu.communityovercode.org/sessions/2024/managing-the-camel-development-lifecycle-within-vs-code/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eu.communityovercode.org/sessions/2024/managing-the-camel-development-lifecycle-within-vs-code/</guid>
+      <description>Apache Camel is the leading open-source integration framework that simplifies the integration of various systems and applications. There exists a comprehensive set of Tooling specifically designed to empower Camel developers in their work with Apache Camel within VS Code. These tools facilitate a seamless and efficient development experience, offering robust support and functionalities tailored to the needs of Camel developers.
+In my session I would like to rely on the Extension Pack for Apache Camel which contains a set of specific extensions for Camel but also leverages the VS Code ecosystem.</description>
+    </item>
+    
+    <item>
+      <title>Modernize APIs to run serverless using Apache CXF</title>
+      <link>https://eu.communityovercode.org/sessions/2024/modernize-apis-to-run-serverless-using-apache-cxf/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eu.communityovercode.org/sessions/2024/modernize-apis-to-run-serverless-using-apache-cxf/</guid>
+      <description>Years ago the Service-oriented architecture (SOA) architectural style came along with implementations of web services based on standards like the Web Service Description Language (WSDL) and SOAP. Many of these interfaces are still in place as of today as a change requires both provider and all consumers to agree on a new definition and change the implementation (often without any business value). The underlying infrastructure, sometimes based on Enterprise Services Buses (ESB) is however often end-of-life and hard to maintain.</description>
+    </item>
+    
+    <item>
+      <title>The right feature at the right place: the example of authorization</title>
+      <link>https://eu.communityovercode.org/sessions/2024/the-right-feature-at-the-right-place-the-example-of-authorization/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eu.communityovercode.org/sessions/2024/the-right-feature-at-the-right-place-the-example-of-authorization/</guid>
+      <description>All mature tech stacks nowadays offer infrastructure-related capabilities, either a standard lib or in 3rd-party libraries, e.g., rate-limiting and authorization. While it&amp;rsquo;s great to have such features, it&amp;rsquo;s impossible to audit them easily. You&amp;rsquo;d need to be familiar with the stack and dive deep into the code. This approach just doesn&amp;rsquo;t scale,
+A well-designed system keeps the right feature at the right place. In this talk, I&amp;rsquo;ll go through all steps toward making your system more easily auditable.</description>
+    </item>
+    
+  </channel>
+</rss>

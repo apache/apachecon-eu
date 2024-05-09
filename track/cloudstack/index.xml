@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CloudStack on Community Over Code Europe</title>
+    <link>https://eu.communityovercode.org/track/cloudstack/</link>
+    <description>Recent content in CloudStack on Community Over Code Europe</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language><atom:link href="https://eu.communityovercode.org/track/cloudstack/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Importing KVM instances from external KVM hosts or QCOW2</title>
+      <link>https://eu.communityovercode.org/sessions/2024/importing-kvm-instances-from-external-kvm-hosts-or-qcow2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eu.communityovercode.org/sessions/2024/importing-kvm-instances-from-external-kvm-hosts-or-qcow2/</guid>
+      <description>CloudStack recently introduced a few hypervisor migration features, to help cloud operators migrate existing VM workloads into CloudStack. In this session, we are going to see how you can migrate instances from external KVM hosts to KVM hosts managed by CloudStack. Also, we are going to see how we can quickly deploy an instance from a previously prepared qcow2 image.</description>
+    </item>
+    
+    <item>
+      <title>Incremental snapshots/backups in KVM plugin of Apache CloudStack</title>
+      <link>https://eu.communityovercode.org/sessions/2024/incremental-snapshots-backups-in-kvm-plugin-of-apache-cloudstack/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eu.communityovercode.org/sessions/2024/incremental-snapshots-backups-in-kvm-plugin-of-apache-cloudstack/</guid>
+      <description>Apache CloudStack (ACS) and KVM are a combination that many organizations decided to adopt. KVM is a widely used hypervisor with a vibrant community and support in different operating system distributions. While developing the KVM plugin functionalities, one normally tries to make use of the full potential of the hypervisor; however, while Libvirt, the toolkit used by ACS to manage KVM VMs, already supports native incremental snapshots, every volume snapshot/backup taken with ACS is a full snapshot/backup.</description>
+    </item>
+    
+    <item>
+      <title>Making Apache CloudStack market ready with a native rating solution</title>
+      <link>https://eu.communityovercode.org/sessions/2024/making-apache-cloudstack-market-ready-with-a-native-rating-solution/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eu.communityovercode.org/sessions/2024/making-apache-cloudstack-market-ready-with-a-native-rating-solution/</guid>
+      <description>Apache CloudStack (ACS) is a solid option among known cloud orchestration systems, being on the same level as OpenStack, Azure Stack, and others. All of them address the basic needs to create and run a private cloud system; however, ACS&amp;rsquo;s users have to adopt external solutions for rating/billing the resources consumption, which is native in the other orchestration tools (e.g. OpenStack). This presentation will address the design and efforts of the ACS community to implement a native rating feature that will allow more flexibility and reduce the need for external systems.</description>
+    </item>
+    
+    <item>
+      <title>SDN Options in Apache CloudStack</title>
+      <link>https://eu.communityovercode.org/sessions/2024/sdn-options-in-apache-cloudstack/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eu.communityovercode.org/sessions/2024/sdn-options-in-apache-cloudstack/</guid>
+      <description>Apache CloudStack integrates with two major SDN solutions, Tungsten Fabric (OpenSDN) for KVM environments and NSX for VMWare ESX environments. In this talk we&amp;rsquo;ll explore how this integrations were implemented, how to setup ACS Zones with these SDNs and explore their capabilities in regards to ACS.</description>
+    </item>
+    
+    <item>
+      <title>Transitioning from VMware to Apache CloudStack: A Path to Profitability and Competitiveness</title>
+      <link>https://eu.communityovercode.org/sessions/2024/transitioning-from-vmware-to-apache-cloudstack-a-path-to-profitability-and-competitiveness/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eu.communityovercode.org/sessions/2024/transitioning-from-vmware-to-apache-cloudstack-a-path-to-profitability-and-competitiveness/</guid>
+      <description>In this session, we will explore the potential of migrating from VMware to Apache CloudStack with KVM. VMware vSphere is a robust cloud infrastructure and management solution that combines vSphere and vRealize Suite, providing automation and operations capabilities for traditional and modern infrastructure and apps. However, the transition to Apache CloudStack can offer enhanced profitability and competitiveness.
+We will delve into the benefits of Apache CloudStack, including its cost-effectiveness and open-source nature, and discuss how a gradual migration from VMware vCloud can reduce ownership costs, increase profitability, and enhance competitiveness.</description>
+    </item>
+    
+    <item>
+      <title>VNF Integration and Support in Apache CloudStack</title>
+      <link>https://eu.communityovercode.org/sessions/2024/vnf-integration-and-support-in-apache-cloudstack/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eu.communityovercode.org/sessions/2024/vnf-integration-and-support-in-apache-cloudstack/</guid>
+      <description>In this session Wei will present how CloudStack 4.19 adds the capability to easily and quickly perform a light-touch integration of networking appliances with Apache CloudStack, allowing for operators and end users to offer a broader range of networking services while empowering end-users to effortlessly deploy their own virtualized network functions (VNFs).</description>
+    </item>
+    
+  </channel>
+</rss>

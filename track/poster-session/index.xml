@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Poster on Community Over Code Europe</title>
-    <link>https://eu.communityovercode.org/tracks/poster/</link>
-    <description>Recent content in Poster on Community Over Code Europe</description>
+    <title>Poster session on Community Over Code Europe</title>
+    <link>https://eu.communityovercode.org/track/poster-session/</link>
+    <description>Recent content in Poster session on Community Over Code Europe</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://eu.communityovercode.org/tracks/poster/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language><atom:link href="https://eu.communityovercode.org/track/poster-session/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Recon - Ozone cluster monitoring and observability</title>
       <link>https://eu.communityovercode.org/sessions/2024/recon-ozone-cluster-monitoring/</link>

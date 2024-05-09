@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>IoT on Community Over Code Europe</title>
+    <link>https://eu.communityovercode.org/track/iot/</link>
+    <description>Recent content in IoT on Community Over Code Europe</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language><atom:link href="https://eu.communityovercode.org/track/iot/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Apache Mynewt - connected RTOS - project overview</title>
+      <link>https://eu.communityovercode.org/sessions/2024/apache-mynewt-connected-rtos-project-overview/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eu.communityovercode.org/sessions/2024/apache-mynewt-connected-rtos-project-overview/</guid>
+      <description>Apache Mynewt is a community-driven, permissively licensed Open Source initiative for constrained, embedded devices and applications. It provides foundational RTOS, middleware (secure bootloader, filesystem, networking stack, device management) and tooling.
+This presentation will cover history and overall state of the project, its architecture and selected components (eg Bluetooth stack). Will discuss already available features as well additions planned in near future.
+Last but not least, state of community will be presented.</description>
+    </item>
+    
+    <item>
+      <title>Magic industrial data acquisition with Apache PLC4X, TsFile and IoTDB</title>
+      <link>https://eu.communityovercode.org/sessions/2024/magic-industrial-data-acquisition-with-apache-plc4x-tsfile-and-iotdb/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eu.communityovercode.org/sessions/2024/magic-industrial-data-acquisition-with-apache-plc4x-tsfile-and-iotdb/</guid>
+      <description>In industrial automation, the established way of collecting data from industrial equipment has many issues. Issues for which Apache provides a number of great ways to avoid them.
+In this talk, I want to demonstrate some of the issues I have seen and how we can resolve all of them with combinations of some of the amazing projects we have at Apache:
+How we can use Apache TsFile to directly collect data on the hardware</description>
+    </item>
+    
+    <item>
+      <title>State of Apache IoTDB</title>
+      <link>https://eu.communityovercode.org/sessions/2024/state-of-apache-iotdb/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eu.communityovercode.org/sessions/2024/state-of-apache-iotdb/</guid>
+      <description>Apache IoTDB, a time series database focused on IoT workloads. At the end of 2022 the major version 1.0 was released which containted many major changes, e.g. a completely new cluster module, new export and import options and new APIS to integrate with Apache IoTDB.
+In 2023 three minor releases, namely 1.1, 1.2 and 1.3 have been released but although they are considered minor releases they contain many new features.</description>
+    </item>
+    
+    <item>
+      <title>State of the Civet</title>
+      <link>https://eu.communityovercode.org/sessions/2024/state-of-the-civet/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eu.communityovercode.org/sessions/2024/state-of-the-civet/</guid>
+      <description>An update on what&amp;rsquo;s happened inside the Apache PLC4X over the last year. What we have achieved and what we are planning on doing for the near and not-so-near future.
+From new protocols, updated APIs, new languages, GUI applications right up to even more supported languages and fully generated driver implementations.</description>
+    </item>
+    
+    <item>
+      <title>Unleashing High Concurrency Real-Time IoT Queries with Apache Druid</title>
+      <link>https://eu.communityovercode.org/sessions/2024/unleashing-high-concurrency-real-time-iot-queries-with-apache-druid/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eu.communityovercode.org/sessions/2024/unleashing-high-concurrency-real-time-iot-queries-with-apache-druid/</guid>
+      <description>Apache Druid is a real-time analytics database built for speed and scale, capable of executing complex queries against billions of rows and getting sub-second answers. Druid thrives on highly concurrent workloads, making it ideal for applications like website clickstream analysis, network performance monitoring, or handling vast IoT metrics. By using pre-aggregated data, lightning-fast columnar storage, and parallel processing we can gain insights in real-time.
+In this talk, we will share techniques for improving query concurrency and achieving sub-second responses.</description>
+    </item>
+    
+  </channel>
+</rss>
