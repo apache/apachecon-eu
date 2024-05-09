@@ -18,7 +18,7 @@ theme = "coceu"
 tag = "tags"
 category = "categories"
 speaker = "speakers"
-track = "tracks"
+track = "track"
 
 
 ############################## navigation ###############################

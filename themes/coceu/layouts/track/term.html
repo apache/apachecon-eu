@@ -1,0 +1,38 @@
+{{ define "main" }}
+
+<!-- Speaker Detail -->
+<section class="speaker-detail">
+  <div class="container">
+    <div>{{ .Content }}</div>
+
+    <h4>Sessions in this track</h4>
+
+    <table class="table-dark" id="sessions-table" data-toggle="table" data-search="true" data-search-align="left" data-sortable="true">
+      <thead>
+        <tr>
+          <th data-field="title" data-sortable="true">Title</th>
+          <th data-field="speaker" data-sortable="true">Speaker(s)</th>
+          <th data-field="time" data-sortable="true">Time</th>
+          <th data-field="room" data-sortable="true">Room</th>
+
+        </tr>
+      </thead>
+        <tbody>
+              {{ range .Data.Pages.ByParam "time_start"}}
+            <tr>
+              <td><a href="{{.Permalink}}">{{ .Params.title }}</a></td>  
+              <td>{{ with .Params.speakers }}{{ delimit . ", " " & " }}{{ end }}</td>
+              <td>{{ with .Params.time_start | time }}{{ .Format "Jan-02 15:04" }}{{ end }}-{{ with .Params.time_end | time }}{{ .Format "15:04" }}{{ end }}</td>
+              <td>{{with .Params.room}}{{.}}{{ end }}</td>
+            </tr>
+            {{ end }}
+        </tbody>
+    </table>
+
+
+
+  </div>
+</section>
+
+{{ end }}
+

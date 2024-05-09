@@ -5,25 +5,36 @@
         {{ .Content }}
     </p>
 
+
+    {{ if eq .RelPermalink "/sessions/"}}
+    <ul>
+      {{ range .Pages.ByTitle }}
+      <li><a href="{{.Permalink}}">{{ .Params.title }}</a></li>
+      {{ end }}
+    </ul>
+    {{ else }}
     <table class="table-dark" id="sessions-table" data-toggle="table" data-search="true" data-search-align="left" data-sortable="true">
       <thead>
         <tr>
           <th data-field="track" data-sortable="true">Track</th>
           <th data-field="title" data-sortable="true">Title</th>
-          <th data-field="speaker" data-sortable="true">Speaker(s)</th>                 
+          <th data-field="time" data-sortable="true">Time</th>
+          <th data-field="room" data-sortable="true">Room</th>
 
         </tr>
       </thead>
-        <tbody>
-              {{ range .Data.Pages.ByTitle }}
-            <tr>
-              <td>{{ range .Params.tracks }}<a href="/tracks/{{anchorize .}}">{{.}}</a>{{ end }}</td>
-              <td><a href="{{.Permalink}}">{{ .Params.title }}</a></td>  
-              <td>{{ with .Params.speakers }}{{ delimit . ", " " & " }}{{ end }}</td>
-            </tr>
-            {{ end }}
+      <tbody>
+        {{ range .Pages.ByTitle }}
+        <tr>
+          <td>{{ with .Params.track }}<a href="/track/{{anchorize .}}">{{.}}</a>{{ end }}</td>
+          <td><a href="{{.Permalink}}">{{ .Params.title }}</a><br>by {{ with .Params.speakers }}{{ delimit . ", " " & " }}{{ end }}</td>
+          <td>{{ with .Params.time_start | time }}{{ .Format "Jan-02 15:04" }}{{ end }}-{{ with .Params.time_end | time }}{{ .Format "15:04" }}{{ end }}</td>
+          <td>{{with .Params.room}}{{.}}{{ end }}</td>
+        </tr>
+        {{ end }}
         </tbody>
     </table>
+    {{ end }}
 
 </div>
 

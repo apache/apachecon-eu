@@ -1,8 +1,9 @@
 ---
 title: Community Over Code EU 2024 sessions
-time_start: 2024-06-03T09:00:00.000Z
+time_start: 2024-06-03 9:00:00
+time_end:   2024-06-05 9:00:00
 
 ---
 
-### This is a preliminary list of the sessions that we will have at Community Over Code 2024. 
+### Check out the list of sessions for Community over Code 2024. All fields are sortable.
 

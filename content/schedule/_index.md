@@ -226,4 +226,4 @@ description: "Welcome to the session program for Airflow Summit."
 
 <h4 class="mb-4">Welcome to the session program for Community Over Code EU 2024. </h4>
 
-<p>If you prefer, you can also see it in the <a href="/schedule">alternate format</a>.
+<p>If you prefer, you can also see it in the <a href="/schedule">alternate format</a> or as a <a href="/sessions/2024/">list</a>.
