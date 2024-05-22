@@ -10,6 +10,9 @@ sponsor_group:
         link : https://www.redhat.com/ 
       - logo : "/images/partners/cisco.png"
         link : https://www.cisco.com/ 
+      - logo : "/images/partners/dremio-logo.png"
+        link : https://www.dremio.com/
+
 
   
   - title : "Bronze"
