@@ -126,7 +126,7 @@ link = "/tickets"
 [params.links]
 [[params.links.media]]
     name = "Email us"
-    url = "mailto:planners@apachecon.com?subject=[EU]"
+    url = "mailto:coceu@sg.com.mx?subject=[EU]"
     icon = "fa fa-envelope"
 [[params.links.media]]
     name = "Slack"
