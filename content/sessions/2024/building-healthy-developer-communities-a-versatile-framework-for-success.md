@@ -9,6 +9,7 @@ track: Community
 day: 1
 timeslot: 10
 room: Melody
+draft: false
 ---
 
 As developer communities grow both in size and number, it can be easy to lose sight of the importance of community health in the development process. Most tech communities guide their community efforts and future work based on NPS scores and feedback forms. Though well intended, these methods do not provide a full view of the current status of their community members or guarantee they are moving towards a direction that benefits their members or fulfills their needs.

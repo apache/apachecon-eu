@@ -6,8 +6,8 @@ speakers:
  - Floor Drees
  - Natali Vlatko
  - Mirko Boehm
-time_start: 2024-06-03 11:10:00
-time_end: 2024-06-03 11:40:00
+time_start: 2024-06-03 9:20:00
+time_end: 2024-06-03 10:25:00
 track: Keynote
 day: 1
 timeslot: 2
