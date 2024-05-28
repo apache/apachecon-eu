@@ -4,11 +4,11 @@ slug: inside-the-apache-software-foundation-board
 speakers:
  - Justin Mclean
  - Christofer Dutz
-time_start: 2024-06-03 15:20:00
-time_end: 2024-06-03 15:50:00
+time_start: 2024-06-03 14:40:00
+time_end: 2024-06-03 15:10:00
 track: Community
 day: 1
-timeslot: 11
+timeslot: 10
 room: Melody
 ---
 

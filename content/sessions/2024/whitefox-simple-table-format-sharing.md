@@ -3,12 +3,12 @@ title: "Whitefox: simple table format sharing"
 slug: whitefox-simple-table-format-sharing
 speakers:
  - Riccardo Amadio
-time_start: 2024-06-04 11:50:00
-time_end: 2024-06-04 12:20:00
+time_start: 2024-06-03 14:40:00
+time_end: 2024-06-03 15:10:00
 track: Big Data Storage
-day: 2
-timeslot: 6
-room: Melody
+day: 1
+timeslot: 10
+room: Rhapsody
 ---
 
 "In the evolving landscape of data platforms, the decoupling of compute and storage has led to the emergence of open data systems free from vendor constraints. However, this shift towards ""modularity"" brings its own set of challenges. The intricate task of establishing effective access controls within table-format architectures proves to be complex. Despite data residing in the cloud and theoretically accessible from anywhere, the existing friction impedes seamless accessibility.
