@@ -7,6 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language><atom:link href="https://eu.communityovercode.org/track/community/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Allyship - We need you to power up Diversity</title>
+      <link>https://eu.communityovercode.org/sessions/2024/allyship/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eu.communityovercode.org/sessions/2024/allyship/</guid>
+      <description>Open-source technologies play a significant role in driving technological advancements, fostering collaboration, and encouraging innovation. The Apache Software Foundation is a prominent nonprofit organization in this realm. Nevertheless, unlocking the full potential of these projects necessitates a commitment to embracing diversity and inclusion.
+Now, what can we do? The answer is Allyship. Allyship is crucial because it involves individuals actively supporting and advocating for marginalized groups.
+This presentation will focus on Allyship and how you can support a positive change, foster inclusivity, and contribute to a more equitable environment.</description>
+    </item>
+    
+    <item>
       <title>Breaking Barriers: A Strategic Framework for Collaborative Governance in Software</title>
       <link>https://eu.communityovercode.org/sessions/2024/breaking-barriers-a-strategic-framework-for-collaborative-governance-in-software/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -24,15 +35,6 @@ Governance in software development tends to exclude valuable insights from indiv
       <guid>https://eu.communityovercode.org/sessions/2024/building-a-diverse-global-community-taking-your-local-community-to-the-global-stage/</guid>
       <description>In an increasingly interconnected world, the importance of building diverse and inclusive global communities cannot be overstated. This topic explores the journey of taking a local community and expanding its reach to become a vibrant and diverse global community. By examining strategies, best practices, examples of some successful Chinese opensource communities, this session will provide valuable insights into fostering inclusivity, cultural exchange, and collaboration on a global scale.
 Participants will gain a deeper understanding of the challenges and opportunities involved in transitioning a local community to the global stage.</description>
-    </item>
-    
-    <item>
-      <title>Building Healthy Developer Communities: A Versatile Framework for Success</title>
-      <link>https://eu.communityovercode.org/sessions/2024/building-healthy-developer-communities-a-versatile-framework-for-success/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://eu.communityovercode.org/sessions/2024/building-healthy-developer-communities-a-versatile-framework-for-success/</guid>
-      <description>As developer communities grow both in size and number, it can be easy to lose sight of the importance of community health in the development process. Most tech communities guide their community efforts and future work based on NPS scores and feedback forms. Though well intended, these methods do not provide a full view of the current status of their community members or guarantee they are moving towards a direction that benefits their members or fulfills their needs.</description>
     </item>
     
     <item>

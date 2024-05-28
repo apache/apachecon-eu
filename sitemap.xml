@@ -161,6 +161,8 @@
   </url><url>
     <loc>https://eu.communityovercode.org/sessions/2024/keynote-dirk/</loc>
   </url><url>
+    <loc>https://eu.communityovercode.org/sessions/2024/allyship/</loc>
+  </url><url>
     <loc>https://eu.communityovercode.org/speakers/ana-jimenez-santamaria/</loc>
   </url><url>
     <loc>https://eu.communityovercode.org/sessions/2024/anatomy-parquet-files/</loc>
@@ -172,8 +174,6 @@
     <loc>https://eu.communityovercode.org/speakers/anshum-gupta/</loc>
   </url><url>
     <loc>https://eu.communityovercode.org/speakers/anton-okolnychyi/</loc>
-  </url><url>
-    <loc>https://eu.communityovercode.org/sessions/2024/apache-arrow-an-on-point-addition-to-any-lakehouse/</loc>
   </url><url>
     <loc>https://eu.communityovercode.org/sessions/2024/gradle/</loc>
   </url><url>
@@ -220,8 +220,6 @@
     <loc>https://eu.communityovercode.org/sessions/2024/building-a-diverse-global-community-taking-your-local-community-to-the-global-stage/</loc>
   </url><url>
     <loc>https://eu.communityovercode.org/sessions/2024/building-a-kubernetes-operator-for-apache-flink-in-java/</loc>
-  </url><url>
-    <loc>https://eu.communityovercode.org/sessions/2024/building-healthy-developer-communities-a-versatile-framework-for-success/</loc>
   </url><url>
     <loc>https://eu.communityovercode.org/track/cassandra/</loc>
   </url><url>
@@ -539,8 +537,6 @@
   </url><url>
     <loc>https://eu.communityovercode.org/speakers/simhadri-govindappa/</loc>
   </url><url>
-    <loc>https://eu.communityovercode.org/sessions/2024/simplifying-data-processing-with-apache-flink-sql/</loc>
-  </url><url>
     <loc>https://eu.communityovercode.org/sessions/2024/solr-eclipse-zomato-s-journey-to-64-million-search-queries-a-day/</loc>
   </url><url>
     <loc>https://eu.communityovercode.org/speakers/soeren-glasius/</loc>
@@ -562,6 +558,8 @@
     <loc>https://eu.communityovercode.org/sessions/2024/the-accord-consensus-protocol-acid-transactions-globally-at-any-scale/</loc>
   </url><url>
     <loc>https://eu.communityovercode.org/sessions/2024/the-right-feature-at-the-right-place-the-example-of-authorization/</loc>
+  </url><url>
+    <loc>https://eu.communityovercode.org/sessions/2024/the-silent-symphony/</loc>
   </url><url>
     <loc>https://eu.communityovercode.org/sessions/2024/the-unified-compaction-strategy-in-cassandra-5/</loc>
   </url><url>

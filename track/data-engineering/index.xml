@@ -16,16 +16,6 @@
     </item>
     
     <item>
-      <title>Apache Arrow: An On-Point Addition to Any Lakehouse</title>
-      <link>https://eu.communityovercode.org/sessions/2024/apache-arrow-an-on-point-addition-to-any-lakehouse/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://eu.communityovercode.org/sessions/2024/apache-arrow-an-on-point-addition-to-any-lakehouse/</guid>
-      <description>Apache Arrow has become a de-facto standard for representing large datasets and a very useful tool in any modern data engineering stack. While it allows different technologies to better communicate and share data, the ecosystem around it enables much more!
-In this talk we’ll cover how Arrow interacts with Apache Spark - from allowing PySpark to interoperate with other Python data libraries, to building data-driven applications with the recent addition of Spark Connect.</description>
-    </item>
-    
-    <item>
       <title>Apache SIS library for geospatial applications</title>
       <link>https://eu.communityovercode.org/sessions/2024/apache-sis-library-for-geospatial-applications/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -98,6 +88,16 @@ The Java Operator SDK is a production-ready framework that makes implementing Ku
       <description>In this talk, I&amp;rsquo;ll walk you through the tricks and best practices to take your data pipeline game to the next level. No boring theory here - we&amp;rsquo;ll be talking real-world use cases.
 Exploring which are the patterns for data pipeline with Airflow+Spark, Airflow+DBT, Airflow+Polars, how to avoid dependencies management on Airflow and resuse DAGs template on our organization.
 Define which are the fundamental concepts of a Data Pipeline, from Data Lineage, Data Observability, Metadata, Data quality, Data auditing and how to integrate it on a Data Pipeline.</description>
+    </item>
+    
+    <item>
+      <title>The Silent Symphony: Keeping Airflow&#39;s CI/CD and Dev Tools in Tune</title>
+      <link>https://eu.communityovercode.org/sessions/2024/the-silent-symphony/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eu.communityovercode.org/sessions/2024/the-silent-symphony/</guid>
+      <description>Apache Airflow relies on a silent symphony behind the scenes: its CI/CD (Continuous Integration/Continuous Delivery) and development tooling. This presentation explores the critical role these tools play in keeping Airflow efficient and innovative. We&amp;rsquo;ll delve into how robust CI/CD ensures bug fixes and improvements are seamlessly integrated, while well-maintained development tools empower developers to contribute effectively.
+Airflow&amp;rsquo;s power comes from a well-oiled machine – its CI/CD and development tools. This presentation dives into the world of these often-overlooked heroes.</description>
     </item>
     
     <item>

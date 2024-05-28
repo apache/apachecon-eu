@@ -377,6 +377,17 @@ Europe leads that pack with the, now final, Cyber Resilience Act and the Product
     </item>
     
     <item>
+      <title>Allyship - We need you to power up Diversity</title>
+      <link>https://eu.communityovercode.org/sessions/2024/allyship/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eu.communityovercode.org/sessions/2024/allyship/</guid>
+      <description>Open-source technologies play a significant role in driving technological advancements, fostering collaboration, and encouraging innovation. The Apache Software Foundation is a prominent nonprofit organization in this realm. Nevertheless, unlocking the full potential of these projects necessitates a commitment to embracing diversity and inclusion.
+Now, what can we do? The answer is Allyship. Allyship is crucial because it involves individuals actively supporting and advocating for marginalized groups.
+This presentation will focus on Allyship and how you can support a positive change, foster inclusivity, and contribute to a more equitable environment.</description>
+    </item>
+    
+    <item>
       <title>Anatomy of reading Apache Parquet files (from the Apache Impala perspective)</title>
       <link>https://eu.communityovercode.org/sessions/2024/anatomy-parquet-files/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -384,16 +395,6 @@ Europe leads that pack with the, now final, Cyber Resilience Act and the Product
       <guid>https://eu.communityovercode.org/sessions/2024/anatomy-parquet-files/</guid>
       <description>Reading file formats efficiently is a crucial part of big data systems - in selective scans data is often only big before hitting the first filter and becomes manageable during the rest of the processing. The talk describes this early stage of query execution in Apache Impala, from reading the bytes of Parquet files on the filesystem to applying predicates and runtime filters on individual rows.
 Apache Impala is a distributed massively parallel analytic query engine written in C++ and Java.</description>
-    </item>
-    
-    <item>
-      <title>Apache Arrow: An On-Point Addition to Any Lakehouse</title>
-      <link>https://eu.communityovercode.org/sessions/2024/apache-arrow-an-on-point-addition-to-any-lakehouse/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://eu.communityovercode.org/sessions/2024/apache-arrow-an-on-point-addition-to-any-lakehouse/</guid>
-      <description>Apache Arrow has become a de-facto standard for representing large datasets and a very useful tool in any modern data engineering stack. While it allows different technologies to better communicate and share data, the ecosystem around it enables much more!
-In this talk we’ll cover how Arrow interacts with Apache Spark - from allowing PySpark to interoperate with other Python data libraries, to building data-driven applications with the recent addition of Spark Connect.</description>
     </item>
     
     <item>
@@ -503,15 +504,6 @@ Participants will gain a deeper understanding of the challenges and opportunitie
       <guid>https://eu.communityovercode.org/sessions/2024/building-a-kubernetes-operator-for-apache-flink-in-java/</guid>
       <description>Managing complex applications such as data processing systems on Kubernetes is a formidable challenge even for the most seasoned engineers. Whether you want to build applications that operate themselves or provision infrastructure from Java code, Kubernetes Operators are the way to go.
 The Java Operator SDK is a production-ready framework that makes implementing Kubernetes Operators in Java easy. We will give you a run-down on the basics of operators and implementing one from scratch in Java and why this library may be the right choice for your project.</description>
-    </item>
-    
-    <item>
-      <title>Building Healthy Developer Communities: A Versatile Framework for Success</title>
-      <link>https://eu.communityovercode.org/sessions/2024/building-healthy-developer-communities-a-versatile-framework-for-success/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://eu.communityovercode.org/sessions/2024/building-healthy-developer-communities-a-versatile-framework-for-success/</guid>
-      <description>As developer communities grow both in size and number, it can be easy to lose sight of the importance of community health in the development process. Most tech communities guide their community efforts and future work based on NPS scores and feedback forms. Though well intended, these methods do not provide a full view of the current status of their community members or guarantee they are moving towards a direction that benefits their members or fulfills their needs.</description>
     </item>
     
     <item>
@@ -1123,16 +1115,6 @@ Data controller Although Community Over Code EU is a community initiative, the l
     </item>
     
     <item>
-      <title>Simplifying Data Processing with Apache Flink SQL</title>
-      <link>https://eu.communityovercode.org/sessions/2024/simplifying-data-processing-with-apache-flink-sql/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://eu.communityovercode.org/sessions/2024/simplifying-data-processing-with-apache-flink-sql/</guid>
-      <description>Apache Flink is a powerful open-source stream processing framework that supports unified batch and streaming processing. With its SQL support, Flink has become even more accessible to data analysts and developers who are familiar with SQL.
-In this talk, we will provide a short introduction to Apache Flink and explain how you can leverage SQL under the hood. We will cover some of the SQL-specific features of Flink, such as dynamic tables, streaming SQL and support for stateful operations like windowing and pattern recognition.</description>
-    </item>
-    
-    <item>
       <title>Solr Eclipse - Zomato&#39;s Journey to 64 Million Search Queries a Day</title>
       <link>https://eu.communityovercode.org/sessions/2024/solr-eclipse-zomato-s-journey-to-64-million-search-queries-a-day/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -1195,6 +1177,16 @@ how Accord improves on these to provide its industry leading characteristics.</d
       <guid>https://eu.communityovercode.org/sessions/2024/the-right-feature-at-the-right-place-the-example-of-authorization/</guid>
       <description>All mature tech stacks nowadays offer infrastructure-related capabilities, either a standard lib or in 3rd-party libraries, e.g., rate-limiting and authorization. While it&amp;rsquo;s great to have such features, it&amp;rsquo;s impossible to audit them easily. You&amp;rsquo;d need to be familiar with the stack and dive deep into the code. This approach just doesn&amp;rsquo;t scale,
 A well-designed system keeps the right feature at the right place. In this talk, I&amp;rsquo;ll go through all steps toward making your system more easily auditable.</description>
+    </item>
+    
+    <item>
+      <title>The Silent Symphony: Keeping Airflow&#39;s CI/CD and Dev Tools in Tune</title>
+      <link>https://eu.communityovercode.org/sessions/2024/the-silent-symphony/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eu.communityovercode.org/sessions/2024/the-silent-symphony/</guid>
+      <description>Apache Airflow relies on a silent symphony behind the scenes: its CI/CD (Continuous Integration/Continuous Delivery) and development tooling. This presentation explores the critical role these tools play in keeping Airflow efficient and innovative. We&amp;rsquo;ll delve into how robust CI/CD ensures bug fixes and improvements are seamlessly integrated, while well-maintained development tools empower developers to contribute effectively.
+Airflow&amp;rsquo;s power comes from a well-oiled machine – its CI/CD and development tools. This presentation dives into the world of these often-overlooked heroes.</description>
     </item>
     
     <item>
