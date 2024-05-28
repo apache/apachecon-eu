@@ -1,5 +1,5 @@
 ---
-title: "Preliminary schedule"
+title: "Schedule"
 
 images:
  - images/coc.jpg
