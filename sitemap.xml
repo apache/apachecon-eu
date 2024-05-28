@@ -499,8 +499,6 @@
   </url><url>
     <loc>https://eu.communityovercode.org/track/poster-session/</loc>
   </url><url>
-    <loc>https://eu.communityovercode.org/schedule/</loc>
-  </url><url>
     <loc>https://eu.communityovercode.org/sessions/2024/pretend-its-a-movie-how-to-build-excitement-for-your-apache-project/</loc>
   </url><url>
     <loc>https://eu.communityovercode.org/speakers/archive/</loc>
@@ -520,6 +518,8 @@
     <loc>https://eu.communityovercode.org/speakers/ritesh-shukla/</loc>
   </url><url>
     <loc>https://eu.communityovercode.org/speakers/ryan-skraba/</loc>
+  </url><url>
+    <loc>https://eu.communityovercode.org/schedule/</loc>
   </url><url>
     <loc>https://eu.communityovercode.org/sessions/2024/sdn-options-in-apache-cloudstack/</loc>
   </url><url>

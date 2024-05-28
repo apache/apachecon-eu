@@ -1058,15 +1058,6 @@ Despite its prolific adoption, there is an emerging trend toward eliminating the
     </item>
     
     <item>
-      <title>Preliminary schedule</title>
-      <link>https://eu.communityovercode.org/schedule/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://eu.communityovercode.org/schedule/</guid>
-      <description> </description>
-    </item>
-    
-    <item>
       <title>Pretend it’s a Movie: How to Build Excitement for Your Apache Project</title>
       <link>https://eu.communityovercode.org/sessions/2024/pretend-its-a-movie-how-to-build-excitement-for-your-apache-project/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -1103,6 +1094,15 @@ Data controller Although Community Over Code EU is a community initiative, the l
       
       <guid>https://eu.communityovercode.org/sessions/2024/recon-ozone-cluster-monitoring/</guid>
       <description>Ozone is a redundant, distributed object store optimized for Big data workloads. The primary design point of ozone is scalability, and it aims to scale to billions of objects. Recon provides monitoring and observability capability, which provides various insights about data in Ozone and cluster health. As part of this, will cover the various insights about data, cluster health monitoring and heat map capability, and various features which help in understanding and observing the data and Ozone.</description>
+    </item>
+    
+    <item>
+      <title>Schedule</title>
+      <link>https://eu.communityovercode.org/schedule/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eu.communityovercode.org/schedule/</guid>
+      <description> </description>
     </item>
     
     <item>
