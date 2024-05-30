@@ -3,7 +3,7 @@ title: "Apache Docs & Training: Empowering communities through accessible Docs &
 slug: apache-docs-training-empowering-communities-through-accessible-docs-training-material
 speakers:
  - Mirko Kämpf
- - Gláucia Esppenchutz
+ - glaucia-esppenchutz
 time_start: 2024-06-03 16:50:00
 time_end: 2024-06-03 17:20:00
 track: Incubator

@@ -1,7 +1,7 @@
 ---
 title: "Allyship - We need you to power up Diversity"
 speakers:
- - Glaucia Esppenchutz
+ - glaucia-esppenchutz
 time_start: 2024-06-03 15:20:00
 time_end: 2024-06-03 15:50:00
 track: Community
