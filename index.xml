@@ -507,6 +507,15 @@ The Java Operator SDK is a production-ready framework that makes implementing Ku
     </item>
     
     <item>
+      <title>Building an open source data strategy thanks to Apache projects with Dremio</title>
+      <link>https://eu.communityovercode.org/sessions/2024/open-source-data-strategy-dremio/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eu.communityovercode.org/sessions/2024/open-source-data-strategy-dremio/</guid>
+      <description>Open-source technology is fundamentally collaborative and transparent in nature, especially thanks to Apache projects and communities. It fosters innovation, flexibility, and community-driven development for more robust and accessible solutions. Learn how the Dremio Unified Analytics Platform can be a core part of your open source data strategy. We’ll review the role of open-source technologies in shaping modern data strategies and the benefits they offer. We’ll also learn how Dremio harnesses open-source tools, including its Apache Iceberg native data catalog that uses Project Nessie, and its foundational use Apache Arrow for in-memory analytics and Apache Arrow Flight for high-performance data transfer.</description>
+    </item>
+    
+    <item>
       <title>Cassandra CIDR filtering authorizer (CEP-33)</title>
       <link>https://eu.communityovercode.org/sessions/2024/cassandra-cidr-filtering-authorizer-cep-33/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
