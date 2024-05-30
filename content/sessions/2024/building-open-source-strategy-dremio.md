@@ -2,7 +2,7 @@
 title: "Building an open source data strategy thanks to Apache projects with Dremio"
 slug: open-source-data-strategy-dremio
 speakers:
- - JB Onofre
+ - JB Onofré
 time_start: 2024-06-04 14:00:00
 time_end: 2024-06-04 14:30:00
 track: Community
