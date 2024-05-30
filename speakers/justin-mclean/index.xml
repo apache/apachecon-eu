@@ -7,6 +7,15 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language><atom:link href="https://eu.communityovercode.org/speakers/justin-mclean/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Gravitino: A multi-regional, geo-distributed meta datalake</title>
+      <link>https://eu.communityovercode.org/sessions/2024/gravitino/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eu.communityovercode.org/sessions/2024/gravitino/</guid>
+      <description>Welcome to a presentation on Gravitino! Managing metadata can be complex and time-consuming, but Gravitino offers the ultimate solution. It provides a single source of truth for multi-regional data with geo-distributed architecture support. This allows you to store and manage your data in one place, accessible from anywhere globally. With unified data and AI asset management, you get centralized security and data access management, making data protection easier. Gravitino helps you focus more on your data by simplifying tasks and offering these benefits:</description>
+    </item>
+    
+    <item>
       <title>Inside the Apache Software Foundation Board</title>
       <link>https://eu.communityovercode.org/sessions/2024/inside-the-apache-software-foundation-board/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>

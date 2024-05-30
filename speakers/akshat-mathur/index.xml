@@ -6,18 +6,5 @@
     <description>Recent content in Akshat Mathur on Community Over Code Europe</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language><atom:link href="https://eu.communityovercode.org/speakers/akshat-mathur/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Unlocking Insights: Data Federation</title>
-      <link>https://eu.communityovercode.org/sessions/2024/unlocking-insights-data-federation/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://eu.communityovercode.org/sessions/2024/unlocking-insights-data-federation/</guid>
-      <description>With great data comes great responsibilities! Companies of every scale face issues of managing huge amounts of data spread across various platforms, databases, and applications.
-Data federation offers a solution to this problem by integrating and accessing data from various data sources without the need for complex ETL processes or data duplication.
-This session will delve into the following key aspects of data federation:
-Introduction to Data Federation:
-The problem today?</description>
-    </item>
-    
   </channel>
 </rss>

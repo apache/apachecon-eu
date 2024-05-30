@@ -767,6 +767,15 @@ A database access toolkit that uses ahead-of-time (AoT) compilation to pre-compu
     </item>
     
     <item>
+      <title>Gravitino: A multi-regional, geo-distributed meta datalake</title>
+      <link>https://eu.communityovercode.org/sessions/2024/gravitino/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eu.communityovercode.org/sessions/2024/gravitino/</guid>
+      <description>Welcome to a presentation on Gravitino! Managing metadata can be complex and time-consuming, but Gravitino offers the ultimate solution. It provides a single source of truth for multi-regional data with geo-distributed architecture support. This allows you to store and manage your data in one place, accessible from anywhere globally. With unified data and AI asset management, you get centralized security and data access management, making data protection easier. Gravitino helps you focus more on your data by simplifying tasks and offering these benefits:</description>
+    </item>
+    
+    <item>
       <title>Harnessing WebAssembly for Real-time Stateless Streaming Pipelines</title>
       <link>https://eu.communityovercode.org/sessions/2024/harnessing-webassembly-for-real-time-stateless-streaming-pipelines/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -1285,19 +1294,6 @@ This talk describes the key elements and tools of the Asynchronous Decision Maki
       <guid>https://eu.communityovercode.org/sessions/2024/unleashing-high-concurrency-real-time-iot-queries-with-apache-druid/</guid>
       <description>Apache Druid is a real-time analytics database built for speed and scale, capable of executing complex queries against billions of rows and getting sub-second answers. Druid thrives on highly concurrent workloads, making it ideal for applications like website clickstream analysis, network performance monitoring, or handling vast IoT metrics. By using pre-aggregated data, lightning-fast columnar storage, and parallel processing we can gain insights in real-time.
 In this talk, we will share techniques for improving query concurrency and achieving sub-second responses.</description>
-    </item>
-    
-    <item>
-      <title>Unlocking Insights: Data Federation</title>
-      <link>https://eu.communityovercode.org/sessions/2024/unlocking-insights-data-federation/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://eu.communityovercode.org/sessions/2024/unlocking-insights-data-federation/</guid>
-      <description>With great data comes great responsibilities! Companies of every scale face issues of managing huge amounts of data spread across various platforms, databases, and applications.
-Data federation offers a solution to this problem by integrating and accessing data from various data sources without the need for complex ETL processes or data duplication.
-This session will delve into the following key aspects of data federation:
-Introduction to Data Federation:
-The problem today?</description>
     </item>
     
     <item>
