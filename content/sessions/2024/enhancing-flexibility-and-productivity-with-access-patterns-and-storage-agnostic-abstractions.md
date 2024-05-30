@@ -3,8 +3,8 @@ title: "Enhancing Flexibility and Productivity with Access Patterns and Storage-
 slug: enhancing-flexibility-and-productivity-with-access-patterns-and-storage-agnostic-abstractions
 speakers:
  - Jan Lukavský
-time_start: 2024-06-04 14:00:00
-time_end: 2024-06-04 14:30:00
+time_start: 2024-06-04 12:30:00
+time_end: 2024-06-04 13:00:00
 track: Data Engineering
 day: 2
 timeslot: 7
