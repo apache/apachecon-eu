@@ -1,0 +1,25 @@
+
+<html>
+    <head>
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.4.1/dist/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+    </head>
+    <body>
+    <div class="container">
+        <div class="content mt-4">
+          <h2>{{ .Params.room }} Day {{ .Params.day }}</h2>
+        </div>
+    
+        <div>
+            <table>
+            {{ range sort (where (where (where $.Site.Pages "Section" "sessions") ".Params.day" .Params.day) ".Params.room" .Params.room) ".Params.time_start" }}
+            <tr>
+                <td valign="top">{{ (.Params.time_start | time).Format "15:04" }}-{{ (.Params.time_end | time).Format "15:04" }}</td>
+                <td>{{.Title}}<br><em>by {{ with .Params.speakers }}{{ delimit . ", " " & " }}{{ end }}</em></td>
+            </tr>
+            {{ end }}
+            </ul>
+        </div>
+    </div>    
+</body>
+</html>
+

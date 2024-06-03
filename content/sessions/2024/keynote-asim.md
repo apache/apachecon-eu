@@ -5,7 +5,7 @@ aliases:
  - keynote-asin
 speakers:
  - Asim Hussain
-time_start: 2024-06-04 9:50:00
+time_start: 2024-06-04 09:50:00
 time_end: 2024-06-04 10:25:00
 track: Keynote
 day: 2

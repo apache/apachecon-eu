@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="{{ with .Site.LanguageCode }}{{ . }}{{ else }}en-US{{ end }}">
+    <head>
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.4.1/dist/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+    </head>
+
+<body>
+
+<div class="container">
+    <div class="content mt-4">
+      {{ .Content }}
+    </div>
+
+    {{ range .Params.days }}
+      {{ $curr_day :=  .id }}
+      {{ $rooms :=  .rooms }}
+
+    <div id="dayblock-{{.id}}" class="dayblock my-5">
+        {{ range .timeslots }}
+            {{ $time_id := .id }}
+            {{ $time_label := .time_start | time }}
+            <div class="time-row">
+                {{ if eq .type "break" }}
+                    <div class="time-room">
+                        <div class="session-item">
+                            <div class="session-title text-center font-weight-normal">{{ .name }}</div>
+                        </div>                        
+                    </div>
+                    <hr style="border-bottom: solid 1px #404040;">
+
+                {{ else }}   
+                {{ range $rooms }}
+                    <div class="time-room room-{{.}}">
+                        {{ range sort (where (where (where (where $.Site.Pages "Section" "sessions") ".Params.day" $curr_day ) ".Params.timeslot" $time_id) ".Params.room" . ) ".Params.timeorder" }}
+                        <div class="my-2">
+                            <p class="my-1" style="color: #ff6600">{{ with .Params.time_start | time }}{{ .Format "15:04" }}{{ end }}{{ with .Params.time_end | time }} - {{ .Format "15:04" }}{{ end }}.</p>
+                            <h3>{{ .Title }}</h3>
+                            <table>
+                                {{ range .Params.speakers }}                                
+                                    {{ $speaker_url := print "/speakers/" . | urlize }}
+                                      {{ with $.Site.GetPage $speaker_url }}
+                                        <tr>
+                                            <td style="padding-right: 1em" width="180">{{ with .Params.images}}
+                                                {{ $img := resources.Get (index . 0) }}
+                                                {{ with $img }}
+                                                  {{ $imgp := $img.Resize "400x webp" }}
+                                                  <img src="{{$imgp.RelPermalink }}" alt="Photo of {{.Title}}" class="img-fluid rounded-circle">
+                                                {{ end }}  
+                                  
+                                                {{ end }}
+                                            </td>
+                                            <td>
+                                                <h4>{{ .Title }}</h4>
+                                                {{ with .Params.designation }}{{ . }}{{ end }}
+                                            </td>
+                                        </tr>
+                                      {{ end }}
+                                {{ end }}
+                            </table> 
+                        </div>
+                        <hr style="border-bottom: solid 1px #404040;">
+                        {{ end }}
+                    </div>
+
+                {{ end }}
+                {{ end }}
+            </div>
+            
+        {{ end }}
+    </div>
+    {{ end }}
+
+</div>
+</body>
+</html>

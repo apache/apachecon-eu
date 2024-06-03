@@ -5,7 +5,6 @@ speakers:
  - Ruth Ikegah
 time_start: 2024-06-04 09:20:00
 time_end: 2024-06-04 09:50:00
-room: 
 track: Keynote
 day: 2
 timeslot: 2

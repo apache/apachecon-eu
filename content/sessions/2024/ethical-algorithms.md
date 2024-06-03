@@ -3,8 +3,8 @@ title: "Ethical Algorithms, Licensing Impasses: The Intersection of Free Softwar
 slug: ethical-algorithms
 speakers:
  - Niharika Singhal
-time_start: 2024-06-05 11:50:00
-time_end: 2024-06-05 12:20:00
+time_start: 2024-06-03 11:50:00
+time_end: 2024-06-03 12:20:00
 track: Community
 day: 1
 timeslot: 6
