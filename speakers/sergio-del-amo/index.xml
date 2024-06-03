@@ -8,10 +8,10 @@
     <language>en</language><atom:link href="https://eu.communityovercode.org/speakers/sergio-del-amo/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Getting Started with the Micronaut® Framework</title>
-      <link>https://eu.communityovercode.org/sessions/2024/getting-started-with-the-micronaut-r-framework/</link>
+      <link>https://eu.communityovercode.org/sessions/2024/getting-started-with-the-micronaut-framework/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://eu.communityovercode.org/sessions/2024/getting-started-with-the-micronaut-r-framework/</guid>
+      <guid>https://eu.communityovercode.org/sessions/2024/getting-started-with-the-micronaut-framework/</guid>
       <description>In this session, Sergio del Amo introduces the Micronaut® framework and demonstrates how the Framework&amp;rsquo;s unique compile-time approach enables the development of ultra-lightweight Java applications.
 Compelling aspects of the Micronaut framework include:
 Develop applications with Java, Kotlin, or Apache Groovy
