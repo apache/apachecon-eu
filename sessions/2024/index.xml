@@ -78,16 +78,6 @@ The challenge here was to lift the countless proprietary implementations to a sy
     </item>
     
     <item>
-      <title>Apache Docs &amp; Training: Empowering communities through accessible Docs &amp; training material</title>
-      <link>https://eu.communityovercode.org/sessions/2024/apache-docs-training-empowering-communities-through-accessible-docs-training-material/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://eu.communityovercode.org/sessions/2024/apache-docs-training-empowering-communities-through-accessible-docs-training-material/</guid>
-      <description>In the ever-evolving landscape of open source projects, the Apache Software Foundation (ASF) stands at the forefront of innovation and community-driven development. Two of its young projects, Apache Training and Apache Wayang, are working on an exciting journey of expansion and inclusivity.
-This session is dedicated to showcasing how these projects are opening their doors to a broader audience, including non-technical individuals, thereby fostering a more diverse and robust community, which helps the ASF to continue in solving some of the world’s tech problems by bringing people together.</description>
-    </item>
-    
-    <item>
       <title>Apache Iceberg Planning Explained</title>
       <link>https://eu.communityovercode.org/sessions/2024/apache-iceberg-planning-explained/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -124,6 +114,16 @@ Ratis implements all the standard Raft features, including leader election, log 
       
       <guid>https://eu.communityovercode.org/sessions/2024/apache-sis-library-for-geospatial-applications/</guid>
       <description>Geospatial data are ubiquitous, but the difficulty of handling them accurately is often under-estimated. Various projects implement their own routines for performing geospatial operations, but not always with awareness about the pitfalls of simple approaches. This talk will present some of the difficulties in mapping &amp;ldquo;real world&amp;rdquo; to digital data. Then we will present some international standards published jointly by the Open Geospatial Consortium (OGC) and the International Organization for Standardization (ISO).</description>
+    </item>
+    
+    <item>
+      <title>Apache Wayang &amp; Training: Empowering communities through accessible Docs &amp; training material</title>
+      <link>https://eu.communityovercode.org/sessions/2024/empowering-communities-docs-training/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eu.communityovercode.org/sessions/2024/empowering-communities-docs-training/</guid>
+      <description>In the ever-evolving landscape of open source projects, the Apache Software Foundation (ASF) stands at the forefront of innovation and community-driven development. Two of its young projects, Apache Training and Apache Wayang, are working on an exciting journey of expansion and inclusivity.
+This session is dedicated to showcasing how these projects are opening their doors to a broader audience, including non-technical individuals, thereby fostering a more diverse and robust community, which helps the ASF to continue in solving some of the world’s tech problems by bringing people together.</description>
     </item>
     
     <item>
@@ -782,6 +782,15 @@ In 2023 three minor releases, namely 1.1, 1.2 and 1.3 have been released but alt
       <guid>https://eu.communityovercode.org/sessions/2024/state-of-the-civet/</guid>
       <description>An update on what&amp;rsquo;s happened inside the Apache PLC4X over the last year. What we have achieved and what we are planning on doing for the near and not-so-near future.
 From new protocols, updated APIs, new languages, GUI applications right up to even more supported languages and fully generated driver implementations.</description>
+    </item>
+    
+    <item>
+      <title>State of the Foundation</title>
+      <link>https://eu.communityovercode.org/sessions/2024/keynote-state/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eu.communityovercode.org/sessions/2024/keynote-state/</guid>
+      <description></description>
     </item>
     
     <item>

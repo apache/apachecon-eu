@@ -182,8 +182,6 @@
   </url><url>
     <loc>https://eu.communityovercode.org/sessions/2024/apache-camel-takes-charge-of-over-1000-interfaces-in-a-seamless-transition-from-oracle-soa-suite/</loc>
   </url><url>
-    <loc>https://eu.communityovercode.org/sessions/2024/apache-docs-training-empowering-communities-through-accessible-docs-training-material/</loc>
-  </url><url>
     <loc>https://eu.communityovercode.org/sessions/2024/apache-iceberg-planning-explained/</loc>
   </url><url>
     <loc>https://eu.communityovercode.org/sessions/2024/apache-mynewt-connected-rtos-project-overview/</loc>
@@ -191,6 +189,8 @@
     <loc>https://eu.communityovercode.org/sessions/2024/apache-ratis-a-high-performance-raft-library/</loc>
   </url><url>
     <loc>https://eu.communityovercode.org/sessions/2024/apache-sis-library-for-geospatial-applications/</loc>
+  </url><url>
+    <loc>https://eu.communityovercode.org/sessions/2024/empowering-communities-docs-training/</loc>
   </url><url>
     <loc>https://eu.communityovercode.org/speakers/aparna-sundar/</loc>
   </url><url>
@@ -269,6 +269,8 @@
     <loc>https://eu.communityovercode.org/speakers/david-higgins/</loc>
   </url><url>
     <loc>https://eu.communityovercode.org/speakers/david-kjerrumgaard/</loc>
+  </url><url>
+    <loc>https://eu.communityovercode.org/speakers/david-nalley/</loc>
   </url><url>
     <loc>https://eu.communityovercode.org/sessions/2024/deciphering-cassandras-prophecy-preventing-the-fall-of-your-application/</loc>
   </url><url>
@@ -388,6 +390,16 @@
   </url><url>
     <loc>https://eu.communityovercode.org/speakers/julian-feinauer/</loc>
   </url><url>
+    <loc>https://eu.communityovercode.org/schedule/1-melody/</loc>
+  </url><url>
+    <loc>https://eu.communityovercode.org/schedule/1-mirror/</loc>
+  </url><url>
+    <loc>https://eu.communityovercode.org/schedule/1-rhapsody/</loc>
+  </url><url>
+    <loc>https://eu.communityovercode.org/schedule/1-symphony/</loc>
+  </url><url>
+    <loc>https://eu.communityovercode.org/schedule/2-melody/</loc>
+  </url><url>
     <loc>https://eu.communityovercode.org/speakers/justin-mclean/</loc>
   </url><url>
     <loc>https://eu.communityovercode.org/speakers/kanchana-welagedara/</loc>
@@ -430,6 +442,8 @@
   </url><url>
     <loc>https://eu.communityovercode.org/sessions/2024/redhat/</loc>
   </url><url>
+    <loc>https://eu.communityovercode.org/schedule/list-melody2/</loc>
+  </url><url>
     <loc>https://eu.communityovercode.org/sessions/2024/mentorship-programs-growing-new-team-and-community-leaders/</loc>
   </url><url>
     <loc>https://eu.communityovercode.org/speakers/michael-rambichler/</loc>
@@ -445,6 +459,14 @@
     <loc>https://eu.communityovercode.org/sessions/2024/modern-data-orchestrators/</loc>
   </url><url>
     <loc>https://eu.communityovercode.org/sessions/2024/modernize-apis-to-run-serverless-using-apache-cxf/</loc>
+  </url><url>
+    <loc>https://eu.communityovercode.org/schedule/list-melody1/</loc>
+  </url><url>
+    <loc>https://eu.communityovercode.org/schedule/list-mirror1/</loc>
+  </url><url>
+    <loc>https://eu.communityovercode.org/schedule/list-rhapsody1/</loc>
+  </url><url>
+    <loc>https://eu.communityovercode.org/schedule/list-symphony1/</loc>
   </url><url>
     <loc>https://eu.communityovercode.org/sessions/2024/moving-apache-cassandra-command-execution-and-monitoring-from-jmx-to-cql-a-developer-s-overview/</loc>
   </url><url>
@@ -549,6 +571,8 @@
     <loc>https://eu.communityovercode.org/sessions/2024/state-of-apache-iotdb/</loc>
   </url><url>
     <loc>https://eu.communityovercode.org/sessions/2024/state-of-the-civet/</loc>
+  </url><url>
+    <loc>https://eu.communityovercode.org/sessions/2024/keynote-state/</loc>
   </url><url>
     <loc>https://eu.communityovercode.org/speakers/stefan-vodita/</loc>
   </url><url>
