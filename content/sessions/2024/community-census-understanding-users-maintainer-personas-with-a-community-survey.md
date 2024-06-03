@@ -3,8 +3,8 @@ title: "Community census: Understanding users & maintainer personas with a commu
 slug: community-census-understanding-users-maintainer-personas-with-a-community-survey
 speakers:
  - Niklas Merz
-time_start: 2024-06-05 16:10:00
-time_end: 2024-06-05 16:40:00
+time_start: 2024-06-05 16:00:00
+time_end: 2024-06-05 16:30:00
 track: Community
 day: 3
 timeslot: 13

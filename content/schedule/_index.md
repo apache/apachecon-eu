@@ -210,13 +210,13 @@ days:
         time_start: 2024-06-05T15:20:00+01:00
         type: concurrent
       - id: 13
-        time_start: 2024-06-05T16:10:00+01:00
+        time_start: 2024-06-05T16:00:00+01:00
         type: concurrent
       - id: 14
-        time_start: 2024-06-05T16:50:00+01:00
+        time_start: 2024-06-05T16:45:00+01:00
         time_end: 2024-06-05T17:20:00+01:00
         type: break
-        name: Lightning Talks
+        name: Lightning Talks & Wrap-up
 
 
 summary: "Welcome to the session program for Airflow Summit."

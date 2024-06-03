@@ -3,8 +3,8 @@ title: "Understanding stream table duality using Kafka, Flink SQL and Debezium f
 slug: understanding-stream-table-duality-using-kafka-flink-sql-and-debezium-format
 speakers:
  - Muhammet Orazov
-time_start: 2024-06-05 16:10:00
-time_end: 2024-06-05 16:40:00
+time_start: 2024-06-05 16:00:00
+time_end: 2024-06-05 16:30:00
 track: Big Data Compute
 day: 3
 timeslot: 13
