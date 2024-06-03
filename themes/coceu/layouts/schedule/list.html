@@ -49,7 +49,7 @@
                             <div class="collapse card-abstract" id="abs-{{.Params.slug}}">
                                 <div class="my-2 session-abstract">{{ .Summary }}</div>                                
                               </div>
-                            <div class="pb-3"><a href="{{.Permalink}}" class="read-more">Full details</a></div>  
+                            <div class="pb-3"><a href="{{.RelPermalink |}}" class="read-more">Full details</a></div>  
                             <div id="live-{{ .Params.slot }}" class="live-button text-center d-none"><a class="btn btn-danger btn-sm" href="{{ .Params.live_url }}" target="_blank">Watch</a></div>
                         </div>
                         {{ end }}
