@@ -3,8 +3,8 @@ title: "From Local Roots to Global Impact: Building an Inclusive Open Source Com
 slug: keynote-ruth
 speakers:
  - Ruth Ikegah
-time_start: 2024-06-04 09:20:00
-time_end: 2024-06-04 09:50:00
+time_start: 2024-06-04 09:15:00
+time_end: 2024-06-04 09:45:00
 track: Keynote
 day: 2
 timeslot: 2

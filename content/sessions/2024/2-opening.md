@@ -6,7 +6,7 @@ speakers:
 time_start: 2024-06-04 9:00:00
 time_end: 2024-06-04 9:15:00
 track: Keynote
-day: 1
+day: 2
 timeslot: 1
 room: Melody
 
