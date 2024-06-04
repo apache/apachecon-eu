@@ -98,10 +98,10 @@ days:
         time_start: 2023-06-04T09:00:00+01:00
         type: keynote
       - id: 2
-        time_start: 2023-06-04T09:20:00+01:00
+        time_start: 2023-06-04T09:15:00+01:00
         type: keynote
       - id: 3
-        time_start: 2023-06-04T09:55:00+01:00
+        time_start: 2023-06-04T09:50:00+01:00
         type: keynote
       - id: 4
         time_start: 2024-06-04T10:25:00+01:00
