@@ -1057,12 +1057,12 @@ In my session I would like to rely on the Extension Pack for Apache Camel which 
     </item>
     
     <item>
-      <title>Melody 2</title>
-      <link>https://eu.communityovercode.org/schedule/list-mirror2/</link>
+      <title>Melody 3</title>
+      <link>https://eu.communityovercode.org/schedule/list-melody3/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://eu.communityovercode.org/schedule/list-mirror2/</guid>
-      <description>Day 2 - Melody </description>
+      <guid>https://eu.communityovercode.org/schedule/list-melody3/</guid>
+      <description>Day 3 - Melody </description>
     </item>
     
     <item>
@@ -1073,6 +1073,24 @@ In my session I would like to rely on the Extension Pack for Apache Camel which 
       <guid>https://eu.communityovercode.org/sessions/2024/mentorship-programs-growing-new-team-and-community-leaders/</guid>
       <description>Mentorship and outreach programs are often considered as side projects. Although they are a nice way to spend time and have some fun, one may say they rarely add new long-term contributors to your company project or a community. Is it true? Is it even the main goal? Or is it about team bonding and growing new maintainers and community leaders?
 Let’s talk about organizing mentorship programs so that they help to grow your current community and contributors.</description>
+    </item>
+    
+    <item>
+      <title>Mirror 3</title>
+      <link>https://eu.communityovercode.org/schedule/list-mirror3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eu.communityovercode.org/schedule/list-mirror3/</guid>
+      <description>Day 3 - Mirror Lounge </description>
+    </item>
+    
+    <item>
+      <title>Mirror Lounge 2</title>
+      <link>https://eu.communityovercode.org/schedule/list-mirror2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eu.communityovercode.org/schedule/list-mirror2/</guid>
+      <description>Day 2 - Mirror Lounge </description>
     </item>
     
     <item>
@@ -1286,6 +1304,24 @@ Data controller Although Community Over Code EU is a community initiative, the l
     </item>
     
     <item>
+      <title>Rhapsody 2</title>
+      <link>https://eu.communityovercode.org/schedule/list-rhapsody2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eu.communityovercode.org/schedule/list-rhapsody2/</guid>
+      <description>Day 2 - Rhapsody </description>
+    </item>
+    
+    <item>
+      <title>Rhapsody 3</title>
+      <link>https://eu.communityovercode.org/schedule/list-rhapsody3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eu.communityovercode.org/schedule/list-rhapsody3/</guid>
+      <description>Day 3 - Rhapsody </description>
+    </item>
+    
+    <item>
       <title>Schedule</title>
       <link>https://eu.communityovercode.org/schedule/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -1341,6 +1377,15 @@ From new protocols, updated APIs, new languages, GUI applications right up to ev
       
       <guid>https://eu.communityovercode.org/sessions/2024/keynote-state/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Symphony 3</title>
+      <link>https://eu.communityovercode.org/schedule/list-symphony3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eu.communityovercode.org/schedule/list-symphony3/</guid>
+      <description>Day 3 - Symphony </description>
     </item>
     
     <item>
@@ -1443,6 +1488,15 @@ This session will look at the changes in Jakarta EE 11 for the specifications th
       <guid>https://eu.communityovercode.org/sessions/2024/transitioning-from-vmware-to-apache-cloudstack-a-path-to-profitability-and-competitiveness/</guid>
       <description>In this session, we will explore the potential of migrating from VMware to Apache CloudStack with KVM. VMware vSphere is a robust cloud infrastructure and management solution that combines vSphere and vRealize Suite, providing automation and operations capabilities for traditional and modern infrastructure and apps. However, the transition to Apache CloudStack can offer enhanced profitability and competitiveness.
 We will delve into the benefits of Apache CloudStack, including its cost-effectiveness and open-source nature, and discuss how a gradual migration from VMware vCloud can reduce ownership costs, increase profitability, and enhance competitiveness.</description>
+    </item>
+    
+    <item>
+      <title>Tuesday Symphony</title>
+      <link>https://eu.communityovercode.org/schedule/list-symphony2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eu.communityovercode.org/schedule/list-symphony2/</guid>
+      <description>Day 2 - Symphony </description>
     </item>
     
     <item>

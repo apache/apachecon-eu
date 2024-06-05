@@ -125,12 +125,30 @@
     </item>
     
     <item>
-      <title>Melody 2</title>
+      <title>Melody 3</title>
+      <link>https://eu.communityovercode.org/schedule/list-melody3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eu.communityovercode.org/schedule/list-melody3/</guid>
+      <description>Day 3 - Melody </description>
+    </item>
+    
+    <item>
+      <title>Mirror 3</title>
+      <link>https://eu.communityovercode.org/schedule/list-mirror3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eu.communityovercode.org/schedule/list-mirror3/</guid>
+      <description>Day 3 - Mirror Lounge </description>
+    </item>
+    
+    <item>
+      <title>Mirror Lounge 2</title>
       <link>https://eu.communityovercode.org/schedule/list-mirror2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://eu.communityovercode.org/schedule/list-mirror2/</guid>
-      <description>Day 2 - Melody </description>
+      <description>Day 2 - Mirror Lounge </description>
     </item>
     
     <item>
@@ -167,6 +185,42 @@
       
       <guid>https://eu.communityovercode.org/schedule/list-symphony1/</guid>
       <description>Day 1 - Symphony </description>
+    </item>
+    
+    <item>
+      <title>Rhapsody 2</title>
+      <link>https://eu.communityovercode.org/schedule/list-rhapsody2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eu.communityovercode.org/schedule/list-rhapsody2/</guid>
+      <description>Day 2 - Rhapsody </description>
+    </item>
+    
+    <item>
+      <title>Rhapsody 3</title>
+      <link>https://eu.communityovercode.org/schedule/list-rhapsody3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eu.communityovercode.org/schedule/list-rhapsody3/</guid>
+      <description>Day 3 - Rhapsody </description>
+    </item>
+    
+    <item>
+      <title>Symphony 3</title>
+      <link>https://eu.communityovercode.org/schedule/list-symphony3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eu.communityovercode.org/schedule/list-symphony3/</guid>
+      <description>Day 3 - Symphony </description>
+    </item>
+    
+    <item>
+      <title>Tuesday Symphony</title>
+      <link>https://eu.communityovercode.org/schedule/list-symphony2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eu.communityovercode.org/schedule/list-symphony2/</guid>
+      <description>Day 2 - Symphony </description>
     </item>
     
   </channel>
