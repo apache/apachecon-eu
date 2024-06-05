@@ -9,6 +9,7 @@ track: Community
 day: 3
 timeslot: 7
 room: Melody
+draft: true
 ---
 
 Open source has widely grown to allow different tech career paths to enhance projects with their skills and provide jobs for those interested in working with open source. Open source contribution programs provide opportunities for interested individuals to become professionals.
