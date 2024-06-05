@@ -1,12 +1,12 @@
 ---
-title: "Mirror Lounge 2"
+title: "Tuesday Symphony"
 layout: list-room
 
 days: 
   - id: 2
     title_short: Tuesday
     title_full: Tuesday June 4, 2024
-    rooms: ["Mirror Lounge"]
+    rooms: ["Symphony"]
     timeslots: 
       - id: 4
         time_start: 2024-06-04T10:25:00+01:00
@@ -68,4 +68,4 @@ days:
 
 ---
 
-## Day 2 - Mirror Lounge
+## Day 2 - Symphony
