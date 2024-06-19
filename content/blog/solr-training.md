@@ -4,7 +4,7 @@ date: 2024-05-15T10:00:00
 description: "This training is intended for Apache Lucene/Solr developers who want to know all the latest news and features related to Artificial Intelligence."
 summary: "This training is intended for Apache Lucene/Solr developers who want to know all the latest news and features related to Artificial Intelligence."
 # post thumb
-images: ["images/blog/solr-training.webp"]
+images: ["images/blog/solr-training.jpg"]
 # author
 author: "Community Over Code EU Team"
 ---
