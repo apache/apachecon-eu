@@ -152,8 +152,8 @@ days:
         name: Lightning Talks & Wrap-up
 
 
-summary: "Welcome to the session program for Airflow Summit."
-description: "Welcome to the session program for Airflow Summit."
+summary: "Welcome to the session program for Community Over Code EU 2024."
+description: "Welcome to the session program for Community Over Code EU 2024."
 ---
 
 <h4 class="mb-4">Welcome to the session program for Community Over Code EU 2024. </h4>
